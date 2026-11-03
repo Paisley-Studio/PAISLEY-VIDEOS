@@ -1,0 +1,131 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "intro",
+      "name": "Title + recap",
+      "lead": 2.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "i1", "text": "Welcome back. Our HTML has created the pieces." },
+        { "id": "i2", "text": "Now we need to decide what those pieces look like.", "gap": 0.4 },
+        { "id": "i3", "text": "Same HTML. Same pieces. The only difference between these two... is CSS.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "rule",
+      "name": "How a CSS rule works",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "r1", "text": "Every CSS rule has two parts." },
+        { "id": "r2", "text": "First, who you're styling. That's the selector.", "gap": 0.5 },
+        { "id": "r3", "text": "Then, what you're changing, inside the curly brackets. A property, and a value.", "gap": 0.5 },
+        { "id": "r4", "text": "The hash symbol means id. So hash player means, the thing with the id player.", "gap": 0.7 },
+        { "id": "r5", "text": "And a dot means class. So dot cloud means, every cloud.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "colours",
+      "name": "Colours as variables",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "v1", "text": "First, we pick our colours, and give them names. These are called variables." },
+        { "id": "v2", "text": "Later, we'll use these names, instead of typing colour codes again and again.", "gap": 0.6 },
+        { "id": "v3", "text": "Want a purple dinosaur? Change one line.", "gap": 0.6 },
+        { "id": "v4", "text": "This is our design system. Decisions we make once, and use everywhere.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "page",
+      "name": "Page, container, score",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "g1", "text": "Now the page. We center everything, and switch on our Quicksand font." },
+        { "id": "g2", "text": "max width stops the game getting too wide on big screens.", "gap": 0.6 },
+        { "id": "g3", "text": "And the score gets bold.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "The world + ground",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "w1", "text": "Now the world appears. Three hundred pixels tall. Sky blue. A border, and rounded corners." },
+        { "id": "w2", "text": "border radius rounds the corners. Small number, slightly round. Big number, very round.", "gap": 0.8 },
+        { "id": "w3", "text": "Change the background, and you change the whole environment. Daytime. Sunset. Night.", "gap": 0.8 },
+        { "id": "w4", "text": "position relative turns the game area into a map. Anything inside it can be placed exactly.", "gap": 0.8 },
+        { "id": "w5", "text": "Then the ground. Forty pixels tall, stuck to the bottom. Those stripes will help us see it move later.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "player",
+      "name": "The player",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "p1", "text": "And here's our player." },
+        { "id": "p2", "text": "Position absolute. Sixty pixels from the left. Fifty from the bottom. Forty four wide. Fifty two tall. Orange.", "gap": 0.4 },
+        { "id": "p3", "text": "Change the width, and the object changes size.", "gap": 0.8 },
+        { "id": "p4", "text": "Change the position, and the object moves.", "gap": 1.0 },
+        { "id": "p5", "text": "Hold on to that idea. In video four, JavaScript will change the bottom value sixty times a second. And that's how jumping works.", "gap": 1.0 },
+        { "id": "p6", "text": "Before and after let us add extra shapes, without new HTML. One is the eye. The other is a leg.", "gap": 0.8 },
+        { "id": "p7", "text": "And a crashed style. When the dino has a class called crashed, it turns red.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "obstacle",
+      "name": "The obstacle",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "b1", "text": "Same idea for the cactus. A rounded green rectangle. Plus two arms." },
+        { "id": "b2", "text": "Your paper design might have a rock, a puddle, or a fence. You now know enough to build it.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "clouds",
+      "name": "Clouds + animation",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "k1", "text": "Now the clouds. Keyframes describe an animation. From here, to there." },
+        { "id": "k2", "text": "We tell each cloud to drift across the sky, forever.", "gap": 0.5 },
+        { "id": "k3", "text": "So CSS can animate things. But notice. The clouds don't care what you do. They can't react to a key press.", "gap": 1.0 },
+        { "id": "k4", "text": "That's behaviour. And behaviour needs JavaScript.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "bug",
+      "name": "Messages, button + a real bug",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "d1", "text": "Next, the messages and the button. Our button gets a pill shape, and a little lift when you hover." },
+        { "id": "d2", "text": "Now let's hide the Game Over box. Display, none.", "gap": 0.8 },
+        { "id": "d3", "text": "Wait. It's still showing. Why?", "gap": 0.9 },
+        { "id": "d4", "text": "Two rules are fighting over display. CSS has a rule for this. An id is more specific than a class, so the id wins.", "gap": 0.8 },
+        { "id": "d5", "text": "This is debugging. Something doesn't do what we expected, so we look at why.", "gap": 0.6 },
+        { "id": "d6", "text": "Important tells CSS, this one wins. And the Game Over box disappears.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Before / after + preview",
+      "lead": 0.5,
+      "tail": 4.5,
+      "lines": [
+        { "id": "o1", "text": "Look at that. Plain structure, to a styled game." },
+        { "id": "o2", "text": "But press Space...", "gap": 0.6 },
+        { "id": "o3", "text": "Nothing. CSS controls the appearance. But our game still doesn't have its real behaviour.", "gap": 1.2 },
+        { "id": "o4", "text": "It's like a beautiful car, with no engine.", "gap": 0.5 },
+        { "id": "o5", "text": "Your challenge. Change the colours to match your paper design.", "gap": 0.8 },
+        { "id": "o6", "text": "Next time, we build the engine. JavaScript.", "gap": 0.8 }
+      ]
+    }
+  ]
+}

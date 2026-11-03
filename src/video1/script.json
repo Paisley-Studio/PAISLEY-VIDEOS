@@ -1,0 +1,200 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "coldOpen",
+      "name": "Cold open - the finished game",
+      "minDuration": 19.5,
+      "lines": []
+    },
+    {
+      "id": "question",
+      "name": "The question",
+      "lead": 0.6,
+      "tail": 1.4,
+      "lines": [
+        { "id": "q1", "text": "You just saw a game." },
+        { "id": "q2", "text": "But here's the interesting question...", "gap": 0.5 },
+        { "id": "q3", "text": "How do you actually make something like this?", "gap": 0.3 },
+        { "id": "q4", "text": "Do you open your computer, and immediately start writing code?", "gap": 1.2 },
+        { "id": "q5", "text": "No.", "gap": 0.7 },
+        { "id": "q6", "text": "You start by thinking.", "gap": 1.3 }
+      ]
+    },
+    {
+      "id": "breakdown",
+      "name": "See the end first",
+      "lead": 0.6,
+      "tail": 1.2,
+      "lines": [
+        { "id": "b1", "text": "Good creators start by understanding the thing they're going to build." },
+        { "id": "b2", "text": "A finished product can look complicated.", "gap": 0.5 },
+        { "id": "b3", "text": "But creators learn to break complicated things into smaller pieces.", "gap": 0.4 },
+        { "id": "b4", "text": "The player. The world. Obstacles. Controls. The score. The rules. Game over. And restart.", "gap": 0.5 },
+        { "id": "b5", "text": "Eight pieces. That's all this game really is.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "paper",
+      "name": "Plan before you build",
+      "lead": 0.8,
+      "tail": 1.0,
+      "lines": [
+        { "id": "p1", "text": "Now, let's step away from the computer completely." },
+        { "id": "p2", "text": "Before we build it digitally, we're going to design it on paper.", "gap": 0.5 },
+        { "id": "p3", "text": "Here's the game area. The ground. Our dinosaur. An obstacle. And the score.", "gap": 0.6 },
+        { "id": "p4", "text": "Then we add what things do. The dinosaur jumps. The obstacle moves toward the player. The score goes up while you survive. And if they collide... game over.", "gap": 0.6 },
+        { "id": "p5", "text": "Plus a button, so the player can restart.", "gap": 0.4 },
+        { "id": "p6", "text": "It doesn't have to be beautiful. Look at this dinosaur. It's basically a potato with legs.", "gap": 0.8 },
+        { "id": "p7", "text": "That's fine. The point isn't art. The point is to make the idea visible.", "gap": 0.5 },
+        { "id": "p8", "text": "When you put your idea on paper, you can see it.", "gap": 0.7 },
+        { "id": "p9", "text": "You can change it.", "gap": 0.4 },
+        { "id": "p10", "text": "You can spot what's missing.", "gap": 1.0 },
+        { "id": "p11", "text": "And you can explain it to somebody else.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "principle",
+      "name": "The big principle",
+      "lead": 0.6,
+      "tail": 1.6,
+      "lines": [
+        { "id": "st1", "text": "This is how all your development and product building should start." },
+        { "id": "st2", "text": "Don't start by building.", "gap": 0.7 },
+        { "id": "st3", "text": "Start by understanding what you're building.", "gap": 0.3 },
+        { "id": "st4", "text": "Websites. Apps. Games. Businesses. Creative projects. They all start right here.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "questions",
+      "name": "Ask questions about the product",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "qa0", "text": "Now let's ask our design some questions." },
+        { "id": "qa1q", "text": "What are we making?", "gap": 0.5 },
+        { "id": "qa1a", "text": "A Dino Runner game.", "gap": 0.5 },
+        { "id": "qa2q", "text": "Who is using it?", "gap": 0.6 },
+        { "id": "qa2a", "text": "The player.", "gap": 0.5 },
+        { "id": "qa3q", "text": "What can the player do?", "gap": 0.6 },
+        { "id": "qa3a", "text": "Jump, and avoid obstacles.", "gap": 0.5 },
+        { "id": "qa4q", "text": "What happens in the game?", "gap": 0.6 },
+        { "id": "qa4a", "text": "Obstacles move toward the player.", "gap": 0.5 },
+        { "id": "qa5q", "text": "How does the player know they're doing well?", "gap": 0.6 },
+        { "id": "qa5a", "text": "The score goes up.", "gap": 0.5 },
+        { "id": "qa6q", "text": "What happens when the dinosaur hits an obstacle?", "gap": 0.6 },
+        { "id": "qa6a", "text": "Game over.", "gap": 0.5 },
+        { "id": "qa7q", "text": "And what happens next?", "gap": 0.6 },
+        { "id": "qa7a", "text": "The player can restart.", "gap": 0.5 },
+        { "id": "qx1", "text": "These questions come before the code.", "gap": 0.9 },
+        { "id": "qx2", "text": "If you can't answer them, you're not ready to build yet. And that's okay. It just means you keep thinking.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "blocks",
+      "name": "Building blocks",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "bb1", "text": "Every product can be split into three simple questions." },
+        { "id": "bb2", "text": "What exists?", "gap": 0.5 },
+        { "id": "bb3", "text": "What does it look like?", "gap": 1.4 },
+        { "id": "bb4", "text": "And what does it do?", "gap": 1.4 },
+        { "id": "bb5", "text": "On the web, each question has its own language.", "gap": 1.4 },
+        { "id": "bb6", "text": "HTML creates the things that exist.", "gap": 0.6 },
+        { "id": "bb7", "text": "CSS decides what they look like.", "gap": 0.6 },
+        { "id": "bb8", "text": "And JavaScript decides what they do.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "house",
+      "name": "The house analogy",
+      "lead": 0.5,
+      "tail": 1.2,
+      "lines": [
+        { "id": "h1", "text": "Think of a house." },
+        { "id": "h2", "text": "HTML is the walls.", "gap": 0.6 },
+        { "id": "h3", "text": "CSS is the paint, and the furniture.", "gap": 1.0 },
+        { "id": "h4", "text": "JavaScript is the electricity. It makes things happen.", "gap": 1.0 },
+        { "id": "h5", "text": "You don't need any code yet. Just remember the three jobs.", "gap": 1.2 }
+      ]
+    },
+    {
+      "id": "resources",
+      "name": "Gather your resources",
+      "lead": 0.6,
+      "tail": 1.2,
+      "lines": [
+        { "id": "r1", "text": "Here's another creator habit." },
+        { "id": "r2", "text": "Know what you need before you start.", "gap": 0.4 },
+        { "id": "r3", "text": "Characters. Obstacles. A background. Sounds. Fonts. Buttons. Code. Game rules. And ideas.", "gap": 0.6 },
+        { "id": "r4", "text": "Resources can come from lots of places.", "gap": 0.8 },
+        { "id": "r5", "text": "You might draw them, build them with CSS, write the code yourself, use AI to explore ideas, or find them from a source you're allowed to use.", "gap": 0.4 },
+        { "id": "r6", "text": "The important thing isn't where they come from. It's knowing what you need.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "ready",
+      "name": "Now we're ready",
+      "lead": 0.8,
+      "tail": 1.6,
+      "lines": [
+        { "id": "rd1", "text": "Now we have an idea." },
+        { "id": "rd2", "text": "We've seen the finished product.", "gap": 0.4 },
+        { "id": "rd3", "text": "We've planned it.", "gap": 0.4 },
+        { "id": "rd4", "text": "We've designed it.", "gap": 0.4 },
+        { "id": "rd5", "text": "We've broken it into parts.", "gap": 0.4 },
+        { "id": "rd6", "text": "We know what we need.", "gap": 0.4 },
+        { "id": "rd7", "text": "Now... we're ready to build.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "path",
+      "name": "The build path",
+      "lead": 0.6,
+      "tail": 1.4,
+      "lines": [
+        { "id": "pa1", "text": "Here's the path we'll follow for the rest of this series." },
+        { "id": "pa2", "text": "Idea. Plan. Design. Building blocks. HTML. CSS. JavaScript. Test. And improve.", "gap": 0.5 },
+        { "id": "pa3", "text": "And notice the loop at the end. Test, improve, and test again. That's how every product gets better.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "Where AI fits",
+      "lead": 0.6,
+      "tail": 1.6,
+      "lines": [
+        { "id": "ai1", "text": "There's one more tool in a creator's toolbox." },
+        { "id": "ai2", "text": "AI.", "gap": 0.7 },
+        { "id": "ai3", "text": "But notice when we brought it in. After the thinking.", "gap": 0.8 },
+        { "id": "ai4", "text": "When you have a clear requirement, AI can help explain how to do it.", "gap": 0.8 },
+        { "id": "ai5", "text": "When you have a problem, AI can help you investigate it.", "gap": 1.0 },
+        { "id": "ai6", "text": "When you have an idea, AI can help you think it through.", "gap": 1.0 },
+        { "id": "ai7", "text": "Now notice what we didn't say.", "gap": 1.0 },
+        { "id": "ai8", "text": "Make me a game.", "gap": 0.5 },
+        { "id": "ai9", "text": "Instead, we ask. Understand. Test. Check. And improve.", "gap": 0.9 },
+        { "id": "ai10", "text": "The better you understand your project, the better you can use AI.", "gap": 0.8 },
+        { "id": "ai11", "text": "AI can help you build faster.", "gap": 0.5 },
+        { "id": "ai12", "text": "But the idea, the decisions, and the understanding, still belong to you.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "task",
+      "name": "Your turn",
+      "lead": 0.6,
+      "tail": 4.5,
+      "lines": [
+        { "id": "t1", "text": "Your turn." },
+        { "id": "t2", "text": "Grab some paper, and design your own version.", "gap": 0.4 },
+        { "id": "t3", "text": "Draw your player. An obstacle. The game area. The score. A restart button. And what happens when the player hits an obstacle.", "gap": 0.6 },
+        { "id": "t4", "text": "Then answer five questions.", "gap": 0.8 },
+        { "id": "t5", "text": "What will my game look like? What can the player do? What happens when the player makes a mistake? What do I need to build it? And what could make my version different?", "gap": 0.4 },
+        { "id": "t6", "text": "Maybe your player is a cat. Maybe the obstacles are puddles. Maybe it's a robot, running on Mars. It's your design.", "gap": 1.0 },
+        { "id": "t7", "text": "Keep your design. We're going to use it.", "gap": 0.9 },
+        { "id": "t8", "text": "Next time, we'll take this design, and build its structure, using HTML.", "gap": 1.0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "intro",
+      "name": "Title + recap",
+      "lead": 2.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "i1", "text": "Welcome back. We've created the structure." },
+        { "id": "i2", "text": "We've designed the appearance.", "gap": 0.4 },
+        { "id": "i3", "text": "Now we need to teach the game what to do.", "gap": 0.5 },
+        { "id": "i4", "text": "And we'll do it one behaviour at a time, straight down this list.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "pieces",
+      "name": "Find the game pieces",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "a1", "text": "First, JavaScript needs to find our game pieces." },
+        { "id": "a2", "text": "Remember the id name tags from the HTML video? This is why we made them.", "gap": 0.5 },
+        { "id": "a3", "text": "get element by id means, go into the page, and find the thing called player.", "gap": 0.6 },
+        { "id": "a4", "text": "We store it in a box called a variable, so we can use it later.", "gap": 0.5 },
+        { "id": "a5", "text": "Let's check it worked. The console is JavaScript's notepad. And there's our player.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard input",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "k1", "text": "Next, we need the computer to know when the player presses Space." },
+        { "id": "k2", "text": "add event listener means listen. Every time a key goes down, run this function.", "gap": 0.6 },
+        { "id": "k3", "text": "If it's not the Space key, return. That means stop, and do nothing.", "gap": 0.6 },
+        { "id": "k4", "text": "Press Space... and the console says, Space pressed. The game can hear us.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "jump",
+      "name": "Jumping + the game loop",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "j1", "text": "Now the jump." },
+        { "id": "j2", "text": "Settings are numbers we choose. State is information that changes while you play. That's why it uses let. Let means the value can change.", "gap": 0.6 },
+        { "id": "j3", "text": "A function is a set of instructions with a name. jump says, push the dinosaur upwards.", "gap": 0.8 },
+        { "id": "j4", "text": "But games don't happen once. They happen over and over, like a flip book. That's the game loop.", "gap": 0.8 },
+        { "id": "j5", "text": "request animation frame means, run me again on the next frame. About sixty times every second.", "gap": 0.5 },
+        { "id": "j6", "text": "Let's try it.", "gap": 0.8 },
+        { "id": "j7", "text": "Houston, we have a problem.", "gap": 2.2 },
+        { "id": "j8", "text": "We pushed the dinosaur up, but nothing ever pulls it back down. The code is doing exactly what we told it. We just haven't told it about gravity.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "gravity",
+      "name": "Gravity + landing",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "g1", "text": "One line of gravity." },
+        { "id": "g2", "text": "Every frame, gravity takes a little bit off the upward speed. At the top, the speed is zero. Then it goes negative, and the dinosaur falls.", "gap": 0.6 },
+        { "id": "g3", "text": "Better! But now, it doesn't know where the ground is.", "gap": 2.4 },
+        { "id": "g4", "text": "So we add a landing check. If the dinosaur reaches the ground, put it on the ground, stop it moving, and let it jump again.", "gap": 0.8 },
+        { "id": "g5", "text": "We ran it, saw a problem, figured out why, and fixed it. That's how real developers work.", "gap": 2.2 }
+      ]
+    },
+    {
+      "id": "obstacle",
+      "name": "Moving the obstacle",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "b1", "text": "Now the obstacle." },
+        { "id": "b2", "text": "Every frame, the cactus moves six pixels to the left. When it disappears off the left edge, we send it back to the right, with a random gap.", "gap": 0.6 },
+        { "id": "b3", "text": "And look. The ground scrolls, and the legs run. Remember those CSS animations? JavaScript just switched them on.", "gap": 0.8 },
+        { "id": "b4", "text": "One small problem... our dinosaur is a ghost.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "collision",
+      "name": "Collision detection",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "c1", "text": "How does a computer see a crash? It doesn't. It compares boxes." },
+        { "id": "c2", "text": "If the boxes overlap side to side, and up and down, they've crashed.", "gap": 0.6 },
+        { "id": "c3", "text": "When you jump, they overlap side to side, but not up and down. So you're safe.", "gap": 0.8 },
+        { "id": "c4", "text": "Run into the cactus, and everything stops. The game knows when we've crashed.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "score",
+      "name": "Score",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "s1", "text": "Score next. Every frame you survive, add a tenth of a point." },
+        { "id": "s2", "text": "Math floor chops off the decimals, so the screen shows whole numbers.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "gameover",
+      "name": "Game Over + restart",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "e1", "text": "Now, Game Over." },
+        { "id": "e2", "text": "We already designed the crash look, and the Game Over screen, in CSS. JavaScript just flips the switches.", "gap": 0.5 },
+        { "id": "e3", "text": "Add crashed, and the dinosaur turns red. Remove hidden, and Game Over appears.", "gap": 0.6 },
+        { "id": "e4", "text": "Restart puts everything back to the beginning, and starts again.", "gap": 0.8 },
+        { "id": "e5", "text": "Jump. Jump. Crash. Play again.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "It's alive + challenges",
+      "lead": 0.5,
+      "tail": 4.5,
+      "lines": [
+        { "id": "o1", "text": "That's a working game. And you know what every line does, because you watched each one change something." },
+        { "id": "o2", "text": "Now make it yours. Change the jump height. Change the speed. Try moon gravity. Change the obstacle. Turn it into your paper design.", "gap": 0.8 },
+        { "id": "o3", "text": "Next time, we bring in Claude. And learn how to use AI to understand our code, fix problems, and add features.", "gap": 1.0 }
+      ]
+    }
+  ]
+}

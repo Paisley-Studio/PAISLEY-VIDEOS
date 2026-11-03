@@ -1,0 +1,2634 @@
+{
+ "i1": {
+  "text": "Welcome back. We've created the structure.",
+  "duration": 2.88,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.372,
+    "w": "back"
+   },
+   {
+    "t": 1.21,
+    "w": "We've"
+   },
+   {
+    "t": 1.436,
+    "w": "created"
+   },
+   {
+    "t": 1.835,
+    "w": "the"
+   },
+   {
+    "t": 1.915,
+    "w": "structure"
+   }
+  ]
+ },
+ "i2": {
+  "text": "We've designed the appearance.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We've"
+   },
+   {
+    "t": 0.279,
+    "w": "designed"
+   },
+   {
+    "t": 0.678,
+    "w": "the"
+   },
+   {
+    "t": 0.771,
+    "w": "appearance"
+   }
+  ]
+ },
+ "i3": {
+  "text": "Now we need to teach the game what to do.",
+  "duration": 2.28,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.266,
+    "w": "we"
+   },
+   {
+    "t": 0.372,
+    "w": "need"
+   },
+   {
+    "t": 0.532,
+    "w": "to"
+   },
+   {
+    "t": 0.612,
+    "w": "teach"
+   },
+   {
+    "t": 0.931,
+    "w": "the"
+   },
+   {
+    "t": 1.037,
+    "w": "game"
+   },
+   {
+    "t": 1.33,
+    "w": "what"
+   },
+   {
+    "t": 1.503,
+    "w": "to"
+   },
+   {
+    "t": 1.609,
+    "w": "do"
+   }
+  ]
+ },
+ "i4": {
+  "text": "And we'll do it one behaviour at a time, straight down this list.",
+  "duration": 3.912,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "we'll"
+   },
+   {
+    "t": 0.332,
+    "w": "do"
+   },
+   {
+    "t": 0.519,
+    "w": "it"
+   },
+   {
+    "t": 0.638,
+    "w": "one"
+   },
+   {
+    "t": 0.904,
+    "w": "behaviour"
+   },
+   {
+    "t": 1.396,
+    "w": "at"
+   },
+   {
+    "t": 1.489,
+    "w": "a"
+   },
+   {
+    "t": 1.543,
+    "w": "time"
+   },
+   {
+    "t": 2.301,
+    "w": "straight"
+   },
+   {
+    "t": 2.646,
+    "w": "down"
+   },
+   {
+    "t": 2.899,
+    "w": "this"
+   },
+   {
+    "t": 3.098,
+    "w": "list"
+   }
+  ]
+ },
+ "a1": {
+  "text": "First, JavaScript needs to find our game pieces.",
+  "duration": 3.576,
+  "words": [
+   {
+    "t": 0.173,
+    "w": "First"
+   },
+   {
+    "t": 0.824,
+    "w": "JavaScript"
+   },
+   {
+    "t": 1.543,
+    "w": "needs"
+   },
+   {
+    "t": 1.822,
+    "w": "to"
+   },
+   {
+    "t": 1.915,
+    "w": "find"
+   },
+   {
+    "t": 2.234,
+    "w": "our"
+   },
+   {
+    "t": 2.34,
+    "w": "game"
+   },
+   {
+    "t": 2.593,
+    "w": "pieces"
+   }
+  ]
+ },
+ "a2": {
+  "text": "Remember the id name tags from the HTML video? This is why we made them.",
+  "duration": 4.896,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Remember"
+   },
+   {
+    "t": 0.452,
+    "w": "the"
+   },
+   {
+    "t": 0.598,
+    "w": "id"
+   },
+   {
+    "t": 1.011,
+    "w": "name"
+   },
+   {
+    "t": 1.303,
+    "w": "tags"
+   },
+   {
+    "t": 1.782,
+    "w": "from"
+   },
+   {
+    "t": 1.942,
+    "w": "the"
+   },
+   {
+    "t": 2.021,
+    "w": "HTML"
+   },
+   {
+    "t": 2.66,
+    "w": "video"
+   },
+   {
+    "t": 3.524,
+    "w": "This"
+   },
+   {
+    "t": 3.657,
+    "w": "is"
+   },
+   {
+    "t": 3.763,
+    "w": "why"
+   },
+   {
+    "t": 3.91,
+    "w": "we"
+   },
+   {
+    "t": 4.043,
+    "w": "made"
+   },
+   {
+    "t": 4.322,
+    "w": "them"
+   }
+  ]
+ },
+ "a3": {
+  "text": "get element by id means, go into the page, and find the thing called player.",
+  "duration": 5.52,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "get"
+   },
+   {
+    "t": 0.293,
+    "w": "element"
+   },
+   {
+    "t": 0.718,
+    "w": "by"
+   },
+   {
+    "t": 0.931,
+    "w": "id"
+   },
+   {
+    "t": 1.383,
+    "w": "means"
+   },
+   {
+    "t": 2.181,
+    "w": "go"
+   },
+   {
+    "t": 2.407,
+    "w": "into"
+   },
+   {
+    "t": 2.567,
+    "w": "the"
+   },
+   {
+    "t": 2.673,
+    "w": "page"
+   },
+   {
+    "t": 3.511,
+    "w": "and"
+   },
+   {
+    "t": 3.604,
+    "w": "find"
+   },
+   {
+    "t": 3.923,
+    "w": "the"
+   },
+   {
+    "t": 4.003,
+    "w": "thing"
+   },
+   {
+    "t": 4.388,
+    "w": "called"
+   },
+   {
+    "t": 4.668,
+    "w": "player"
+   }
+  ]
+ },
+ "a4": {
+  "text": "We store it in a box called a variable, so we can use it later.",
+  "duration": 3.888,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "We"
+   },
+   {
+    "t": 0.226,
+    "w": "store"
+   },
+   {
+    "t": 0.532,
+    "w": "it"
+   },
+   {
+    "t": 0.598,
+    "w": "in"
+   },
+   {
+    "t": 0.692,
+    "w": "a"
+   },
+   {
+    "t": 0.771,
+    "w": "box"
+   },
+   {
+    "t": 1.183,
+    "w": "called"
+   },
+   {
+    "t": 1.423,
+    "w": "a"
+   },
+   {
+    "t": 1.463,
+    "w": "variable"
+   },
+   {
+    "t": 2.394,
+    "w": "so"
+   },
+   {
+    "t": 2.513,
+    "w": "we"
+   },
+   {
+    "t": 2.633,
+    "w": "can"
+   },
+   {
+    "t": 2.793,
+    "w": "use"
+   },
+   {
+    "t": 3.019,
+    "w": "it"
+   },
+   {
+    "t": 3.138,
+    "w": "later"
+   }
+  ]
+ },
+ "a5": {
+  "text": "Let's check it worked. The console is JavaScript's notepad. And there's our player.",
+  "duration": 4.992,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.253,
+    "w": "check"
+   },
+   {
+    "t": 0.439,
+    "w": "it"
+   },
+   {
+    "t": 0.532,
+    "w": "worked"
+   },
+   {
+    "t": 1.343,
+    "w": "The"
+   },
+   {
+    "t": 1.41,
+    "w": "console"
+   },
+   {
+    "t": 1.955,
+    "w": "is"
+   },
+   {
+    "t": 2.088,
+    "w": "JavaScript's"
+   },
+   {
+    "t": 2.739,
+    "w": "notepad"
+   },
+   {
+    "t": 3.777,
+    "w": "And"
+   },
+   {
+    "t": 3.856,
+    "w": "there's"
+   },
+   {
+    "t": 4.056,
+    "w": "our"
+   },
+   {
+    "t": 4.176,
+    "w": "player"
+   }
+  ]
+ },
+ "k1": {
+  "text": "Next, we need the computer to know when the player presses Space.",
+  "duration": 4.224,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.811,
+    "w": "we"
+   },
+   {
+    "t": 0.944,
+    "w": "need"
+   },
+   {
+    "t": 1.144,
+    "w": "the"
+   },
+   {
+    "t": 1.237,
+    "w": "computer"
+   },
+   {
+    "t": 1.742,
+    "w": "to"
+   },
+   {
+    "t": 1.835,
+    "w": "know"
+   },
+   {
+    "t": 2.327,
+    "w": "when"
+   },
+   {
+    "t": 2.447,
+    "w": "the"
+   },
+   {
+    "t": 2.54,
+    "w": "player"
+   },
+   {
+    "t": 2.872,
+    "w": "presses"
+   },
+   {
+    "t": 3.258,
+    "w": "Space"
+   }
+  ]
+ },
+ "k2": {
+  "text": "add event listener means listen. Every time a key goes down, run this function.",
+  "duration": 5.448,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "add"
+   },
+   {
+    "t": 0.266,
+    "w": "event"
+   },
+   {
+    "t": 0.558,
+    "w": "listener"
+   },
+   {
+    "t": 1.25,
+    "w": "means"
+   },
+   {
+    "t": 1.516,
+    "w": "listen"
+   },
+   {
+    "t": 2.367,
+    "w": "Every"
+   },
+   {
+    "t": 2.593,
+    "w": "time"
+   },
+   {
+    "t": 2.859,
+    "w": "a"
+   },
+   {
+    "t": 2.926,
+    "w": "key"
+   },
+   {
+    "t": 3.178,
+    "w": "goes"
+   },
+   {
+    "t": 3.471,
+    "w": "down"
+   },
+   {
+    "t": 4.269,
+    "w": "run"
+   },
+   {
+    "t": 4.441,
+    "w": "this"
+   },
+   {
+    "t": 4.614,
+    "w": "function"
+   }
+  ]
+ },
+ "k3": {
+  "text": "If it's not the Space key, return. That means stop, and do nothing.",
+  "duration": 4.656,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "If"
+   },
+   {
+    "t": 0.213,
+    "w": "it's"
+   },
+   {
+    "t": 0.346,
+    "w": "not"
+   },
+   {
+    "t": 0.558,
+    "w": "the"
+   },
+   {
+    "t": 0.652,
+    "w": "Space"
+   },
+   {
+    "t": 1.051,
+    "w": "key"
+   },
+   {
+    "t": 1.596,
+    "w": "return"
+   },
+   {
+    "t": 2.5,
+    "w": "That"
+   },
+   {
+    "t": 2.62,
+    "w": "means"
+   },
+   {
+    "t": 2.832,
+    "w": "stop"
+   },
+   {
+    "t": 3.577,
+    "w": "and"
+   },
+   {
+    "t": 3.644,
+    "w": "do"
+   },
+   {
+    "t": 3.83,
+    "w": "nothing"
+   }
+  ]
+ },
+ "k4": {
+  "text": "Press Space... and the console says, Space pressed. The game can hear us.",
+  "duration": 5.328,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Press"
+   },
+   {
+    "t": 0.346,
+    "w": "Space"
+   },
+   {
+    "t": 1.263,
+    "w": "and"
+   },
+   {
+    "t": 1.37,
+    "w": "the"
+   },
+   {
+    "t": 1.463,
+    "w": "console"
+   },
+   {
+    "t": 1.942,
+    "w": "says"
+   },
+   {
+    "t": 2.606,
+    "w": "Space"
+   },
+   {
+    "t": 2.952,
+    "w": "pressed"
+   },
+   {
+    "t": 3.936,
+    "w": "The"
+   },
+   {
+    "t": 4.003,
+    "w": "game"
+   },
+   {
+    "t": 4.229,
+    "w": "can"
+   },
+   {
+    "t": 4.362,
+    "w": "hear"
+   },
+   {
+    "t": 4.601,
+    "w": "us"
+   }
+  ]
+ },
+ "j1": {
+  "text": "Now the jump.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.226,
+    "w": "the"
+   },
+   {
+    "t": 0.332,
+    "w": "jump"
+   }
+  ]
+ },
+ "j2": {
+  "text": "Settings are numbers we choose. State is information that changes while you play. That's why it uses let. Let means the value can change.",
+  "duration": 8.616,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Settings"
+   },
+   {
+    "t": 0.532,
+    "w": "are"
+   },
+   {
+    "t": 0.625,
+    "w": "numbers"
+   },
+   {
+    "t": 1.011,
+    "w": "we"
+   },
+   {
+    "t": 1.13,
+    "w": "choose"
+   },
+   {
+    "t": 2.114,
+    "w": "State"
+   },
+   {
+    "t": 2.5,
+    "w": "is"
+   },
+   {
+    "t": 2.633,
+    "w": "information"
+   },
+   {
+    "t": 3.324,
+    "w": "that"
+   },
+   {
+    "t": 3.471,
+    "w": "changes"
+   },
+   {
+    "t": 3.91,
+    "w": "while"
+   },
+   {
+    "t": 4.096,
+    "w": "you"
+   },
+   {
+    "t": 4.202,
+    "w": "play"
+   },
+   {
+    "t": 5.013,
+    "w": "That's"
+   },
+   {
+    "t": 5.16,
+    "w": "why"
+   },
+   {
+    "t": 5.319,
+    "w": "it"
+   },
+   {
+    "t": 5.426,
+    "w": "uses"
+   },
+   {
+    "t": 5.785,
+    "w": "let"
+   },
+   {
+    "t": 6.529,
+    "w": "Let"
+   },
+   {
+    "t": 6.662,
+    "w": "means"
+   },
+   {
+    "t": 6.941,
+    "w": "the"
+   },
+   {
+    "t": 7.048,
+    "w": "value"
+   },
+   {
+    "t": 7.487,
+    "w": "can"
+   },
+   {
+    "t": 7.646,
+    "w": "change"
+   }
+  ]
+ },
+ "j3": {
+  "text": "A function is a set of instructions with a name. jump says, push the dinosaur upwards.",
+  "duration": 5.904,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "A"
+   },
+   {
+    "t": 0.186,
+    "w": "function"
+   },
+   {
+    "t": 0.771,
+    "w": "is"
+   },
+   {
+    "t": 0.931,
+    "w": "a"
+   },
+   {
+    "t": 0.997,
+    "w": "set"
+   },
+   {
+    "t": 1.263,
+    "w": "of"
+   },
+   {
+    "t": 1.37,
+    "w": "instructions"
+   },
+   {
+    "t": 2.021,
+    "w": "with"
+   },
+   {
+    "t": 2.207,
+    "w": "a"
+   },
+   {
+    "t": 2.247,
+    "w": "name"
+   },
+   {
+    "t": 3.085,
+    "w": "jump"
+   },
+   {
+    "t": 3.271,
+    "w": "says"
+   },
+   {
+    "t": 3.976,
+    "w": "push"
+   },
+   {
+    "t": 4.242,
+    "w": "the"
+   },
+   {
+    "t": 4.375,
+    "w": "dinosaur"
+   },
+   {
+    "t": 4.92,
+    "w": "upwards"
+   }
+  ]
+ },
+ "j4": {
+  "text": "But games don't happen once. They happen over and over, like a flip book. That's the game loop.",
+  "duration": 6.0,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.239,
+    "w": "games"
+   },
+   {
+    "t": 0.558,
+    "w": "don't"
+   },
+   {
+    "t": 0.758,
+    "w": "happen"
+   },
+   {
+    "t": 1.09,
+    "w": "once"
+   },
+   {
+    "t": 1.995,
+    "w": "They"
+   },
+   {
+    "t": 2.074,
+    "w": "happen"
+   },
+   {
+    "t": 2.433,
+    "w": "over"
+   },
+   {
+    "t": 2.699,
+    "w": "and"
+   },
+   {
+    "t": 2.832,
+    "w": "over"
+   },
+   {
+    "t": 3.484,
+    "w": "like"
+   },
+   {
+    "t": 3.617,
+    "w": "a"
+   },
+   {
+    "t": 3.67,
+    "w": "flip"
+   },
+   {
+    "t": 3.989,
+    "w": "book"
+   },
+   {
+    "t": 4.774,
+    "w": "That's"
+   },
+   {
+    "t": 4.947,
+    "w": "the"
+   },
+   {
+    "t": 5.053,
+    "w": "game"
+   },
+   {
+    "t": 5.332,
+    "w": "loop"
+   }
+  ]
+ },
+ "j5": {
+  "text": "request animation frame means, run me again on the next frame. About sixty times every second.",
+  "duration": 6.984,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "request"
+   },
+   {
+    "t": 0.585,
+    "w": "animation"
+   },
+   {
+    "t": 1.104,
+    "w": "frame"
+   },
+   {
+    "t": 1.463,
+    "w": "means"
+   },
+   {
+    "t": 2.274,
+    "w": "run"
+   },
+   {
+    "t": 2.487,
+    "w": "me"
+   },
+   {
+    "t": 2.646,
+    "w": "again"
+   },
+   {
+    "t": 3.192,
+    "w": "on"
+   },
+   {
+    "t": 3.298,
+    "w": "the"
+   },
+   {
+    "t": 3.378,
+    "w": "next"
+   },
+   {
+    "t": 3.67,
+    "w": "frame"
+   },
+   {
+    "t": 4.455,
+    "w": "About"
+   },
+   {
+    "t": 4.747,
+    "w": "sixty"
+   },
+   {
+    "t": 5.199,
+    "w": "times"
+   },
+   {
+    "t": 5.878,
+    "w": "every"
+   },
+   {
+    "t": 6.117,
+    "w": "second"
+   }
+  ]
+ },
+ "j6": {
+  "text": "Let's try it.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.253,
+    "w": "try"
+   },
+   {
+    "t": 0.532,
+    "w": "it"
+   }
+  ]
+ },
+ "j7": {
+  "text": "Houston, we have a problem.",
+  "duration": 2.04,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Houston"
+   },
+   {
+    "t": 0.918,
+    "w": "we"
+   },
+   {
+    "t": 1.011,
+    "w": "have"
+   },
+   {
+    "t": 1.117,
+    "w": "a"
+   },
+   {
+    "t": 1.183,
+    "w": "problem"
+   }
+  ]
+ },
+ "j8": {
+  "text": "We pushed the dinosaur up, but nothing ever pulls it back down. The code is doing exactly what we told it. We just haven't told it about gravity.",
+  "duration": 8.832,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "We"
+   },
+   {
+    "t": 0.226,
+    "w": "pushed"
+   },
+   {
+    "t": 0.492,
+    "w": "the"
+   },
+   {
+    "t": 0.612,
+    "w": "dinosaur"
+   },
+   {
+    "t": 1.21,
+    "w": "up"
+   },
+   {
+    "t": 1.729,
+    "w": "but"
+   },
+   {
+    "t": 1.902,
+    "w": "nothing"
+   },
+   {
+    "t": 2.327,
+    "w": "ever"
+   },
+   {
+    "t": 2.553,
+    "w": "pulls"
+   },
+   {
+    "t": 2.886,
+    "w": "it"
+   },
+   {
+    "t": 2.979,
+    "w": "back"
+   },
+   {
+    "t": 3.258,
+    "w": "down"
+   },
+   {
+    "t": 4.082,
+    "w": "The"
+   },
+   {
+    "t": 4.149,
+    "w": "code"
+   },
+   {
+    "t": 4.468,
+    "w": "is"
+   },
+   {
+    "t": 4.601,
+    "w": "doing"
+   },
+   {
+    "t": 4.894,
+    "w": "exactly"
+   },
+   {
+    "t": 5.492,
+    "w": "what"
+   },
+   {
+    "t": 5.625,
+    "w": "we"
+   },
+   {
+    "t": 5.731,
+    "w": "told"
+   },
+   {
+    "t": 6.051,
+    "w": "it"
+   },
+   {
+    "t": 6.636,
+    "w": "We"
+   },
+   {
+    "t": 6.742,
+    "w": "just"
+   },
+   {
+    "t": 6.955,
+    "w": "haven't"
+   },
+   {
+    "t": 7.234,
+    "w": "told"
+   },
+   {
+    "t": 7.527,
+    "w": "it"
+   },
+   {
+    "t": 7.606,
+    "w": "about"
+   },
+   {
+    "t": 7.872,
+    "w": "gravity"
+   }
+  ]
+ },
+ "g1": {
+  "text": "One line of gravity.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "One"
+   },
+   {
+    "t": 0.332,
+    "w": "line"
+   },
+   {
+    "t": 0.572,
+    "w": "of"
+   },
+   {
+    "t": 0.678,
+    "w": "gravity"
+   }
+  ]
+ },
+ "g2": {
+  "text": "Every frame, gravity takes a little bit off the upward speed. At the top, the speed is zero. Then it goes negative, and the dinosaur falls.",
+  "duration": 9.528,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.386,
+    "w": "frame"
+   },
+   {
+    "t": 1.17,
+    "w": "gravity"
+   },
+   {
+    "t": 1.636,
+    "w": "takes"
+   },
+   {
+    "t": 1.955,
+    "w": "a"
+   },
+   {
+    "t": 2.035,
+    "w": "little"
+   },
+   {
+    "t": 2.301,
+    "w": "bit"
+   },
+   {
+    "t": 2.567,
+    "w": "off"
+   },
+   {
+    "t": 2.859,
+    "w": "the"
+   },
+   {
+    "t": 3.032,
+    "w": "upward"
+   },
+   {
+    "t": 3.404,
+    "w": "speed"
+   },
+   {
+    "t": 4.309,
+    "w": "At"
+   },
+   {
+    "t": 4.415,
+    "w": "the"
+   },
+   {
+    "t": 4.508,
+    "w": "top"
+   },
+   {
+    "t": 5.146,
+    "w": "the"
+   },
+   {
+    "t": 5.266,
+    "w": "speed"
+   },
+   {
+    "t": 5.638,
+    "w": "is"
+   },
+   {
+    "t": 5.785,
+    "w": "zero"
+   },
+   {
+    "t": 6.662,
+    "w": "Then"
+   },
+   {
+    "t": 6.769,
+    "w": "it"
+   },
+   {
+    "t": 6.875,
+    "w": "goes"
+   },
+   {
+    "t": 7.154,
+    "w": "negative"
+   },
+   {
+    "t": 7.939,
+    "w": "and"
+   },
+   {
+    "t": 8.019,
+    "w": "the"
+   },
+   {
+    "t": 8.112,
+    "w": "dinosaur"
+   },
+   {
+    "t": 8.617,
+    "w": "falls"
+   }
+  ]
+ },
+ "g3": {
+  "text": "Better! But now, it doesn't know where the ground is.",
+  "duration": 3.552,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Better"
+   },
+   {
+    "t": 0.851,
+    "w": "But"
+   },
+   {
+    "t": 0.957,
+    "w": "now"
+   },
+   {
+    "t": 1.582,
+    "w": "it"
+   },
+   {
+    "t": 1.729,
+    "w": "doesn't"
+   },
+   {
+    "t": 2.021,
+    "w": "know"
+   },
+   {
+    "t": 2.234,
+    "w": "where"
+   },
+   {
+    "t": 2.354,
+    "w": "the"
+   },
+   {
+    "t": 2.447,
+    "w": "ground"
+   },
+   {
+    "t": 2.832,
+    "w": "is"
+   }
+  ]
+ },
+ "g4": {
+  "text": "So we add a landing check. If the dinosaur reaches the ground, put it on the ground, stop it moving, and let it jump again.",
+  "duration": 7.896,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "So"
+   },
+   {
+    "t": 0.266,
+    "w": "we"
+   },
+   {
+    "t": 0.439,
+    "w": "add"
+   },
+   {
+    "t": 0.545,
+    "w": "a"
+   },
+   {
+    "t": 0.598,
+    "w": "landing"
+   },
+   {
+    "t": 0.984,
+    "w": "check"
+   },
+   {
+    "t": 1.822,
+    "w": "If"
+   },
+   {
+    "t": 1.942,
+    "w": "the"
+   },
+   {
+    "t": 2.048,
+    "w": "dinosaur"
+   },
+   {
+    "t": 2.673,
+    "w": "reaches"
+   },
+   {
+    "t": 3.072,
+    "w": "the"
+   },
+   {
+    "t": 3.165,
+    "w": "ground"
+   },
+   {
+    "t": 3.963,
+    "w": "put"
+   },
+   {
+    "t": 4.136,
+    "w": "it"
+   },
+   {
+    "t": 4.229,
+    "w": "on"
+   },
+   {
+    "t": 4.362,
+    "w": "the"
+   },
+   {
+    "t": 4.455,
+    "w": "ground"
+   },
+   {
+    "t": 5.226,
+    "w": "stop"
+   },
+   {
+    "t": 5.572,
+    "w": "it"
+   },
+   {
+    "t": 5.678,
+    "w": "moving"
+   },
+   {
+    "t": 6.556,
+    "w": "and"
+   },
+   {
+    "t": 6.636,
+    "w": "let"
+   },
+   {
+    "t": 6.769,
+    "w": "it"
+   },
+   {
+    "t": 6.875,
+    "w": "jump"
+   },
+   {
+    "t": 7.128,
+    "w": "again"
+   }
+  ]
+ },
+ "g5": {
+  "text": "We ran it, saw a problem, figured out why, and fixed it. That's how real developers work.",
+  "duration": 6.288,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We"
+   },
+   {
+    "t": 0.266,
+    "w": "ran"
+   },
+   {
+    "t": 0.532,
+    "w": "it"
+   },
+   {
+    "t": 0.971,
+    "w": "saw"
+   },
+   {
+    "t": 1.197,
+    "w": "a"
+   },
+   {
+    "t": 1.263,
+    "w": "problem"
+   },
+   {
+    "t": 2.074,
+    "w": "figured"
+   },
+   {
+    "t": 2.394,
+    "w": "out"
+   },
+   {
+    "t": 2.58,
+    "w": "why"
+   },
+   {
+    "t": 3.165,
+    "w": "and"
+   },
+   {
+    "t": 3.271,
+    "w": "fixed"
+   },
+   {
+    "t": 3.63,
+    "w": "it"
+   },
+   {
+    "t": 4.242,
+    "w": "That's"
+   },
+   {
+    "t": 4.428,
+    "w": "how"
+   },
+   {
+    "t": 4.628,
+    "w": "real"
+   },
+   {
+    "t": 4.907,
+    "w": "developers"
+   },
+   {
+    "t": 5.465,
+    "w": "work"
+   }
+  ]
+ },
+ "b1": {
+  "text": "Now the obstacle.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.279,
+    "w": "the"
+   },
+   {
+    "t": 0.412,
+    "w": "obstacle"
+   }
+  ]
+ },
+ "b2": {
+  "text": "Every frame, the cactus moves six pixels to the left. When it disappears off the left edge, we send it back to the right, with a random gap.",
+  "duration": 9.504,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.386,
+    "w": "frame"
+   },
+   {
+    "t": 1.144,
+    "w": "the"
+   },
+   {
+    "t": 1.25,
+    "w": "cactus"
+   },
+   {
+    "t": 1.729,
+    "w": "moves"
+   },
+   {
+    "t": 2.061,
+    "w": "six"
+   },
+   {
+    "t": 2.42,
+    "w": "pixels"
+   },
+   {
+    "t": 2.992,
+    "w": "to"
+   },
+   {
+    "t": 3.125,
+    "w": "the"
+   },
+   {
+    "t": 3.231,
+    "w": "left"
+   },
+   {
+    "t": 4.096,
+    "w": "When"
+   },
+   {
+    "t": 4.215,
+    "w": "it"
+   },
+   {
+    "t": 4.335,
+    "w": "disappears"
+   },
+   {
+    "t": 4.987,
+    "w": "off"
+   },
+   {
+    "t": 5.213,
+    "w": "the"
+   },
+   {
+    "t": 5.332,
+    "w": "left"
+   },
+   {
+    "t": 5.665,
+    "w": "edge"
+   },
+   {
+    "t": 6.37,
+    "w": "we"
+   },
+   {
+    "t": 6.476,
+    "w": "send"
+   },
+   {
+    "t": 6.755,
+    "w": "it"
+   },
+   {
+    "t": 6.875,
+    "w": "back"
+   },
+   {
+    "t": 7.181,
+    "w": "to"
+   },
+   {
+    "t": 7.287,
+    "w": "the"
+   },
+   {
+    "t": 7.394,
+    "w": "right"
+   },
+   {
+    "t": 8.072,
+    "w": "with"
+   },
+   {
+    "t": 8.218,
+    "w": "a"
+   },
+   {
+    "t": 8.258,
+    "w": "random"
+   },
+   {
+    "t": 8.71,
+    "w": "gap"
+   }
+  ]
+ },
+ "b3": {
+  "text": "And look. The ground scrolls, and the legs run. Remember those CSS animations? JavaScript just switched them on.",
+  "duration": 7.992,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "look"
+   },
+   {
+    "t": 0.971,
+    "w": "The"
+   },
+   {
+    "t": 1.051,
+    "w": "ground"
+   },
+   {
+    "t": 1.423,
+    "w": "scrolls"
+   },
+   {
+    "t": 2.287,
+    "w": "and"
+   },
+   {
+    "t": 2.394,
+    "w": "the"
+   },
+   {
+    "t": 2.5,
+    "w": "legs"
+   },
+   {
+    "t": 2.832,
+    "w": "run"
+   },
+   {
+    "t": 3.617,
+    "w": "Remember"
+   },
+   {
+    "t": 3.963,
+    "w": "those"
+   },
+   {
+    "t": 4.202,
+    "w": "CSS"
+   },
+   {
+    "t": 4.84,
+    "w": "animations"
+   },
+   {
+    "t": 6.051,
+    "w": "JavaScript"
+   },
+   {
+    "t": 6.689,
+    "w": "just"
+   },
+   {
+    "t": 6.915,
+    "w": "switched"
+   },
+   {
+    "t": 7.221,
+    "w": "them"
+   },
+   {
+    "t": 7.354,
+    "w": "on"
+   }
+  ]
+ },
+ "b4": {
+  "text": "One small problem... our dinosaur is a ghost.",
+  "duration": 3.264,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "One"
+   },
+   {
+    "t": 0.293,
+    "w": "small"
+   },
+   {
+    "t": 0.572,
+    "w": "problem"
+   },
+   {
+    "t": 1.489,
+    "w": "our"
+   },
+   {
+    "t": 1.596,
+    "w": "dinosaur"
+   },
+   {
+    "t": 2.154,
+    "w": "is"
+   },
+   {
+    "t": 2.287,
+    "w": "a"
+   },
+   {
+    "t": 2.354,
+    "w": "ghost"
+   }
+  ]
+ },
+ "c1": {
+  "text": "How does a computer see a crash? It doesn't. It compares boxes.",
+  "duration": 4.56,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "How"
+   },
+   {
+    "t": 0.199,
+    "w": "does"
+   },
+   {
+    "t": 0.346,
+    "w": "a"
+   },
+   {
+    "t": 0.412,
+    "w": "computer"
+   },
+   {
+    "t": 0.851,
+    "w": "see"
+   },
+   {
+    "t": 1.037,
+    "w": "a"
+   },
+   {
+    "t": 1.104,
+    "w": "crash"
+   },
+   {
+    "t": 2.114,
+    "w": "It"
+   },
+   {
+    "t": 2.221,
+    "w": "doesn't"
+   },
+   {
+    "t": 3.058,
+    "w": "It"
+   },
+   {
+    "t": 3.152,
+    "w": "compares"
+   },
+   {
+    "t": 3.551,
+    "w": "boxes"
+   }
+  ]
+ },
+ "c2": {
+  "text": "If the boxes overlap side to side, and up and down, they've crashed.",
+  "duration": 4.992,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "If"
+   },
+   {
+    "t": 0.226,
+    "w": "the"
+   },
+   {
+    "t": 0.319,
+    "w": "boxes"
+   },
+   {
+    "t": 0.811,
+    "w": "overlap"
+   },
+   {
+    "t": 1.356,
+    "w": "side"
+   },
+   {
+    "t": 1.676,
+    "w": "to"
+   },
+   {
+    "t": 1.742,
+    "w": "side"
+   },
+   {
+    "t": 2.513,
+    "w": "and"
+   },
+   {
+    "t": 2.713,
+    "w": "up"
+   },
+   {
+    "t": 2.899,
+    "w": "and"
+   },
+   {
+    "t": 3.005,
+    "w": "down"
+   },
+   {
+    "t": 3.763,
+    "w": "they've"
+   },
+   {
+    "t": 3.963,
+    "w": "crashed"
+   }
+  ]
+ },
+ "c3": {
+  "text": "When you jump, they overlap side to side, but not up and down. So you're safe.",
+  "duration": 5.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "When"
+   },
+   {
+    "t": 0.226,
+    "w": "you"
+   },
+   {
+    "t": 0.332,
+    "w": "jump"
+   },
+   {
+    "t": 1.011,
+    "w": "they"
+   },
+   {
+    "t": 1.17,
+    "w": "overlap"
+   },
+   {
+    "t": 1.715,
+    "w": "side"
+   },
+   {
+    "t": 2.035,
+    "w": "to"
+   },
+   {
+    "t": 2.101,
+    "w": "side"
+   },
+   {
+    "t": 2.846,
+    "w": "but"
+   },
+   {
+    "t": 3.005,
+    "w": "not"
+   },
+   {
+    "t": 3.271,
+    "w": "up"
+   },
+   {
+    "t": 3.431,
+    "w": "and"
+   },
+   {
+    "t": 3.537,
+    "w": "down"
+   },
+   {
+    "t": 4.362,
+    "w": "So"
+   },
+   {
+    "t": 4.481,
+    "w": "you're"
+   },
+   {
+    "t": 4.614,
+    "w": "safe"
+   }
+  ]
+ },
+ "c4": {
+  "text": "Run into the cactus, and everything stops. The game knows when we've crashed.",
+  "duration": 5.184,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Run"
+   },
+   {
+    "t": 0.319,
+    "w": "into"
+   },
+   {
+    "t": 0.479,
+    "w": "the"
+   },
+   {
+    "t": 0.585,
+    "w": "cactus"
+   },
+   {
+    "t": 1.463,
+    "w": "and"
+   },
+   {
+    "t": 1.596,
+    "w": "everything"
+   },
+   {
+    "t": 1.968,
+    "w": "stops"
+   },
+   {
+    "t": 3.058,
+    "w": "The"
+   },
+   {
+    "t": 3.138,
+    "w": "game"
+   },
+   {
+    "t": 3.444,
+    "w": "knows"
+   },
+   {
+    "t": 3.817,
+    "w": "when"
+   },
+   {
+    "t": 3.963,
+    "w": "we've"
+   },
+   {
+    "t": 4.149,
+    "w": "crashed"
+   }
+  ]
+ },
+ "s1": {
+  "text": "Score next. Every frame you survive, add a tenth of a point.",
+  "duration": 4.368,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Score"
+   },
+   {
+    "t": 0.332,
+    "w": "next"
+   },
+   {
+    "t": 1.223,
+    "w": "Every"
+   },
+   {
+    "t": 1.489,
+    "w": "frame"
+   },
+   {
+    "t": 1.875,
+    "w": "you"
+   },
+   {
+    "t": 2.008,
+    "w": "survive"
+   },
+   {
+    "t": 2.912,
+    "w": "add"
+   },
+   {
+    "t": 3.005,
+    "w": "a"
+   },
+   {
+    "t": 3.072,
+    "w": "tenth"
+   },
+   {
+    "t": 3.378,
+    "w": "of"
+   },
+   {
+    "t": 3.457,
+    "w": "a"
+   },
+   {
+    "t": 3.537,
+    "w": "point"
+   }
+  ]
+ },
+ "s2": {
+  "text": "Math floor chops off the decimals, so the screen shows whole numbers.",
+  "duration": 4.416,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Math"
+   },
+   {
+    "t": 0.426,
+    "w": "floor"
+   },
+   {
+    "t": 0.692,
+    "w": "chops"
+   },
+   {
+    "t": 1.13,
+    "w": "off"
+   },
+   {
+    "t": 1.317,
+    "w": "the"
+   },
+   {
+    "t": 1.423,
+    "w": "decimals"
+   },
+   {
+    "t": 2.327,
+    "w": "so"
+   },
+   {
+    "t": 2.447,
+    "w": "the"
+   },
+   {
+    "t": 2.553,
+    "w": "screen"
+   },
+   {
+    "t": 2.965,
+    "w": "shows"
+   },
+   {
+    "t": 3.271,
+    "w": "whole"
+   },
+   {
+    "t": 3.484,
+    "w": "numbers"
+   }
+  ]
+ },
+ "e1": {
+  "text": "Now, Game Over.",
+  "duration": 1.632,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.638,
+    "w": "Game"
+   },
+   {
+    "t": 0.891,
+    "w": "Over"
+   }
+  ]
+ },
+ "e2": {
+  "text": "We already designed the crash look, and the Game Over screen, in CSS. JavaScript just flips the switches.",
+  "duration": 7.56,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We"
+   },
+   {
+    "t": 0.293,
+    "w": "already"
+   },
+   {
+    "t": 0.692,
+    "w": "designed"
+   },
+   {
+    "t": 1.13,
+    "w": "the"
+   },
+   {
+    "t": 1.21,
+    "w": "crash"
+   },
+   {
+    "t": 1.636,
+    "w": "look"
+   },
+   {
+    "t": 2.301,
+    "w": "and"
+   },
+   {
+    "t": 2.367,
+    "w": "the"
+   },
+   {
+    "t": 2.473,
+    "w": "Game"
+   },
+   {
+    "t": 2.793,
+    "w": "Over"
+   },
+   {
+    "t": 3.005,
+    "w": "screen"
+   },
+   {
+    "t": 3.83,
+    "w": "in"
+   },
+   {
+    "t": 3.923,
+    "w": "CSS"
+   },
+   {
+    "t": 5.239,
+    "w": "JavaScript"
+   },
+   {
+    "t": 5.904,
+    "w": "just"
+   },
+   {
+    "t": 6.17,
+    "w": "flips"
+   },
+   {
+    "t": 6.489,
+    "w": "the"
+   },
+   {
+    "t": 6.582,
+    "w": "switches"
+   }
+  ]
+ },
+ "e3": {
+  "text": "Add crashed, and the dinosaur turns red. Remove hidden, and Game Over appears.",
+  "duration": 6.072,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Add"
+   },
+   {
+    "t": 0.319,
+    "w": "crashed"
+   },
+   {
+    "t": 1.197,
+    "w": "and"
+   },
+   {
+    "t": 1.263,
+    "w": "the"
+   },
+   {
+    "t": 1.356,
+    "w": "dinosaur"
+   },
+   {
+    "t": 2.114,
+    "w": "turns"
+   },
+   {
+    "t": 2.46,
+    "w": "red"
+   },
+   {
+    "t": 3.231,
+    "w": "Remove"
+   },
+   {
+    "t": 3.617,
+    "w": "hidden"
+   },
+   {
+    "t": 4.375,
+    "w": "and"
+   },
+   {
+    "t": 4.468,
+    "w": "Game"
+   },
+   {
+    "t": 4.801,
+    "w": "Over"
+   },
+   {
+    "t": 5.053,
+    "w": "appears"
+   }
+  ]
+ },
+ "e4": {
+  "text": "Restart puts everything back to the beginning, and starts again.",
+  "duration": 3.936,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Restart"
+   },
+   {
+    "t": 0.505,
+    "w": "puts"
+   },
+   {
+    "t": 0.918,
+    "w": "everything"
+   },
+   {
+    "t": 1.396,
+    "w": "back"
+   },
+   {
+    "t": 1.782,
+    "w": "to"
+   },
+   {
+    "t": 1.888,
+    "w": "the"
+   },
+   {
+    "t": 1.995,
+    "w": "beginning"
+   },
+   {
+    "t": 2.779,
+    "w": "and"
+   },
+   {
+    "t": 2.846,
+    "w": "starts"
+   },
+   {
+    "t": 3.178,
+    "w": "again"
+   }
+  ]
+ },
+ "e5": {
+  "text": "Jump. Jump. Crash. Play again.",
+  "duration": 3.432,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Jump"
+   },
+   {
+    "t": 0.864,
+    "w": "Jump"
+   },
+   {
+    "t": 1.622,
+    "w": "Crash"
+   },
+   {
+    "t": 2.54,
+    "w": "Play"
+   },
+   {
+    "t": 2.699,
+    "w": "again"
+   }
+  ]
+ },
+ "o1": {
+  "text": "That's a working game. And you know what every line does, because you watched each one change something.",
+  "duration": 6.264,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "That's"
+   },
+   {
+    "t": 0.239,
+    "w": "a"
+   },
+   {
+    "t": 0.319,
+    "w": "working"
+   },
+   {
+    "t": 0.692,
+    "w": "game"
+   },
+   {
+    "t": 1.423,
+    "w": "And"
+   },
+   {
+    "t": 1.556,
+    "w": "you"
+   },
+   {
+    "t": 1.689,
+    "w": "know"
+   },
+   {
+    "t": 2.021,
+    "w": "what"
+   },
+   {
+    "t": 2.301,
+    "w": "every"
+   },
+   {
+    "t": 2.567,
+    "w": "line"
+   },
+   {
+    "t": 2.899,
+    "w": "does"
+   },
+   {
+    "t": 3.644,
+    "w": "because"
+   },
+   {
+    "t": 3.976,
+    "w": "you"
+   },
+   {
+    "t": 4.096,
+    "w": "watched"
+   },
+   {
+    "t": 4.574,
+    "w": "each"
+   },
+   {
+    "t": 4.801,
+    "w": "one"
+   },
+   {
+    "t": 5.093,
+    "w": "change"
+   },
+   {
+    "t": 5.439,
+    "w": "something"
+   }
+  ]
+ },
+ "o2": {
+  "text": "Now make it yours. Change the jump height. Change the speed. Try moon gravity. Change the obstacle. Turn it into your paper design.",
+  "duration": 8.856,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.226,
+    "w": "make"
+   },
+   {
+    "t": 0.426,
+    "w": "it"
+   },
+   {
+    "t": 0.519,
+    "w": "yours"
+   },
+   {
+    "t": 1.356,
+    "w": "Change"
+   },
+   {
+    "t": 1.636,
+    "w": "the"
+   },
+   {
+    "t": 1.729,
+    "w": "jump"
+   },
+   {
+    "t": 1.995,
+    "w": "height"
+   },
+   {
+    "t": 2.819,
+    "w": "Change"
+   },
+   {
+    "t": 3.112,
+    "w": "the"
+   },
+   {
+    "t": 3.205,
+    "w": "speed"
+   },
+   {
+    "t": 4.082,
+    "w": "Try"
+   },
+   {
+    "t": 4.282,
+    "w": "moon"
+   },
+   {
+    "t": 4.521,
+    "w": "gravity"
+   },
+   {
+    "t": 5.519,
+    "w": "Change"
+   },
+   {
+    "t": 5.785,
+    "w": "the"
+   },
+   {
+    "t": 5.904,
+    "w": "obstacle"
+   },
+   {
+    "t": 6.941,
+    "w": "Turn"
+   },
+   {
+    "t": 7.141,
+    "w": "it"
+   },
+   {
+    "t": 7.247,
+    "w": "into"
+   },
+   {
+    "t": 7.527,
+    "w": "your"
+   },
+   {
+    "t": 7.673,
+    "w": "paper"
+   },
+   {
+    "t": 8.019,
+    "w": "design"
+   }
+  ]
+ },
+ "o3": {
+  "text": "Next time, we bring in Claude. And learn how to use AI to understand our code, fix problems, and add features.",
+  "duration": 7.584,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.346,
+    "w": "time"
+   },
+   {
+    "t": 0.944,
+    "w": "we"
+   },
+   {
+    "t": 1.077,
+    "w": "bring"
+   },
+   {
+    "t": 1.29,
+    "w": "in"
+   },
+   {
+    "t": 1.396,
+    "w": "Claude"
+   },
+   {
+    "t": 2.261,
+    "w": "And"
+   },
+   {
+    "t": 2.407,
+    "w": "learn"
+   },
+   {
+    "t": 2.62,
+    "w": "how"
+   },
+   {
+    "t": 2.766,
+    "w": "to"
+   },
+   {
+    "t": 2.886,
+    "w": "use"
+   },
+   {
+    "t": 3.125,
+    "w": "AI"
+   },
+   {
+    "t": 3.511,
+    "w": "to"
+   },
+   {
+    "t": 3.683,
+    "w": "understand"
+   },
+   {
+    "t": 4.282,
+    "w": "our"
+   },
+   {
+    "t": 4.388,
+    "w": "code"
+   },
+   {
+    "t": 5.173,
+    "w": "fix"
+   },
+   {
+    "t": 5.412,
+    "w": "problems"
+   },
+   {
+    "t": 6.263,
+    "w": "and"
+   },
+   {
+    "t": 6.423,
+    "w": "add"
+   },
+   {
+    "t": 6.622,
+    "w": "features"
+   }
+  ]
+ }
+}

@@ -1,0 +1,2424 @@
+{
+ "i1": {
+  "text": "Welcome back. Our HTML has created the pieces.",
+  "duration": 3.888,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.372,
+    "w": "back"
+   },
+   {
+    "t": 1.21,
+    "w": "Our"
+   },
+   {
+    "t": 1.41,
+    "w": "HTML"
+   },
+   {
+    "t": 2.168,
+    "w": "has"
+   },
+   {
+    "t": 2.327,
+    "w": "created"
+   },
+   {
+    "t": 2.793,
+    "w": "the"
+   },
+   {
+    "t": 2.886,
+    "w": "pieces"
+   }
+  ]
+ },
+ "i2": {
+  "text": "Now we need to decide what those pieces look like.",
+  "duration": 2.832,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.279,
+    "w": "we"
+   },
+   {
+    "t": 0.386,
+    "w": "need"
+   },
+   {
+    "t": 0.572,
+    "w": "to"
+   },
+   {
+    "t": 0.652,
+    "w": "decide"
+   },
+   {
+    "t": 1.157,
+    "w": "what"
+   },
+   {
+    "t": 1.303,
+    "w": "those"
+   },
+   {
+    "t": 1.529,
+    "w": "pieces"
+   },
+   {
+    "t": 1.928,
+    "w": "look"
+   },
+   {
+    "t": 2.128,
+    "w": "like"
+   }
+  ]
+ },
+ "i3": {
+  "text": "Same HTML. Same pieces. The only difference between these two... is CSS.",
+  "duration": 6.768,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Same"
+   },
+   {
+    "t": 0.652,
+    "w": "HTML"
+   },
+   {
+    "t": 1.848,
+    "w": "Same"
+   },
+   {
+    "t": 2.061,
+    "w": "pieces"
+   },
+   {
+    "t": 3.058,
+    "w": "The"
+   },
+   {
+    "t": 3.165,
+    "w": "only"
+   },
+   {
+    "t": 3.444,
+    "w": "difference"
+   },
+   {
+    "t": 3.83,
+    "w": "between"
+   },
+   {
+    "t": 4.229,
+    "w": "these"
+   },
+   {
+    "t": 4.468,
+    "w": "two"
+   },
+   {
+    "t": 5.306,
+    "w": "is"
+   },
+   {
+    "t": 5.465,
+    "w": "CSS"
+   }
+  ]
+ },
+ "r1": {
+  "text": "Every CSS rule has two parts.",
+  "duration": 2.592,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.359,
+    "w": "CSS"
+   },
+   {
+    "t": 0.997,
+    "w": "rule"
+   },
+   {
+    "t": 1.263,
+    "w": "has"
+   },
+   {
+    "t": 1.463,
+    "w": "two"
+   },
+   {
+    "t": 1.676,
+    "w": "parts"
+   }
+  ]
+ },
+ "r2": {
+  "text": "First, who you're styling. That's the selector.",
+  "duration": 3.144,
+  "words": [
+   {
+    "t": 0.16,
+    "w": "First"
+   },
+   {
+    "t": 0.718,
+    "w": "who"
+   },
+   {
+    "t": 0.811,
+    "w": "you're"
+   },
+   {
+    "t": 0.944,
+    "w": "styling"
+   },
+   {
+    "t": 1.875,
+    "w": "That's"
+   },
+   {
+    "t": 2.048,
+    "w": "the"
+   },
+   {
+    "t": 2.154,
+    "w": "selector"
+   }
+  ]
+ },
+ "r3": {
+  "text": "Then, what you're changing, inside the curly brackets. A property, and a value.",
+  "duration": 5.64,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Then"
+   },
+   {
+    "t": 0.665,
+    "w": "what"
+   },
+   {
+    "t": 0.811,
+    "w": "you're"
+   },
+   {
+    "t": 0.944,
+    "w": "changing"
+   },
+   {
+    "t": 1.729,
+    "w": "inside"
+   },
+   {
+    "t": 2.274,
+    "w": "the"
+   },
+   {
+    "t": 2.367,
+    "w": "curly"
+   },
+   {
+    "t": 2.673,
+    "w": "brackets"
+   },
+   {
+    "t": 3.763,
+    "w": "A"
+   },
+   {
+    "t": 3.843,
+    "w": "property"
+   },
+   {
+    "t": 4.601,
+    "w": "and"
+   },
+   {
+    "t": 4.721,
+    "w": "a"
+   },
+   {
+    "t": 4.774,
+    "w": "value"
+   }
+  ]
+ },
+ "r4": {
+  "text": "The hash symbol means id. So hash player means, the thing with the id player.",
+  "duration": 5.208,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "The"
+   },
+   {
+    "t": 0.173,
+    "w": "hash"
+   },
+   {
+    "t": 0.465,
+    "w": "symbol"
+   },
+   {
+    "t": 0.758,
+    "w": "means"
+   },
+   {
+    "t": 1.011,
+    "w": "id"
+   },
+   {
+    "t": 1.848,
+    "w": "So"
+   },
+   {
+    "t": 2.048,
+    "w": "hash"
+   },
+   {
+    "t": 2.314,
+    "w": "player"
+   },
+   {
+    "t": 2.66,
+    "w": "means"
+   },
+   {
+    "t": 3.311,
+    "w": "the"
+   },
+   {
+    "t": 3.431,
+    "w": "thing"
+   },
+   {
+    "t": 3.75,
+    "w": "with"
+   },
+   {
+    "t": 3.896,
+    "w": "the"
+   },
+   {
+    "t": 4.016,
+    "w": "id"
+   },
+   {
+    "t": 4.348,
+    "w": "player"
+   }
+  ]
+ },
+ "r5": {
+  "text": "And a dot means class. So dot cloud means, every cloud.",
+  "duration": 4.152,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.186,
+    "w": "a"
+   },
+   {
+    "t": 0.253,
+    "w": "dot"
+   },
+   {
+    "t": 0.479,
+    "w": "means"
+   },
+   {
+    "t": 0.731,
+    "w": "class"
+   },
+   {
+    "t": 1.742,
+    "w": "So"
+   },
+   {
+    "t": 1.888,
+    "w": "dot"
+   },
+   {
+    "t": 2.088,
+    "w": "cloud"
+   },
+   {
+    "t": 2.42,
+    "w": "means"
+   },
+   {
+    "t": 3.058,
+    "w": "every"
+   },
+   {
+    "t": 3.311,
+    "w": "cloud"
+   }
+  ]
+ },
+ "v1": {
+  "text": "First, we pick our colours, and give them names. These are called variables.",
+  "duration": 5.088,
+  "words": [
+   {
+    "t": 0.173,
+    "w": "First"
+   },
+   {
+    "t": 0.785,
+    "w": "we"
+   },
+   {
+    "t": 0.931,
+    "w": "pick"
+   },
+   {
+    "t": 1.157,
+    "w": "our"
+   },
+   {
+    "t": 1.29,
+    "w": "colours"
+   },
+   {
+    "t": 2.021,
+    "w": "and"
+   },
+   {
+    "t": 2.154,
+    "w": "give"
+   },
+   {
+    "t": 2.367,
+    "w": "them"
+   },
+   {
+    "t": 2.527,
+    "w": "names"
+   },
+   {
+    "t": 3.524,
+    "w": "These"
+   },
+   {
+    "t": 3.683,
+    "w": "are"
+   },
+   {
+    "t": 3.763,
+    "w": "called"
+   },
+   {
+    "t": 4.003,
+    "w": "variables"
+   }
+  ]
+ },
+ "v2": {
+  "text": "Later, we'll use these names, instead of typing colour codes again and again.",
+  "duration": 5.256,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Later"
+   },
+   {
+    "t": 0.798,
+    "w": "we'll"
+   },
+   {
+    "t": 0.944,
+    "w": "use"
+   },
+   {
+    "t": 1.25,
+    "w": "these"
+   },
+   {
+    "t": 1.489,
+    "w": "names"
+   },
+   {
+    "t": 2.221,
+    "w": "instead"
+   },
+   {
+    "t": 2.58,
+    "w": "of"
+   },
+   {
+    "t": 2.686,
+    "w": "typing"
+   },
+   {
+    "t": 3.125,
+    "w": "colour"
+   },
+   {
+    "t": 3.484,
+    "w": "codes"
+   },
+   {
+    "t": 3.79,
+    "w": "again"
+   },
+   {
+    "t": 4.348,
+    "w": "and"
+   },
+   {
+    "t": 4.455,
+    "w": "again"
+   }
+  ]
+ },
+ "v3": {
+  "text": "Want a purple dinosaur? Change one line.",
+  "duration": 2.928,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Want"
+   },
+   {
+    "t": 0.266,
+    "w": "a"
+   },
+   {
+    "t": 0.332,
+    "w": "purple"
+   },
+   {
+    "t": 0.692,
+    "w": "dinosaur"
+   },
+   {
+    "t": 1.729,
+    "w": "Change"
+   },
+   {
+    "t": 2.008,
+    "w": "one"
+   },
+   {
+    "t": 2.221,
+    "w": "line"
+   }
+  ]
+ },
+ "v4": {
+  "text": "This is our design system. Decisions we make once, and use everywhere.",
+  "duration": 4.824,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "This"
+   },
+   {
+    "t": 0.266,
+    "w": "is"
+   },
+   {
+    "t": 0.399,
+    "w": "our"
+   },
+   {
+    "t": 0.505,
+    "w": "design"
+   },
+   {
+    "t": 0.891,
+    "w": "system"
+   },
+   {
+    "t": 1.755,
+    "w": "Decisions"
+   },
+   {
+    "t": 2.274,
+    "w": "we"
+   },
+   {
+    "t": 2.394,
+    "w": "make"
+   },
+   {
+    "t": 2.633,
+    "w": "once"
+   },
+   {
+    "t": 3.418,
+    "w": "and"
+   },
+   {
+    "t": 3.564,
+    "w": "use"
+   },
+   {
+    "t": 3.856,
+    "w": "everywhere"
+   }
+  ]
+ },
+ "g1": {
+  "text": "Now the page. We center everything, and switch on our Quicksand font.",
+  "duration": 4.536,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.239,
+    "w": "the"
+   },
+   {
+    "t": 0.346,
+    "w": "page"
+   },
+   {
+    "t": 1.29,
+    "w": "We"
+   },
+   {
+    "t": 1.436,
+    "w": "center"
+   },
+   {
+    "t": 1.808,
+    "w": "everything"
+   },
+   {
+    "t": 2.633,
+    "w": "and"
+   },
+   {
+    "t": 2.726,
+    "w": "switch"
+   },
+   {
+    "t": 3.045,
+    "w": "on"
+   },
+   {
+    "t": 3.152,
+    "w": "our"
+   },
+   {
+    "t": 3.258,
+    "w": "Quicksand"
+   },
+   {
+    "t": 3.763,
+    "w": "font"
+   }
+  ]
+ },
+ "g2": {
+  "text": "max width stops the game getting too wide on big screens.",
+  "duration": 4.008,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "max"
+   },
+   {
+    "t": 0.412,
+    "w": "width"
+   },
+   {
+    "t": 0.598,
+    "w": "stops"
+   },
+   {
+    "t": 1.011,
+    "w": "the"
+   },
+   {
+    "t": 1.117,
+    "w": "game"
+   },
+   {
+    "t": 1.463,
+    "w": "getting"
+   },
+   {
+    "t": 1.755,
+    "w": "too"
+   },
+   {
+    "t": 2.048,
+    "w": "wide"
+   },
+   {
+    "t": 2.527,
+    "w": "on"
+   },
+   {
+    "t": 2.673,
+    "w": "big"
+   },
+   {
+    "t": 2.912,
+    "w": "screens"
+   }
+  ]
+ },
+ "g3": {
+  "text": "And the score gets bold.",
+  "duration": 1.608,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.186,
+    "w": "the"
+   },
+   {
+    "t": 0.279,
+    "w": "score"
+   },
+   {
+    "t": 0.612,
+    "w": "gets"
+   },
+   {
+    "t": 0.824,
+    "w": "bold"
+   }
+  ]
+ },
+ "w1": {
+  "text": "Now the world appears. Three hundred pixels tall. Sky blue. A border, and rounded corners.",
+  "duration": 6.576,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.279,
+    "w": "the"
+   },
+   {
+    "t": 0.399,
+    "w": "world"
+   },
+   {
+    "t": 0.652,
+    "w": "appears"
+   },
+   {
+    "t": 1.715,
+    "w": "Three"
+   },
+   {
+    "t": 1.862,
+    "w": "hundred"
+   },
+   {
+    "t": 2.154,
+    "w": "pixels"
+   },
+   {
+    "t": 2.567,
+    "w": "tall"
+   },
+   {
+    "t": 3.391,
+    "w": "Sky"
+   },
+   {
+    "t": 3.63,
+    "w": "blue"
+   },
+   {
+    "t": 4.348,
+    "w": "A"
+   },
+   {
+    "t": 4.428,
+    "w": "border"
+   },
+   {
+    "t": 5.12,
+    "w": "and"
+   },
+   {
+    "t": 5.226,
+    "w": "rounded"
+   },
+   {
+    "t": 5.612,
+    "w": "corners"
+   }
+  ]
+ },
+ "w2": {
+  "text": "border radius rounds the corners. Small number, slightly round. Big number, very round.",
+  "duration": 6.192,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "border"
+   },
+   {
+    "t": 0.386,
+    "w": "radius"
+   },
+   {
+    "t": 0.891,
+    "w": "rounds"
+   },
+   {
+    "t": 1.21,
+    "w": "the"
+   },
+   {
+    "t": 1.317,
+    "w": "corners"
+   },
+   {
+    "t": 2.354,
+    "w": "Small"
+   },
+   {
+    "t": 2.646,
+    "w": "number"
+   },
+   {
+    "t": 3.192,
+    "w": "slightly"
+   },
+   {
+    "t": 3.59,
+    "w": "round"
+   },
+   {
+    "t": 4.441,
+    "w": "Big"
+   },
+   {
+    "t": 4.588,
+    "w": "number"
+   },
+   {
+    "t": 5.16,
+    "w": "very"
+   },
+   {
+    "t": 5.372,
+    "w": "round"
+   }
+  ]
+ },
+ "w3": {
+  "text": "Change the background, and you change the whole environment. Daytime. Sunset. Night.",
+  "duration": 6.072,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Change"
+   },
+   {
+    "t": 0.426,
+    "w": "the"
+   },
+   {
+    "t": 0.519,
+    "w": "background"
+   },
+   {
+    "t": 1.516,
+    "w": "and"
+   },
+   {
+    "t": 1.609,
+    "w": "you"
+   },
+   {
+    "t": 1.715,
+    "w": "change"
+   },
+   {
+    "t": 2.088,
+    "w": "the"
+   },
+   {
+    "t": 2.181,
+    "w": "whole"
+   },
+   {
+    "t": 2.46,
+    "w": "environment"
+   },
+   {
+    "t": 3.564,
+    "w": "Daytime"
+   },
+   {
+    "t": 4.428,
+    "w": "Sunset"
+   },
+   {
+    "t": 5.372,
+    "w": "Night"
+   }
+  ]
+ },
+ "w4": {
+  "text": "position relative turns the game area into a map. Anything inside it can be placed exactly.",
+  "duration": 6.504,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "position"
+   },
+   {
+    "t": 0.585,
+    "w": "relative"
+   },
+   {
+    "t": 1.17,
+    "w": "turns"
+   },
+   {
+    "t": 1.556,
+    "w": "the"
+   },
+   {
+    "t": 1.676,
+    "w": "game"
+   },
+   {
+    "t": 1.995,
+    "w": "area"
+   },
+   {
+    "t": 2.633,
+    "w": "into"
+   },
+   {
+    "t": 2.912,
+    "w": "a"
+   },
+   {
+    "t": 2.979,
+    "w": "map"
+   },
+   {
+    "t": 3.896,
+    "w": "Anything"
+   },
+   {
+    "t": 4.309,
+    "w": "inside"
+   },
+   {
+    "t": 4.761,
+    "w": "it"
+   },
+   {
+    "t": 4.854,
+    "w": "can"
+   },
+   {
+    "t": 4.987,
+    "w": "be"
+   },
+   {
+    "t": 5.093,
+    "w": "placed"
+   },
+   {
+    "t": 5.465,
+    "w": "exactly"
+   }
+  ]
+ },
+ "w5": {
+  "text": "Then the ground. Forty pixels tall, stuck to the bottom. Those stripes will help us see it move later.",
+  "duration": 6.6,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Then"
+   },
+   {
+    "t": 0.226,
+    "w": "the"
+   },
+   {
+    "t": 0.319,
+    "w": "ground"
+   },
+   {
+    "t": 1.263,
+    "w": "Forty"
+   },
+   {
+    "t": 1.489,
+    "w": "pixels"
+   },
+   {
+    "t": 1.942,
+    "w": "tall"
+   },
+   {
+    "t": 2.66,
+    "w": "stuck"
+   },
+   {
+    "t": 2.939,
+    "w": "to"
+   },
+   {
+    "t": 3.032,
+    "w": "the"
+   },
+   {
+    "t": 3.138,
+    "w": "bottom"
+   },
+   {
+    "t": 3.949,
+    "w": "Those"
+   },
+   {
+    "t": 4.149,
+    "w": "stripes"
+   },
+   {
+    "t": 4.535,
+    "w": "will"
+   },
+   {
+    "t": 4.681,
+    "w": "help"
+   },
+   {
+    "t": 4.934,
+    "w": "us"
+   },
+   {
+    "t": 5.319,
+    "w": "see"
+   },
+   {
+    "t": 5.505,
+    "w": "it"
+   },
+   {
+    "t": 5.598,
+    "w": "move"
+   },
+   {
+    "t": 5.811,
+    "w": "later"
+   }
+  ]
+ },
+ "p1": {
+  "text": "And here's our player.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "here's"
+   },
+   {
+    "t": 0.452,
+    "w": "our"
+   },
+   {
+    "t": 0.572,
+    "w": "player"
+   }
+  ]
+ },
+ "p2": {
+  "text": "Position absolute. Sixty pixels from the left. Fifty from the bottom. Forty four wide. Fifty two tall. Orange.",
+  "duration": 8.448,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Position"
+   },
+   {
+    "t": 0.572,
+    "w": "absolute"
+   },
+   {
+    "t": 1.636,
+    "w": "Sixty"
+   },
+   {
+    "t": 2.021,
+    "w": "pixels"
+   },
+   {
+    "t": 2.54,
+    "w": "from"
+   },
+   {
+    "t": 2.726,
+    "w": "the"
+   },
+   {
+    "t": 2.819,
+    "w": "left"
+   },
+   {
+    "t": 3.697,
+    "w": "Fifty"
+   },
+   {
+    "t": 3.963,
+    "w": "from"
+   },
+   {
+    "t": 4.149,
+    "w": "the"
+   },
+   {
+    "t": 4.242,
+    "w": "bottom"
+   },
+   {
+    "t": 5.106,
+    "w": "Forty"
+   },
+   {
+    "t": 5.279,
+    "w": "four"
+   },
+   {
+    "t": 5.532,
+    "w": "wide"
+   },
+   {
+    "t": 6.383,
+    "w": "Fifty"
+   },
+   {
+    "t": 6.609,
+    "w": "two"
+   },
+   {
+    "t": 6.822,
+    "w": "tall"
+   },
+   {
+    "t": 7.593,
+    "w": "Orange"
+   }
+  ]
+ },
+ "p3": {
+  "text": "Change the width, and the object changes size.",
+  "duration": 3.312,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Change"
+   },
+   {
+    "t": 0.426,
+    "w": "the"
+   },
+   {
+    "t": 0.532,
+    "w": "width"
+   },
+   {
+    "t": 1.237,
+    "w": "and"
+   },
+   {
+    "t": 1.317,
+    "w": "the"
+   },
+   {
+    "t": 1.436,
+    "w": "object"
+   },
+   {
+    "t": 1.955,
+    "w": "changes"
+   },
+   {
+    "t": 2.38,
+    "w": "size"
+   }
+  ]
+ },
+ "p4": {
+  "text": "Change the position, and the object moves.",
+  "duration": 3.0,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Change"
+   },
+   {
+    "t": 0.372,
+    "w": "the"
+   },
+   {
+    "t": 0.479,
+    "w": "position"
+   },
+   {
+    "t": 1.37,
+    "w": "and"
+   },
+   {
+    "t": 1.436,
+    "w": "the"
+   },
+   {
+    "t": 1.556,
+    "w": "object"
+   },
+   {
+    "t": 2.061,
+    "w": "moves"
+   }
+  ]
+ },
+ "p5": {
+  "text": "Hold on to that idea. In video four, JavaScript will change the bottom value sixty times a second. And that's how jumping works.",
+  "duration": 8.376,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Hold"
+   },
+   {
+    "t": 0.306,
+    "w": "on"
+   },
+   {
+    "t": 0.452,
+    "w": "to"
+   },
+   {
+    "t": 0.558,
+    "w": "that"
+   },
+   {
+    "t": 0.731,
+    "w": "idea"
+   },
+   {
+    "t": 1.556,
+    "w": "In"
+   },
+   {
+    "t": 1.676,
+    "w": "video"
+   },
+   {
+    "t": 2.114,
+    "w": "four"
+   },
+   {
+    "t": 2.779,
+    "w": "JavaScript"
+   },
+   {
+    "t": 3.418,
+    "w": "will"
+   },
+   {
+    "t": 3.551,
+    "w": "change"
+   },
+   {
+    "t": 3.989,
+    "w": "the"
+   },
+   {
+    "t": 4.109,
+    "w": "bottom"
+   },
+   {
+    "t": 4.481,
+    "w": "value"
+   },
+   {
+    "t": 4.934,
+    "w": "sixty"
+   },
+   {
+    "t": 5.439,
+    "w": "times"
+   },
+   {
+    "t": 5.785,
+    "w": "a"
+   },
+   {
+    "t": 5.838,
+    "w": "second"
+   },
+   {
+    "t": 6.742,
+    "w": "And"
+   },
+   {
+    "t": 6.822,
+    "w": "that's"
+   },
+   {
+    "t": 7.008,
+    "w": "how"
+   },
+   {
+    "t": 7.128,
+    "w": "jumping"
+   },
+   {
+    "t": 7.5,
+    "w": "works"
+   }
+  ]
+ },
+ "p6": {
+  "text": "Before and after let us add extra shapes, without new HTML. One is the eye. The other is a leg.",
+  "duration": 6.96,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Before"
+   },
+   {
+    "t": 0.612,
+    "w": "and"
+   },
+   {
+    "t": 0.705,
+    "w": "after"
+   },
+   {
+    "t": 1.024,
+    "w": "let"
+   },
+   {
+    "t": 1.197,
+    "w": "us"
+   },
+   {
+    "t": 1.343,
+    "w": "add"
+   },
+   {
+    "t": 1.569,
+    "w": "extra"
+   },
+   {
+    "t": 1.915,
+    "w": "shapes"
+   },
+   {
+    "t": 2.686,
+    "w": "without"
+   },
+   {
+    "t": 3.098,
+    "w": "new"
+   },
+   {
+    "t": 3.364,
+    "w": "HTML"
+   },
+   {
+    "t": 4.561,
+    "w": "One"
+   },
+   {
+    "t": 4.694,
+    "w": "is"
+   },
+   {
+    "t": 4.827,
+    "w": "the"
+   },
+   {
+    "t": 4.96,
+    "w": "eye"
+   },
+   {
+    "t": 5.652,
+    "w": "The"
+   },
+   {
+    "t": 5.785,
+    "w": "other"
+   },
+   {
+    "t": 6.024,
+    "w": "is"
+   },
+   {
+    "t": 6.13,
+    "w": "a"
+   },
+   {
+    "t": 6.197,
+    "w": "leg"
+   }
+  ]
+ },
+ "p7": {
+  "text": "And a crashed style. When the dino has a class called crashed, it turns red.",
+  "duration": 4.992,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.186,
+    "w": "a"
+   },
+   {
+    "t": 0.239,
+    "w": "crashed"
+   },
+   {
+    "t": 0.652,
+    "w": "style"
+   },
+   {
+    "t": 1.569,
+    "w": "When"
+   },
+   {
+    "t": 1.662,
+    "w": "the"
+   },
+   {
+    "t": 1.782,
+    "w": "dino"
+   },
+   {
+    "t": 2.101,
+    "w": "has"
+   },
+   {
+    "t": 2.301,
+    "w": "a"
+   },
+   {
+    "t": 2.367,
+    "w": "class"
+   },
+   {
+    "t": 2.766,
+    "w": "called"
+   },
+   {
+    "t": 3.032,
+    "w": "crashed"
+   },
+   {
+    "t": 3.843,
+    "w": "it"
+   },
+   {
+    "t": 3.936,
+    "w": "turns"
+   },
+   {
+    "t": 4.242,
+    "w": "red"
+   }
+  ]
+ },
+ "b1": {
+  "text": "Same idea for the cactus. A rounded green rectangle. Plus two arms.",
+  "duration": 5.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Same"
+   },
+   {
+    "t": 0.346,
+    "w": "idea"
+   },
+   {
+    "t": 0.731,
+    "w": "for"
+   },
+   {
+    "t": 0.864,
+    "w": "the"
+   },
+   {
+    "t": 0.957,
+    "w": "cactus"
+   },
+   {
+    "t": 2.021,
+    "w": "A"
+   },
+   {
+    "t": 2.074,
+    "w": "rounded"
+   },
+   {
+    "t": 2.58,
+    "w": "green"
+   },
+   {
+    "t": 2.992,
+    "w": "rectangle"
+   },
+   {
+    "t": 4.096,
+    "w": "Plus"
+   },
+   {
+    "t": 4.322,
+    "w": "two"
+   },
+   {
+    "t": 4.574,
+    "w": "arms"
+   }
+  ]
+ },
+ "b2": {
+  "text": "Your paper design might have a rock, a puddle, or a fence. You now know enough to build it.",
+  "duration": 6.384,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Your"
+   },
+   {
+    "t": 0.239,
+    "w": "paper"
+   },
+   {
+    "t": 0.572,
+    "w": "design"
+   },
+   {
+    "t": 1.157,
+    "w": "might"
+   },
+   {
+    "t": 1.383,
+    "w": "have"
+   },
+   {
+    "t": 1.556,
+    "w": "a"
+   },
+   {
+    "t": 1.622,
+    "w": "rock"
+   },
+   {
+    "t": 2.487,
+    "w": "a"
+   },
+   {
+    "t": 2.553,
+    "w": "puddle"
+   },
+   {
+    "t": 3.404,
+    "w": "or"
+   },
+   {
+    "t": 3.497,
+    "w": "a"
+   },
+   {
+    "t": 3.551,
+    "w": "fence"
+   },
+   {
+    "t": 4.601,
+    "w": "You"
+   },
+   {
+    "t": 4.721,
+    "w": "now"
+   },
+   {
+    "t": 4.92,
+    "w": "know"
+   },
+   {
+    "t": 5.16,
+    "w": "enough"
+   },
+   {
+    "t": 5.412,
+    "w": "to"
+   },
+   {
+    "t": 5.532,
+    "w": "build"
+   },
+   {
+    "t": 5.811,
+    "w": "it"
+   }
+  ]
+ },
+ "k1": {
+  "text": "Now the clouds. Keyframes describe an animation. From here, to there.",
+  "duration": 5.256,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.239,
+    "w": "the"
+   },
+   {
+    "t": 0.346,
+    "w": "clouds"
+   },
+   {
+    "t": 1.37,
+    "w": "Keyframes"
+   },
+   {
+    "t": 1.981,
+    "w": "describe"
+   },
+   {
+    "t": 2.46,
+    "w": "an"
+   },
+   {
+    "t": 2.553,
+    "w": "animation"
+   },
+   {
+    "t": 3.63,
+    "w": "From"
+   },
+   {
+    "t": 3.75,
+    "w": "here"
+   },
+   {
+    "t": 4.362,
+    "w": "to"
+   },
+   {
+    "t": 4.495,
+    "w": "there"
+   }
+  ]
+ },
+ "k2": {
+  "text": "We tell each cloud to drift across the sky, forever.",
+  "duration": 4.008,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "We"
+   },
+   {
+    "t": 0.279,
+    "w": "tell"
+   },
+   {
+    "t": 0.545,
+    "w": "each"
+   },
+   {
+    "t": 0.745,
+    "w": "cloud"
+   },
+   {
+    "t": 1.21,
+    "w": "to"
+   },
+   {
+    "t": 1.303,
+    "w": "drift"
+   },
+   {
+    "t": 1.715,
+    "w": "across"
+   },
+   {
+    "t": 2.128,
+    "w": "the"
+   },
+   {
+    "t": 2.221,
+    "w": "sky"
+   },
+   {
+    "t": 3.058,
+    "w": "forever"
+   }
+  ]
+ },
+ "k3": {
+  "text": "So CSS can animate things. But notice. The clouds don't care what you do. They can't react to a key press.",
+  "duration": 7.752,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "So"
+   },
+   {
+    "t": 0.306,
+    "w": "CSS"
+   },
+   {
+    "t": 1.024,
+    "w": "can"
+   },
+   {
+    "t": 1.197,
+    "w": "animate"
+   },
+   {
+    "t": 1.609,
+    "w": "things"
+   },
+   {
+    "t": 2.553,
+    "w": "But"
+   },
+   {
+    "t": 2.66,
+    "w": "notice"
+   },
+   {
+    "t": 3.63,
+    "w": "The"
+   },
+   {
+    "t": 3.697,
+    "w": "clouds"
+   },
+   {
+    "t": 4.109,
+    "w": "don't"
+   },
+   {
+    "t": 4.348,
+    "w": "care"
+   },
+   {
+    "t": 4.601,
+    "w": "what"
+   },
+   {
+    "t": 4.747,
+    "w": "you"
+   },
+   {
+    "t": 4.854,
+    "w": "do"
+   },
+   {
+    "t": 5.572,
+    "w": "They"
+   },
+   {
+    "t": 5.678,
+    "w": "can't"
+   },
+   {
+    "t": 5.971,
+    "w": "react"
+   },
+   {
+    "t": 6.37,
+    "w": "to"
+   },
+   {
+    "t": 6.516,
+    "w": "a"
+   },
+   {
+    "t": 6.596,
+    "w": "key"
+   },
+   {
+    "t": 6.822,
+    "w": "press"
+   }
+  ]
+ },
+ "k4": {
+  "text": "That's behaviour. And behaviour needs JavaScript.",
+  "duration": 3.48,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "That's"
+   },
+   {
+    "t": 0.279,
+    "w": "behaviour"
+   },
+   {
+    "t": 1.303,
+    "w": "And"
+   },
+   {
+    "t": 1.396,
+    "w": "behaviour"
+   },
+   {
+    "t": 1.968,
+    "w": "needs"
+   },
+   {
+    "t": 2.314,
+    "w": "JavaScript"
+   }
+  ]
+ },
+ "d1": {
+  "text": "Next, the messages and the button. Our button gets a pill shape, and a little lift when you hover.",
+  "duration": 6.504,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.798,
+    "w": "the"
+   },
+   {
+    "t": 0.918,
+    "w": "messages"
+   },
+   {
+    "t": 1.808,
+    "w": "and"
+   },
+   {
+    "t": 1.942,
+    "w": "the"
+   },
+   {
+    "t": 2.048,
+    "w": "button"
+   },
+   {
+    "t": 2.886,
+    "w": "Our"
+   },
+   {
+    "t": 3.019,
+    "w": "button"
+   },
+   {
+    "t": 3.378,
+    "w": "gets"
+   },
+   {
+    "t": 3.577,
+    "w": "a"
+   },
+   {
+    "t": 3.657,
+    "w": "pill"
+   },
+   {
+    "t": 3.936,
+    "w": "shape"
+   },
+   {
+    "t": 4.707,
+    "w": "and"
+   },
+   {
+    "t": 4.774,
+    "w": "a"
+   },
+   {
+    "t": 4.827,
+    "w": "little"
+   },
+   {
+    "t": 5.146,
+    "w": "lift"
+   },
+   {
+    "t": 5.479,
+    "w": "when"
+   },
+   {
+    "t": 5.598,
+    "w": "you"
+   },
+   {
+    "t": 5.705,
+    "w": "hover"
+   }
+  ]
+ },
+ "d2": {
+  "text": "Now let's hide the Game Over box. Display, none.",
+  "duration": 3.456,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.279,
+    "w": "let's"
+   },
+   {
+    "t": 0.479,
+    "w": "hide"
+   },
+   {
+    "t": 0.731,
+    "w": "the"
+   },
+   {
+    "t": 0.824,
+    "w": "Game"
+   },
+   {
+    "t": 1.09,
+    "w": "Over"
+   },
+   {
+    "t": 1.303,
+    "w": "box"
+   },
+   {
+    "t": 2.274,
+    "w": "Display"
+   },
+   {
+    "t": 2.739,
+    "w": "none"
+   }
+  ]
+ },
+ "d3": {
+  "text": "Wait. It's still showing. Why?",
+  "duration": 2.784,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Wait"
+   },
+   {
+    "t": 0.851,
+    "w": "It's"
+   },
+   {
+    "t": 0.997,
+    "w": "still"
+   },
+   {
+    "t": 1.25,
+    "w": "showing"
+   },
+   {
+    "t": 2.101,
+    "w": "Why"
+   }
+  ]
+ },
+ "d4": {
+  "text": "Two rules are fighting over display. CSS has a rule for this. An id is more specific than a class, so the id wins.",
+  "duration": 8.808,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Two"
+   },
+   {
+    "t": 0.306,
+    "w": "rules"
+   },
+   {
+    "t": 0.612,
+    "w": "are"
+   },
+   {
+    "t": 0.731,
+    "w": "fighting"
+   },
+   {
+    "t": 1.223,
+    "w": "over"
+   },
+   {
+    "t": 1.423,
+    "w": "display"
+   },
+   {
+    "t": 2.367,
+    "w": "CSS"
+   },
+   {
+    "t": 2.899,
+    "w": "has"
+   },
+   {
+    "t": 3.058,
+    "w": "a"
+   },
+   {
+    "t": 3.112,
+    "w": "rule"
+   },
+   {
+    "t": 3.391,
+    "w": "for"
+   },
+   {
+    "t": 3.577,
+    "w": "this"
+   },
+   {
+    "t": 4.375,
+    "w": "An"
+   },
+   {
+    "t": 4.495,
+    "w": "id"
+   },
+   {
+    "t": 5.066,
+    "w": "is"
+   },
+   {
+    "t": 5.213,
+    "w": "more"
+   },
+   {
+    "t": 5.492,
+    "w": "specific"
+   },
+   {
+    "t": 6.184,
+    "w": "than"
+   },
+   {
+    "t": 6.33,
+    "w": "a"
+   },
+   {
+    "t": 6.383,
+    "w": "class"
+   },
+   {
+    "t": 7.221,
+    "w": "so"
+   },
+   {
+    "t": 7.367,
+    "w": "the"
+   },
+   {
+    "t": 7.513,
+    "w": "id"
+   },
+   {
+    "t": 7.899,
+    "w": "wins"
+   }
+  ]
+ },
+ "d5": {
+  "text": "This is debugging. Something doesn't do what we expected, so we look at why.",
+  "duration": 4.632,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "This"
+   },
+   {
+    "t": 0.279,
+    "w": "is"
+   },
+   {
+    "t": 0.399,
+    "w": "debugging"
+   },
+   {
+    "t": 1.423,
+    "w": "Something"
+   },
+   {
+    "t": 1.729,
+    "w": "doesn't"
+   },
+   {
+    "t": 2.061,
+    "w": "do"
+   },
+   {
+    "t": 2.181,
+    "w": "what"
+   },
+   {
+    "t": 2.327,
+    "w": "we"
+   },
+   {
+    "t": 2.447,
+    "w": "expected"
+   },
+   {
+    "t": 3.351,
+    "w": "so"
+   },
+   {
+    "t": 3.471,
+    "w": "we"
+   },
+   {
+    "t": 3.59,
+    "w": "look"
+   },
+   {
+    "t": 3.777,
+    "w": "at"
+   },
+   {
+    "t": 3.883,
+    "w": "why"
+   }
+  ]
+ },
+ "d6": {
+  "text": "Important tells CSS, this one wins. And the Game Over box disappears.",
+  "duration": 5.496,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Important"
+   },
+   {
+    "t": 0.558,
+    "w": "tells"
+   },
+   {
+    "t": 0.824,
+    "w": "CSS"
+   },
+   {
+    "t": 1.835,
+    "w": "this"
+   },
+   {
+    "t": 2.035,
+    "w": "one"
+   },
+   {
+    "t": 2.274,
+    "w": "wins"
+   },
+   {
+    "t": 3.231,
+    "w": "And"
+   },
+   {
+    "t": 3.311,
+    "w": "the"
+   },
+   {
+    "t": 3.418,
+    "w": "Game"
+   },
+   {
+    "t": 3.75,
+    "w": "Over"
+   },
+   {
+    "t": 3.976,
+    "w": "box"
+   },
+   {
+    "t": 4.322,
+    "w": "disappears"
+   }
+  ]
+ },
+ "o1": {
+  "text": "Look at that. Plain structure, to a styled game.",
+  "duration": 3.384,
+  "words": [
+   {
+    "t": 0.093,
+    "w": "Look"
+   },
+   {
+    "t": 0.239,
+    "w": "at"
+   },
+   {
+    "t": 0.346,
+    "w": "that"
+   },
+   {
+    "t": 1.09,
+    "w": "Plain"
+   },
+   {
+    "t": 1.33,
+    "w": "structure"
+   },
+   {
+    "t": 2.101,
+    "w": "to"
+   },
+   {
+    "t": 2.221,
+    "w": "a"
+   },
+   {
+    "t": 2.301,
+    "w": "styled"
+   },
+   {
+    "t": 2.713,
+    "w": "game"
+   }
+  ]
+ },
+ "o2": {
+  "text": "But press Space...",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.239,
+    "w": "press"
+   },
+   {
+    "t": 0.505,
+    "w": "Space"
+   }
+  ]
+ },
+ "o3": {
+  "text": "Nothing. CSS controls the appearance. But our game still doesn't have its real behaviour.",
+  "duration": 6.336,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Nothing"
+   },
+   {
+    "t": 0.904,
+    "w": "CSS"
+   },
+   {
+    "t": 1.649,
+    "w": "controls"
+   },
+   {
+    "t": 2.221,
+    "w": "the"
+   },
+   {
+    "t": 2.34,
+    "w": "appearance"
+   },
+   {
+    "t": 3.457,
+    "w": "But"
+   },
+   {
+    "t": 3.551,
+    "w": "our"
+   },
+   {
+    "t": 3.683,
+    "w": "game"
+   },
+   {
+    "t": 3.976,
+    "w": "still"
+   },
+   {
+    "t": 4.402,
+    "w": "doesn't"
+   },
+   {
+    "t": 4.747,
+    "w": "have"
+   },
+   {
+    "t": 5.0,
+    "w": "its"
+   },
+   {
+    "t": 5.146,
+    "w": "real"
+   },
+   {
+    "t": 5.372,
+    "w": "behaviour"
+   }
+  ]
+ },
+ "o4": {
+  "text": "It's like a beautiful car, with no engine.",
+  "duration": 2.904,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "It's"
+   },
+   {
+    "t": 0.253,
+    "w": "like"
+   },
+   {
+    "t": 0.426,
+    "w": "a"
+   },
+   {
+    "t": 0.532,
+    "w": "beautiful"
+   },
+   {
+    "t": 1.024,
+    "w": "car"
+   },
+   {
+    "t": 1.755,
+    "w": "with"
+   },
+   {
+    "t": 1.888,
+    "w": "no"
+   },
+   {
+    "t": 2.154,
+    "w": "engine"
+   }
+  ]
+ },
+ "o5": {
+  "text": "Your challenge. Change the colours to match your paper design.",
+  "duration": 3.864,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Your"
+   },
+   {
+    "t": 0.213,
+    "w": "challenge"
+   },
+   {
+    "t": 1.263,
+    "w": "Change"
+   },
+   {
+    "t": 1.569,
+    "w": "the"
+   },
+   {
+    "t": 1.689,
+    "w": "colours"
+   },
+   {
+    "t": 2.154,
+    "w": "to"
+   },
+   {
+    "t": 2.274,
+    "w": "match"
+   },
+   {
+    "t": 2.62,
+    "w": "your"
+   },
+   {
+    "t": 2.739,
+    "w": "paper"
+   },
+   {
+    "t": 3.032,
+    "w": "design"
+   }
+  ]
+ },
+ "o6": {
+  "text": "Next time, we build the engine. JavaScript.",
+  "duration": 3.36,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.346,
+    "w": "time"
+   },
+   {
+    "t": 0.984,
+    "w": "we"
+   },
+   {
+    "t": 1.104,
+    "w": "build"
+   },
+   {
+    "t": 1.343,
+    "w": "the"
+   },
+   {
+    "t": 1.449,
+    "w": "engine"
+   },
+   {
+    "t": 2.274,
+    "w": "JavaScript"
+   }
+  ]
+ }
+}

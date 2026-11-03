@@ -1,0 +1,288 @@
+/* =========================================
+   DINO RUNNER — style.css
+   This file controls how the game LOOKS.
+   ========================================= */
+
+
+/* ---------- 1. OUR COLOURS ----------
+   Change a colour here and it changes everywhere. */
+:root {
+  --background: #fdf6ec;  /* page background */
+  --sky: #dff1f7;         /* game area sky */
+  --ground: #5c4a3d;      /* the ground */
+  --player: #f08a4b;      /* the dinosaur */
+  --obstacle: #2d6a4f;    /* the cactus */
+  --text: #2b2b2b;        /* writing */
+  --accent: #ffb703;      /* buttons */
+  --danger: #d64545;      /* crash colour */
+}
+
+/* VIDEO 5 (AI design prompt): JUNGLE THEME
+   Delete the comment markers at the start and end of this block to switch.
+   Because every colour is a variable, we only change ONE place.
+
+:root {
+  --background: #e4efd9;
+  --sky: #b7e0a5;
+  --ground: #4a3222;
+  --player: #e9c46a;
+  --obstacle: #6b3e26;
+  --text: #13281c;
+  --accent: #f4a261;
+}
+*/
+
+
+/* ---------- 2. THE PAGE ---------- */
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--background);
+  color: var(--text);
+  font-family: "Quicksand", sans-serif;
+}
+
+
+/* ---------- 3. THE GAME CONTAINER ---------- */
+#game {
+  width: 100%;
+  max-width: 800px;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 0 0 8px;
+  font-size: 32px;
+}
+
+
+/* ---------- 4. THE SCORE ---------- */
+#score-board {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+/* ---------- 5. THE GAME AREA (the world) ---------- */
+#game-area {
+  position: relative;   /* lets us place things inside it */
+  height: 300px;
+  background: var(--sky);
+  border: 3px solid var(--text);
+  border-radius: 20px;
+  overflow: hidden;     /* hides anything that leaves the box */
+}
+
+
+/* ---------- 6. THE GROUND ---------- */
+#ground {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  background-color: var(--ground);
+  /* little stripes so we can see the ground move */
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0px,
+    transparent 30px,
+    rgba(255, 255, 255, 0.2) 30px,
+    rgba(255, 255, 255, 0.2) 40px
+  );
+}
+
+
+/* ---------- 7. THE PLAYER (our dinosaur) ---------- */
+#player {
+  position: absolute;
+  left: 60px;
+  bottom: 50px;          /* stands on top of the ground (with legs) */
+  width: 44px;
+  height: 52px;
+  background: var(--player);
+  border-radius: 14px 18px 6px 6px;
+  z-index: 2;
+}
+
+/* The eye */
+#player::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 8px;
+  width: 8px;
+  height: 8px;
+  background: var(--text);
+  border: 3px solid white;
+  border-radius: 50%;
+}
+
+/* The legs (one leg + a copy using box-shadow) */
+#player::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 8px;
+  width: 8px;
+  height: 10px;
+  background: var(--player);
+  border-radius: 0 0 3px 3px;
+  box-shadow: 20px 0 0 var(--player);
+}
+
+/* When the dinosaur crashes */
+#player.crashed {
+  background: var(--danger);
+}
+
+#player.crashed::after {
+  background: var(--danger);
+  box-shadow: 20px 0 0 var(--danger);
+}
+
+
+/* ---------- 8. THE OBSTACLE (a cactus) ---------- */
+#obstacle {
+  position: absolute;
+  left: 600px;
+  bottom: 40px;          /* sits on the ground */
+  width: 24px;
+  height: 50px;
+  background: var(--obstacle);
+  border-radius: 12px 12px 4px 4px;
+}
+
+/* Left arm */
+#obstacle::before {
+  content: "";
+  position: absolute;
+  left: -10px;
+  top: 14px;
+  width: 10px;
+  height: 18px;
+  background: var(--obstacle);
+  border-radius: 6px 0 0 6px;
+}
+
+/* Right arm */
+#obstacle::after {
+  content: "";
+  position: absolute;
+  right: -10px;
+  top: 8px;
+  width: 10px;
+  height: 16px;
+  background: var(--obstacle);
+  border-radius: 0 6px 6px 0;
+}
+
+
+/* ---------- 9. CLOUDS ---------- */
+.cloud {
+  position: absolute;
+  width: 90px;
+  height: 28px;
+  background: white;
+  border-radius: 20px;
+  opacity: 0.9;
+  animation: drift 18s linear infinite;
+}
+
+.cloud-one {
+  top: 40px;
+}
+
+.cloud-two {
+  top: 90px;
+  width: 60px;
+  animation-duration: 26s;
+  animation-delay: -10s;
+}
+
+
+/* ---------- 10. MESSAGES ---------- */
+#start-text {
+  position: absolute;
+  top: 35%;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+#message {
+  position: absolute;
+  inset: 0;              /* covers the whole game area */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.75);
+  z-index: 3;
+}
+
+#message h2 {
+  margin: 0 0 16px;
+  font-size: 40px;
+}
+
+
+/* ---------- 11. THE BUTTON ---------- */
+button {
+  padding: 12px 28px;
+  font-family: inherit;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+  background: var(--accent);
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: transform 0.15s;
+}
+
+button:hover {
+  transform: translateY(-3px);
+}
+
+
+/* ---------- 12. HIDING THINGS ---------- */
+/* !important means "this rule wins", even over the #message rule above */
+.hidden {
+  display: none !important;
+}
+
+
+/* ---------- 13. ANIMATIONS ----------
+   CSS can move things on its own, like clouds.
+   The "running" class is added by JavaScript in Video 4. */
+@keyframes drift {
+  from { left: 100%; }
+  to   { left: -100px; }
+}
+
+@keyframes scroll-ground {
+  from { background-position: 0 0; }
+  to   { background-position: -40px 0; }
+}
+
+@keyframes run {
+  50% { height: 6px; }
+}
+
+#game.running #ground {
+  animation: scroll-ground 0.3s linear infinite;
+}
+
+#game.running #player::after {
+  animation: run 0.2s steps(1) infinite;
+}

@@ -1,0 +1,3650 @@
+{
+ "q1": {
+  "text": "You just saw a game.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.186,
+    "w": "just"
+   },
+   {
+    "t": 0.399,
+    "w": "saw"
+   },
+   {
+    "t": 0.598,
+    "w": "a"
+   },
+   {
+    "t": 0.665,
+    "w": "game"
+   }
+  ]
+ },
+ "q2": {
+  "text": "But here's the interesting question...",
+  "duration": 1.944,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.213,
+    "w": "here's"
+   },
+   {
+    "t": 0.492,
+    "w": "the"
+   },
+   {
+    "t": 0.598,
+    "w": "interesting"
+   },
+   {
+    "t": 1.051,
+    "w": "question"
+   }
+  ]
+ },
+ "q3": {
+  "text": "How do you actually make something like this?",
+  "duration": 2.304,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "How"
+   },
+   {
+    "t": 0.199,
+    "w": "do"
+   },
+   {
+    "t": 0.279,
+    "w": "you"
+   },
+   {
+    "t": 0.412,
+    "w": "actually"
+   },
+   {
+    "t": 0.824,
+    "w": "make"
+   },
+   {
+    "t": 1.011,
+    "w": "something"
+   },
+   {
+    "t": 1.317,
+    "w": "like"
+   },
+   {
+    "t": 1.529,
+    "w": "this"
+   }
+  ]
+ },
+ "q4": {
+  "text": "Do you open your computer, and immediately start writing code?",
+  "duration": 3.48,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Do"
+   },
+   {
+    "t": 0.173,
+    "w": "you"
+   },
+   {
+    "t": 0.306,
+    "w": "open"
+   },
+   {
+    "t": 0.558,
+    "w": "your"
+   },
+   {
+    "t": 0.705,
+    "w": "computer"
+   },
+   {
+    "t": 1.556,
+    "w": "and"
+   },
+   {
+    "t": 1.636,
+    "w": "immediately"
+   },
+   {
+    "t": 2.194,
+    "w": "start"
+   },
+   {
+    "t": 2.513,
+    "w": "writing"
+   },
+   {
+    "t": 2.779,
+    "w": "code"
+   }
+  ]
+ },
+ "q5": {
+  "text": "No.",
+  "duration": 0.792,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "No."
+   }
+  ]
+ },
+ "q6": {
+  "text": "You start by thinking.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.186,
+    "w": "start"
+   },
+   {
+    "t": 0.439,
+    "w": "by"
+   },
+   {
+    "t": 0.572,
+    "w": "thinking"
+   }
+  ]
+ },
+ "b1": {
+  "text": "Good creators start by understanding the thing they're going to build.",
+  "duration": 3.816,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Good"
+   },
+   {
+    "t": 0.293,
+    "w": "creators"
+   },
+   {
+    "t": 0.785,
+    "w": "start"
+   },
+   {
+    "t": 1.197,
+    "w": "by"
+   },
+   {
+    "t": 1.41,
+    "w": "understanding"
+   },
+   {
+    "t": 2.114,
+    "w": "the"
+   },
+   {
+    "t": 2.221,
+    "w": "thing"
+   },
+   {
+    "t": 2.606,
+    "w": "they're"
+   },
+   {
+    "t": 2.753,
+    "w": "going"
+   },
+   {
+    "t": 2.965,
+    "w": "to"
+   },
+   {
+    "t": 3.045,
+    "w": "build"
+   }
+  ]
+ },
+ "b2": {
+  "text": "A finished product can look complicated.",
+  "duration": 2.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "A"
+   },
+   {
+    "t": 0.186,
+    "w": "finished"
+   },
+   {
+    "t": 0.532,
+    "w": "product"
+   },
+   {
+    "t": 0.957,
+    "w": "can"
+   },
+   {
+    "t": 1.13,
+    "w": "look"
+   },
+   {
+    "t": 1.29,
+    "w": "complicated"
+   }
+  ]
+ },
+ "b3": {
+  "text": "But creators learn to break complicated things into smaller pieces.",
+  "duration": 4.488,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.226,
+    "w": "creators"
+   },
+   {
+    "t": 0.745,
+    "w": "learn"
+   },
+   {
+    "t": 1.064,
+    "w": "to"
+   },
+   {
+    "t": 1.183,
+    "w": "break"
+   },
+   {
+    "t": 1.569,
+    "w": "complicated"
+   },
+   {
+    "t": 2.327,
+    "w": "things"
+   },
+   {
+    "t": 2.926,
+    "w": "into"
+   },
+   {
+    "t": 3.112,
+    "w": "smaller"
+   },
+   {
+    "t": 3.537,
+    "w": "pieces"
+   }
+  ]
+ },
+ "b4": {
+  "text": "The player. The world. Obstacles. Controls. The score. The rules. Game over. And restart.",
+  "duration": 8.256,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.173,
+    "w": "player"
+   },
+   {
+    "t": 1.064,
+    "w": "The"
+   },
+   {
+    "t": 1.144,
+    "w": "world"
+   },
+   {
+    "t": 1.995,
+    "w": "Obstacles"
+   },
+   {
+    "t": 3.098,
+    "w": "Controls"
+   },
+   {
+    "t": 4.176,
+    "w": "The"
+   },
+   {
+    "t": 4.242,
+    "w": "score"
+   },
+   {
+    "t": 5.133,
+    "w": "The"
+   },
+   {
+    "t": 5.213,
+    "w": "rules"
+   },
+   {
+    "t": 6.17,
+    "w": "Game"
+   },
+   {
+    "t": 6.383,
+    "w": "over"
+   },
+   {
+    "t": 7.168,
+    "w": "And"
+   },
+   {
+    "t": 7.287,
+    "w": "restart"
+   }
+  ]
+ },
+ "b5": {
+  "text": "Eight pieces. That's all this game really is.",
+  "duration": 3.168,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Eight"
+   },
+   {
+    "t": 0.293,
+    "w": "pieces"
+   },
+   {
+    "t": 1.303,
+    "w": "That's"
+   },
+   {
+    "t": 1.463,
+    "w": "all"
+   },
+   {
+    "t": 1.609,
+    "w": "this"
+   },
+   {
+    "t": 1.782,
+    "w": "game"
+   },
+   {
+    "t": 2.061,
+    "w": "really"
+   },
+   {
+    "t": 2.38,
+    "w": "is"
+   }
+  ]
+ },
+ "p1": {
+  "text": "Now, let's step away from the computer completely.",
+  "duration": 3.288,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.785,
+    "w": "let's"
+   },
+   {
+    "t": 0.957,
+    "w": "step"
+   },
+   {
+    "t": 1.21,
+    "w": "away"
+   },
+   {
+    "t": 1.503,
+    "w": "from"
+   },
+   {
+    "t": 1.676,
+    "w": "the"
+   },
+   {
+    "t": 1.769,
+    "w": "computer"
+   },
+   {
+    "t": 2.261,
+    "w": "completely"
+   }
+  ]
+ },
+ "p2": {
+  "text": "Before we build it digitally, we're going to design it on paper.",
+  "duration": 3.696,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Before"
+   },
+   {
+    "t": 0.399,
+    "w": "we"
+   },
+   {
+    "t": 0.545,
+    "w": "build"
+   },
+   {
+    "t": 0.824,
+    "w": "it"
+   },
+   {
+    "t": 0.971,
+    "w": "digitally"
+   },
+   {
+    "t": 1.822,
+    "w": "we're"
+   },
+   {
+    "t": 1.942,
+    "w": "going"
+   },
+   {
+    "t": 2.088,
+    "w": "to"
+   },
+   {
+    "t": 2.168,
+    "w": "design"
+   },
+   {
+    "t": 2.58,
+    "w": "it"
+   },
+   {
+    "t": 2.673,
+    "w": "on"
+   },
+   {
+    "t": 2.819,
+    "w": "paper"
+   }
+  ]
+ },
+ "p3": {
+  "text": "Here's the game area. The ground. Our dinosaur. An obstacle. And the score.",
+  "duration": 5.784,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Here's"
+   },
+   {
+    "t": 0.293,
+    "w": "the"
+   },
+   {
+    "t": 0.399,
+    "w": "game"
+   },
+   {
+    "t": 0.652,
+    "w": "area"
+   },
+   {
+    "t": 1.463,
+    "w": "The"
+   },
+   {
+    "t": 1.529,
+    "w": "ground"
+   },
+   {
+    "t": 2.42,
+    "w": "Our"
+   },
+   {
+    "t": 2.553,
+    "w": "dinosaur"
+   },
+   {
+    "t": 3.657,
+    "w": "An"
+   },
+   {
+    "t": 3.75,
+    "w": "obstacle"
+   },
+   {
+    "t": 4.747,
+    "w": "And"
+   },
+   {
+    "t": 4.827,
+    "w": "the"
+   },
+   {
+    "t": 4.92,
+    "w": "score"
+   }
+  ]
+ },
+ "p4": {
+  "text": "Then we add what things do. The dinosaur jumps. The obstacle moves toward the player. The score goes up while you survive. And if they collide... game over.",
+  "duration": 10.008,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Then"
+   },
+   {
+    "t": 0.199,
+    "w": "we"
+   },
+   {
+    "t": 0.359,
+    "w": "add"
+   },
+   {
+    "t": 0.585,
+    "w": "what"
+   },
+   {
+    "t": 0.731,
+    "w": "things"
+   },
+   {
+    "t": 1.037,
+    "w": "do"
+   },
+   {
+    "t": 1.782,
+    "w": "The"
+   },
+   {
+    "t": 1.848,
+    "w": "dinosaur"
+   },
+   {
+    "t": 2.327,
+    "w": "jumps"
+   },
+   {
+    "t": 3.324,
+    "w": "The"
+   },
+   {
+    "t": 3.444,
+    "w": "obstacle"
+   },
+   {
+    "t": 3.989,
+    "w": "moves"
+   },
+   {
+    "t": 4.428,
+    "w": "toward"
+   },
+   {
+    "t": 4.654,
+    "w": "the"
+   },
+   {
+    "t": 4.721,
+    "w": "player"
+   },
+   {
+    "t": 5.612,
+    "w": "The"
+   },
+   {
+    "t": 5.678,
+    "w": "score"
+   },
+   {
+    "t": 6.024,
+    "w": "goes"
+   },
+   {
+    "t": 6.29,
+    "w": "up"
+   },
+   {
+    "t": 6.503,
+    "w": "while"
+   },
+   {
+    "t": 6.649,
+    "w": "you"
+   },
+   {
+    "t": 6.755,
+    "w": "survive"
+   },
+   {
+    "t": 7.779,
+    "w": "And"
+   },
+   {
+    "t": 7.886,
+    "w": "if"
+   },
+   {
+    "t": 7.992,
+    "w": "they"
+   },
+   {
+    "t": 8.138,
+    "w": "collide"
+   },
+   {
+    "t": 9.003,
+    "w": "game"
+   },
+   {
+    "t": 9.242,
+    "w": "over"
+   }
+  ]
+ },
+ "p5": {
+  "text": "Plus a button, so the player can restart.",
+  "duration": 2.928,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Plus"
+   },
+   {
+    "t": 0.332,
+    "w": "a"
+   },
+   {
+    "t": 0.412,
+    "w": "button"
+   },
+   {
+    "t": 1.157,
+    "w": "so"
+   },
+   {
+    "t": 1.29,
+    "w": "the"
+   },
+   {
+    "t": 1.41,
+    "w": "player"
+   },
+   {
+    "t": 1.769,
+    "w": "can"
+   },
+   {
+    "t": 1.942,
+    "w": "restart"
+   }
+  ]
+ },
+ "p6": {
+  "text": "It doesn't have to be beautiful. Look at this dinosaur. It's basically a potato with legs.",
+  "duration": 5.784,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "It"
+   },
+   {
+    "t": 0.213,
+    "w": "doesn't"
+   },
+   {
+    "t": 0.519,
+    "w": "have"
+   },
+   {
+    "t": 0.785,
+    "w": "to"
+   },
+   {
+    "t": 0.864,
+    "w": "be"
+   },
+   {
+    "t": 1.011,
+    "w": "beautiful"
+   },
+   {
+    "t": 2.061,
+    "w": "Look"
+   },
+   {
+    "t": 2.194,
+    "w": "at"
+   },
+   {
+    "t": 2.301,
+    "w": "this"
+   },
+   {
+    "t": 2.473,
+    "w": "dinosaur"
+   },
+   {
+    "t": 3.551,
+    "w": "It's"
+   },
+   {
+    "t": 3.683,
+    "w": "basically"
+   },
+   {
+    "t": 4.189,
+    "w": "a"
+   },
+   {
+    "t": 4.255,
+    "w": "potato"
+   },
+   {
+    "t": 4.668,
+    "w": "with"
+   },
+   {
+    "t": 4.84,
+    "w": "legs"
+   }
+  ]
+ },
+ "p7": {
+  "text": "That's fine. The point isn't art. The point is to make the idea visible.",
+  "duration": 4.92,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "That's"
+   },
+   {
+    "t": 0.306,
+    "w": "fine"
+   },
+   {
+    "t": 1.157,
+    "w": "The"
+   },
+   {
+    "t": 1.223,
+    "w": "point"
+   },
+   {
+    "t": 1.516,
+    "w": "isn't"
+   },
+   {
+    "t": 1.729,
+    "w": "art"
+   },
+   {
+    "t": 2.473,
+    "w": "The"
+   },
+   {
+    "t": 2.553,
+    "w": "point"
+   },
+   {
+    "t": 2.952,
+    "w": "is"
+   },
+   {
+    "t": 3.085,
+    "w": "to"
+   },
+   {
+    "t": 3.192,
+    "w": "make"
+   },
+   {
+    "t": 3.431,
+    "w": "the"
+   },
+   {
+    "t": 3.537,
+    "w": "idea"
+   },
+   {
+    "t": 3.989,
+    "w": "visible"
+   }
+  ]
+ },
+ "p8": {
+  "text": "When you put your idea on paper, you can see it.",
+  "duration": 3.072,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "When"
+   },
+   {
+    "t": 0.213,
+    "w": "you"
+   },
+   {
+    "t": 0.306,
+    "w": "put"
+   },
+   {
+    "t": 0.479,
+    "w": "your"
+   },
+   {
+    "t": 0.625,
+    "w": "idea"
+   },
+   {
+    "t": 1.09,
+    "w": "on"
+   },
+   {
+    "t": 1.223,
+    "w": "paper"
+   },
+   {
+    "t": 1.981,
+    "w": "you"
+   },
+   {
+    "t": 2.074,
+    "w": "can"
+   },
+   {
+    "t": 2.207,
+    "w": "see"
+   },
+   {
+    "t": 2.487,
+    "w": "it"
+   }
+  ]
+ },
+ "p9": {
+  "text": "You can change it.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.199,
+    "w": "can"
+   },
+   {
+    "t": 0.319,
+    "w": "change"
+   },
+   {
+    "t": 0.638,
+    "w": "it"
+   }
+  ]
+ },
+ "p10": {
+  "text": "You can spot what's missing.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.199,
+    "w": "can"
+   },
+   {
+    "t": 0.346,
+    "w": "spot"
+   },
+   {
+    "t": 0.678,
+    "w": "what's"
+   },
+   {
+    "t": 0.864,
+    "w": "missing"
+   }
+  ]
+ },
+ "p11": {
+  "text": "And you can explain it to somebody else.",
+  "duration": 2.184,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "you"
+   },
+   {
+    "t": 0.306,
+    "w": "can"
+   },
+   {
+    "t": 0.439,
+    "w": "explain"
+   },
+   {
+    "t": 0.864,
+    "w": "it"
+   },
+   {
+    "t": 0.944,
+    "w": "to"
+   },
+   {
+    "t": 1.024,
+    "w": "somebody"
+   },
+   {
+    "t": 1.41,
+    "w": "else"
+   }
+  ]
+ },
+ "st1": {
+  "text": "This is how all your development and product building should start.",
+  "duration": 4.08,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "This"
+   },
+   {
+    "t": 0.306,
+    "w": "is"
+   },
+   {
+    "t": 0.412,
+    "w": "how"
+   },
+   {
+    "t": 0.838,
+    "w": "all"
+   },
+   {
+    "t": 1.077,
+    "w": "your"
+   },
+   {
+    "t": 1.21,
+    "w": "development"
+   },
+   {
+    "t": 2.128,
+    "w": "and"
+   },
+   {
+    "t": 2.221,
+    "w": "product"
+   },
+   {
+    "t": 2.699,
+    "w": "building"
+   },
+   {
+    "t": 3.019,
+    "w": "should"
+   },
+   {
+    "t": 3.218,
+    "w": "start"
+   }
+  ]
+ },
+ "st2": {
+  "text": "Don't start by building.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Don't"
+   },
+   {
+    "t": 0.253,
+    "w": "start"
+   },
+   {
+    "t": 0.532,
+    "w": "by"
+   },
+   {
+    "t": 0.692,
+    "w": "building"
+   }
+  ]
+ },
+ "st3": {
+  "text": "Start by understanding what you're building.",
+  "duration": 2.376,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Start"
+   },
+   {
+    "t": 0.439,
+    "w": "by"
+   },
+   {
+    "t": 0.652,
+    "w": "understanding"
+   },
+   {
+    "t": 1.343,
+    "w": "what"
+   },
+   {
+    "t": 1.489,
+    "w": "you're"
+   },
+   {
+    "t": 1.622,
+    "w": "building"
+   }
+  ]
+ },
+ "st4": {
+  "text": "Websites. Apps. Games. Businesses. Creative projects. They all start right here.",
+  "duration": 6.936,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Websites"
+   },
+   {
+    "t": 1.17,
+    "w": "Apps"
+   },
+   {
+    "t": 2.008,
+    "w": "Games"
+   },
+   {
+    "t": 2.939,
+    "w": "Businesses"
+   },
+   {
+    "t": 3.963,
+    "w": "Creative"
+   },
+   {
+    "t": 4.309,
+    "w": "projects"
+   },
+   {
+    "t": 5.505,
+    "w": "They"
+   },
+   {
+    "t": 5.612,
+    "w": "all"
+   },
+   {
+    "t": 5.745,
+    "w": "start"
+   },
+   {
+    "t": 6.024,
+    "w": "right"
+   },
+   {
+    "t": 6.21,
+    "w": "here"
+   }
+  ]
+ },
+ "qa0": {
+  "text": "Now let's ask our design some questions.",
+  "duration": 2.496,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.279,
+    "w": "let's"
+   },
+   {
+    "t": 0.505,
+    "w": "ask"
+   },
+   {
+    "t": 0.824,
+    "w": "our"
+   },
+   {
+    "t": 0.931,
+    "w": "design"
+   },
+   {
+    "t": 1.317,
+    "w": "some"
+   },
+   {
+    "t": 1.463,
+    "w": "questions"
+   }
+  ]
+ },
+ "qa1q": {
+  "text": "What are we making?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.199,
+    "w": "are"
+   },
+   {
+    "t": 0.253,
+    "w": "we"
+   },
+   {
+    "t": 0.372,
+    "w": "making"
+   }
+  ]
+ },
+ "qa1a": {
+  "text": "A Dino Runner game.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "A"
+   },
+   {
+    "t": 0.213,
+    "w": "Dino"
+   },
+   {
+    "t": 0.545,
+    "w": "Runner"
+   },
+   {
+    "t": 0.785,
+    "w": "game"
+   }
+  ]
+ },
+ "qa2q": {
+  "text": "Who is using it?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Who"
+   },
+   {
+    "t": 0.239,
+    "w": "is"
+   },
+   {
+    "t": 0.359,
+    "w": "using"
+   },
+   {
+    "t": 0.692,
+    "w": "it"
+   }
+  ]
+ },
+ "qa2a": {
+  "text": "The player.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.173,
+    "w": "player"
+   }
+  ]
+ },
+ "qa3q": {
+  "text": "What can the player do?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.213,
+    "w": "can"
+   },
+   {
+    "t": 0.319,
+    "w": "the"
+   },
+   {
+    "t": 0.412,
+    "w": "player"
+   },
+   {
+    "t": 0.718,
+    "w": "do"
+   }
+  ]
+ },
+ "qa3a": {
+  "text": "Jump, and avoid obstacles.",
+  "duration": 2.232,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Jump"
+   },
+   {
+    "t": 0.731,
+    "w": "and"
+   },
+   {
+    "t": 0.811,
+    "w": "avoid"
+   },
+   {
+    "t": 1.157,
+    "w": "obstacles"
+   }
+  ]
+ },
+ "qa4q": {
+  "text": "What happens in the game?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.213,
+    "w": "happens"
+   },
+   {
+    "t": 0.585,
+    "w": "in"
+   },
+   {
+    "t": 0.665,
+    "w": "the"
+   },
+   {
+    "t": 0.745,
+    "w": "game"
+   }
+  ]
+ },
+ "qa4a": {
+  "text": "Obstacles move toward the player.",
+  "duration": 2.16,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Obstacles"
+   },
+   {
+    "t": 0.692,
+    "w": "move"
+   },
+   {
+    "t": 1.011,
+    "w": "toward"
+   },
+   {
+    "t": 1.237,
+    "w": "the"
+   },
+   {
+    "t": 1.317,
+    "w": "player"
+   }
+  ]
+ },
+ "qa5q": {
+  "text": "How does the player know they're doing well?",
+  "duration": 2.232,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "How"
+   },
+   {
+    "t": 0.199,
+    "w": "does"
+   },
+   {
+    "t": 0.346,
+    "w": "the"
+   },
+   {
+    "t": 0.452,
+    "w": "player"
+   },
+   {
+    "t": 0.785,
+    "w": "know"
+   },
+   {
+    "t": 1.064,
+    "w": "they're"
+   },
+   {
+    "t": 1.223,
+    "w": "doing"
+   },
+   {
+    "t": 1.516,
+    "w": "well"
+   }
+  ]
+ },
+ "qa5a": {
+  "text": "The score goes up.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "score"
+   },
+   {
+    "t": 0.479,
+    "w": "goes"
+   },
+   {
+    "t": 0.731,
+    "w": "up"
+   }
+  ]
+ },
+ "qa6q": {
+  "text": "What happens when the dinosaur hits an obstacle?",
+  "duration": 2.736,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.226,
+    "w": "happens"
+   },
+   {
+    "t": 0.652,
+    "w": "when"
+   },
+   {
+    "t": 0.785,
+    "w": "the"
+   },
+   {
+    "t": 0.904,
+    "w": "dinosaur"
+   },
+   {
+    "t": 1.463,
+    "w": "hits"
+   },
+   {
+    "t": 1.689,
+    "w": "an"
+   },
+   {
+    "t": 1.782,
+    "w": "obstacle"
+   }
+  ]
+ },
+ "qa6a": {
+  "text": "Game over.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Game"
+   },
+   {
+    "t": 0.319,
+    "w": "over"
+   }
+  ]
+ },
+ "qa7q": {
+  "text": "And what happens next?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.186,
+    "w": "what"
+   },
+   {
+    "t": 0.332,
+    "w": "happens"
+   },
+   {
+    "t": 0.718,
+    "w": "next"
+   }
+  ]
+ },
+ "qa7a": {
+  "text": "The player can restart.",
+  "duration": 1.632,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "player"
+   },
+   {
+    "t": 0.519,
+    "w": "can"
+   },
+   {
+    "t": 0.678,
+    "w": "restart"
+   }
+  ]
+ },
+ "qx1": {
+  "text": "These questions come before the code.",
+  "duration": 2.208,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "These"
+   },
+   {
+    "t": 0.293,
+    "w": "questions"
+   },
+   {
+    "t": 0.771,
+    "w": "come"
+   },
+   {
+    "t": 0.984,
+    "w": "before"
+   },
+   {
+    "t": 1.33,
+    "w": "the"
+   },
+   {
+    "t": 1.423,
+    "w": "code"
+   }
+  ]
+ },
+ "qx2": {
+  "text": "If you can't answer them, you're not ready to build yet. And that's okay. It just means you keep thinking.",
+  "duration": 5.928,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "If"
+   },
+   {
+    "t": 0.213,
+    "w": "you"
+   },
+   {
+    "t": 0.319,
+    "w": "can't"
+   },
+   {
+    "t": 0.625,
+    "w": "answer"
+   },
+   {
+    "t": 0.944,
+    "w": "them"
+   },
+   {
+    "t": 1.449,
+    "w": "you're"
+   },
+   {
+    "t": 1.543,
+    "w": "not"
+   },
+   {
+    "t": 1.808,
+    "w": "ready"
+   },
+   {
+    "t": 2.021,
+    "w": "to"
+   },
+   {
+    "t": 2.128,
+    "w": "build"
+   },
+   {
+    "t": 2.447,
+    "w": "yet"
+   },
+   {
+    "t": 3.178,
+    "w": "And"
+   },
+   {
+    "t": 3.258,
+    "w": "that's"
+   },
+   {
+    "t": 3.471,
+    "w": "okay"
+   },
+   {
+    "t": 4.269,
+    "w": "It"
+   },
+   {
+    "t": 4.362,
+    "w": "just"
+   },
+   {
+    "t": 4.574,
+    "w": "means"
+   },
+   {
+    "t": 4.774,
+    "w": "you"
+   },
+   {
+    "t": 4.88,
+    "w": "keep"
+   },
+   {
+    "t": 5.12,
+    "w": "thinking"
+   }
+  ]
+ },
+ "bb1": {
+  "text": "Every product can be split into three simple questions.",
+  "duration": 3.792,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.372,
+    "w": "product"
+   },
+   {
+    "t": 0.904,
+    "w": "can"
+   },
+   {
+    "t": 1.064,
+    "w": "be"
+   },
+   {
+    "t": 1.197,
+    "w": "split"
+   },
+   {
+    "t": 1.662,
+    "w": "into"
+   },
+   {
+    "t": 1.955,
+    "w": "three"
+   },
+   {
+    "t": 2.38,
+    "w": "simple"
+   },
+   {
+    "t": 2.726,
+    "w": "questions"
+   }
+  ]
+ },
+ "bb2": {
+  "text": "What exists?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.199,
+    "w": "exists"
+   }
+  ]
+ },
+ "bb3": {
+  "text": "What does it look like?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.186,
+    "w": "does"
+   },
+   {
+    "t": 0.319,
+    "w": "it"
+   },
+   {
+    "t": 0.412,
+    "w": "look"
+   },
+   {
+    "t": 0.598,
+    "w": "like"
+   }
+  ]
+ },
+ "bb4": {
+  "text": "And what does it do?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "what"
+   },
+   {
+    "t": 0.319,
+    "w": "does"
+   },
+   {
+    "t": 0.452,
+    "w": "it"
+   },
+   {
+    "t": 0.572,
+    "w": "do"
+   }
+  ]
+ },
+ "bb5": {
+  "text": "On the web, each question has its own language.",
+  "duration": 3.312,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "On"
+   },
+   {
+    "t": 0.213,
+    "w": "the"
+   },
+   {
+    "t": 0.306,
+    "w": "web"
+   },
+   {
+    "t": 1.104,
+    "w": "each"
+   },
+   {
+    "t": 1.29,
+    "w": "question"
+   },
+   {
+    "t": 1.769,
+    "w": "has"
+   },
+   {
+    "t": 1.995,
+    "w": "its"
+   },
+   {
+    "t": 2.141,
+    "w": "own"
+   },
+   {
+    "t": 2.327,
+    "w": "language"
+   }
+  ]
+ },
+ "bb6": {
+  "text": "HTML creates the things that exist.",
+  "duration": 2.832,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "HTML"
+   },
+   {
+    "t": 0.785,
+    "w": "creates"
+   },
+   {
+    "t": 1.183,
+    "w": "the"
+   },
+   {
+    "t": 1.29,
+    "w": "things"
+   },
+   {
+    "t": 1.715,
+    "w": "that"
+   },
+   {
+    "t": 1.862,
+    "w": "exist"
+   }
+  ]
+ },
+ "bb7": {
+  "text": "CSS decides what they look like.",
+  "duration": 2.424,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "CSS"
+   },
+   {
+    "t": 0.758,
+    "w": "decides"
+   },
+   {
+    "t": 1.237,
+    "w": "what"
+   },
+   {
+    "t": 1.356,
+    "w": "they"
+   },
+   {
+    "t": 1.463,
+    "w": "look"
+   },
+   {
+    "t": 1.715,
+    "w": "like"
+   }
+  ]
+ },
+ "bb8": {
+  "text": "And JavaScript decides what they do.",
+  "duration": 2.328,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.213,
+    "w": "JavaScript"
+   },
+   {
+    "t": 0.904,
+    "w": "decides"
+   },
+   {
+    "t": 1.41,
+    "w": "what"
+   },
+   {
+    "t": 1.543,
+    "w": "they"
+   },
+   {
+    "t": 1.676,
+    "w": "do"
+   }
+  ]
+ },
+ "h1": {
+  "text": "Think of a house.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Think"
+   },
+   {
+    "t": 0.279,
+    "w": "of"
+   },
+   {
+    "t": 0.346,
+    "w": "a"
+   },
+   {
+    "t": 0.399,
+    "w": "house"
+   }
+  ]
+ },
+ "h2": {
+  "text": "HTML is the walls.",
+  "duration": 1.944,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "HTML"
+   },
+   {
+    "t": 0.811,
+    "w": "is"
+   },
+   {
+    "t": 0.918,
+    "w": "the"
+   },
+   {
+    "t": 1.011,
+    "w": "walls"
+   }
+  ]
+ },
+ "h3": {
+  "text": "CSS is the paint, and the furniture.",
+  "duration": 3.048,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "CSS"
+   },
+   {
+    "t": 0.931,
+    "w": "is"
+   },
+   {
+    "t": 1.037,
+    "w": "the"
+   },
+   {
+    "t": 1.144,
+    "w": "paint"
+   },
+   {
+    "t": 1.875,
+    "w": "and"
+   },
+   {
+    "t": 1.942,
+    "w": "the"
+   },
+   {
+    "t": 2.021,
+    "w": "furniture"
+   }
+  ]
+ },
+ "h4": {
+  "text": "JavaScript is the electricity. It makes things happen.",
+  "duration": 3.648,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "JavaScript"
+   },
+   {
+    "t": 0.891,
+    "w": "is"
+   },
+   {
+    "t": 1.011,
+    "w": "the"
+   },
+   {
+    "t": 1.104,
+    "w": "electricity"
+   },
+   {
+    "t": 2.314,
+    "w": "It"
+   },
+   {
+    "t": 2.42,
+    "w": "makes"
+   },
+   {
+    "t": 2.633,
+    "w": "things"
+   },
+   {
+    "t": 2.859,
+    "w": "happen"
+   }
+  ]
+ },
+ "h5": {
+  "text": "You don't need any code yet. Just remember the three jobs.",
+  "duration": 3.744,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.199,
+    "w": "don't"
+   },
+   {
+    "t": 0.386,
+    "w": "need"
+   },
+   {
+    "t": 0.678,
+    "w": "any"
+   },
+   {
+    "t": 0.864,
+    "w": "code"
+   },
+   {
+    "t": 1.21,
+    "w": "yet"
+   },
+   {
+    "t": 1.928,
+    "w": "Just"
+   },
+   {
+    "t": 2.101,
+    "w": "remember"
+   },
+   {
+    "t": 2.42,
+    "w": "the"
+   },
+   {
+    "t": 2.513,
+    "w": "three"
+   },
+   {
+    "t": 2.766,
+    "w": "jobs"
+   }
+  ]
+ },
+ "r1": {
+  "text": "Here's another creator habit.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "Here's"
+   },
+   {
+    "t": 0.306,
+    "w": "another"
+   },
+   {
+    "t": 0.625,
+    "w": "creator"
+   },
+   {
+    "t": 1.037,
+    "w": "habit"
+   }
+  ]
+ },
+ "r2": {
+  "text": "Know what you need before you start.",
+  "duration": 1.992,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Know"
+   },
+   {
+    "t": 0.226,
+    "w": "what"
+   },
+   {
+    "t": 0.372,
+    "w": "you"
+   },
+   {
+    "t": 0.479,
+    "w": "need"
+   },
+   {
+    "t": 0.705,
+    "w": "before"
+   },
+   {
+    "t": 1.051,
+    "w": "you"
+   },
+   {
+    "t": 1.13,
+    "w": "start"
+   }
+  ]
+ },
+ "r3": {
+  "text": "Characters. Obstacles. A background. Sounds. Fonts. Buttons. Code. Game rules. And ideas.",
+  "duration": 9.12,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Characters"
+   },
+   {
+    "t": 1.117,
+    "w": "Obstacles"
+   },
+   {
+    "t": 2.207,
+    "w": "A"
+   },
+   {
+    "t": 2.301,
+    "w": "background"
+   },
+   {
+    "t": 3.364,
+    "w": "Sounds"
+   },
+   {
+    "t": 4.348,
+    "w": "Fonts"
+   },
+   {
+    "t": 5.253,
+    "w": "Buttons"
+   },
+   {
+    "t": 6.157,
+    "w": "Code"
+   },
+   {
+    "t": 6.928,
+    "w": "Game"
+   },
+   {
+    "t": 7.141,
+    "w": "rules"
+   },
+   {
+    "t": 7.992,
+    "w": "And"
+   },
+   {
+    "t": 8.085,
+    "w": "ideas"
+   }
+  ]
+ },
+ "r4": {
+  "text": "Resources can come from lots of places.",
+  "duration": 2.64,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Resources"
+   },
+   {
+    "t": 0.692,
+    "w": "can"
+   },
+   {
+    "t": 0.878,
+    "w": "come"
+   },
+   {
+    "t": 1.13,
+    "w": "from"
+   },
+   {
+    "t": 1.303,
+    "w": "lots"
+   },
+   {
+    "t": 1.582,
+    "w": "of"
+   },
+   {
+    "t": 1.662,
+    "w": "places"
+   }
+  ]
+ },
+ "r5": {
+  "text": "You might draw them, build them with CSS, write the code yourself, use AI to explore ideas, or find them from a source you're allowed to use.",
+  "duration": 9.24,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.199,
+    "w": "might"
+   },
+   {
+    "t": 0.412,
+    "w": "draw"
+   },
+   {
+    "t": 0.705,
+    "w": "them"
+   },
+   {
+    "t": 1.33,
+    "w": "build"
+   },
+   {
+    "t": 1.569,
+    "w": "them"
+   },
+   {
+    "t": 1.715,
+    "w": "with"
+   },
+   {
+    "t": 1.862,
+    "w": "CSS"
+   },
+   {
+    "t": 3.019,
+    "w": "write"
+   },
+   {
+    "t": 3.178,
+    "w": "the"
+   },
+   {
+    "t": 3.271,
+    "w": "code"
+   },
+   {
+    "t": 3.551,
+    "w": "yourself"
+   },
+   {
+    "t": 4.468,
+    "w": "use"
+   },
+   {
+    "t": 4.694,
+    "w": "AI"
+   },
+   {
+    "t": 5.106,
+    "w": "to"
+   },
+   {
+    "t": 5.306,
+    "w": "explore"
+   },
+   {
+    "t": 5.785,
+    "w": "ideas"
+   },
+   {
+    "t": 6.649,
+    "w": "or"
+   },
+   {
+    "t": 6.755,
+    "w": "find"
+   },
+   {
+    "t": 7.088,
+    "w": "them"
+   },
+   {
+    "t": 7.221,
+    "w": "from"
+   },
+   {
+    "t": 7.394,
+    "w": "a"
+   },
+   {
+    "t": 7.46,
+    "w": "source"
+   },
+   {
+    "t": 7.793,
+    "w": "you're"
+   },
+   {
+    "t": 7.939,
+    "w": "allowed"
+   },
+   {
+    "t": 8.285,
+    "w": "to"
+   },
+   {
+    "t": 8.404,
+    "w": "use"
+   }
+  ]
+ },
+ "r6": {
+  "text": "The important thing isn't where they come from. It's knowing what you need.",
+  "duration": 3.984,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "The"
+   },
+   {
+    "t": 0.16,
+    "w": "important"
+   },
+   {
+    "t": 0.652,
+    "w": "thing"
+   },
+   {
+    "t": 1.011,
+    "w": "isn't"
+   },
+   {
+    "t": 1.25,
+    "w": "where"
+   },
+   {
+    "t": 1.356,
+    "w": "they"
+   },
+   {
+    "t": 1.489,
+    "w": "come"
+   },
+   {
+    "t": 1.729,
+    "w": "from"
+   },
+   {
+    "t": 2.473,
+    "w": "It's"
+   },
+   {
+    "t": 2.62,
+    "w": "knowing"
+   },
+   {
+    "t": 2.926,
+    "w": "what"
+   },
+   {
+    "t": 3.085,
+    "w": "you"
+   },
+   {
+    "t": 3.192,
+    "w": "need"
+   }
+  ]
+ },
+ "rd1": {
+  "text": "Now we have an idea.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.253,
+    "w": "we"
+   },
+   {
+    "t": 0.372,
+    "w": "have"
+   },
+   {
+    "t": 0.532,
+    "w": "an"
+   },
+   {
+    "t": 0.625,
+    "w": "idea"
+   }
+  ]
+ },
+ "rd2": {
+  "text": "We've seen the finished product.",
+  "duration": 1.8,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We've"
+   },
+   {
+    "t": 0.266,
+    "w": "seen"
+   },
+   {
+    "t": 0.492,
+    "w": "the"
+   },
+   {
+    "t": 0.585,
+    "w": "finished"
+   },
+   {
+    "t": 0.931,
+    "w": "product"
+   }
+  ]
+ },
+ "rd3": {
+  "text": "We've planned it.",
+  "duration": 1.128,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We've"
+   },
+   {
+    "t": 0.279,
+    "w": "planned"
+   },
+   {
+    "t": 0.612,
+    "w": "it"
+   }
+  ]
+ },
+ "rd4": {
+  "text": "We've designed it.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We've"
+   },
+   {
+    "t": 0.266,
+    "w": "designed"
+   },
+   {
+    "t": 0.692,
+    "w": "it"
+   }
+  ]
+ },
+ "rd5": {
+  "text": "We've broken it into parts.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We've"
+   },
+   {
+    "t": 0.306,
+    "w": "broken"
+   },
+   {
+    "t": 0.652,
+    "w": "it"
+   },
+   {
+    "t": 0.731,
+    "w": "into"
+   },
+   {
+    "t": 0.891,
+    "w": "parts"
+   }
+  ]
+ },
+ "rd6": {
+  "text": "We know what we need.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We"
+   },
+   {
+    "t": 0.213,
+    "w": "know"
+   },
+   {
+    "t": 0.372,
+    "w": "what"
+   },
+   {
+    "t": 0.505,
+    "w": "we"
+   },
+   {
+    "t": 0.625,
+    "w": "need"
+   }
+  ]
+ },
+ "rd7": {
+  "text": "Now... we're ready to build.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.678,
+    "w": "we're"
+   },
+   {
+    "t": 0.798,
+    "w": "ready"
+   },
+   {
+    "t": 0.997,
+    "w": "to"
+   },
+   {
+    "t": 1.104,
+    "w": "build"
+   }
+  ]
+ },
+ "pa1": {
+  "text": "Here's the path we'll follow for the rest of this series.",
+  "duration": 3.168,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "Here's"
+   },
+   {
+    "t": 0.319,
+    "w": "the"
+   },
+   {
+    "t": 0.439,
+    "w": "path"
+   },
+   {
+    "t": 0.838,
+    "w": "we'll"
+   },
+   {
+    "t": 1.011,
+    "w": "follow"
+   },
+   {
+    "t": 1.41,
+    "w": "for"
+   },
+   {
+    "t": 1.543,
+    "w": "the"
+   },
+   {
+    "t": 1.636,
+    "w": "rest"
+   },
+   {
+    "t": 1.955,
+    "w": "of"
+   },
+   {
+    "t": 2.035,
+    "w": "this"
+   },
+   {
+    "t": 2.221,
+    "w": "series"
+   }
+  ]
+ },
+ "pa2": {
+  "text": "Idea. Plan. Design. Building blocks. HTML. CSS. JavaScript. Test. And improve.",
+  "duration": 9.336,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Idea"
+   },
+   {
+    "t": 1.051,
+    "w": "Plan"
+   },
+   {
+    "t": 1.808,
+    "w": "Design"
+   },
+   {
+    "t": 2.726,
+    "w": "Building"
+   },
+   {
+    "t": 3.005,
+    "w": "blocks"
+   },
+   {
+    "t": 3.989,
+    "w": "HTML"
+   },
+   {
+    "t": 5.133,
+    "w": "CSS"
+   },
+   {
+    "t": 6.303,
+    "w": "JavaScript"
+   },
+   {
+    "t": 7.447,
+    "w": "Test"
+   },
+   {
+    "t": 8.298,
+    "w": "And"
+   },
+   {
+    "t": 8.404,
+    "w": "improve"
+   }
+  ]
+ },
+ "pa3": {
+  "text": "And notice the loop at the end. Test, improve, and test again. That's how every product gets better.",
+  "duration": 6.888,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "And"
+   },
+   {
+    "t": 0.239,
+    "w": "notice"
+   },
+   {
+    "t": 0.545,
+    "w": "the"
+   },
+   {
+    "t": 0.665,
+    "w": "loop"
+   },
+   {
+    "t": 0.944,
+    "w": "at"
+   },
+   {
+    "t": 1.051,
+    "w": "the"
+   },
+   {
+    "t": 1.157,
+    "w": "end"
+   },
+   {
+    "t": 2.035,
+    "w": "Test"
+   },
+   {
+    "t": 2.606,
+    "w": "improve"
+   },
+   {
+    "t": 3.497,
+    "w": "and"
+   },
+   {
+    "t": 3.577,
+    "w": "test"
+   },
+   {
+    "t": 3.856,
+    "w": "again"
+   },
+   {
+    "t": 4.641,
+    "w": "That's"
+   },
+   {
+    "t": 4.814,
+    "w": "how"
+   },
+   {
+    "t": 5.186,
+    "w": "every"
+   },
+   {
+    "t": 5.465,
+    "w": "product"
+   },
+   {
+    "t": 5.918,
+    "w": "gets"
+   },
+   {
+    "t": 6.117,
+    "w": "better"
+   }
+  ]
+ },
+ "ai1": {
+  "text": "There's one more tool in a creator's toolbox.",
+  "duration": 3.096,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "There's"
+   },
+   {
+    "t": 0.293,
+    "w": "one"
+   },
+   {
+    "t": 0.532,
+    "w": "more"
+   },
+   {
+    "t": 0.771,
+    "w": "tool"
+   },
+   {
+    "t": 1.277,
+    "w": "in"
+   },
+   {
+    "t": 1.396,
+    "w": "a"
+   },
+   {
+    "t": 1.463,
+    "w": "creator's"
+   },
+   {
+    "t": 1.995,
+    "w": "toolbox"
+   }
+  ]
+ },
+ "ai2": {
+  "text": "AI.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "AI"
+   }
+  ]
+ },
+ "ai3": {
+  "text": "But notice when we brought it in. After the thinking.",
+  "duration": 2.952,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.226,
+    "w": "notice"
+   },
+   {
+    "t": 0.532,
+    "w": "when"
+   },
+   {
+    "t": 0.665,
+    "w": "we"
+   },
+   {
+    "t": 0.785,
+    "w": "brought"
+   },
+   {
+    "t": 1.051,
+    "w": "it"
+   },
+   {
+    "t": 1.144,
+    "w": "in"
+   },
+   {
+    "t": 1.808,
+    "w": "After"
+   },
+   {
+    "t": 2.035,
+    "w": "the"
+   },
+   {
+    "t": 2.128,
+    "w": "thinking"
+   }
+  ]
+ },
+ "ai4": {
+  "text": "When you have a clear requirement, AI can help explain how to do it.",
+  "duration": 4.152,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "When"
+   },
+   {
+    "t": 0.213,
+    "w": "you"
+   },
+   {
+    "t": 0.306,
+    "w": "have"
+   },
+   {
+    "t": 0.479,
+    "w": "a"
+   },
+   {
+    "t": 0.558,
+    "w": "clear"
+   },
+   {
+    "t": 0.824,
+    "w": "requirement"
+   },
+   {
+    "t": 1.848,
+    "w": "AI"
+   },
+   {
+    "t": 2.234,
+    "w": "can"
+   },
+   {
+    "t": 2.394,
+    "w": "help"
+   },
+   {
+    "t": 2.646,
+    "w": "explain"
+   },
+   {
+    "t": 3.152,
+    "w": "how"
+   },
+   {
+    "t": 3.271,
+    "w": "to"
+   },
+   {
+    "t": 3.364,
+    "w": "do"
+   },
+   {
+    "t": 3.59,
+    "w": "it"
+   }
+  ]
+ },
+ "ai5": {
+  "text": "When you have a problem, AI can help you investigate it.",
+  "duration": 3.528,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "When"
+   },
+   {
+    "t": 0.213,
+    "w": "you"
+   },
+   {
+    "t": 0.306,
+    "w": "have"
+   },
+   {
+    "t": 0.439,
+    "w": "a"
+   },
+   {
+    "t": 0.519,
+    "w": "problem"
+   },
+   {
+    "t": 1.476,
+    "w": "AI"
+   },
+   {
+    "t": 1.795,
+    "w": "can"
+   },
+   {
+    "t": 1.968,
+    "w": "help"
+   },
+   {
+    "t": 2.194,
+    "w": "you"
+   },
+   {
+    "t": 2.314,
+    "w": "investigate"
+   },
+   {
+    "t": 2.965,
+    "w": "it"
+   }
+  ]
+ },
+ "ai6": {
+  "text": "When you have an idea, AI can help you think it through.",
+  "duration": 3.36,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "When"
+   },
+   {
+    "t": 0.213,
+    "w": "you"
+   },
+   {
+    "t": 0.332,
+    "w": "have"
+   },
+   {
+    "t": 0.545,
+    "w": "an"
+   },
+   {
+    "t": 0.638,
+    "w": "idea"
+   },
+   {
+    "t": 1.569,
+    "w": "AI"
+   },
+   {
+    "t": 1.915,
+    "w": "can"
+   },
+   {
+    "t": 2.061,
+    "w": "help"
+   },
+   {
+    "t": 2.261,
+    "w": "you"
+   },
+   {
+    "t": 2.354,
+    "w": "think"
+   },
+   {
+    "t": 2.58,
+    "w": "it"
+   },
+   {
+    "t": 2.673,
+    "w": "through"
+   }
+  ]
+ },
+ "ai7": {
+  "text": "Now notice what we didn't say.",
+  "duration": 1.728,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.213,
+    "w": "notice"
+   },
+   {
+    "t": 0.519,
+    "w": "what"
+   },
+   {
+    "t": 0.652,
+    "w": "we"
+   },
+   {
+    "t": 0.758,
+    "w": "didn't"
+   },
+   {
+    "t": 0.984,
+    "w": "say"
+   }
+  ]
+ },
+ "ai8": {
+  "text": "Make me a game.",
+  "duration": 1.176,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Make"
+   },
+   {
+    "t": 0.279,
+    "w": "me"
+   },
+   {
+    "t": 0.399,
+    "w": "a"
+   },
+   {
+    "t": 0.465,
+    "w": "game"
+   }
+  ]
+ },
+ "ai9": {
+  "text": "Instead, we ask. Understand. Test. Check. And improve.",
+  "duration": 5.448,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Instead"
+   },
+   {
+    "t": 0.585,
+    "w": "we"
+   },
+   {
+    "t": 0.758,
+    "w": "ask"
+   },
+   {
+    "t": 1.636,
+    "w": "Understand"
+   },
+   {
+    "t": 2.766,
+    "w": "Test"
+   },
+   {
+    "t": 3.617,
+    "w": "Check"
+   },
+   {
+    "t": 4.402,
+    "w": "And"
+   },
+   {
+    "t": 4.508,
+    "w": "improve"
+   }
+  ]
+ },
+ "ai10": {
+  "text": "The better you understand your project, the better you can use AI.",
+  "duration": 3.792,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "better"
+   },
+   {
+    "t": 0.452,
+    "w": "you"
+   },
+   {
+    "t": 0.598,
+    "w": "understand"
+   },
+   {
+    "t": 1.144,
+    "w": "your"
+   },
+   {
+    "t": 1.25,
+    "w": "project"
+   },
+   {
+    "t": 2.061,
+    "w": "the"
+   },
+   {
+    "t": 2.181,
+    "w": "better"
+   },
+   {
+    "t": 2.46,
+    "w": "you"
+   },
+   {
+    "t": 2.58,
+    "w": "can"
+   },
+   {
+    "t": 2.739,
+    "w": "use"
+   },
+   {
+    "t": 2.992,
+    "w": "AI"
+   }
+  ]
+ },
+ "ai11": {
+  "text": "AI can help you build faster.",
+  "duration": 2.088,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "AI"
+   },
+   {
+    "t": 0.439,
+    "w": "can"
+   },
+   {
+    "t": 0.585,
+    "w": "help"
+   },
+   {
+    "t": 0.785,
+    "w": "you"
+   },
+   {
+    "t": 0.891,
+    "w": "build"
+   },
+   {
+    "t": 1.117,
+    "w": "faster"
+   }
+  ]
+ },
+ "ai12": {
+  "text": "But the idea, the decisions, and the understanding, still belong to you.",
+  "duration": 5.064,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.239,
+    "w": "the"
+   },
+   {
+    "t": 0.359,
+    "w": "idea"
+   },
+   {
+    "t": 1.197,
+    "w": "the"
+   },
+   {
+    "t": 1.303,
+    "w": "decisions"
+   },
+   {
+    "t": 2.287,
+    "w": "and"
+   },
+   {
+    "t": 2.394,
+    "w": "the"
+   },
+   {
+    "t": 2.513,
+    "w": "understanding"
+   },
+   {
+    "t": 3.67,
+    "w": "still"
+   },
+   {
+    "t": 3.936,
+    "w": "belong"
+   },
+   {
+    "t": 4.309,
+    "w": "to"
+   },
+   {
+    "t": 4.441,
+    "w": "you"
+   }
+  ]
+ },
+ "t1": {
+  "text": "Your turn.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Your"
+   },
+   {
+    "t": 0.226,
+    "w": "turn"
+   }
+  ]
+ },
+ "t2": {
+  "text": "Grab some paper, and design your own version.",
+  "duration": 2.928,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Grab"
+   },
+   {
+    "t": 0.332,
+    "w": "some"
+   },
+   {
+    "t": 0.519,
+    "w": "paper"
+   },
+   {
+    "t": 1.37,
+    "w": "and"
+   },
+   {
+    "t": 1.423,
+    "w": "design"
+   },
+   {
+    "t": 1.822,
+    "w": "your"
+   },
+   {
+    "t": 1.968,
+    "w": "own"
+   },
+   {
+    "t": 2.101,
+    "w": "version"
+   }
+  ]
+ },
+ "t3": {
+  "text": "Draw your player. An obstacle. The game area. The score. A restart button. And what happens when the player hits an obstacle.",
+  "duration": 8.352,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Draw"
+   },
+   {
+    "t": 0.266,
+    "w": "your"
+   },
+   {
+    "t": 0.399,
+    "w": "player"
+   },
+   {
+    "t": 1.25,
+    "w": "An"
+   },
+   {
+    "t": 1.343,
+    "w": "obstacle"
+   },
+   {
+    "t": 2.354,
+    "w": "The"
+   },
+   {
+    "t": 2.42,
+    "w": "game"
+   },
+   {
+    "t": 2.673,
+    "w": "area"
+   },
+   {
+    "t": 3.471,
+    "w": "The"
+   },
+   {
+    "t": 3.537,
+    "w": "score"
+   },
+   {
+    "t": 4.428,
+    "w": "A"
+   },
+   {
+    "t": 4.508,
+    "w": "restart"
+   },
+   {
+    "t": 5.0,
+    "w": "button"
+   },
+   {
+    "t": 5.785,
+    "w": "And"
+   },
+   {
+    "t": 5.878,
+    "w": "what"
+   },
+   {
+    "t": 6.037,
+    "w": "happens"
+   },
+   {
+    "t": 6.449,
+    "w": "when"
+   },
+   {
+    "t": 6.582,
+    "w": "the"
+   },
+   {
+    "t": 6.676,
+    "w": "player"
+   },
+   {
+    "t": 7.048,
+    "w": "hits"
+   },
+   {
+    "t": 7.274,
+    "w": "an"
+   },
+   {
+    "t": 7.367,
+    "w": "obstacle"
+   }
+  ]
+ },
+ "t4": {
+  "text": "Then answer five questions.",
+  "duration": 1.992,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Then"
+   },
+   {
+    "t": 0.306,
+    "w": "answer"
+   },
+   {
+    "t": 0.612,
+    "w": "five"
+   },
+   {
+    "t": 0.957,
+    "w": "questions"
+   }
+  ]
+ },
+ "t5": {
+  "text": "What will my game look like? What can the player do? What happens when the player makes a mistake? What do I need to build it? And what could make my version different?",
+  "duration": 8.688,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "What"
+   },
+   {
+    "t": 0.199,
+    "w": "will"
+   },
+   {
+    "t": 0.293,
+    "w": "my"
+   },
+   {
+    "t": 0.439,
+    "w": "game"
+   },
+   {
+    "t": 0.718,
+    "w": "look"
+   },
+   {
+    "t": 0.918,
+    "w": "like"
+   },
+   {
+    "t": 1.689,
+    "w": "What"
+   },
+   {
+    "t": 1.795,
+    "w": "can"
+   },
+   {
+    "t": 1.902,
+    "w": "the"
+   },
+   {
+    "t": 1.995,
+    "w": "player"
+   },
+   {
+    "t": 2.301,
+    "w": "do"
+   },
+   {
+    "t": 3.005,
+    "w": "What"
+   },
+   {
+    "t": 3.112,
+    "w": "happens"
+   },
+   {
+    "t": 3.484,
+    "w": "when"
+   },
+   {
+    "t": 3.617,
+    "w": "the"
+   },
+   {
+    "t": 3.71,
+    "w": "player"
+   },
+   {
+    "t": 4.069,
+    "w": "makes"
+   },
+   {
+    "t": 4.322,
+    "w": "a"
+   },
+   {
+    "t": 4.375,
+    "w": "mistake"
+   },
+   {
+    "t": 5.359,
+    "w": "What"
+   },
+   {
+    "t": 5.439,
+    "w": "do"
+   },
+   {
+    "t": 5.505,
+    "w": "I"
+   },
+   {
+    "t": 5.545,
+    "w": "need"
+   },
+   {
+    "t": 5.718,
+    "w": "to"
+   },
+   {
+    "t": 5.811,
+    "w": "build"
+   },
+   {
+    "t": 6.117,
+    "w": "it"
+   },
+   {
+    "t": 6.729,
+    "w": "And"
+   },
+   {
+    "t": 6.822,
+    "w": "what"
+   },
+   {
+    "t": 6.981,
+    "w": "could"
+   },
+   {
+    "t": 7.128,
+    "w": "make"
+   },
+   {
+    "t": 7.327,
+    "w": "my"
+   },
+   {
+    "t": 7.46,
+    "w": "version"
+   },
+   {
+    "t": 7.832,
+    "w": "different"
+   }
+  ]
+ },
+ "t6": {
+  "text": "Maybe your player is a cat. Maybe the obstacles are puddles. Maybe it's a robot, running on Mars. It's your design.",
+  "duration": 7.56,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Maybe"
+   },
+   {
+    "t": 0.346,
+    "w": "your"
+   },
+   {
+    "t": 0.492,
+    "w": "player"
+   },
+   {
+    "t": 0.851,
+    "w": "is"
+   },
+   {
+    "t": 0.957,
+    "w": "a"
+   },
+   {
+    "t": 1.024,
+    "w": "cat"
+   },
+   {
+    "t": 1.875,
+    "w": "Maybe"
+   },
+   {
+    "t": 2.114,
+    "w": "the"
+   },
+   {
+    "t": 2.247,
+    "w": "obstacles"
+   },
+   {
+    "t": 2.819,
+    "w": "are"
+   },
+   {
+    "t": 2.912,
+    "w": "puddles"
+   },
+   {
+    "t": 3.896,
+    "w": "Maybe"
+   },
+   {
+    "t": 4.149,
+    "w": "it's"
+   },
+   {
+    "t": 4.282,
+    "w": "a"
+   },
+   {
+    "t": 4.335,
+    "w": "robot"
+   },
+   {
+    "t": 5.12,
+    "w": "running"
+   },
+   {
+    "t": 5.359,
+    "w": "on"
+   },
+   {
+    "t": 5.492,
+    "w": "Mars"
+   },
+   {
+    "t": 6.463,
+    "w": "It's"
+   },
+   {
+    "t": 6.596,
+    "w": "your"
+   },
+   {
+    "t": 6.715,
+    "w": "design"
+   }
+  ]
+ },
+ "t7": {
+  "text": "Keep your design. We're going to use it.",
+  "duration": 2.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Keep"
+   },
+   {
+    "t": 0.293,
+    "w": "your"
+   },
+   {
+    "t": 0.399,
+    "w": "design"
+   },
+   {
+    "t": 1.263,
+    "w": "We're"
+   },
+   {
+    "t": 1.356,
+    "w": "going"
+   },
+   {
+    "t": 1.516,
+    "w": "to"
+   },
+   {
+    "t": 1.596,
+    "w": "use"
+   },
+   {
+    "t": 1.862,
+    "w": "it"
+   }
+  ]
+ },
+ "t8": {
+  "text": "Next time, we'll take this design, and build its structure, using HTML.",
+  "duration": 5.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.359,
+    "w": "time"
+   },
+   {
+    "t": 1.037,
+    "w": "we'll"
+   },
+   {
+    "t": 1.17,
+    "w": "take"
+   },
+   {
+    "t": 1.436,
+    "w": "this"
+   },
+   {
+    "t": 1.636,
+    "w": "design"
+   },
+   {
+    "t": 2.473,
+    "w": "and"
+   },
+   {
+    "t": 2.58,
+    "w": "build"
+   },
+   {
+    "t": 2.899,
+    "w": "its"
+   },
+   {
+    "t": 3.019,
+    "w": "structure"
+   },
+   {
+    "t": 3.896,
+    "w": "using"
+   },
+   {
+    "t": 4.255,
+    "w": "HTML"
+   }
+  ]
+ }
+}

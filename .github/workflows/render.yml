@@ -1,0 +1,42 @@
+# Renders the five Dino Runner videos on GitHub Actions and uploads each MP4 as an artifact.
+# Based on the official Remotion workflow: https://www.remotion.dev/docs/ssr#render-using-github-actions
+# Run it from the repo's Actions tab -> "Render Dino videos" -> "Run workflow".
+
+name: Render Dino videos
+
+on:
+  workflow_dispatch:
+
+jobs:
+  render:
+    name: Render ${{ matrix.video.file }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false # one failed video doesn't cancel the others
+      matrix:
+        video:
+          - id: Video1-ThinkLikeACreator
+            file: 01 - Before We Code - Think Like a Creator
+          - id: Video2-HTML
+            file: 02 - Build the Structure - HTML
+          - id: Video3-CSS
+            file: 03 - Make It Look Like a Game - CSS
+          - id: Video4-JavaScript
+            file: 04 - Make It Come Alive - JavaScript
+          - id: Video5-AI-Claude
+            file: 05 - Build Smarter With AI - Claude
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Render ${{ matrix.video.id }}
+        run: npx remotion render "${{ matrix.video.id }}" "out/${{ matrix.video.file }}.mp4" --codec=h264
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.video.file }}
+          path: out/${{ matrix.video.file }}.mp4
+          if-no-files-found: error
