@@ -5,3 +5,11 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Rendered media never goes into Git (videos are rendered and delivered by GitHub Actions).
+*.mp4
+*.mov
+
+# Sound effects and music are generated from code: `node scripts/generate-audio.mjs`
+# (the render workflow regenerates them on every run).
+public/audio/

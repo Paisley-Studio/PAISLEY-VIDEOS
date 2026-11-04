@@ -1,0 +1,139 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "intro",
+      "name": "Title + why AI now",
+      "lead": 2.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "i1", "text": "Welcome to the final video." },
+        { "id": "i2", "text": "Now you know what you're building.", "gap": 0.5 },
+        { "id": "i3", "text": "You understand the building blocks.", "gap": 0.4 },
+        { "id": "i4", "text": "You understand the code.", "gap": 0.4 },
+        { "id": "i5", "text": "Now let's see how AI can help us build faster.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "prompt",
+      "name": "Bad prompt vs good prompt",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "p1", "text": "You could ask Claude, make me a dino game." },
+        { "id": "p2", "text": "And you'd get a game. But it's not your game. It's not your design. You don't understand it. And when it breaks, you're stuck.", "gap": 0.8 },
+        { "id": "p3", "text": "Here's how a creator asks. Five parts.", "gap": 0.9 },
+        { "id": "p4", "text": "What I'm building. What I already have. What I understand. What I want. And what I need back.", "gap": 0.5 },
+        { "id": "p5", "text": "Look at the last one. Explain the logic first. You're not asking AI to think for you. You're asking it to think with you.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "understand",
+      "name": "Use 1: understanding",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "u1", "text": "Use one. Understanding." },
+        { "id": "u2", "text": "Copy a function you don't fully get, and ask Claude to explain it in simple language.", "gap": 0.5 },
+        { "id": "u3", "text": "Use AI like a patient tutor. Then ask a follow up. What happens if I make the padding bigger?", "gap": 2.0 },
+        { "id": "u4", "text": "And then, test it. Don't just believe it. See it.", "gap": 1.4 }
+      ]
+    },
+    {
+      "id": "debug",
+      "name": "Use 2: debugging",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "d1", "text": "Use two. Debugging." },
+        { "id": "d2", "text": "Imagine you accidentally deleted the landing check. The dinosaur falls through the floor.", "gap": 0.5 },
+        { "id": "d3", "text": "Describe what you expected, what actually happened, and paste the code.", "gap": 0.8 },
+        { "id": "d4", "text": "And ask why, before you ask for the fix.", "gap": 0.4 },
+        { "id": "d5", "text": "If you only take the fix, you'll make the same mistake next week. If you understand why, you won't.", "gap": 1.8 },
+        { "id": "d6", "text": "And you already knew this one. That's how you can tell when AI is right, and when it isn't.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "feature",
+      "name": "Use 3: adding a feature",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "f1", "text": "Use three. Adding a feature." },
+        { "id": "f2", "text": "We want the game to speed up every hundred points.", "gap": 0.4 },
+        { "id": "f3", "text": "Logic first. Before any code, we check the idea in a table.", "gap": 1.4 },
+        { "id": "f4", "text": "Then the code is short, and every line matches the logic.", "gap": 1.0 },
+        { "id": "f5", "text": "Play to a hundred... and it speeds up.", "gap": 1.0 },
+        { "id": "f6", "text": "Then question it. Will this get impossibly fast? Claude suggests a maximum speed. You're the one deciding.", "gap": 1.6 }
+      ]
+    },
+    {
+      "id": "ideas",
+      "name": "Use 4: ideas",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "n1", "text": "Use four. Ideas." },
+        { "id": "n2", "text": "Ask for three ways to make the game more interesting, without changing the core gameplay.", "gap": 0.4 },
+        { "id": "n3", "text": "AI is great for ideas. But you choose. Which one fits your paper plan?", "gap": 1.6 },
+        { "id": "n4", "text": "Let's add a best score. The idea goes back onto paper first. Even with AI, the process doesn't change.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Use 5: design",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "s1", "text": "Use five. Design." },
+        { "id": "s2", "text": "Ask what you'd need to change for a jungle theme.", "gap": 0.4 },
+        { "id": "s3", "text": "Claude points to our colour variables.", "gap": 1.4 },
+        { "id": "s4", "text": "One block of colours, and the whole world changes. That's why we made variables in video three.", "gap": 0.8 },
+        { "id": "s5", "text": "And notice. No JavaScript changes. Appearance and behaviour are separate jobs.", "gap": 1.0 }
+      ]
+    },
+    {
+      "id": "rules",
+      "name": "Five uses, five steps",
+      "lead": 0.5,
+      "tail": 1.2,
+      "lines": [
+        { "id": "r1", "text": "Five ways to use AI." },
+        { "id": "r2", "text": "And every time, the same five steps.", "gap": 0.8 },
+        { "id": "r3", "text": "Read it. Understand it. Test it. Question it. Improve it.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "journey",
+      "name": "The journey",
+      "lead": 0.8,
+      "tail": 1.0,
+      "lines": [
+        { "id": "j1", "text": "Look how far you've come." },
+        { "id": "j2", "text": "Idea. Paper plan. HTML. CSS. JavaScript. A working game. AI. And an improved game.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "final",
+      "name": "Final message",
+      "lead": 0.8,
+      "tail": 6.0,
+      "lines": [
+        { "id": "z1", "text": "You didn't just make a game." },
+        { "id": "z2", "text": "You learned a process.", "gap": 0.5 },
+        { "id": "z3", "text": "You started with an idea.", "gap": 0.8 },
+        { "id": "z4", "text": "You imagined the finished product.", "gap": 0.3 },
+        { "id": "z5", "text": "You put it on paper.", "gap": 0.3 },
+        { "id": "z6", "text": "You broke it into pieces.", "gap": 0.3 },
+        { "id": "z7", "text": "You built those pieces.", "gap": 0.3 },
+        { "id": "z8", "text": "You tested them.", "gap": 0.3 },
+        { "id": "z9", "text": "You solved problems.", "gap": 0.3 },
+        { "id": "z10", "text": "And then you used AI to help you go further.", "gap": 0.4 },
+        { "id": "z11", "text": "That process can be used to build far more than games.", "gap": 1.0 },
+        { "id": "z12", "text": "It can help you build websites, apps, tools, businesses, creative projects, and ideas that don't exist yet.", "gap": 0.5 },
+        { "id": "z13", "text": "You imagine it. You plan it. You build it.", "gap": 1.2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+1
+00:00:02,200 --> 00:00:04,100
+Look around you.
+
+2
+00:00:04,667 --> 00:00:07,200
+Before breakfast is even over,
+
+3
+00:00:07,200 --> 00:00:10,000
+technology is already working for you.
+
+4
+00:00:10,600 --> 00:00:11,933
+A phone lights up.
+
+5
+00:00:11,933 --> 00:00:14,467
+A map finds the fastest way to school.
+
+6
+00:00:14,467 --> 00:00:15,767
+A song starts playing,
+
+7
+00:00:15,767 --> 00:00:17,100
+picked just for you.
+
+8
+00:00:17,767 --> 00:00:19,333
+None of it is magic.
+
+9
+00:00:19,333 --> 00:00:21,633
+Every tap, every screen,
+
+10
+00:00:21,633 --> 00:00:23,400
+every message was planned,
+
+11
+00:00:23,400 --> 00:00:25,900
+designed, and built by people who learned to
+
+12
+00:00:25,900 --> 00:00:26,800
+code.
+
+13
+00:00:28,400 --> 00:00:30,367
+Welcome to the world of coding.
+
+14
+00:00:30,833 --> 00:00:33,500
+Today, we're going on a journey from ideas
+
+15
+00:00:33,500 --> 00:00:35,067
+to real products.
+
+16
+00:00:37,267 --> 00:00:38,933
+Let's start with something you might use
+
+17
+00:00:38,933 --> 00:00:40,000
+every week.
+
+18
+00:00:40,367 --> 00:00:42,867
+You're hungry, so you open a food delivery
+
+19
+00:00:42,867 --> 00:00:43,767
+app.
+
+20
+00:00:44,033 --> 00:00:45,867
+You scroll through the restaurants,
+
+21
+00:00:45,867 --> 00:00:47,500
+choose your favorite meal,
+
+22
+00:00:47,500 --> 00:00:49,367
+and tap, place order.
+
+23
+00:00:49,933 --> 00:00:52,433
+Instantly, the kitchen receives it,
+
+24
+00:00:52,433 --> 00:00:54,100
+a rider is on the way,
+
+25
+00:00:54,100 --> 00:00:56,233
+and you can watch them move across a live
+
+26
+00:00:56,233 --> 00:00:58,167
+map, right to your door.
+
+27
+00:00:58,867 --> 00:01:01,200
+Every screen, every button,
+
+28
+00:01:01,200 --> 00:01:03,200
+even that little moving map.
+
+29
+00:01:03,200 --> 00:01:04,433
+Someone coded it.
+
+30
+00:01:06,000 --> 00:01:07,900
+Now think about school.
+
+31
+00:01:08,267 --> 00:01:09,633
+At the end of the term,
+
+32
+00:01:09,633 --> 00:01:11,533
+parents don't have to wait for a paper
+
+33
+00:01:11,533 --> 00:01:12,433
+report.
+
+34
+00:01:12,933 --> 00:01:14,600
+They open the school portal,
+
+35
+00:01:14,600 --> 00:01:17,067
+sign in securely, and there it is.
+
+36
+00:01:17,067 --> 00:01:19,200
+Every subject, every grade,
+
+37
+00:01:19,200 --> 00:01:20,967
+and a message from the teacher.
+
+38
+00:01:21,633 --> 00:01:23,500
+That portal is a website.
+
+39
+00:01:23,500 --> 00:01:24,733
+And somebody built it,
+
+40
+00:01:24,733 --> 00:01:25,900
+line by line.
+
+41
+00:01:27,400 --> 00:01:30,033
+Once you notice it, you see it everywhere.
+
+42
+00:01:30,500 --> 00:01:32,900
+The online store where you add new sneakers
+
+43
+00:01:32,900 --> 00:01:33,967
+to your cart.
+
+44
+00:01:34,367 --> 00:01:36,800
+The transport app that tells you your bus is
+
+45
+00:01:36,800 --> 00:01:38,233
+three minutes away.
+
+46
+00:01:38,833 --> 00:01:41,233
+Every one of them started as an idea,
+
+47
+00:01:41,233 --> 00:01:43,300
+and every one of them runs on code.
+
+48
+00:01:44,800 --> 00:01:46,700
+So, what actually is coding?
+
+49
+00:01:47,267 --> 00:01:49,133
+Coding is writing instructions for a
+
+50
+00:01:49,133 --> 00:01:50,100
+computer.
+
+51
+00:01:50,667 --> 00:01:53,067
+Computers are incredibly fast,
+
+52
+00:01:53,067 --> 00:01:55,000
+but they can't guess what you mean.
+
+53
+00:01:55,000 --> 00:01:56,800
+They do exactly what you tell them,
+
+54
+00:01:56,800 --> 00:01:58,933
+step by step, in order.
+
+55
+00:01:59,533 --> 00:02:01,533
+So a coder takes an idea,
+
+56
+00:02:01,533 --> 00:02:03,767
+like, when someone taps add,
+
+57
+00:02:03,767 --> 00:02:05,367
+put the meal in the cart,
+
+58
+00:02:05,367 --> 00:02:07,500
+and turns it into clear steps the computer
+
+59
+00:02:07,500 --> 00:02:08,500
+can follow.
+
+60
+00:02:09,000 --> 00:02:11,933
+Write the steps, and the product responds.
+
+61
+00:02:13,400 --> 00:02:15,233
+And here's the exciting part.
+
+62
+00:02:15,233 --> 00:02:16,900
+Once you can give instructions,
+
+63
+00:02:16,900 --> 00:02:18,833
+you can build almost anything.
+
+64
+00:02:19,433 --> 00:02:21,767
+Websites. Mobile apps.
+
+65
+00:02:21,767 --> 00:02:23,033
+School systems.
+
+66
+00:02:23,033 --> 00:02:25,967
+Games. Digital tools that help people.
+
+67
+00:02:25,967 --> 00:02:28,600
+Even the systems that run whole businesses.
+
+68
+00:02:29,167 --> 00:02:31,400
+And most of what you see on a screen starts
+
+69
+00:02:31,400 --> 00:02:33,900
+with the same three building blocks.
+
+70
+00:02:35,367 --> 00:02:37,367
+The first is HTML.
+
+71
+00:02:37,367 --> 00:02:39,467
+HTML is the structure.
+
+72
+00:02:39,933 --> 00:02:42,333
+Think of it like the frame of a house.
+
+73
+00:02:42,333 --> 00:02:44,300
+It decides what's on the page.
+
+74
+00:02:44,300 --> 00:02:45,133
+A heading.
+
+75
+00:02:45,133 --> 00:02:46,067
+A picture.
+
+76
+00:02:46,067 --> 00:02:47,200
+Some text.
+
+77
+00:02:47,200 --> 00:02:48,100
+A button.
+
+78
+00:02:48,533 --> 00:02:51,533
+Without HTML, there's nothing there at all.
+
+79
+00:02:52,900 --> 00:02:55,067
+The second is CSS.
+
+80
+00:02:55,067 --> 00:02:57,300
+CSS is the appearance.
+
+81
+00:02:57,767 --> 00:02:59,833
+It's the paint and the design.
+
+82
+00:02:59,833 --> 00:03:01,700
+The colors, the fonts,
+
+83
+00:03:01,700 --> 00:03:04,200
+the spacing, the rounded corners.
+
+84
+00:03:04,667 --> 00:03:07,800
+CSS turns a plain page into something that
+
+85
+00:03:07,800 --> 00:03:10,467
+looks beautiful and feels professional.
+
+86
+00:03:11,867 --> 00:03:13,900
+The third is JavaScript.
+
+87
+00:03:13,900 --> 00:03:15,900
+JavaScript is the behavior.
+
+88
+00:03:16,400 --> 00:03:17,900
+It makes things happen.
+
+89
+00:03:17,900 --> 00:03:19,100
+When you tap a button,
+
+90
+00:03:19,100 --> 00:03:21,600
+JavaScript decides what comes next.
+
+91
+00:03:22,067 --> 00:03:23,267
+It counts.
+
+92
+00:03:23,267 --> 00:03:24,267
+It checks.
+
+93
+00:03:24,267 --> 00:03:25,500
+It responds.
+
+94
+00:03:25,500 --> 00:03:27,300
+It's the electricity that switches the
+
+95
+00:03:27,300 --> 00:03:28,333
+lights on.
+
+96
+00:03:29,733 --> 00:03:31,633
+Now put them together.
+
+97
+00:03:32,100 --> 00:03:34,400
+HTML gives it structure.
+
+98
+00:03:34,400 --> 00:03:36,267
+CSS makes it look great.
+
+99
+00:03:36,267 --> 00:03:38,233
+JavaScript brings it to life.
+
+100
+00:03:38,833 --> 00:03:40,133
+Three layers.
+
+101
+00:03:40,133 --> 00:03:41,467
+One real product.
+
+102
+00:03:41,467 --> 00:03:42,733
+That's how the food app,
+
+103
+00:03:42,733 --> 00:03:45,367
+the school portal, and almost every website
+
+104
+00:03:45,367 --> 00:03:46,733
+you love are made.
+
+105
+00:03:48,233 --> 00:03:50,733
+And today, creators have a powerful new
+
+106
+00:03:50,733 --> 00:03:52,467
+helper. AI.
+
+107
+00:03:53,067 --> 00:03:55,067
+Tools like Claude can explain a line of
+
+108
+00:03:55,067 --> 00:03:57,567
+code, help you track down a bug,
+
+109
+00:03:57,567 --> 00:04:00,200
+or suggest a better idea when you're stuck.
+
+110
+00:04:00,767 --> 00:04:03,533
+But AI is a tool, not the builder.
+
+111
+00:04:03,533 --> 00:04:04,967
+You bring the ideas.
+
+112
+00:04:04,967 --> 00:04:06,467
+You make the decisions.
+
+113
+00:04:06,467 --> 00:04:08,433
+And you understand what you create.
+
+114
+00:04:08,833 --> 00:04:11,000
+AI just helps you get there faster.
+
+115
+00:04:12,567 --> 00:04:14,300
+So here's the big idea.
+
+116
+00:04:14,300 --> 00:04:16,567
+Every app you use was built by people who
+
+117
+00:04:16,567 --> 00:04:19,133
+started exactly where you are right now.
+
+118
+00:04:19,733 --> 00:04:20,967
+They had an idea.
+
+119
+00:04:20,967 --> 00:04:22,800
+They learned the building blocks.
+
+120
+00:04:22,800 --> 00:04:24,000
+And they kept going.
+
+121
+00:04:24,767 --> 00:04:27,033
+Welcome to Paisley Tech Studio.
+
+122
+00:04:27,033 --> 00:04:28,700
+This is where you stop just using
+
+123
+00:04:28,700 --> 00:04:31,167
+technology, and start creating it.
+
+124
+00:04:31,867 --> 00:04:34,467
+Let's build something amazing, together.

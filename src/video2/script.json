@@ -1,0 +1,141 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "intro",
+      "name": "Title + recap",
+      "lead": 2.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "i1", "text": "Welcome back. Last time, we planned our game on paper." },
+        { "id": "i2", "text": "Today, we start building.", "gap": 0.4 },
+        { "id": "i3", "text": "And we start with the first question on our plan. What exists?", "gap": 0.6 },
+        { "id": "i4", "text": "HTML creates the things that exist in our game.", "gap": 0.7 }
+      ]
+    },
+    {
+      "id": "files",
+      "name": "Open the project",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "f1", "text": "Here's the starter project you downloaded." },
+        { "id": "f2", "text": "Three files, and you already know their jobs.", "gap": 0.4 },
+        { "id": "f3", "text": "index dot html holds the pieces. style dot css makes them look good. And script dot js makes them do things.", "gap": 0.5 },
+        { "id": "f4", "text": "To see our game, double-click index dot html, and it opens in your browser.", "gap": 0.7 },
+        { "id": "f5", "text": "Right now? A blank page. Let's fix that.", "gap": 0.9 }
+      ]
+    },
+    {
+      "id": "tour",
+      "name": "Tour the starter file",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "u1", "text": "Let's open index dot html." },
+        { "id": "u2", "text": "The top part, called the head, is information about the page. You don't see it. It connects our font, and our CSS file.", "gap": 0.6 },
+        { "id": "u3", "text": "Down here is the body. That's what you do see.", "gap": 0.6 },
+        { "id": "u4", "text": "And inside it, is one empty box, called game. Every piece of our game goes in here.", "gap": 0.4 },
+        { "id": "u5", "text": "See this grey text? That's a comment. The browser ignores it. It's a note for us.", "gap": 0.7 },
+        { "id": "u6", "text": "And look. It's our paper plan, written as a to-do list.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "tags",
+      "name": "What is a tag",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "g1", "text": "HTML is made of tags." },
+        { "id": "g2", "text": "An opening tag. Some content. And a closing tag, with a slash.", "gap": 0.5 },
+        { "id": "g3", "text": "Think of tags as labelled boxes. The label tells the browser what kind of thing is inside.", "gap": 0.7 }
+      ]
+    },
+    {
+      "id": "title",
+      "name": "Step 1: the title",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "t1", "text": "Let's add our first piece. The title." },
+        { "id": "t2", "text": "h1 means heading number one. The biggest heading.", "gap": 0.8 },
+        { "id": "t3", "text": "Save the file. Refresh the browser. And there's our title.", "gap": 0.5 },
+        { "id": "t4", "text": "Remember this loop. Save, refresh. You'll do it a hundred times.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "score",
+      "name": "Step 2: the score",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "s1", "text": "Next, the score." },
+        { "id": "s2", "text": "A div is a general-purpose box. A span is a small box, for a bit of text.", "gap": 1.2 },
+        { "id": "s3", "text": "And see this? id equals score. An id is a name tag.", "gap": 0.6 },
+        { "id": "s4", "text": "Later, JavaScript will say, find the thing called score, and change its number. Without a name, it can't find it.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "area",
+      "name": "Step 3: the game area",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "a1", "text": "Now the world. An empty box called game area." },
+        { "id": "a2", "text": "You can't see it yet, because it's empty, and it has no style. But it's there.", "gap": 0.8 },
+        { "id": "a3", "text": "Everything in the game world goes inside this box. Boxes inside boxes. That's called nesting.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "pieces",
+      "name": "Step 4: player, obstacle, ground",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "p1", "text": "Now let's fill the world." },
+        { "id": "p2", "text": "Two clouds. The player. The obstacle. And the ground.", "gap": 0.4 },
+        { "id": "p3", "text": "Save. Refresh. And... nothing?", "gap": 0.8 },
+        { "id": "p4", "text": "They're empty boxes, with no size and no colour, so they're invisible. That's CSS's job, next video. But they exist.", "gap": 0.8 },
+        { "id": "p5", "text": "Here's a creator trick. Right-click, and choose Inspect. Hover over player... and there it is. It exists.", "gap": 0.7 },
+        { "id": "p6", "text": "Notice the clouds use class, not id. An id is for one unique thing. There's only one player. A class is for a group. We can have lots of clouds.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "messages",
+      "name": "Step 5 + 6: messages and button",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "m1", "text": "Now, the start message. p means paragraph. A line of text that tells the player how to begin." },
+        { "id": "m2", "text": "And finally, the end of the game. A Game Over heading, and a real button you can click.", "gap": 0.9 },
+        { "id": "m3", "text": "We gave this box a class called hidden. Right now, it does nothing. It's still showing.", "gap": 0.8 },
+        { "id": "m4", "text": "Next video, CSS will hide it. And in video four, JavaScript will show it at exactly the right moment.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "compare",
+      "name": "Compare with the plan",
+      "lead": 0.5,
+      "tail": 1.2,
+      "lines": [
+        { "id": "c1", "text": "It doesn't look like a game yet." },
+        { "id": "c2", "text": "But compare it to our plan. The dinosaur. The obstacle. The score. The restart button.", "gap": 0.5 },
+        { "id": "c3", "text": "Every single thing we drew now exists.", "gap": 0.6 },
+        { "id": "c4", "text": "That's what HTML does. It doesn't make things pretty, and it doesn't make them move. It makes them exist.", "gap": 0.8 }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Checkpoint + preview",
+      "lead": 0.5,
+      "tail": 4.5,
+      "lines": [
+        { "id": "o1", "text": "Before the next video, check your page has everything on this list." },
+        { "id": "o2", "text": "If something's missing, compare your code with the checkpoint file.", "gap": 0.5 },
+        { "id": "o3", "text": "Mini challenge. Change the title to your own game's name. And change the button text.", "gap": 0.8 },
+        { "id": "o4", "text": "Next time, we take these plain pieces, and make them look like a real game. With CSS.", "gap": 1.0 }
+      ]
+    }
+  ]
+}

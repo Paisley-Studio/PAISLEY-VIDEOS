@@ -1,0 +1,25 @@
+/* =========================================
+   DINO RUNNER — style.css
+   This file controls how the game LOOKS.
+   ========================================= */
+
+/* VIDEO 3: We style the game here, one section at a time.
+
+   1.  Our colours
+   2.  The page
+   3.  The game container
+   4.  The score
+   5.  The game area (the world)
+   6.  The ground
+   7.  The player
+   8.  The obstacle
+   9.  Clouds
+   10. Messages
+   11. The button
+   12. Hiding things
+   13. Animations
+*/
+
+body {
+  font-family: "Quicksand", sans-serif;
+}

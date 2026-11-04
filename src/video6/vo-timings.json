@@ -1,0 +1,2784 @@
+{
+ "o1": {
+  "text": "Look around you.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.093,
+    "w": "Look"
+   },
+   {
+    "t": 0.239,
+    "w": "around"
+   },
+   {
+    "t": 0.625,
+    "w": "you"
+   }
+  ]
+ },
+ "o2": {
+  "text": "Before breakfast is even over, technology is already working for you.",
+  "duration": 5.328,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Before"
+   },
+   {
+    "t": 0.465,
+    "w": "breakfast"
+   },
+   {
+    "t": 1.263,
+    "w": "is"
+   },
+   {
+    "t": 1.529,
+    "w": "even"
+   },
+   {
+    "t": 1.795,
+    "w": "over"
+   },
+   {
+    "t": 2.527,
+    "w": "technology"
+   },
+   {
+    "t": 3.511,
+    "w": "is"
+   },
+   {
+    "t": 3.657,
+    "w": "already"
+   },
+   {
+    "t": 4.082,
+    "w": "working"
+   },
+   {
+    "t": 4.521,
+    "w": "for"
+   },
+   {
+    "t": 4.774,
+    "w": "you"
+   }
+  ]
+ },
+ "o3": {
+  "text": "A phone lights up. A map finds the fastest way to school. A song starts playing, picked just for you.",
+  "duration": 6.48,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "A"
+   },
+   {
+    "t": 0.173,
+    "w": "phone"
+   },
+   {
+    "t": 0.412,
+    "w": "lights"
+   },
+   {
+    "t": 0.678,
+    "w": "up"
+   },
+   {
+    "t": 1.317,
+    "w": "A"
+   },
+   {
+    "t": 1.37,
+    "w": "map"
+   },
+   {
+    "t": 1.782,
+    "w": "finds"
+   },
+   {
+    "t": 2.088,
+    "w": "the"
+   },
+   {
+    "t": 2.194,
+    "w": "fastest"
+   },
+   {
+    "t": 2.766,
+    "w": "way"
+   },
+   {
+    "t": 2.899,
+    "w": "to"
+   },
+   {
+    "t": 2.979,
+    "w": "school"
+   },
+   {
+    "t": 3.856,
+    "w": "A"
+   },
+   {
+    "t": 3.923,
+    "w": "song"
+   },
+   {
+    "t": 4.189,
+    "w": "starts"
+   },
+   {
+    "t": 4.481,
+    "w": "playing"
+   },
+   {
+    "t": 5.16,
+    "w": "picked"
+   },
+   {
+    "t": 5.452,
+    "w": "just"
+   },
+   {
+    "t": 5.718,
+    "w": "for"
+   },
+   {
+    "t": 5.904,
+    "w": "you"
+   }
+  ]
+ },
+ "o4": {
+  "text": "None of it is magic. Every tap, every screen, every message was planned, designed, and built by people who learned to code.",
+  "duration": 8.904,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "None"
+   },
+   {
+    "t": 0.253,
+    "w": "of"
+   },
+   {
+    "t": 0.346,
+    "w": "it"
+   },
+   {
+    "t": 0.426,
+    "w": "is"
+   },
+   {
+    "t": 0.532,
+    "w": "magic"
+   },
+   {
+    "t": 1.543,
+    "w": "Every"
+   },
+   {
+    "t": 1.822,
+    "w": "tap"
+   },
+   {
+    "t": 2.58,
+    "w": "every"
+   },
+   {
+    "t": 2.872,
+    "w": "screen"
+   },
+   {
+    "t": 3.843,
+    "w": "every"
+   },
+   {
+    "t": 4.109,
+    "w": "message"
+   },
+   {
+    "t": 4.588,
+    "w": "was"
+   },
+   {
+    "t": 4.774,
+    "w": "planned"
+   },
+   {
+    "t": 5.625,
+    "w": "designed"
+   },
+   {
+    "t": 6.596,
+    "w": "and"
+   },
+   {
+    "t": 6.702,
+    "w": "built"
+   },
+   {
+    "t": 7.035,
+    "w": "by"
+   },
+   {
+    "t": 7.194,
+    "w": "people"
+   },
+   {
+    "t": 7.566,
+    "w": "who"
+   },
+   {
+    "t": 7.699,
+    "w": "learned"
+   },
+   {
+    "t": 8.032,
+    "w": "to"
+   },
+   {
+    "t": 8.112,
+    "w": "code"
+   }
+  ]
+ },
+ "t1": {
+  "text": "Welcome to the world of coding.",
+  "duration": 1.944,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.479,
+    "w": "to"
+   },
+   {
+    "t": 0.598,
+    "w": "the"
+   },
+   {
+    "t": 0.731,
+    "w": "world"
+   },
+   {
+    "t": 1.037,
+    "w": "of"
+   },
+   {
+    "t": 1.13,
+    "w": "coding"
+   }
+  ]
+ },
+ "t2": {
+  "text": "Today, we're going on a journey from ideas to real products.",
+  "duration": 4.224,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Today"
+   },
+   {
+    "t": 0.718,
+    "w": "we're"
+   },
+   {
+    "t": 0.838,
+    "w": "going"
+   },
+   {
+    "t": 1.104,
+    "w": "on"
+   },
+   {
+    "t": 1.21,
+    "w": "a"
+   },
+   {
+    "t": 1.277,
+    "w": "journey"
+   },
+   {
+    "t": 1.742,
+    "w": "from"
+   },
+   {
+    "t": 1.928,
+    "w": "ideas"
+   },
+   {
+    "t": 2.66,
+    "w": "to"
+   },
+   {
+    "t": 2.846,
+    "w": "real"
+   },
+   {
+    "t": 3.138,
+    "w": "products"
+   }
+  ]
+ },
+ "d1": {
+  "text": "Let's start with something you might use every week.",
+  "duration": 2.712,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.266,
+    "w": "start"
+   },
+   {
+    "t": 0.519,
+    "w": "with"
+   },
+   {
+    "t": 0.665,
+    "w": "something"
+   },
+   {
+    "t": 1.037,
+    "w": "you"
+   },
+   {
+    "t": 1.144,
+    "w": "might"
+   },
+   {
+    "t": 1.41,
+    "w": "use"
+   },
+   {
+    "t": 1.662,
+    "w": "every"
+   },
+   {
+    "t": 1.902,
+    "w": "week"
+   }
+  ]
+ },
+ "d2": {
+  "text": "You're hungry, so you open a food delivery app.",
+  "duration": 3.144,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "You're"
+   },
+   {
+    "t": 0.226,
+    "w": "hungry"
+   },
+   {
+    "t": 1.037,
+    "w": "so"
+   },
+   {
+    "t": 1.157,
+    "w": "you"
+   },
+   {
+    "t": 1.303,
+    "w": "open"
+   },
+   {
+    "t": 1.569,
+    "w": "a"
+   },
+   {
+    "t": 1.636,
+    "w": "food"
+   },
+   {
+    "t": 1.968,
+    "w": "delivery"
+   },
+   {
+    "t": 2.473,
+    "w": "app."
+   }
+  ]
+ },
+ "d3": {
+  "text": "You scroll through the restaurants, choose your favorite meal, and tap, place order.",
+  "duration": 5.304,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.199,
+    "w": "scroll"
+   },
+   {
+    "t": 0.612,
+    "w": "through"
+   },
+   {
+    "t": 0.758,
+    "w": "the"
+   },
+   {
+    "t": 0.851,
+    "w": "restaurants"
+   },
+   {
+    "t": 1.848,
+    "w": "choose"
+   },
+   {
+    "t": 2.154,
+    "w": "your"
+   },
+   {
+    "t": 2.287,
+    "w": "favorite"
+   },
+   {
+    "t": 2.713,
+    "w": "meal"
+   },
+   {
+    "t": 3.471,
+    "w": "and"
+   },
+   {
+    "t": 3.551,
+    "w": "tap"
+   },
+   {
+    "t": 4.229,
+    "w": "place"
+   },
+   {
+    "t": 4.561,
+    "w": "order"
+   }
+  ]
+ },
+ "d4": {
+  "text": "Instantly, the kitchen receives it, a rider is on the way, and you can watch them move across a live map, right to your door.",
+  "duration": 8.232,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Instantly"
+   },
+   {
+    "t": 0.918,
+    "w": "the"
+   },
+   {
+    "t": 1.037,
+    "w": "kitchen"
+   },
+   {
+    "t": 1.423,
+    "w": "receives"
+   },
+   {
+    "t": 1.915,
+    "w": "it"
+   },
+   {
+    "t": 2.513,
+    "w": "a"
+   },
+   {
+    "t": 2.567,
+    "w": "rider"
+   },
+   {
+    "t": 3.032,
+    "w": "is"
+   },
+   {
+    "t": 3.205,
+    "w": "on"
+   },
+   {
+    "t": 3.351,
+    "w": "the"
+   },
+   {
+    "t": 3.457,
+    "w": "way"
+   },
+   {
+    "t": 4.162,
+    "w": "and"
+   },
+   {
+    "t": 4.295,
+    "w": "you"
+   },
+   {
+    "t": 4.402,
+    "w": "can"
+   },
+   {
+    "t": 4.574,
+    "w": "watch"
+   },
+   {
+    "t": 4.88,
+    "w": "them"
+   },
+   {
+    "t": 5.093,
+    "w": "move"
+   },
+   {
+    "t": 5.332,
+    "w": "across"
+   },
+   {
+    "t": 5.811,
+    "w": "a"
+   },
+   {
+    "t": 5.878,
+    "w": "live"
+   },
+   {
+    "t": 6.303,
+    "w": "map"
+   },
+   {
+    "t": 7.048,
+    "w": "right"
+   },
+   {
+    "t": 7.234,
+    "w": "to"
+   },
+   {
+    "t": 7.354,
+    "w": "your"
+   },
+   {
+    "t": 7.487,
+    "w": "door"
+   }
+  ]
+ },
+ "d5": {
+  "text": "Every screen, every button, even that little moving map. Someone coded it.",
+  "duration": 5.544,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.372,
+    "w": "screen"
+   },
+   {
+    "t": 1.237,
+    "w": "every"
+   },
+   {
+    "t": 1.476,
+    "w": "button"
+   },
+   {
+    "t": 2.327,
+    "w": "even"
+   },
+   {
+    "t": 2.58,
+    "w": "that"
+   },
+   {
+    "t": 2.806,
+    "w": "little"
+   },
+   {
+    "t": 3.045,
+    "w": "moving"
+   },
+   {
+    "t": 3.497,
+    "w": "map"
+   },
+   {
+    "t": 4.348,
+    "w": "Someone"
+   },
+   {
+    "t": 4.614,
+    "w": "coded"
+   },
+   {
+    "t": 4.973,
+    "w": "it"
+   }
+  ]
+ },
+ "s1": {
+  "text": "Now think about school.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.253,
+    "w": "think"
+   },
+   {
+    "t": 0.452,
+    "w": "about"
+   },
+   {
+    "t": 0.718,
+    "w": "school"
+   }
+  ]
+ },
+ "s2": {
+  "text": "At the end of the term, parents don't have to wait for a paper report.",
+  "duration": 4.152,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "At"
+   },
+   {
+    "t": 0.213,
+    "w": "the"
+   },
+   {
+    "t": 0.319,
+    "w": "end"
+   },
+   {
+    "t": 0.492,
+    "w": "of"
+   },
+   {
+    "t": 0.558,
+    "w": "the"
+   },
+   {
+    "t": 0.652,
+    "w": "term"
+   },
+   {
+    "t": 1.356,
+    "w": "parents"
+   },
+   {
+    "t": 1.755,
+    "w": "don't"
+   },
+   {
+    "t": 1.995,
+    "w": "have"
+   },
+   {
+    "t": 2.234,
+    "w": "to"
+   },
+   {
+    "t": 2.354,
+    "w": "wait"
+   },
+   {
+    "t": 2.686,
+    "w": "for"
+   },
+   {
+    "t": 2.846,
+    "w": "a"
+   },
+   {
+    "t": 2.899,
+    "w": "paper"
+   },
+   {
+    "t": 3.271,
+    "w": "report"
+   }
+  ]
+ },
+ "s3": {
+  "text": "They open the school portal, sign in securely, and there it is. Every subject, every grade, and a message from the teacher.",
+  "duration": 8.016,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "They"
+   },
+   {
+    "t": 0.239,
+    "w": "open"
+   },
+   {
+    "t": 0.492,
+    "w": "the"
+   },
+   {
+    "t": 0.585,
+    "w": "school"
+   },
+   {
+    "t": 0.904,
+    "w": "portal"
+   },
+   {
+    "t": 1.689,
+    "w": "sign"
+   },
+   {
+    "t": 1.968,
+    "w": "in"
+   },
+   {
+    "t": 2.074,
+    "w": "securely"
+   },
+   {
+    "t": 2.979,
+    "w": "and"
+   },
+   {
+    "t": 3.085,
+    "w": "there"
+   },
+   {
+    "t": 3.271,
+    "w": "it"
+   },
+   {
+    "t": 3.351,
+    "w": "is"
+   },
+   {
+    "t": 4.149,
+    "w": "Every"
+   },
+   {
+    "t": 4.388,
+    "w": "subject"
+   },
+   {
+    "t": 5.253,
+    "w": "every"
+   },
+   {
+    "t": 5.532,
+    "w": "grade"
+   },
+   {
+    "t": 6.29,
+    "w": "and"
+   },
+   {
+    "t": 6.383,
+    "w": "a"
+   },
+   {
+    "t": 6.436,
+    "w": "message"
+   },
+   {
+    "t": 6.888,
+    "w": "from"
+   },
+   {
+    "t": 7.074,
+    "w": "the"
+   },
+   {
+    "t": 7.154,
+    "w": "teacher"
+   }
+  ]
+ },
+ "s4": {
+  "text": "That portal is a website. And somebody built it, line by line.",
+  "duration": 4.248,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "That"
+   },
+   {
+    "t": 0.293,
+    "w": "portal"
+   },
+   {
+    "t": 0.638,
+    "w": "is"
+   },
+   {
+    "t": 0.745,
+    "w": "a"
+   },
+   {
+    "t": 0.811,
+    "w": "website"
+   },
+   {
+    "t": 1.862,
+    "w": "And"
+   },
+   {
+    "t": 1.955,
+    "w": "somebody"
+   },
+   {
+    "t": 2.314,
+    "w": "built"
+   },
+   {
+    "t": 2.633,
+    "w": "it"
+   },
+   {
+    "t": 3.085,
+    "w": "line"
+   },
+   {
+    "t": 3.298,
+    "w": "by"
+   },
+   {
+    "t": 3.484,
+    "w": "line"
+   }
+  ]
+ },
+ "e1": {
+  "text": "Once you notice it, you see it everywhere.",
+  "duration": 2.616,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Once"
+   },
+   {
+    "t": 0.293,
+    "w": "you"
+   },
+   {
+    "t": 0.386,
+    "w": "notice"
+   },
+   {
+    "t": 0.758,
+    "w": "it"
+   },
+   {
+    "t": 1.223,
+    "w": "you"
+   },
+   {
+    "t": 1.317,
+    "w": "see"
+   },
+   {
+    "t": 1.543,
+    "w": "it"
+   },
+   {
+    "t": 1.649,
+    "w": "everywhere"
+   }
+  ]
+ },
+ "e2": {
+  "text": "The online store where you add new sneakers to your cart.",
+  "duration": 3.456,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.213,
+    "w": "online"
+   },
+   {
+    "t": 0.665,
+    "w": "store"
+   },
+   {
+    "t": 0.984,
+    "w": "where"
+   },
+   {
+    "t": 1.13,
+    "w": "you"
+   },
+   {
+    "t": 1.277,
+    "w": "add"
+   },
+   {
+    "t": 1.582,
+    "w": "new"
+   },
+   {
+    "t": 1.848,
+    "w": "sneakers"
+   },
+   {
+    "t": 2.394,
+    "w": "to"
+   },
+   {
+    "t": 2.527,
+    "w": "your"
+   },
+   {
+    "t": 2.66,
+    "w": "cart"
+   }
+  ]
+ },
+ "e3": {
+  "text": "The transport app that tells you your bus is three minutes away.",
+  "duration": 3.864,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "The"
+   },
+   {
+    "t": 0.199,
+    "w": "transport"
+   },
+   {
+    "t": 0.758,
+    "w": "app"
+   },
+   {
+    "t": 0.971,
+    "w": "that"
+   },
+   {
+    "t": 1.117,
+    "w": "tells"
+   },
+   {
+    "t": 1.41,
+    "w": "you"
+   },
+   {
+    "t": 1.516,
+    "w": "your"
+   },
+   {
+    "t": 1.702,
+    "w": "bus"
+   },
+   {
+    "t": 2.274,
+    "w": "is"
+   },
+   {
+    "t": 2.433,
+    "w": "three"
+   },
+   {
+    "t": 2.766,
+    "w": "minutes"
+   },
+   {
+    "t": 3.112,
+    "w": "away"
+   }
+  ]
+ },
+ "e4": {
+  "text": "Every one of them started as an idea, and every one of them runs on code.",
+  "duration": 4.464,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.359,
+    "w": "one"
+   },
+   {
+    "t": 0.558,
+    "w": "of"
+   },
+   {
+    "t": 0.652,
+    "w": "them"
+   },
+   {
+    "t": 0.811,
+    "w": "started"
+   },
+   {
+    "t": 1.277,
+    "w": "as"
+   },
+   {
+    "t": 1.449,
+    "w": "an"
+   },
+   {
+    "t": 1.556,
+    "w": "idea"
+   },
+   {
+    "t": 2.407,
+    "w": "and"
+   },
+   {
+    "t": 2.606,
+    "w": "every"
+   },
+   {
+    "t": 2.846,
+    "w": "one"
+   },
+   {
+    "t": 3.005,
+    "w": "of"
+   },
+   {
+    "t": 3.085,
+    "w": "them"
+   },
+   {
+    "t": 3.258,
+    "w": "runs"
+   },
+   {
+    "t": 3.524,
+    "w": "on"
+   },
+   {
+    "t": 3.697,
+    "w": "code"
+   }
+  ]
+ },
+ "w1": {
+  "text": "So, what actually is coding?",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "So"
+   },
+   {
+    "t": 0.319,
+    "w": "what"
+   },
+   {
+    "t": 0.465,
+    "w": "actually"
+   },
+   {
+    "t": 0.851,
+    "w": "is"
+   },
+   {
+    "t": 0.971,
+    "w": "coding"
+   }
+  ]
+ },
+ "w2": {
+  "text": "Coding is writing instructions for a computer.",
+  "duration": 2.808,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Coding"
+   },
+   {
+    "t": 0.439,
+    "w": "is"
+   },
+   {
+    "t": 0.585,
+    "w": "writing"
+   },
+   {
+    "t": 0.957,
+    "w": "instructions"
+   },
+   {
+    "t": 1.596,
+    "w": "for"
+   },
+   {
+    "t": 1.795,
+    "w": "a"
+   },
+   {
+    "t": 1.848,
+    "w": "computer"
+   }
+  ]
+ },
+ "w3": {
+  "text": "Computers are incredibly fast, but they can't guess what you mean. They do exactly what you tell them, step by step, in order.",
+  "duration": 8.256,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Computers"
+   },
+   {
+    "t": 0.612,
+    "w": "are"
+   },
+   {
+    "t": 0.838,
+    "w": "incredibly"
+   },
+   {
+    "t": 1.529,
+    "w": "fast"
+   },
+   {
+    "t": 2.394,
+    "w": "but"
+   },
+   {
+    "t": 2.527,
+    "w": "they"
+   },
+   {
+    "t": 2.673,
+    "w": "can't"
+   },
+   {
+    "t": 3.032,
+    "w": "guess"
+   },
+   {
+    "t": 3.298,
+    "w": "what"
+   },
+   {
+    "t": 3.444,
+    "w": "you"
+   },
+   {
+    "t": 3.537,
+    "w": "mean"
+   },
+   {
+    "t": 4.309,
+    "w": "They"
+   },
+   {
+    "t": 4.388,
+    "w": "do"
+   },
+   {
+    "t": 4.548,
+    "w": "exactly"
+   },
+   {
+    "t": 5.133,
+    "w": "what"
+   },
+   {
+    "t": 5.279,
+    "w": "you"
+   },
+   {
+    "t": 5.372,
+    "w": "tell"
+   },
+   {
+    "t": 5.638,
+    "w": "them"
+   },
+   {
+    "t": 6.13,
+    "w": "step"
+   },
+   {
+    "t": 6.423,
+    "w": "by"
+   },
+   {
+    "t": 6.569,
+    "w": "step"
+   },
+   {
+    "t": 7.354,
+    "w": "in"
+   },
+   {
+    "t": 7.487,
+    "w": "order"
+   }
+  ]
+ },
+ "w4": {
+  "text": "So a coder takes an idea, like, when someone taps add, put the meal in the cart, and turns it into clear steps the computer can follow.",
+  "duration": 8.952,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "So"
+   },
+   {
+    "t": 0.306,
+    "w": "a"
+   },
+   {
+    "t": 0.372,
+    "w": "coder"
+   },
+   {
+    "t": 0.771,
+    "w": "takes"
+   },
+   {
+    "t": 1.064,
+    "w": "an"
+   },
+   {
+    "t": 1.17,
+    "w": "idea"
+   },
+   {
+    "t": 1.995,
+    "w": "like"
+   },
+   {
+    "t": 2.593,
+    "w": "when"
+   },
+   {
+    "t": 2.753,
+    "w": "someone"
+   },
+   {
+    "t": 3.152,
+    "w": "taps"
+   },
+   {
+    "t": 3.564,
+    "w": "add"
+   },
+   {
+    "t": 4.242,
+    "w": "put"
+   },
+   {
+    "t": 4.455,
+    "w": "the"
+   },
+   {
+    "t": 4.561,
+    "w": "meal"
+   },
+   {
+    "t": 4.934,
+    "w": "in"
+   },
+   {
+    "t": 5.013,
+    "w": "the"
+   },
+   {
+    "t": 5.106,
+    "w": "cart"
+   },
+   {
+    "t": 5.824,
+    "w": "and"
+   },
+   {
+    "t": 5.918,
+    "w": "turns"
+   },
+   {
+    "t": 6.263,
+    "w": "it"
+   },
+   {
+    "t": 6.356,
+    "w": "into"
+   },
+   {
+    "t": 6.596,
+    "w": "clear"
+   },
+   {
+    "t": 6.995,
+    "w": "steps"
+   },
+   {
+    "t": 7.394,
+    "w": "the"
+   },
+   {
+    "t": 7.5,
+    "w": "computer"
+   },
+   {
+    "t": 7.965,
+    "w": "can"
+   },
+   {
+    "t": 8.112,
+    "w": "follow"
+   }
+  ]
+ },
+ "w5": {
+  "text": "Write the steps, and the product responds.",
+  "duration": 2.904,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Write"
+   },
+   {
+    "t": 0.279,
+    "w": "the"
+   },
+   {
+    "t": 0.372,
+    "w": "steps"
+   },
+   {
+    "t": 1.157,
+    "w": "and"
+   },
+   {
+    "t": 1.277,
+    "w": "the"
+   },
+   {
+    "t": 1.37,
+    "w": "product"
+   },
+   {
+    "t": 1.769,
+    "w": "responds"
+   }
+  ]
+ },
+ "b1": {
+  "text": "And here's the exciting part. Once you can give instructions, you can build almost anything.",
+  "duration": 5.424,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "here's"
+   },
+   {
+    "t": 0.465,
+    "w": "the"
+   },
+   {
+    "t": 0.558,
+    "w": "exciting"
+   },
+   {
+    "t": 1.037,
+    "w": "part"
+   },
+   {
+    "t": 1.848,
+    "w": "Once"
+   },
+   {
+    "t": 2.021,
+    "w": "you"
+   },
+   {
+    "t": 2.128,
+    "w": "can"
+   },
+   {
+    "t": 2.261,
+    "w": "give"
+   },
+   {
+    "t": 2.447,
+    "w": "instructions"
+   },
+   {
+    "t": 3.484,
+    "w": "you"
+   },
+   {
+    "t": 3.577,
+    "w": "can"
+   },
+   {
+    "t": 3.723,
+    "w": "build"
+   },
+   {
+    "t": 4.122,
+    "w": "almost"
+   },
+   {
+    "t": 4.561,
+    "w": "anything"
+   }
+  ]
+ },
+ "b2": {
+  "text": "Websites. Mobile apps. School systems. Games. Digital tools that help people. Even the systems that run whole businesses.",
+  "duration": 9.144,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Websites"
+   },
+   {
+    "t": 1.17,
+    "w": "Mobile"
+   },
+   {
+    "t": 1.463,
+    "w": "apps"
+   },
+   {
+    "t": 2.354,
+    "w": "School"
+   },
+   {
+    "t": 2.593,
+    "w": "systems"
+   },
+   {
+    "t": 3.604,
+    "w": "Games"
+   },
+   {
+    "t": 4.535,
+    "w": "Digital"
+   },
+   {
+    "t": 4.894,
+    "w": "tools"
+   },
+   {
+    "t": 5.279,
+    "w": "that"
+   },
+   {
+    "t": 5.412,
+    "w": "help"
+   },
+   {
+    "t": 5.665,
+    "w": "people"
+   },
+   {
+    "t": 6.556,
+    "w": "Even"
+   },
+   {
+    "t": 6.755,
+    "w": "the"
+   },
+   {
+    "t": 6.848,
+    "w": "systems"
+   },
+   {
+    "t": 7.38,
+    "w": "that"
+   },
+   {
+    "t": 7.633,
+    "w": "run"
+   },
+   {
+    "t": 7.819,
+    "w": "whole"
+   },
+   {
+    "t": 8.032,
+    "w": "businesses"
+   }
+  ]
+ },
+ "b3": {
+  "text": "And most of what you see on a screen starts with the same three building blocks.",
+  "duration": 4.704,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "most"
+   },
+   {
+    "t": 0.532,
+    "w": "of"
+   },
+   {
+    "t": 0.612,
+    "w": "what"
+   },
+   {
+    "t": 0.758,
+    "w": "you"
+   },
+   {
+    "t": 0.864,
+    "w": "see"
+   },
+   {
+    "t": 1.157,
+    "w": "on"
+   },
+   {
+    "t": 1.263,
+    "w": "a"
+   },
+   {
+    "t": 1.33,
+    "w": "screen"
+   },
+   {
+    "t": 1.808,
+    "w": "starts"
+   },
+   {
+    "t": 2.247,
+    "w": "with"
+   },
+   {
+    "t": 2.367,
+    "w": "the"
+   },
+   {
+    "t": 2.473,
+    "w": "same"
+   },
+   {
+    "t": 2.952,
+    "w": "three"
+   },
+   {
+    "t": 3.364,
+    "w": "building"
+   },
+   {
+    "t": 3.737,
+    "w": "blocks"
+   }
+  ]
+ },
+ "h1": {
+  "text": "The first is HTML. HTML is the structure.",
+  "duration": 4.08,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "first"
+   },
+   {
+    "t": 0.652,
+    "w": "is"
+   },
+   {
+    "t": 0.811,
+    "w": "HTML"
+   },
+   {
+    "t": 2.008,
+    "w": "HTML"
+   },
+   {
+    "t": 2.912,
+    "w": "is"
+   },
+   {
+    "t": 3.005,
+    "w": "the"
+   },
+   {
+    "t": 3.112,
+    "w": "structure"
+   }
+  ]
+ },
+ "h2": {
+  "text": "Think of it like the frame of a house. It decides what's on the page. A heading. A picture. Some text. A button.",
+  "duration": 8.088,
+  "words": [
+   {
+    "t": 0.146,
+    "w": "Think"
+   },
+   {
+    "t": 0.319,
+    "w": "of"
+   },
+   {
+    "t": 0.426,
+    "w": "it"
+   },
+   {
+    "t": 0.532,
+    "w": "like"
+   },
+   {
+    "t": 0.731,
+    "w": "the"
+   },
+   {
+    "t": 0.824,
+    "w": "frame"
+   },
+   {
+    "t": 1.237,
+    "w": "of"
+   },
+   {
+    "t": 1.33,
+    "w": "a"
+   },
+   {
+    "t": 1.383,
+    "w": "house"
+   },
+   {
+    "t": 2.38,
+    "w": "It"
+   },
+   {
+    "t": 2.473,
+    "w": "decides"
+   },
+   {
+    "t": 2.992,
+    "w": "what's"
+   },
+   {
+    "t": 3.205,
+    "w": "on"
+   },
+   {
+    "t": 3.311,
+    "w": "the"
+   },
+   {
+    "t": 3.391,
+    "w": "page"
+   },
+   {
+    "t": 4.362,
+    "w": "A"
+   },
+   {
+    "t": 4.415,
+    "w": "heading"
+   },
+   {
+    "t": 5.186,
+    "w": "A"
+   },
+   {
+    "t": 5.253,
+    "w": "picture"
+   },
+   {
+    "t": 6.117,
+    "w": "Some"
+   },
+   {
+    "t": 6.277,
+    "w": "text"
+   },
+   {
+    "t": 7.247,
+    "w": "A"
+   },
+   {
+    "t": 7.327,
+    "w": "button"
+   }
+  ]
+ },
+ "h3": {
+  "text": "Without HTML, there's nothing there at all.",
+  "duration": 2.976,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Without"
+   },
+   {
+    "t": 0.439,
+    "w": "HTML"
+   },
+   {
+    "t": 1.503,
+    "w": "there's"
+   },
+   {
+    "t": 1.689,
+    "w": "nothing"
+   },
+   {
+    "t": 2.035,
+    "w": "there"
+   },
+   {
+    "t": 2.221,
+    "w": "at"
+   },
+   {
+    "t": 2.327,
+    "w": "all"
+   }
+  ]
+ },
+ "c1": {
+  "text": "The second is CSS. CSS is the appearance.",
+  "duration": 4.368,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "second"
+   },
+   {
+    "t": 0.758,
+    "w": "is"
+   },
+   {
+    "t": 0.864,
+    "w": "CSS"
+   },
+   {
+    "t": 2.154,
+    "w": "CSS"
+   },
+   {
+    "t": 3.072,
+    "w": "is"
+   },
+   {
+    "t": 3.178,
+    "w": "the"
+   },
+   {
+    "t": 3.285,
+    "w": "appearance"
+   }
+  ]
+ },
+ "c2": {
+  "text": "It's the paint and the design. The colors, the fonts, the spacing, the rounded corners.",
+  "duration": 6.408,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "It's"
+   },
+   {
+    "t": 0.253,
+    "w": "the"
+   },
+   {
+    "t": 0.372,
+    "w": "paint"
+   },
+   {
+    "t": 0.957,
+    "w": "and"
+   },
+   {
+    "t": 1.051,
+    "w": "the"
+   },
+   {
+    "t": 1.144,
+    "w": "design"
+   },
+   {
+    "t": 2.061,
+    "w": "The"
+   },
+   {
+    "t": 2.141,
+    "w": "colors"
+   },
+   {
+    "t": 2.952,
+    "w": "the"
+   },
+   {
+    "t": 3.072,
+    "w": "fonts"
+   },
+   {
+    "t": 3.936,
+    "w": "the"
+   },
+   {
+    "t": 4.056,
+    "w": "spacing"
+   },
+   {
+    "t": 4.934,
+    "w": "the"
+   },
+   {
+    "t": 5.027,
+    "w": "rounded"
+   },
+   {
+    "t": 5.439,
+    "w": "corners"
+   }
+  ]
+ },
+ "c3": {
+  "text": "CSS turns a plain page into something that looks beautiful and feels professional.",
+  "duration": 5.784,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "CSS"
+   },
+   {
+    "t": 1.051,
+    "w": "turns"
+   },
+   {
+    "t": 1.356,
+    "w": "a"
+   },
+   {
+    "t": 1.449,
+    "w": "plain"
+   },
+   {
+    "t": 1.875,
+    "w": "page"
+   },
+   {
+    "t": 2.314,
+    "w": "into"
+   },
+   {
+    "t": 2.5,
+    "w": "something"
+   },
+   {
+    "t": 2.952,
+    "w": "that"
+   },
+   {
+    "t": 3.125,
+    "w": "looks"
+   },
+   {
+    "t": 3.378,
+    "w": "beautiful"
+   },
+   {
+    "t": 4.215,
+    "w": "and"
+   },
+   {
+    "t": 4.295,
+    "w": "feels"
+   },
+   {
+    "t": 4.694,
+    "w": "professional"
+   }
+  ]
+ },
+ "j1": {
+  "text": "The third is JavaScript. JavaScript is the behavior.",
+  "duration": 4.032,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "The"
+   },
+   {
+    "t": 0.186,
+    "w": "third"
+   },
+   {
+    "t": 0.718,
+    "w": "is"
+   },
+   {
+    "t": 0.851,
+    "w": "JavaScript"
+   },
+   {
+    "t": 2.048,
+    "w": "JavaScript"
+   },
+   {
+    "t": 2.846,
+    "w": "is"
+   },
+   {
+    "t": 2.939,
+    "w": "the"
+   },
+   {
+    "t": 3.045,
+    "w": "behavior"
+   }
+  ]
+ },
+ "j2": {
+  "text": "It makes things happen. When you tap a button, JavaScript decides what comes next.",
+  "duration": 5.184,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "It"
+   },
+   {
+    "t": 0.213,
+    "w": "makes"
+   },
+   {
+    "t": 0.426,
+    "w": "things"
+   },
+   {
+    "t": 0.652,
+    "w": "happen"
+   },
+   {
+    "t": 1.489,
+    "w": "When"
+   },
+   {
+    "t": 1.596,
+    "w": "you"
+   },
+   {
+    "t": 1.689,
+    "w": "tap"
+   },
+   {
+    "t": 1.955,
+    "w": "a"
+   },
+   {
+    "t": 2.035,
+    "w": "button"
+   },
+   {
+    "t": 2.713,
+    "w": "JavaScript"
+   },
+   {
+    "t": 3.364,
+    "w": "decides"
+   },
+   {
+    "t": 3.883,
+    "w": "what"
+   },
+   {
+    "t": 4.029,
+    "w": "comes"
+   },
+   {
+    "t": 4.282,
+    "w": "next"
+   }
+  ]
+ },
+ "j3": {
+  "text": "It counts. It checks. It responds. It's the electricity that switches the lights on.",
+  "duration": 6.24,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "It"
+   },
+   {
+    "t": 0.199,
+    "w": "counts"
+   },
+   {
+    "t": 1.17,
+    "w": "It"
+   },
+   {
+    "t": 1.263,
+    "w": "checks"
+   },
+   {
+    "t": 2.181,
+    "w": "It"
+   },
+   {
+    "t": 2.287,
+    "w": "responds"
+   },
+   {
+    "t": 3.404,
+    "w": "It's"
+   },
+   {
+    "t": 3.564,
+    "w": "the"
+   },
+   {
+    "t": 3.657,
+    "w": "electricity"
+   },
+   {
+    "t": 4.441,
+    "w": "that"
+   },
+   {
+    "t": 4.614,
+    "w": "switches"
+   },
+   {
+    "t": 5.106,
+    "w": "the"
+   },
+   {
+    "t": 5.213,
+    "w": "lights"
+   },
+   {
+    "t": 5.559,
+    "w": "on"
+   }
+  ]
+ },
+ "g1": {
+  "text": "Now put them together.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.253,
+    "w": "put"
+   },
+   {
+    "t": 0.439,
+    "w": "them"
+   },
+   {
+    "t": 0.558,
+    "w": "together"
+   }
+  ]
+ },
+ "g2": {
+  "text": "HTML gives it structure. CSS makes it look great. JavaScript brings it to life.",
+  "duration": 6.12,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "HTML"
+   },
+   {
+    "t": 0.944,
+    "w": "gives"
+   },
+   {
+    "t": 1.183,
+    "w": "it"
+   },
+   {
+    "t": 1.277,
+    "w": "structure"
+   },
+   {
+    "t": 2.287,
+    "w": "CSS"
+   },
+   {
+    "t": 2.886,
+    "w": "makes"
+   },
+   {
+    "t": 3.125,
+    "w": "it"
+   },
+   {
+    "t": 3.218,
+    "w": "look"
+   },
+   {
+    "t": 3.378,
+    "w": "great"
+   },
+   {
+    "t": 4.162,
+    "w": "JavaScript"
+   },
+   {
+    "t": 4.801,
+    "w": "brings"
+   },
+   {
+    "t": 5.106,
+    "w": "it"
+   },
+   {
+    "t": 5.186,
+    "w": "to"
+   },
+   {
+    "t": 5.293,
+    "w": "life"
+   }
+  ]
+ },
+ "g3": {
+  "text": "Three layers. One real product. That's how the food app, the school portal, and almost every website you love are made.",
+  "duration": 7.896,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "Three"
+   },
+   {
+    "t": 0.319,
+    "w": "layers"
+   },
+   {
+    "t": 1.303,
+    "w": "One"
+   },
+   {
+    "t": 1.489,
+    "w": "real"
+   },
+   {
+    "t": 1.676,
+    "w": "product"
+   },
+   {
+    "t": 2.646,
+    "w": "That's"
+   },
+   {
+    "t": 2.806,
+    "w": "how"
+   },
+   {
+    "t": 2.912,
+    "w": "the"
+   },
+   {
+    "t": 3.019,
+    "w": "food"
+   },
+   {
+    "t": 3.364,
+    "w": "app"
+   },
+   {
+    "t": 3.923,
+    "w": "the"
+   },
+   {
+    "t": 4.043,
+    "w": "school"
+   },
+   {
+    "t": 4.362,
+    "w": "portal"
+   },
+   {
+    "t": 5.08,
+    "w": "and"
+   },
+   {
+    "t": 5.186,
+    "w": "almost"
+   },
+   {
+    "t": 5.731,
+    "w": "every"
+   },
+   {
+    "t": 6.037,
+    "w": "website"
+   },
+   {
+    "t": 6.543,
+    "w": "you"
+   },
+   {
+    "t": 6.676,
+    "w": "love"
+   },
+   {
+    "t": 7.008,
+    "w": "are"
+   },
+   {
+    "t": 7.128,
+    "w": "made"
+   }
+  ]
+ },
+ "a1": {
+  "text": "And today, creators have a powerful new helper. AI.",
+  "duration": 4.224,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.199,
+    "w": "today"
+   },
+   {
+    "t": 0.944,
+    "w": "creators"
+   },
+   {
+    "t": 1.449,
+    "w": "have"
+   },
+   {
+    "t": 1.582,
+    "w": "a"
+   },
+   {
+    "t": 1.676,
+    "w": "powerful"
+   },
+   {
+    "t": 2.261,
+    "w": "new"
+   },
+   {
+    "t": 2.5,
+    "w": "helper"
+   },
+   {
+    "t": 3.431,
+    "w": "AI"
+   }
+  ]
+ },
+ "a2": {
+  "text": "Tools like Claude can explain a line of code, help you track down a bug, or suggest a better idea when you're stuck.",
+  "duration": 7.104,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Tools"
+   },
+   {
+    "t": 0.386,
+    "w": "like"
+   },
+   {
+    "t": 0.558,
+    "w": "Claude"
+   },
+   {
+    "t": 0.971,
+    "w": "can"
+   },
+   {
+    "t": 1.13,
+    "w": "explain"
+   },
+   {
+    "t": 1.556,
+    "w": "a"
+   },
+   {
+    "t": 1.622,
+    "w": "line"
+   },
+   {
+    "t": 1.902,
+    "w": "of"
+   },
+   {
+    "t": 2.021,
+    "w": "code"
+   },
+   {
+    "t": 2.819,
+    "w": "help"
+   },
+   {
+    "t": 2.992,
+    "w": "you"
+   },
+   {
+    "t": 3.112,
+    "w": "track"
+   },
+   {
+    "t": 3.444,
+    "w": "down"
+   },
+   {
+    "t": 3.657,
+    "w": "a"
+   },
+   {
+    "t": 3.723,
+    "w": "bug"
+   },
+   {
+    "t": 4.495,
+    "w": "or"
+   },
+   {
+    "t": 4.614,
+    "w": "suggest"
+   },
+   {
+    "t": 5.12,
+    "w": "a"
+   },
+   {
+    "t": 5.199,
+    "w": "better"
+   },
+   {
+    "t": 5.532,
+    "w": "idea"
+   },
+   {
+    "t": 5.997,
+    "w": "when"
+   },
+   {
+    "t": 6.13,
+    "w": "you're"
+   },
+   {
+    "t": 6.25,
+    "w": "stuck"
+   }
+  ]
+ },
+ "a3": {
+  "text": "But AI is a tool, not the builder. You bring the ideas. You make the decisions. And you understand what you create.",
+  "duration": 7.656,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "But"
+   },
+   {
+    "t": 0.266,
+    "w": "AI"
+   },
+   {
+    "t": 0.612,
+    "w": "is"
+   },
+   {
+    "t": 0.758,
+    "w": "a"
+   },
+   {
+    "t": 0.838,
+    "w": "tool"
+   },
+   {
+    "t": 1.622,
+    "w": "not"
+   },
+   {
+    "t": 1.795,
+    "w": "the"
+   },
+   {
+    "t": 1.902,
+    "w": "builder"
+   },
+   {
+    "t": 2.779,
+    "w": "You"
+   },
+   {
+    "t": 2.859,
+    "w": "bring"
+   },
+   {
+    "t": 3.058,
+    "w": "the"
+   },
+   {
+    "t": 3.152,
+    "w": "ideas"
+   },
+   {
+    "t": 4.215,
+    "w": "You"
+   },
+   {
+    "t": 4.322,
+    "w": "make"
+   },
+   {
+    "t": 4.508,
+    "w": "the"
+   },
+   {
+    "t": 4.588,
+    "w": "decisions"
+   },
+   {
+    "t": 5.705,
+    "w": "And"
+   },
+   {
+    "t": 5.824,
+    "w": "you"
+   },
+   {
+    "t": 5.984,
+    "w": "understand"
+   },
+   {
+    "t": 6.543,
+    "w": "what"
+   },
+   {
+    "t": 6.662,
+    "w": "you"
+   },
+   {
+    "t": 6.769,
+    "w": "create"
+   }
+  ]
+ },
+ "a4": {
+  "text": "AI just helps you get there faster.",
+  "duration": 2.16,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "AI"
+   },
+   {
+    "t": 0.359,
+    "w": "just"
+   },
+   {
+    "t": 0.572,
+    "w": "helps"
+   },
+   {
+    "t": 0.785,
+    "w": "you"
+   },
+   {
+    "t": 0.878,
+    "w": "get"
+   },
+   {
+    "t": 1.037,
+    "w": "there"
+   },
+   {
+    "t": 1.17,
+    "w": "faster"
+   }
+  ]
+ },
+ "f1": {
+  "text": "So here's the big idea. Every app you use was built by people who started exactly where you are right now.",
+  "duration": 6.552,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "So"
+   },
+   {
+    "t": 0.239,
+    "w": "here's"
+   },
+   {
+    "t": 0.519,
+    "w": "the"
+   },
+   {
+    "t": 0.638,
+    "w": "big"
+   },
+   {
+    "t": 0.851,
+    "w": "idea"
+   },
+   {
+    "t": 1.729,
+    "w": "Every"
+   },
+   {
+    "t": 2.048,
+    "w": "app"
+   },
+   {
+    "t": 2.274,
+    "w": "you"
+   },
+   {
+    "t": 2.407,
+    "w": "use"
+   },
+   {
+    "t": 2.713,
+    "w": "was"
+   },
+   {
+    "t": 2.926,
+    "w": "built"
+   },
+   {
+    "t": 3.311,
+    "w": "by"
+   },
+   {
+    "t": 3.497,
+    "w": "people"
+   },
+   {
+    "t": 3.896,
+    "w": "who"
+   },
+   {
+    "t": 4.016,
+    "w": "started"
+   },
+   {
+    "t": 4.468,
+    "w": "exactly"
+   },
+   {
+    "t": 5.146,
+    "w": "where"
+   },
+   {
+    "t": 5.346,
+    "w": "you"
+   },
+   {
+    "t": 5.479,
+    "w": "are"
+   },
+   {
+    "t": 5.625,
+    "w": "right"
+   },
+   {
+    "t": 5.838,
+    "w": "now"
+   }
+  ]
+ },
+ "f2": {
+  "text": "They had an idea. They learned the building blocks. And they kept going.",
+  "duration": 4.248,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "They"
+   },
+   {
+    "t": 0.199,
+    "w": "had"
+   },
+   {
+    "t": 0.346,
+    "w": "an"
+   },
+   {
+    "t": 0.439,
+    "w": "idea"
+   },
+   {
+    "t": 1.263,
+    "w": "They"
+   },
+   {
+    "t": 1.356,
+    "w": "learned"
+   },
+   {
+    "t": 1.622,
+    "w": "the"
+   },
+   {
+    "t": 1.715,
+    "w": "building"
+   },
+   {
+    "t": 2.061,
+    "w": "blocks"
+   },
+   {
+    "t": 3.085,
+    "w": "And"
+   },
+   {
+    "t": 3.165,
+    "w": "they"
+   },
+   {
+    "t": 3.271,
+    "w": "kept"
+   },
+   {
+    "t": 3.524,
+    "w": "going"
+   }
+  ]
+ },
+ "f3": {
+  "text": "Welcome to Paisley Tech Studio. This is where you stop just using technology, and start creating it.",
+  "duration": 6.384,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.452,
+    "w": "to"
+   },
+   {
+    "t": 0.585,
+    "w": "Paisley"
+   },
+   {
+    "t": 1.064,
+    "w": "Tech"
+   },
+   {
+    "t": 1.303,
+    "w": "Studio"
+   },
+   {
+    "t": 2.261,
+    "w": "This"
+   },
+   {
+    "t": 2.42,
+    "w": "is"
+   },
+   {
+    "t": 2.54,
+    "w": "where"
+   },
+   {
+    "t": 2.686,
+    "w": "you"
+   },
+   {
+    "t": 2.793,
+    "w": "stop"
+   },
+   {
+    "t": 3.324,
+    "w": "just"
+   },
+   {
+    "t": 3.604,
+    "w": "using"
+   },
+   {
+    "t": 3.923,
+    "w": "technology"
+   },
+   {
+    "t": 4.947,
+    "w": "and"
+   },
+   {
+    "t": 5.053,
+    "w": "start"
+   },
+   {
+    "t": 5.332,
+    "w": "creating"
+   },
+   {
+    "t": 5.824,
+    "w": "it"
+   }
+  ]
+ },
+ "f4": {
+  "text": "Let's build something amazing, together.",
+  "duration": 2.592,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.293,
+    "w": "build"
+   },
+   {
+    "t": 0.545,
+    "w": "something"
+   },
+   {
+    "t": 0.944,
+    "w": "amazing"
+   },
+   {
+    "t": 1.649,
+    "w": "together"
+   }
+  ]
+ }
+}

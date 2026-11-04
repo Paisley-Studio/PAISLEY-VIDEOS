@@ -1,0 +1,2660 @@
+{
+ "i1": {
+  "text": "Welcome back. Last time, we planned our game on paper.",
+  "duration": 3.912,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.372,
+    "w": "back"
+   },
+   {
+    "t": 1.21,
+    "w": "Last"
+   },
+   {
+    "t": 1.489,
+    "w": "time"
+   },
+   {
+    "t": 2.101,
+    "w": "we"
+   },
+   {
+    "t": 2.221,
+    "w": "planned"
+   },
+   {
+    "t": 2.54,
+    "w": "our"
+   },
+   {
+    "t": 2.646,
+    "w": "game"
+   },
+   {
+    "t": 2.899,
+    "w": "on"
+   },
+   {
+    "t": 3.045,
+    "w": "paper"
+   }
+  ]
+ },
+ "i2": {
+  "text": "Today, we start building.",
+  "duration": 1.776,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Today"
+   },
+   {
+    "t": 0.625,
+    "w": "we"
+   },
+   {
+    "t": 0.731,
+    "w": "start"
+   },
+   {
+    "t": 0.997,
+    "w": "building"
+   }
+  ]
+ },
+ "i3": {
+  "text": "And we start with the first question on our plan. What exists?",
+  "duration": 3.888,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "we"
+   },
+   {
+    "t": 0.346,
+    "w": "start"
+   },
+   {
+    "t": 0.652,
+    "w": "with"
+   },
+   {
+    "t": 0.798,
+    "w": "the"
+   },
+   {
+    "t": 0.891,
+    "w": "first"
+   },
+   {
+    "t": 1.29,
+    "w": "question"
+   },
+   {
+    "t": 1.702,
+    "w": "on"
+   },
+   {
+    "t": 1.835,
+    "w": "our"
+   },
+   {
+    "t": 1.968,
+    "w": "plan"
+   },
+   {
+    "t": 2.832,
+    "w": "What"
+   },
+   {
+    "t": 2.926,
+    "w": "exists"
+   }
+  ]
+ },
+ "i4": {
+  "text": "HTML creates the things that exist in our game.",
+  "duration": 3.432,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "HTML"
+   },
+   {
+    "t": 0.851,
+    "w": "creates"
+   },
+   {
+    "t": 1.29,
+    "w": "the"
+   },
+   {
+    "t": 1.41,
+    "w": "things"
+   },
+   {
+    "t": 1.808,
+    "w": "that"
+   },
+   {
+    "t": 1.955,
+    "w": "exist"
+   },
+   {
+    "t": 2.46,
+    "w": "in"
+   },
+   {
+    "t": 2.567,
+    "w": "our"
+   },
+   {
+    "t": 2.713,
+    "w": "game"
+   }
+  ]
+ },
+ "f1": {
+  "text": "Here's the starter project you downloaded.",
+  "duration": 2.424,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Here's"
+   },
+   {
+    "t": 0.332,
+    "w": "the"
+   },
+   {
+    "t": 0.452,
+    "w": "starter"
+   },
+   {
+    "t": 0.838,
+    "w": "project"
+   },
+   {
+    "t": 1.303,
+    "w": "you"
+   },
+   {
+    "t": 1.396,
+    "w": "downloaded"
+   }
+  ]
+ },
+ "f2": {
+  "text": "Three files, and you already know their jobs.",
+  "duration": 2.952,
+  "words": [
+   {
+    "t": 0.146,
+    "w": "Three"
+   },
+   {
+    "t": 0.306,
+    "w": "files"
+   },
+   {
+    "t": 1.104,
+    "w": "and"
+   },
+   {
+    "t": 1.197,
+    "w": "you"
+   },
+   {
+    "t": 1.343,
+    "w": "already"
+   },
+   {
+    "t": 1.649,
+    "w": "know"
+   },
+   {
+    "t": 1.835,
+    "w": "their"
+   },
+   {
+    "t": 1.995,
+    "w": "jobs"
+   }
+  ]
+ },
+ "f3": {
+  "text": "index dot html holds the pieces. style dot css makes them look good. And script dot js makes them do things.",
+  "duration": 8.736,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "index"
+   },
+   {
+    "t": 0.545,
+    "w": "dot"
+   },
+   {
+    "t": 0.785,
+    "w": "html"
+   },
+   {
+    "t": 1.622,
+    "w": "holds"
+   },
+   {
+    "t": 1.915,
+    "w": "the"
+   },
+   {
+    "t": 2.021,
+    "w": "pieces"
+   },
+   {
+    "t": 3.072,
+    "w": "style"
+   },
+   {
+    "t": 3.444,
+    "w": "dot"
+   },
+   {
+    "t": 3.604,
+    "w": "css"
+   },
+   {
+    "t": 4.481,
+    "w": "makes"
+   },
+   {
+    "t": 4.747,
+    "w": "them"
+   },
+   {
+    "t": 4.907,
+    "w": "look"
+   },
+   {
+    "t": 5.106,
+    "w": "good"
+   },
+   {
+    "t": 5.838,
+    "w": "And"
+   },
+   {
+    "t": 5.944,
+    "w": "script"
+   },
+   {
+    "t": 6.33,
+    "w": "dot"
+   },
+   {
+    "t": 6.516,
+    "w": "js"
+   },
+   {
+    "t": 7.207,
+    "w": "makes"
+   },
+   {
+    "t": 7.46,
+    "w": "them"
+   },
+   {
+    "t": 7.606,
+    "w": "do"
+   },
+   {
+    "t": 7.793,
+    "w": "things"
+   }
+  ]
+ },
+ "f4": {
+  "text": "To see our game, double-click index dot html, and it opens in your browser.",
+  "duration": 5.352,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "To"
+   },
+   {
+    "t": 0.186,
+    "w": "see"
+   },
+   {
+    "t": 0.452,
+    "w": "our"
+   },
+   {
+    "t": 0.585,
+    "w": "game"
+   },
+   {
+    "t": 1.277,
+    "w": "double-click"
+   },
+   {
+    "t": 1.848,
+    "w": "index"
+   },
+   {
+    "t": 2.34,
+    "w": "dot"
+   },
+   {
+    "t": 2.54,
+    "w": "html"
+   },
+   {
+    "t": 3.644,
+    "w": "and"
+   },
+   {
+    "t": 3.723,
+    "w": "it"
+   },
+   {
+    "t": 3.83,
+    "w": "opens"
+   },
+   {
+    "t": 4.202,
+    "w": "in"
+   },
+   {
+    "t": 4.295,
+    "w": "your"
+   },
+   {
+    "t": 4.428,
+    "w": "browser"
+   }
+  ]
+ },
+ "f5": {
+  "text": "Right now? A blank page. Let's fix that.",
+  "duration": 3.408,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Right"
+   },
+   {
+    "t": 0.279,
+    "w": "now"
+   },
+   {
+    "t": 1.011,
+    "w": "A"
+   },
+   {
+    "t": 1.09,
+    "w": "blank"
+   },
+   {
+    "t": 1.396,
+    "w": "page"
+   },
+   {
+    "t": 2.287,
+    "w": "Let's"
+   },
+   {
+    "t": 2.46,
+    "w": "fix"
+   },
+   {
+    "t": 2.699,
+    "w": "that"
+   }
+  ]
+ },
+ "u1": {
+  "text": "Let's open index dot html.",
+  "duration": 2.4,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.293,
+    "w": "open"
+   },
+   {
+    "t": 0.558,
+    "w": "index"
+   },
+   {
+    "t": 1.077,
+    "w": "dot"
+   },
+   {
+    "t": 1.277,
+    "w": "html"
+   }
+  ]
+ },
+ "u2": {
+  "text": "The top part, called the head, is information about the page. You don't see it. It connects our font, and our CSS file.",
+  "duration": 8.592,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "The"
+   },
+   {
+    "t": 0.199,
+    "w": "top"
+   },
+   {
+    "t": 0.492,
+    "w": "part"
+   },
+   {
+    "t": 1.104,
+    "w": "called"
+   },
+   {
+    "t": 1.356,
+    "w": "the"
+   },
+   {
+    "t": 1.449,
+    "w": "head"
+   },
+   {
+    "t": 2.194,
+    "w": "is"
+   },
+   {
+    "t": 2.327,
+    "w": "information"
+   },
+   {
+    "t": 2.979,
+    "w": "about"
+   },
+   {
+    "t": 3.245,
+    "w": "the"
+   },
+   {
+    "t": 3.338,
+    "w": "page"
+   },
+   {
+    "t": 4.309,
+    "w": "You"
+   },
+   {
+    "t": 4.388,
+    "w": "don't"
+   },
+   {
+    "t": 4.588,
+    "w": "see"
+   },
+   {
+    "t": 4.801,
+    "w": "it"
+   },
+   {
+    "t": 5.412,
+    "w": "It"
+   },
+   {
+    "t": 5.519,
+    "w": "connects"
+   },
+   {
+    "t": 5.931,
+    "w": "our"
+   },
+   {
+    "t": 6.064,
+    "w": "font"
+   },
+   {
+    "t": 6.862,
+    "w": "and"
+   },
+   {
+    "t": 6.955,
+    "w": "our"
+   },
+   {
+    "t": 7.088,
+    "w": "CSS"
+   },
+   {
+    "t": 7.779,
+    "w": "file"
+   }
+  ]
+ },
+ "u3": {
+  "text": "Down here is the body. That's what you do see.",
+  "duration": 2.832,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Down"
+   },
+   {
+    "t": 0.293,
+    "w": "here"
+   },
+   {
+    "t": 0.479,
+    "w": "is"
+   },
+   {
+    "t": 0.585,
+    "w": "the"
+   },
+   {
+    "t": 0.692,
+    "w": "body"
+   },
+   {
+    "t": 1.516,
+    "w": "That's"
+   },
+   {
+    "t": 1.676,
+    "w": "what"
+   },
+   {
+    "t": 1.808,
+    "w": "you"
+   },
+   {
+    "t": 1.902,
+    "w": "do"
+   },
+   {
+    "t": 2.074,
+    "w": "see"
+   }
+  ]
+ },
+ "u4": {
+  "text": "And inside it, is one empty box, called game. Every piece of our game goes in here.",
+  "duration": 5.688,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "inside"
+   },
+   {
+    "t": 0.718,
+    "w": "it"
+   },
+   {
+    "t": 1.077,
+    "w": "is"
+   },
+   {
+    "t": 1.183,
+    "w": "one"
+   },
+   {
+    "t": 1.396,
+    "w": "empty"
+   },
+   {
+    "t": 1.649,
+    "w": "box"
+   },
+   {
+    "t": 2.394,
+    "w": "called"
+   },
+   {
+    "t": 2.673,
+    "w": "game"
+   },
+   {
+    "t": 3.471,
+    "w": "Every"
+   },
+   {
+    "t": 3.737,
+    "w": "piece"
+   },
+   {
+    "t": 4.043,
+    "w": "of"
+   },
+   {
+    "t": 4.136,
+    "w": "our"
+   },
+   {
+    "t": 4.269,
+    "w": "game"
+   },
+   {
+    "t": 4.561,
+    "w": "goes"
+   },
+   {
+    "t": 4.854,
+    "w": "in"
+   },
+   {
+    "t": 4.973,
+    "w": "here"
+   }
+  ]
+ },
+ "u5": {
+  "text": "See this grey text? That's a comment. The browser ignores it. It's a note for us.",
+  "duration": 5.688,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "See"
+   },
+   {
+    "t": 0.279,
+    "w": "this"
+   },
+   {
+    "t": 0.452,
+    "w": "grey"
+   },
+   {
+    "t": 0.665,
+    "w": "text"
+   },
+   {
+    "t": 1.676,
+    "w": "That's"
+   },
+   {
+    "t": 1.835,
+    "w": "a"
+   },
+   {
+    "t": 1.902,
+    "w": "comment"
+   },
+   {
+    "t": 2.832,
+    "w": "The"
+   },
+   {
+    "t": 2.899,
+    "w": "browser"
+   },
+   {
+    "t": 3.351,
+    "w": "ignores"
+   },
+   {
+    "t": 3.763,
+    "w": "it"
+   },
+   {
+    "t": 4.388,
+    "w": "It's"
+   },
+   {
+    "t": 4.495,
+    "w": "a"
+   },
+   {
+    "t": 4.548,
+    "w": "note"
+   },
+   {
+    "t": 4.787,
+    "w": "for"
+   },
+   {
+    "t": 4.973,
+    "w": "us"
+   }
+  ]
+ },
+ "u6": {
+  "text": "And look. It's our paper plan, written as a to-do list.",
+  "duration": 4.056,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "look"
+   },
+   {
+    "t": 0.957,
+    "w": "It's"
+   },
+   {
+    "t": 1.09,
+    "w": "our"
+   },
+   {
+    "t": 1.21,
+    "w": "paper"
+   },
+   {
+    "t": 1.543,
+    "w": "plan"
+   },
+   {
+    "t": 2.301,
+    "w": "written"
+   },
+   {
+    "t": 2.633,
+    "w": "as"
+   },
+   {
+    "t": 2.793,
+    "w": "a"
+   },
+   {
+    "t": 2.846,
+    "w": "to-do"
+   },
+   {
+    "t": 3.178,
+    "w": "list"
+   }
+  ]
+ },
+ "g1": {
+  "text": "HTML is made of tags.",
+  "duration": 2.304,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "HTML"
+   },
+   {
+    "t": 0.891,
+    "w": "is"
+   },
+   {
+    "t": 1.011,
+    "w": "made"
+   },
+   {
+    "t": 1.21,
+    "w": "of"
+   },
+   {
+    "t": 1.317,
+    "w": "tags"
+   }
+  ]
+ },
+ "g2": {
+  "text": "An opening tag. Some content. And a closing tag, with a slash.",
+  "duration": 5.112,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "An"
+   },
+   {
+    "t": 0.226,
+    "w": "opening"
+   },
+   {
+    "t": 0.585,
+    "w": "tag"
+   },
+   {
+    "t": 1.463,
+    "w": "Some"
+   },
+   {
+    "t": 1.622,
+    "w": "content"
+   },
+   {
+    "t": 2.567,
+    "w": "And"
+   },
+   {
+    "t": 2.66,
+    "w": "a"
+   },
+   {
+    "t": 2.726,
+    "w": "closing"
+   },
+   {
+    "t": 3.218,
+    "w": "tag"
+   },
+   {
+    "t": 3.883,
+    "w": "with"
+   },
+   {
+    "t": 4.029,
+    "w": "a"
+   },
+   {
+    "t": 4.082,
+    "w": "slash"
+   }
+  ]
+ },
+ "g3": {
+  "text": "Think of tags as labelled boxes. The label tells the browser what kind of thing is inside.",
+  "duration": 5.784,
+  "words": [
+   {
+    "t": 0.146,
+    "w": "Think"
+   },
+   {
+    "t": 0.319,
+    "w": "of"
+   },
+   {
+    "t": 0.439,
+    "w": "tags"
+   },
+   {
+    "t": 0.957,
+    "w": "as"
+   },
+   {
+    "t": 1.13,
+    "w": "labelled"
+   },
+   {
+    "t": 1.463,
+    "w": "boxes"
+   },
+   {
+    "t": 2.527,
+    "w": "The"
+   },
+   {
+    "t": 2.606,
+    "w": "label"
+   },
+   {
+    "t": 2.926,
+    "w": "tells"
+   },
+   {
+    "t": 3.218,
+    "w": "the"
+   },
+   {
+    "t": 3.324,
+    "w": "browser"
+   },
+   {
+    "t": 3.79,
+    "w": "what"
+   },
+   {
+    "t": 3.949,
+    "w": "kind"
+   },
+   {
+    "t": 4.202,
+    "w": "of"
+   },
+   {
+    "t": 4.295,
+    "w": "thing"
+   },
+   {
+    "t": 4.694,
+    "w": "is"
+   },
+   {
+    "t": 4.827,
+    "w": "inside"
+   }
+  ]
+ },
+ "t1": {
+  "text": "Let's add our first piece. The title.",
+  "duration": 2.688,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Let's"
+   },
+   {
+    "t": 0.279,
+    "w": "add"
+   },
+   {
+    "t": 0.426,
+    "w": "our"
+   },
+   {
+    "t": 0.545,
+    "w": "first"
+   },
+   {
+    "t": 0.891,
+    "w": "piece"
+   },
+   {
+    "t": 1.822,
+    "w": "The"
+   },
+   {
+    "t": 1.888,
+    "w": "title"
+   }
+  ]
+ },
+ "t2": {
+  "text": "h1 means heading number one. The biggest heading.",
+  "duration": 3.504,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "h1"
+   },
+   {
+    "t": 0.798,
+    "w": "means"
+   },
+   {
+    "t": 1.077,
+    "w": "heading"
+   },
+   {
+    "t": 1.343,
+    "w": "number"
+   },
+   {
+    "t": 1.609,
+    "w": "one"
+   },
+   {
+    "t": 2.314,
+    "w": "The"
+   },
+   {
+    "t": 2.394,
+    "w": "biggest"
+   },
+   {
+    "t": 2.766,
+    "w": "heading"
+   }
+  ]
+ },
+ "t3": {
+  "text": "Save the file. Refresh the browser. And there's our title.",
+  "duration": 3.888,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Save"
+   },
+   {
+    "t": 0.332,
+    "w": "the"
+   },
+   {
+    "t": 0.426,
+    "w": "file"
+   },
+   {
+    "t": 1.263,
+    "w": "Refresh"
+   },
+   {
+    "t": 1.662,
+    "w": "the"
+   },
+   {
+    "t": 1.769,
+    "w": "browser"
+   },
+   {
+    "t": 2.726,
+    "w": "And"
+   },
+   {
+    "t": 2.806,
+    "w": "there's"
+   },
+   {
+    "t": 2.992,
+    "w": "our"
+   },
+   {
+    "t": 3.085,
+    "w": "title"
+   }
+  ]
+ },
+ "t4": {
+  "text": "Remember this loop. Save, refresh. You'll do it a hundred times.",
+  "duration": 4.656,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Remember"
+   },
+   {
+    "t": 0.465,
+    "w": "this"
+   },
+   {
+    "t": 0.678,
+    "w": "loop"
+   },
+   {
+    "t": 1.396,
+    "w": "Save"
+   },
+   {
+    "t": 1.862,
+    "w": "refresh"
+   },
+   {
+    "t": 2.939,
+    "w": "You'll"
+   },
+   {
+    "t": 3.045,
+    "w": "do"
+   },
+   {
+    "t": 3.205,
+    "w": "it"
+   },
+   {
+    "t": 3.285,
+    "w": "a"
+   },
+   {
+    "t": 3.324,
+    "w": "hundred"
+   },
+   {
+    "t": 3.683,
+    "w": "times"
+   }
+  ]
+ },
+ "s1": {
+  "text": "Next, the score.",
+  "duration": 1.872,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.652,
+    "w": "the"
+   },
+   {
+    "t": 0.758,
+    "w": "score"
+   }
+  ]
+ },
+ "s2": {
+  "text": "A div is a general-purpose box. A span is a small box, for a bit of text.",
+  "duration": 6.24,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "A"
+   },
+   {
+    "t": 0.213,
+    "w": "div"
+   },
+   {
+    "t": 1.09,
+    "w": "is"
+   },
+   {
+    "t": 1.25,
+    "w": "a"
+   },
+   {
+    "t": 1.343,
+    "w": "general-purpose"
+   },
+   {
+    "t": 2.114,
+    "w": "box"
+   },
+   {
+    "t": 3.085,
+    "w": "A"
+   },
+   {
+    "t": 3.152,
+    "w": "span"
+   },
+   {
+    "t": 3.564,
+    "w": "is"
+   },
+   {
+    "t": 3.683,
+    "w": "a"
+   },
+   {
+    "t": 3.75,
+    "w": "small"
+   },
+   {
+    "t": 4.082,
+    "w": "box"
+   },
+   {
+    "t": 4.854,
+    "w": "for"
+   },
+   {
+    "t": 5.0,
+    "w": "a"
+   },
+   {
+    "t": 5.053,
+    "w": "bit"
+   },
+   {
+    "t": 5.213,
+    "w": "of"
+   },
+   {
+    "t": 5.319,
+    "w": "text"
+   }
+  ]
+ },
+ "s3": {
+  "text": "And see this? id equals score. An id is a name tag.",
+  "duration": 4.896,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "And"
+   },
+   {
+    "t": 0.186,
+    "w": "see"
+   },
+   {
+    "t": 0.426,
+    "w": "this"
+   },
+   {
+    "t": 1.237,
+    "w": "id"
+   },
+   {
+    "t": 1.649,
+    "w": "equals"
+   },
+   {
+    "t": 2.021,
+    "w": "score"
+   },
+   {
+    "t": 2.926,
+    "w": "An"
+   },
+   {
+    "t": 3.032,
+    "w": "id"
+   },
+   {
+    "t": 3.59,
+    "w": "is"
+   },
+   {
+    "t": 3.723,
+    "w": "a"
+   },
+   {
+    "t": 3.777,
+    "w": "name"
+   },
+   {
+    "t": 4.069,
+    "w": "tag"
+   }
+  ]
+ },
+ "s4": {
+  "text": "Later, JavaScript will say, find the thing called score, and change its number. Without a name, it can't find it.",
+  "duration": 7.56,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Later"
+   },
+   {
+    "t": 0.718,
+    "w": "JavaScript"
+   },
+   {
+    "t": 1.343,
+    "w": "will"
+   },
+   {
+    "t": 1.476,
+    "w": "say"
+   },
+   {
+    "t": 2.128,
+    "w": "find"
+   },
+   {
+    "t": 2.433,
+    "w": "the"
+   },
+   {
+    "t": 2.513,
+    "w": "thing"
+   },
+   {
+    "t": 2.766,
+    "w": "called"
+   },
+   {
+    "t": 3.058,
+    "w": "score"
+   },
+   {
+    "t": 3.936,
+    "w": "and"
+   },
+   {
+    "t": 4.003,
+    "w": "change"
+   },
+   {
+    "t": 4.322,
+    "w": "its"
+   },
+   {
+    "t": 4.468,
+    "w": "number"
+   },
+   {
+    "t": 5.346,
+    "w": "Without"
+   },
+   {
+    "t": 5.638,
+    "w": "a"
+   },
+   {
+    "t": 5.678,
+    "w": "name"
+   },
+   {
+    "t": 6.383,
+    "w": "it"
+   },
+   {
+    "t": 6.476,
+    "w": "can't"
+   },
+   {
+    "t": 6.702,
+    "w": "find"
+   },
+   {
+    "t": 7.021,
+    "w": "it"
+   }
+  ]
+ },
+ "a1": {
+  "text": "Now the world. An empty box called game area.",
+  "duration": 3.336,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.266,
+    "w": "the"
+   },
+   {
+    "t": 0.372,
+    "w": "world"
+   },
+   {
+    "t": 1.21,
+    "w": "An"
+   },
+   {
+    "t": 1.317,
+    "w": "empty"
+   },
+   {
+    "t": 1.609,
+    "w": "box"
+   },
+   {
+    "t": 1.995,
+    "w": "called"
+   },
+   {
+    "t": 2.247,
+    "w": "game"
+   },
+   {
+    "t": 2.5,
+    "w": "area"
+   }
+  ]
+ },
+ "a2": {
+  "text": "You can't see it yet, because it's empty, and it has no style. But it's there.",
+  "duration": 5.16,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "You"
+   },
+   {
+    "t": 0.213,
+    "w": "can't"
+   },
+   {
+    "t": 0.465,
+    "w": "see"
+   },
+   {
+    "t": 0.705,
+    "w": "it"
+   },
+   {
+    "t": 0.824,
+    "w": "yet"
+   },
+   {
+    "t": 1.343,
+    "w": "because"
+   },
+   {
+    "t": 1.649,
+    "w": "it's"
+   },
+   {
+    "t": 1.942,
+    "w": "empty"
+   },
+   {
+    "t": 2.606,
+    "w": "and"
+   },
+   {
+    "t": 2.713,
+    "w": "it"
+   },
+   {
+    "t": 2.793,
+    "w": "has"
+   },
+   {
+    "t": 3.019,
+    "w": "no"
+   },
+   {
+    "t": 3.231,
+    "w": "style"
+   },
+   {
+    "t": 4.229,
+    "w": "But"
+   },
+   {
+    "t": 4.322,
+    "w": "it's"
+   },
+   {
+    "t": 4.468,
+    "w": "there"
+   }
+  ]
+ },
+ "a3": {
+  "text": "Everything in the game world goes inside this box. Boxes inside boxes. That's called nesting.",
+  "duration": 6.744,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Everything"
+   },
+   {
+    "t": 0.532,
+    "w": "in"
+   },
+   {
+    "t": 0.625,
+    "w": "the"
+   },
+   {
+    "t": 0.718,
+    "w": "game"
+   },
+   {
+    "t": 1.09,
+    "w": "world"
+   },
+   {
+    "t": 1.543,
+    "w": "goes"
+   },
+   {
+    "t": 1.875,
+    "w": "inside"
+   },
+   {
+    "t": 2.46,
+    "w": "this"
+   },
+   {
+    "t": 2.646,
+    "w": "box"
+   },
+   {
+    "t": 3.63,
+    "w": "Boxes"
+   },
+   {
+    "t": 4.003,
+    "w": "inside"
+   },
+   {
+    "t": 4.428,
+    "w": "boxes"
+   },
+   {
+    "t": 5.519,
+    "w": "That's"
+   },
+   {
+    "t": 5.665,
+    "w": "called"
+   },
+   {
+    "t": 5.904,
+    "w": "nesting"
+   }
+  ]
+ },
+ "p1": {
+  "text": "Now let's fill the world.",
+  "duration": 1.656,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.319,
+    "w": "let's"
+   },
+   {
+    "t": 0.532,
+    "w": "fill"
+   },
+   {
+    "t": 0.731,
+    "w": "the"
+   },
+   {
+    "t": 0.838,
+    "w": "world"
+   }
+  ]
+ },
+ "p2": {
+  "text": "Two clouds. The player. The obstacle. And the ground.",
+  "duration": 4.392,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Two"
+   },
+   {
+    "t": 0.266,
+    "w": "clouds"
+   },
+   {
+    "t": 1.303,
+    "w": "The"
+   },
+   {
+    "t": 1.356,
+    "w": "player"
+   },
+   {
+    "t": 2.261,
+    "w": "The"
+   },
+   {
+    "t": 2.354,
+    "w": "obstacle"
+   },
+   {
+    "t": 3.364,
+    "w": "And"
+   },
+   {
+    "t": 3.444,
+    "w": "the"
+   },
+   {
+    "t": 3.537,
+    "w": "ground"
+   }
+  ]
+ },
+ "p3": {
+  "text": "Save. Refresh. And... nothing?",
+  "duration": 2.88,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "Save"
+   },
+   {
+    "t": 0.931,
+    "w": "Refresh"
+   },
+   {
+    "t": 1.995,
+    "w": "And"
+   },
+   {
+    "t": 2.114,
+    "w": "nothing"
+   }
+  ]
+ },
+ "p4": {
+  "text": "They're empty boxes, with no size and no colour, so they're invisible. That's CSS's job, next video. But they exist.",
+  "duration": 9.048,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "They're"
+   },
+   {
+    "t": 0.306,
+    "w": "empty"
+   },
+   {
+    "t": 0.598,
+    "w": "boxes"
+   },
+   {
+    "t": 1.516,
+    "w": "with"
+   },
+   {
+    "t": 1.689,
+    "w": "no"
+   },
+   {
+    "t": 1.928,
+    "w": "size"
+   },
+   {
+    "t": 2.433,
+    "w": "and"
+   },
+   {
+    "t": 2.58,
+    "w": "no"
+   },
+   {
+    "t": 2.806,
+    "w": "colour"
+   },
+   {
+    "t": 3.683,
+    "w": "so"
+   },
+   {
+    "t": 3.817,
+    "w": "they're"
+   },
+   {
+    "t": 3.989,
+    "w": "invisible"
+   },
+   {
+    "t": 5.04,
+    "w": "That's"
+   },
+   {
+    "t": 5.226,
+    "w": "CSS's"
+   },
+   {
+    "t": 5.957,
+    "w": "job"
+   },
+   {
+    "t": 6.715,
+    "w": "next"
+   },
+   {
+    "t": 6.955,
+    "w": "video"
+   },
+   {
+    "t": 7.819,
+    "w": "But"
+   },
+   {
+    "t": 7.926,
+    "w": "they"
+   },
+   {
+    "t": 8.059,
+    "w": "exist"
+   }
+  ]
+ },
+ "p5": {
+  "text": "Here's a creator trick. Right-click, and choose Inspect. Hover over player... and there it is. It exists.",
+  "duration": 7.464,
+  "words": [
+   {
+    "t": 0.133,
+    "w": "Here's"
+   },
+   {
+    "t": 0.306,
+    "w": "a"
+   },
+   {
+    "t": 0.372,
+    "w": "creator"
+   },
+   {
+    "t": 0.745,
+    "w": "trick"
+   },
+   {
+    "t": 1.609,
+    "w": "Right-click"
+   },
+   {
+    "t": 2.394,
+    "w": "and"
+   },
+   {
+    "t": 2.487,
+    "w": "choose"
+   },
+   {
+    "t": 2.872,
+    "w": "Inspect"
+   },
+   {
+    "t": 3.923,
+    "w": "Hover"
+   },
+   {
+    "t": 4.215,
+    "w": "over"
+   },
+   {
+    "t": 4.428,
+    "w": "player"
+   },
+   {
+    "t": 5.226,
+    "w": "and"
+   },
+   {
+    "t": 5.319,
+    "w": "there"
+   },
+   {
+    "t": 5.519,
+    "w": "it"
+   },
+   {
+    "t": 5.598,
+    "w": "is"
+   },
+   {
+    "t": 6.356,
+    "w": "It"
+   },
+   {
+    "t": 6.436,
+    "w": "exists"
+   }
+  ]
+ },
+ "p6": {
+  "text": "Notice the clouds use class, not id. An id is for one unique thing. There's only one player. A class is for a group. We can have lots of clouds.",
+  "duration": 10.2,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Notice"
+   },
+   {
+    "t": 0.399,
+    "w": "the"
+   },
+   {
+    "t": 0.505,
+    "w": "clouds"
+   },
+   {
+    "t": 0.931,
+    "w": "use"
+   },
+   {
+    "t": 1.13,
+    "w": "class"
+   },
+   {
+    "t": 1.915,
+    "w": "not"
+   },
+   {
+    "t": 2.128,
+    "w": "id"
+   },
+   {
+    "t": 2.979,
+    "w": "An"
+   },
+   {
+    "t": 3.085,
+    "w": "id"
+   },
+   {
+    "t": 3.67,
+    "w": "is"
+   },
+   {
+    "t": 3.83,
+    "w": "for"
+   },
+   {
+    "t": 4.029,
+    "w": "one"
+   },
+   {
+    "t": 4.269,
+    "w": "unique"
+   },
+   {
+    "t": 4.628,
+    "w": "thing"
+   },
+   {
+    "t": 5.439,
+    "w": "There's"
+   },
+   {
+    "t": 5.625,
+    "w": "only"
+   },
+   {
+    "t": 5.838,
+    "w": "one"
+   },
+   {
+    "t": 6.024,
+    "w": "player"
+   },
+   {
+    "t": 6.902,
+    "w": "A"
+   },
+   {
+    "t": 6.968,
+    "w": "class"
+   },
+   {
+    "t": 7.34,
+    "w": "is"
+   },
+   {
+    "t": 7.473,
+    "w": "for"
+   },
+   {
+    "t": 7.633,
+    "w": "a"
+   },
+   {
+    "t": 7.686,
+    "w": "group"
+   },
+   {
+    "t": 8.457,
+    "w": "We"
+   },
+   {
+    "t": 8.551,
+    "w": "can"
+   },
+   {
+    "t": 8.67,
+    "w": "have"
+   },
+   {
+    "t": 8.816,
+    "w": "lots"
+   },
+   {
+    "t": 9.122,
+    "w": "of"
+   },
+   {
+    "t": 9.215,
+    "w": "clouds"
+   }
+  ]
+ },
+ "m1": {
+  "text": "Now, the start message. p means paragraph. A line of text that tells the player how to begin.",
+  "duration": 6.36,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Now"
+   },
+   {
+    "t": 0.612,
+    "w": "the"
+   },
+   {
+    "t": 0.718,
+    "w": "start"
+   },
+   {
+    "t": 1.024,
+    "w": "message"
+   },
+   {
+    "t": 1.981,
+    "w": "p"
+   },
+   {
+    "t": 2.101,
+    "w": "means"
+   },
+   {
+    "t": 2.314,
+    "w": "paragraph"
+   },
+   {
+    "t": 3.444,
+    "w": "A"
+   },
+   {
+    "t": 3.497,
+    "w": "line"
+   },
+   {
+    "t": 3.75,
+    "w": "of"
+   },
+   {
+    "t": 3.87,
+    "w": "text"
+   },
+   {
+    "t": 4.269,
+    "w": "that"
+   },
+   {
+    "t": 4.428,
+    "w": "tells"
+   },
+   {
+    "t": 4.721,
+    "w": "the"
+   },
+   {
+    "t": 4.827,
+    "w": "player"
+   },
+   {
+    "t": 5.239,
+    "w": "how"
+   },
+   {
+    "t": 5.386,
+    "w": "to"
+   },
+   {
+    "t": 5.492,
+    "w": "begin"
+   }
+  ]
+ },
+ "m2": {
+  "text": "And finally, the end of the game. A Game Over heading, and a real button you can click.",
+  "duration": 5.424,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "And"
+   },
+   {
+    "t": 0.226,
+    "w": "finally"
+   },
+   {
+    "t": 1.051,
+    "w": "the"
+   },
+   {
+    "t": 1.157,
+    "w": "end"
+   },
+   {
+    "t": 1.317,
+    "w": "of"
+   },
+   {
+    "t": 1.383,
+    "w": "the"
+   },
+   {
+    "t": 1.463,
+    "w": "game"
+   },
+   {
+    "t": 2.247,
+    "w": "A"
+   },
+   {
+    "t": 2.34,
+    "w": "Game"
+   },
+   {
+    "t": 2.646,
+    "w": "Over"
+   },
+   {
+    "t": 2.872,
+    "w": "heading"
+   },
+   {
+    "t": 3.63,
+    "w": "and"
+   },
+   {
+    "t": 3.697,
+    "w": "a"
+   },
+   {
+    "t": 3.763,
+    "w": "real"
+   },
+   {
+    "t": 4.069,
+    "w": "button"
+   },
+   {
+    "t": 4.388,
+    "w": "you"
+   },
+   {
+    "t": 4.495,
+    "w": "can"
+   },
+   {
+    "t": 4.641,
+    "w": "click"
+   }
+  ]
+ },
+ "m3": {
+  "text": "We gave this box a class called hidden. Right now, it does nothing. It's still showing.",
+  "duration": 5.256,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "We"
+   },
+   {
+    "t": 0.226,
+    "w": "gave"
+   },
+   {
+    "t": 0.465,
+    "w": "this"
+   },
+   {
+    "t": 0.625,
+    "w": "box"
+   },
+   {
+    "t": 0.944,
+    "w": "a"
+   },
+   {
+    "t": 1.011,
+    "w": "class"
+   },
+   {
+    "t": 1.463,
+    "w": "called"
+   },
+   {
+    "t": 1.715,
+    "w": "hidden"
+   },
+   {
+    "t": 2.487,
+    "w": "Right"
+   },
+   {
+    "t": 2.66,
+    "w": "now"
+   },
+   {
+    "t": 2.939,
+    "w": "it"
+   },
+   {
+    "t": 3.032,
+    "w": "does"
+   },
+   {
+    "t": 3.205,
+    "w": "nothing"
+   },
+   {
+    "t": 4.056,
+    "w": "It's"
+   },
+   {
+    "t": 4.202,
+    "w": "still"
+   },
+   {
+    "t": 4.455,
+    "w": "showing"
+   }
+  ]
+ },
+ "m4": {
+  "text": "Next video, CSS will hide it. And in video four, JavaScript will show it at exactly the right moment.",
+  "duration": 7.272,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.346,
+    "w": "video"
+   },
+   {
+    "t": 1.064,
+    "w": "CSS"
+   },
+   {
+    "t": 1.729,
+    "w": "will"
+   },
+   {
+    "t": 1.862,
+    "w": "hide"
+   },
+   {
+    "t": 2.194,
+    "w": "it"
+   },
+   {
+    "t": 2.793,
+    "w": "And"
+   },
+   {
+    "t": 2.899,
+    "w": "in"
+   },
+   {
+    "t": 3.005,
+    "w": "video"
+   },
+   {
+    "t": 3.431,
+    "w": "four"
+   },
+   {
+    "t": 4.069,
+    "w": "JavaScript"
+   },
+   {
+    "t": 4.681,
+    "w": "will"
+   },
+   {
+    "t": 4.814,
+    "w": "show"
+   },
+   {
+    "t": 5.16,
+    "w": "it"
+   },
+   {
+    "t": 5.279,
+    "w": "at"
+   },
+   {
+    "t": 5.386,
+    "w": "exactly"
+   },
+   {
+    "t": 6.077,
+    "w": "the"
+   },
+   {
+    "t": 6.184,
+    "w": "right"
+   },
+   {
+    "t": 6.449,
+    "w": "moment"
+   }
+  ]
+ },
+ "c1": {
+  "text": "It doesn't look like a game yet.",
+  "duration": 1.896,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "It"
+   },
+   {
+    "t": 0.199,
+    "w": "doesn't"
+   },
+   {
+    "t": 0.479,
+    "w": "look"
+   },
+   {
+    "t": 0.665,
+    "w": "like"
+   },
+   {
+    "t": 0.824,
+    "w": "a"
+   },
+   {
+    "t": 0.891,
+    "w": "game"
+   },
+   {
+    "t": 1.197,
+    "w": "yet"
+   }
+  ]
+ },
+ "c2": {
+  "text": "But compare it to our plan. The dinosaur. The obstacle. The score. The restart button.",
+  "duration": 6.336,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "But"
+   },
+   {
+    "t": 0.226,
+    "w": "compare"
+   },
+   {
+    "t": 0.585,
+    "w": "it"
+   },
+   {
+    "t": 0.665,
+    "w": "to"
+   },
+   {
+    "t": 0.798,
+    "w": "our"
+   },
+   {
+    "t": 0.931,
+    "w": "plan"
+   },
+   {
+    "t": 1.782,
+    "w": "The"
+   },
+   {
+    "t": 1.862,
+    "w": "dinosaur"
+   },
+   {
+    "t": 2.979,
+    "w": "The"
+   },
+   {
+    "t": 3.072,
+    "w": "obstacle"
+   },
+   {
+    "t": 4.082,
+    "w": "The"
+   },
+   {
+    "t": 4.149,
+    "w": "score"
+   },
+   {
+    "t": 5.053,
+    "w": "The"
+   },
+   {
+    "t": 5.12,
+    "w": "restart"
+   },
+   {
+    "t": 5.598,
+    "w": "button"
+   }
+  ]
+ },
+ "c3": {
+  "text": "Every single thing we drew now exists.",
+  "duration": 2.856,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Every"
+   },
+   {
+    "t": 0.372,
+    "w": "single"
+   },
+   {
+    "t": 0.718,
+    "w": "thing"
+   },
+   {
+    "t": 1.037,
+    "w": "we"
+   },
+   {
+    "t": 1.183,
+    "w": "drew"
+   },
+   {
+    "t": 1.516,
+    "w": "now"
+   },
+   {
+    "t": 1.795,
+    "w": "exists"
+   }
+  ]
+ },
+ "c4": {
+  "text": "That's what HTML does. It doesn't make things pretty, and it doesn't make them move. It makes them exist.",
+  "duration": 6.864,
+  "words": [
+   {
+    "t": 0.12,
+    "w": "That's"
+   },
+   {
+    "t": 0.293,
+    "w": "what"
+   },
+   {
+    "t": 0.452,
+    "w": "HTML"
+   },
+   {
+    "t": 1.13,
+    "w": "does"
+   },
+   {
+    "t": 2.021,
+    "w": "It"
+   },
+   {
+    "t": 2.114,
+    "w": "doesn't"
+   },
+   {
+    "t": 2.394,
+    "w": "make"
+   },
+   {
+    "t": 2.58,
+    "w": "things"
+   },
+   {
+    "t": 2.872,
+    "w": "pretty"
+   },
+   {
+    "t": 3.644,
+    "w": "and"
+   },
+   {
+    "t": 3.763,
+    "w": "it"
+   },
+   {
+    "t": 3.87,
+    "w": "doesn't"
+   },
+   {
+    "t": 4.162,
+    "w": "make"
+   },
+   {
+    "t": 4.388,
+    "w": "them"
+   },
+   {
+    "t": 4.548,
+    "w": "move"
+   },
+   {
+    "t": 5.426,
+    "w": "It"
+   },
+   {
+    "t": 5.532,
+    "w": "makes"
+   },
+   {
+    "t": 5.758,
+    "w": "them"
+   },
+   {
+    "t": 5.904,
+    "w": "exist"
+   }
+  ]
+ },
+ "o1": {
+  "text": "Before the next video, check your page has everything on this list.",
+  "duration": 4.128,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Before"
+   },
+   {
+    "t": 0.386,
+    "w": "the"
+   },
+   {
+    "t": 0.465,
+    "w": "next"
+   },
+   {
+    "t": 0.718,
+    "w": "video"
+   },
+   {
+    "t": 1.436,
+    "w": "check"
+   },
+   {
+    "t": 1.676,
+    "w": "your"
+   },
+   {
+    "t": 1.808,
+    "w": "page"
+   },
+   {
+    "t": 2.154,
+    "w": "has"
+   },
+   {
+    "t": 2.513,
+    "w": "everything"
+   },
+   {
+    "t": 2.952,
+    "w": "on"
+   },
+   {
+    "t": 3.085,
+    "w": "this"
+   },
+   {
+    "t": 3.285,
+    "w": "list"
+   }
+  ]
+ },
+ "o2": {
+  "text": "If something's missing, compare your code with the checkpoint file.",
+  "duration": 3.552,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "If"
+   },
+   {
+    "t": 0.213,
+    "w": "something's"
+   },
+   {
+    "t": 0.625,
+    "w": "missing"
+   },
+   {
+    "t": 1.25,
+    "w": "compare"
+   },
+   {
+    "t": 1.622,
+    "w": "your"
+   },
+   {
+    "t": 1.769,
+    "w": "code"
+   },
+   {
+    "t": 2.074,
+    "w": "with"
+   },
+   {
+    "t": 2.194,
+    "w": "the"
+   },
+   {
+    "t": 2.274,
+    "w": "checkpoint"
+   },
+   {
+    "t": 2.779,
+    "w": "file"
+   }
+  ]
+ },
+ "o3": {
+  "text": "Mini challenge. Change the title to your own game's name. And change the button text.",
+  "duration": 5.544,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Mini"
+   },
+   {
+    "t": 0.346,
+    "w": "challenge"
+   },
+   {
+    "t": 1.383,
+    "w": "Change"
+   },
+   {
+    "t": 1.689,
+    "w": "the"
+   },
+   {
+    "t": 1.808,
+    "w": "title"
+   },
+   {
+    "t": 2.194,
+    "w": "to"
+   },
+   {
+    "t": 2.314,
+    "w": "your"
+   },
+   {
+    "t": 2.527,
+    "w": "own"
+   },
+   {
+    "t": 2.713,
+    "w": "game's"
+   },
+   {
+    "t": 3.072,
+    "w": "name"
+   },
+   {
+    "t": 3.777,
+    "w": "And"
+   },
+   {
+    "t": 3.87,
+    "w": "change"
+   },
+   {
+    "t": 4.202,
+    "w": "the"
+   },
+   {
+    "t": 4.295,
+    "w": "button"
+   },
+   {
+    "t": 4.614,
+    "w": "text"
+   }
+  ]
+ },
+ "o4": {
+  "text": "Next time, we take these plain pieces, and make them look like a real game. With CSS.",
+  "duration": 6.36,
+  "words": [
+   {
+    "t": 0.106,
+    "w": "Next"
+   },
+   {
+    "t": 0.346,
+    "w": "time"
+   },
+   {
+    "t": 1.064,
+    "w": "we"
+   },
+   {
+    "t": 1.197,
+    "w": "take"
+   },
+   {
+    "t": 1.463,
+    "w": "these"
+   },
+   {
+    "t": 1.662,
+    "w": "plain"
+   },
+   {
+    "t": 1.981,
+    "w": "pieces"
+   },
+   {
+    "t": 2.793,
+    "w": "and"
+   },
+   {
+    "t": 2.926,
+    "w": "make"
+   },
+   {
+    "t": 3.138,
+    "w": "them"
+   },
+   {
+    "t": 3.338,
+    "w": "look"
+   },
+   {
+    "t": 3.577,
+    "w": "like"
+   },
+   {
+    "t": 3.737,
+    "w": "a"
+   },
+   {
+    "t": 3.803,
+    "w": "real"
+   },
+   {
+    "t": 4.176,
+    "w": "game"
+   },
+   {
+    "t": 4.947,
+    "w": "With"
+   },
+   {
+    "t": 5.08,
+    "w": "CSS"
+   }
+  ]
+ }
+}

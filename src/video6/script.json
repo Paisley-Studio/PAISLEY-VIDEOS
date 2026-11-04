@@ -1,0 +1,157 @@
+{
+  "voice": "en-US-AndrewNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "open",
+      "name": "Cold open: a morning full of technology",
+      "lead": 2.2,
+      "tail": 0.9,
+      "lines": [
+        { "id": "o1", "text": "Look around you." },
+        { "id": "o2", "text": "Before breakfast is even over, technology is already working for you.", "gap": 0.6 },
+        { "id": "o3", "text": "A phone lights up. A map finds the fastest way to school. A song starts playing, picked just for you.", "gap": 0.6 },
+        { "id": "o4", "text": "None of it is magic. Every tap, every screen, every message was planned, designed, and built by people who learned to code.", "gap": 0.7 }
+      ]
+    },
+    {
+      "id": "title",
+      "name": "Title",
+      "lead": 0.8,
+      "tail": 1.6,
+      "lines": [
+        { "id": "t1", "text": "Welcome to the world of coding." },
+        { "id": "t2", "text": "Today, we're going on a journey from ideas to real products.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "delivery",
+      "name": "Food delivery app",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "d1", "text": "Let's start with something you might use every week." },
+        { "id": "d2", "text": "You're hungry, so you open a food delivery app.", "gap": 0.4 },
+        { "id": "d3", "text": "You scroll through the restaurants, choose your favorite meal, and tap, place order.", "gap": 0.5 },
+        { "id": "d4", "text": "Instantly, the kitchen receives it, a rider is on the way, and you can watch them move across a live map, right to your door.", "gap": 0.6 },
+        { "id": "d5", "text": "Every screen, every button, even that little moving map. Someone coded it.", "gap": 0.7 }
+      ]
+    },
+    {
+      "id": "school",
+      "name": "Parent school portal",
+      "lead": 0.6,
+      "tail": 1.0,
+      "lines": [
+        { "id": "s1", "text": "Now think about school." },
+        { "id": "s2", "text": "At the end of the term, parents don't have to wait for a paper report.", "gap": 0.4 },
+        { "id": "s3", "text": "They open the school portal, sign in securely, and there it is. Every subject, every grade, and a message from the teacher.", "gap": 0.5 },
+        { "id": "s4", "text": "That portal is a website. And somebody built it, line by line.", "gap": 0.7 }
+      ]
+    },
+    {
+      "id": "everywhere",
+      "name": "Code is everywhere",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "e1", "text": "Once you notice it, you see it everywhere." },
+        { "id": "e2", "text": "The online store where you add new sneakers to your cart.", "gap": 0.5 },
+        { "id": "e3", "text": "The transport app that tells you your bus is three minutes away.", "gap": 0.4 },
+        { "id": "e4", "text": "Every one of them started as an idea, and every one of them runs on code.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "whatis",
+      "name": "What is coding?",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "w1", "text": "So, what actually is coding?" },
+        { "id": "w2", "text": "Coding is writing instructions for a computer.", "gap": 0.6 },
+        { "id": "w3", "text": "Computers are incredibly fast, but they can't guess what you mean. They do exactly what you tell them, step by step, in order.", "gap": 0.6 },
+        { "id": "w4", "text": "So a coder takes an idea, like, when someone taps add, put the meal in the cart, and turns it into clear steps the computer can follow.", "gap": 0.6 },
+        { "id": "w5", "text": "Write the steps, and the product responds.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "build",
+      "name": "What you can build",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "b1", "text": "And here's the exciting part. Once you can give instructions, you can build almost anything." },
+        { "id": "b2", "text": "Websites. Mobile apps. School systems. Games. Digital tools that help people. Even the systems that run whole businesses.", "gap": 0.6 },
+        { "id": "b3", "text": "And most of what you see on a screen starts with the same three building blocks.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "html",
+      "name": "HTML: structure",
+      "lead": 0.5,
+      "tail": 0.9,
+      "lines": [
+        { "id": "h1", "text": "The first is HTML. HTML is the structure." },
+        { "id": "h2", "text": "Think of it like the frame of a house. It decides what's on the page. A heading. A picture. Some text. A button.", "gap": 0.5 },
+        { "id": "h3", "text": "Without HTML, there's nothing there at all.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "css",
+      "name": "CSS: appearance",
+      "lead": 0.5,
+      "tail": 0.9,
+      "lines": [
+        { "id": "c1", "text": "The second is CSS. CSS is the appearance." },
+        { "id": "c2", "text": "It's the paint and the design. The colors, the fonts, the spacing, the rounded corners.", "gap": 0.5 },
+        { "id": "c3", "text": "CSS turns a plain page into something that looks beautiful and feels professional.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "js",
+      "name": "JavaScript: behavior",
+      "lead": 0.5,
+      "tail": 0.9,
+      "lines": [
+        { "id": "j1", "text": "The third is JavaScript. JavaScript is the behavior." },
+        { "id": "j2", "text": "It makes things happen. When you tap a button, JavaScript decides what comes next.", "gap": 0.5 },
+        { "id": "j3", "text": "It counts. It checks. It responds. It's the electricity that switches the lights on.", "gap": 0.5 }
+      ]
+    },
+    {
+      "id": "together",
+      "name": "Three layers, one product",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "g1", "text": "Now put them together." },
+        { "id": "g2", "text": "HTML gives it structure. CSS makes it look great. JavaScript brings it to life.", "gap": 0.5 },
+        { "id": "g3", "text": "Three layers. One real product. That's how the food app, the school portal, and almost every website you love are made.", "gap": 0.6 }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI as a creative tool",
+      "lead": 0.5,
+      "tail": 1.0,
+      "lines": [
+        { "id": "a1", "text": "And today, creators have a powerful new helper. AI." },
+        { "id": "a2", "text": "Tools like Claude can explain a line of code, help you track down a bug, or suggest a better idea when you're stuck.", "gap": 0.6 },
+        { "id": "a3", "text": "But AI is a tool, not the builder. You bring the ideas. You make the decisions. And you understand what you create.", "gap": 0.6 },
+        { "id": "a4", "text": "AI just helps you get there faster.", "gap": 0.4 }
+      ]
+    },
+    {
+      "id": "welcome",
+      "name": "Welcome to Paisley Tech Studio",
+      "lead": 0.6,
+      "tail": 3.6,
+      "lines": [
+        { "id": "f1", "text": "So here's the big idea. Every app you use was built by people who started exactly where you are right now." },
+        { "id": "f2", "text": "They had an idea. They learned the building blocks. And they kept going.", "gap": 0.6 },
+        { "id": "f3", "text": "Welcome to Paisley Tech Studio. This is where you stop just using technology, and start creating it.", "gap": 0.8 },
+        { "id": "f4", "text": "Let's build something amazing, together.", "gap": 0.7 }
+      ]
+    }
+  ]
+}

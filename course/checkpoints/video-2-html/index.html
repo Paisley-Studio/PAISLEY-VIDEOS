@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dino Runner</title>
+
+  <!-- The Quicksand font from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap">
+
+  <!-- Connect our CSS file (how things LOOK) -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- THE GAME: everything lives inside this box -->
+  <main id="game">
+
+    <!-- 1. The title -->
+    <h1>Dino Runner</h1>
+
+    <!-- 2. The score -->
+    <div id="score-board">
+      <span>Score: <span id="score">0</span></span>
+    </div>
+
+    <!-- 3. The game area: the world our dinosaur lives in -->
+    <div id="game-area">
+
+      <!-- Clouds in the sky -->
+      <div class="cloud cloud-one"></div>
+      <div class="cloud cloud-two"></div>
+
+      <!-- The player -->
+      <div id="player"></div>
+
+      <!-- The obstacle -->
+      <div id="obstacle"></div>
+
+      <!-- The ground -->
+      <div id="ground"></div>
+
+      <!-- The start message -->
+      <p id="start-text">Press SPACE to start</p>
+
+      <!-- The Game Over message and restart button -->
+      <div id="message" class="hidden">
+        <h2>Game Over</h2>
+        <button id="restart-button">Play Again</button>
+      </div>
+
+    </div>
+
+  </main>
+
+  <!-- Connect our JavaScript file (what things DO) -->
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,165 @@
+# Renders Paisley Tech Studio videos in the cloud and hands back the MP4 + SRT as artifacts.
+# Based on the official Remotion workflow: https://www.remotion.dev/docs/ssr#render-using-github-actions
+#
+# How to use:  GitHub → Actions → "Render videos" → Run workflow → pick a video + quality → Run.
+# When it finishes, download the files from the "Artifacts" section at the bottom of the run page.
+#
+# Nothing is committed back to the repository: renders live only on the runner's temporary disk
+# and in the run's artifacts, which expire automatically (see `retention_days`).
+
+name: Render videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      composition:
+        description: Which video to render
+        type: choice
+        default: Video6-WelcomeToCoding
+        options:
+          - Video6-WelcomeToCoding
+          - Video1-ThinkLikeACreator
+          - Video2-HTML
+          - Video3-CSS
+          - Video4-JavaScript
+          - Video5-AI-Claude
+          - dino-series # videos 1-5
+          - all
+      quality:
+        description: "high = 1080p final · standard = 1080p smaller file · draft = 540p quick preview"
+        type: choice
+        default: high
+        options:
+          - high
+          - standard
+          - draft
+      retention_days:
+        description: Days to keep the downloadable files
+        type: choice
+        default: "14"
+        options: ["3", "7", "14", "30"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: render-${{ inputs.composition }}-${{ inputs.quality }}
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    name: Plan renders
+    runs-on: ubuntu-24.04
+    outputs:
+      videos: ${{ steps.matrix.outputs.videos }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - id: matrix
+        run: echo "videos=$(node --no-warnings scripts/ci.mjs matrix '${{ inputs.composition }}')" >> "$GITHUB_OUTPUT"
+
+  render:
+    name: Render ${{ matrix.video.id }} (${{ inputs.quality }})
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false # one failed video doesn't cancel the others
+      matrix:
+        video: ${{ fromJSON(needs.plan.outputs.videos) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use temporary runner storage for output (never committed)
+        run: echo "OUT_DIR=$RUNNER_TEMP/render" >> "$GITHUB_ENV"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies (from package-lock.json)
+        run: npm ci
+
+      - name: Install Chromium system libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libasound2t64 libxrandr2 \
+            libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 libatk-bridge2.0-0 \
+            libpango-1.0-0 libcairo2 libcups2
+
+      - name: Download Remotion's headless browser
+        run: npx remotion browser ensure
+
+      - name: Generate sound effects and music (from code, not stored in Git)
+        run: node scripts/generate-audio.mjs
+
+      - name: Check all assets are present
+        run: node --no-warnings scripts/ci.mjs check "${{ matrix.video.id }}"
+
+      - name: Choose quality settings
+        id: quality
+        run: |
+          case "${{ inputs.quality }}" in
+            high)     echo "flags=--crf=18 --jpeg-quality=92" >> "$GITHUB_OUTPUT"; echo "scale=1" >> "$GITHUB_OUTPUT" ;;
+            standard) echo "flags=--crf=23 --jpeg-quality=85" >> "$GITHUB_OUTPUT"; echo "scale=1" >> "$GITHUB_OUTPUT" ;;
+            draft)    echo "flags=--crf=28 --jpeg-quality=75 --scale=0.5" >> "$GITHUB_OUTPUT"; echo "scale=0.5" >> "$GITHUB_OUTPUT" ;;
+          esac
+          mkdir -p "$OUT_DIR"
+
+      - name: Generate subtitles (.srt)
+        run: node --no-warnings scripts/generate-srt.mjs "${{ matrix.video.folder }}" "$OUT_DIR/${{ matrix.video.title }}.srt"
+
+      - name: Render MP4
+        run: |
+          set -o pipefail
+          # GitHub runners have 4 vCPUs / 16 GB: 3 browser tabs keeps memory comfortable.
+          npx remotion render "${{ matrix.video.id }}" "$OUT_DIR/${{ matrix.video.title }}.mp4" \
+            --codec=h264 --concurrency=3 ${{ steps.quality.outputs.flags }} \
+            --log=info 2>&1 | tee "$OUT_DIR/render.log"
+
+      - name: Verify the MP4 is complete and valid
+        run: node --no-warnings scripts/ci.mjs verify "${{ matrix.video.id }}" "$OUT_DIR/${{ matrix.video.title }}.mp4" "${{ steps.quality.outputs.scale }}" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload video + subtitles
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.video.title }} (${{ inputs.quality }})
+          path: |
+            ${{ env.OUT_DIR }}/${{ matrix.video.title }}.mp4
+            ${{ env.OUT_DIR }}/${{ matrix.video.title }}.srt
+          if-no-files-found: error
+          retention-days: ${{ fromJSON(inputs.retention_days) }}
+          compression-level: 0 # MP4 is already compressed
+
+      - name: Report success
+        run: |
+          {
+            echo "### ✅ ${{ matrix.video.title }}"
+            echo "Rendered at **${{ inputs.quality }}** quality. Download it from **Artifacts** at the bottom of this run page (kept for ${{ inputs.retention_days }} days)."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: FAILED logs - ${{ matrix.video.id }}
+          path: ${{ env.OUT_DIR }}/render.log
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Report failure
+        if: failure()
+        run: |
+          {
+            echo "### ❌ ${{ matrix.video.title }} failed"
+            echo "No video was uploaded. Open the failed step above for the error, or download the **FAILED logs** artifact."
+            if [ -f "$OUT_DIR/render.log" ]; then
+              echo '```'
+              tail -n 40 "$OUT_DIR/render.log"
+              echo '```'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

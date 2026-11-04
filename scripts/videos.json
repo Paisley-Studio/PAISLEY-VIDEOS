@@ -1,0 +1,8 @@
+[
+  { "id": "Video6-WelcomeToCoding", "folder": "video6", "title": "Welcome to the World of Coding - From Ideas to Real Products" },
+  { "id": "Video1-ThinkLikeACreator", "folder": "video1", "title": "01 - Before We Code - Think Like a Creator" },
+  { "id": "Video2-HTML", "folder": "video2", "title": "02 - Build the Structure - HTML" },
+  { "id": "Video3-CSS", "folder": "video3", "title": "03 - Make It Look Like a Game - CSS" },
+  { "id": "Video4-JavaScript", "folder": "video4", "title": "04 - Make It Come Alive - JavaScript" },
+  { "id": "Video5-AI-Claude", "folder": "video5", "title": "05 - Build Smarter With AI - Claude" }
+]
