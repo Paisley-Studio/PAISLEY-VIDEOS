@@ -1,11 +1,11 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { Appear, CLAMP, EASE_IN_OUT, Kicker, Marker, pop, progress, SceneFade, Sfx, Strike } from "../../shared/anim";
+import { Appear, CLAMP, EASE_IN_OUT, Kicker, Marker, pop, progress, SceneFade, Strike } from "../../shared/anim";
 import { gameStateAt, GameView } from "../../shared/Game";
 import { C, HAND, QUICKSAND, SHADOW, SHADOW_SOFT } from "../../shared/theme";
 import { T6 } from "../timeline";
 import { FoodArt, MealCard, SchoolCrest } from "../apps";
-import { Camera, FilmFinish, Headline, Icon, Tap, V6 } from "../kit";
+import { Camera, FilmFinish, Headline, Icon, Tap, V6, Sfx } from "../kit";
 
 // ---------------- Scene: what is coding? ----------------
 

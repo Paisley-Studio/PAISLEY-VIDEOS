@@ -1,11 +1,11 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { Appear, CLAMP, EASE_IN_OUT, Marker, pop, progress, SceneFade, Sfx } from "../../shared/anim";
+import { Appear, CLAMP, EASE_IN_OUT, Marker, pop, progress, SceneFade } from "../../shared/anim";
 import { CodeEditor, CodeLine } from "../../shared/Code";
 import { C, HAND, QUICKSAND, SHADOW, SHADOW_SOFT } from "../../shared/theme";
 import { T6 } from "../timeline";
 import { DeliveryApp, MealCard, ShopApp } from "../apps";
-import { Camera, FilmFinish, Headline, Icon, LaptopFrame, LightSweep, LOOKS, Person, Phone, V6 } from "../kit";
+import { Camera, FilmFinish, Headline, Icon, LaptopFrame, LightSweep, LOOKS, Person, Phone, V6, Sfx } from "../kit";
 
 // ---------------- Scene: AI as a creative tool ----------------
 

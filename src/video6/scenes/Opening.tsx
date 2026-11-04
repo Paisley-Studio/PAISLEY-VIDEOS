@@ -1,9 +1,9 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { Appear, CLAMP, EASE_IN_OUT, Marker, pop, progress, SceneFade, Sfx } from "../../shared/anim";
+import { Appear, CLAMP, EASE_IN_OUT, Marker, pop, progress, SceneFade } from "../../shared/anim";
 import { C, QUICKSAND, SHADOW } from "../../shared/theme";
 import { T6 } from "../timeline";
-import { Camera, FilmFinish, Headline, Icon, LightSweep, LOOKS, Parallax, Person, V6 } from "../kit";
+import { Camera, FilmFinish, Headline, Icon, LightSweep, LOOKS, Parallax, Person, V6, Sfx } from "../kit";
 
 // ---------------- City at sunrise ----------------
 

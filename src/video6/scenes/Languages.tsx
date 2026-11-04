@@ -1,11 +1,11 @@
 import React from "react";
 import { interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { Appear, CLAMP, EASE_IN_OUT, pop, progress, SceneFade, Sfx } from "../../shared/anim";
+import { Appear, CLAMP, EASE_IN_OUT, pop, progress, SceneFade } from "../../shared/anim";
 import { CodeEditor, CodeLine, Lang, LANG_COLOR } from "../../shared/Code";
 import { C, QUICKSAND, SHADOW_SOFT } from "../../shared/theme";
 import { T6 } from "../timeline";
 import { DeliveryApp, MealCard, SchoolPortal } from "../apps";
-import { Camera, FilmFinish, LaptopFrame, LightSweep, Phone, Tap, V6 } from "../kit";
+import { Camera, FilmFinish, LaptopFrame, LightSweep, Phone, Tap, V6, Sfx } from "../kit";
 
 // ---------------- The house metaphor: frame → paint → lights ----------------
 

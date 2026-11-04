@@ -1,10 +1,10 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { Appear, CLAMP, EASE_IN_OUT, Kicker, pop, progress, SceneFade, Sfx, Strike } from "../../shared/anim";
+import { Appear, CLAMP, EASE_IN_OUT, Kicker, pop, progress, SceneFade, Strike } from "../../shared/anim";
 import { C, HAND, QUICKSAND, SHADOW, SHADOW_SOFT } from "../../shared/theme";
 import { T6 } from "../timeline";
 import { DeliveryApp, FoodArt, SchoolPortal, ShopApp, TransportApp } from "../apps";
-import { Camera, FilmFinish, Icon, LaptopFrame, LightSweep, LOOKS, Person, Phone, Tap, V6 } from "../kit";
+import { Camera, FilmFinish, Icon, LaptopFrame, LightSweep, LOOKS, Person, Phone, Tap, V6, Sfx } from "../kit";
 
 const PHONE_SCALE = 0.9;
 

@@ -1,6 +1,16 @@
 import React from "react";
 import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
-import { CLAMP, EASE_IN_OUT, EASE_OUT, pop, progress } from "../shared/anim";
+import { CLAMP, EASE_IN_OUT, EASE_OUT, pop, progress, Sfx as SharedSfx } from "../shared/anim";
+
+/**
+ * Sound effects for this video, kept well under the narration: only soft, low
+ * sounds are played (the high, chirpy ones read as birdsong behind a voice), and
+ * everything is played at a fraction of the requested level.
+ */
+const SOFT_SFX = new Set(["whoosh", "click", "pop", "thunk", "impact", "chime", "riser"]);
+const SFX_LEVEL = 0.45;
+export const Sfx: React.FC<{ at: number; name: string; volume?: number }> = ({ at, name, volume = 0.3 }) =>
+  SOFT_SFX.has(name) ? <SharedSfx at={at} name={name} volume={volume * SFX_LEVEL} /> : null;
 import { C, QUICKSAND, SHADOW } from "../shared/theme";
 
 // Building blocks used across the scenes of video 6.
