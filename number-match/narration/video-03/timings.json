@@ -1,0 +1,3979 @@
+{
+ "c1": {
+  "text": "Welcome back, creators! Last time, we built the structure of Number Match with HTML.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.944,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.595,
+    "w": "back"
+   },
+   {
+    "t": 1.247,
+    "w": "creators"
+   },
+   {
+    "t": 3.032,
+    "w": "Last"
+   },
+   {
+    "t": 3.418,
+    "w": "time"
+   },
+   {
+    "t": 4.016,
+    "w": "we"
+   },
+   {
+    "t": 4.162,
+    "w": "built"
+   },
+   {
+    "t": 4.428,
+    "w": "the"
+   },
+   {
+    "t": 4.548,
+    "w": "structure"
+   },
+   {
+    "t": 5.027,
+    "w": "of"
+   },
+   {
+    "t": 5.146,
+    "w": "Number"
+   },
+   {
+    "t": 5.479,
+    "w": "Match"
+   },
+   {
+    "t": 5.851,
+    "w": "with"
+   },
+   {
+    "t": 6.037,
+    "w": "HTML"
+   }
+  ]
+ },
+ "c2": {
+  "text": "Today, we start turning this plain page... into this!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.776,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Today"
+   },
+   {
+    "t": 0.874,
+    "w": "we"
+   },
+   {
+    "t": 1.021,
+    "w": "start"
+   },
+   {
+    "t": 1.406,
+    "w": "turning"
+   },
+   {
+    "t": 1.752,
+    "w": "this"
+   },
+   {
+    "t": 1.952,
+    "w": "plain"
+   },
+   {
+    "t": 2.297,
+    "w": "page"
+   },
+   {
+    "t": 3.055,
+    "w": "into"
+   },
+   {
+    "t": 3.361,
+    "w": "this"
+   }
+  ]
+ },
+ "c3": {
+  "text": "This is the power of CSS.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.072,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "This"
+   },
+   {
+    "t": 0.382,
+    "w": "is"
+   },
+   {
+    "t": 0.529,
+    "w": "the"
+   },
+   {
+    "t": 0.648,
+    "w": "power"
+   },
+   {
+    "t": 1.101,
+    "w": "of"
+   },
+   {
+    "t": 1.22,
+    "w": "CSS"
+   }
+  ]
+ },
+ "n1": {
+  "text": "CSS stands for Cascading Style Sheets. It controls how our webpage looks: the colours, the sizes, the spacing, and even the movement.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.376,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "CSS"
+   },
+   {
+    "t": 0.901,
+    "w": "stands"
+   },
+   {
+    "t": 1.3,
+    "w": "for"
+   },
+   {
+    "t": 1.46,
+    "w": "Cascading"
+   },
+   {
+    "t": 2.124,
+    "w": "Style"
+   },
+   {
+    "t": 2.537,
+    "w": "Sheets"
+   },
+   {
+    "t": 4.069,
+    "w": "It"
+   },
+   {
+    "t": 4.255,
+    "w": "controls"
+   },
+   {
+    "t": 4.801,
+    "w": "how"
+   },
+   {
+    "t": 5.0,
+    "w": "our"
+   },
+   {
+    "t": 5.199,
+    "w": "webpage"
+   },
+   {
+    "t": 5.824,
+    "w": "looks"
+   },
+   {
+    "t": 6.529,
+    "w": "the"
+   },
+   {
+    "t": 6.676,
+    "w": "colours"
+   },
+   {
+    "t": 7.367,
+    "w": "the"
+   },
+   {
+    "t": 7.513,
+    "w": "sizes"
+   },
+   {
+    "t": 8.338,
+    "w": "the"
+   },
+   {
+    "t": 8.484,
+    "w": "spacing"
+   },
+   {
+    "t": 9.362,
+    "w": "and"
+   },
+   {
+    "t": 9.521,
+    "w": "even"
+   },
+   {
+    "t": 9.774,
+    "w": "the"
+   },
+   {
+    "t": 9.854,
+    "w": "movement"
+   }
+  ]
+ },
+ "n2": {
+  "text": "Click the new file button, type style dot C S S, and press Enter.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.736,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Click"
+   },
+   {
+    "t": 0.422,
+    "w": "the"
+   },
+   {
+    "t": 0.529,
+    "w": "new"
+   },
+   {
+    "t": 0.768,
+    "w": "file"
+   },
+   {
+    "t": 1.154,
+    "w": "button"
+   },
+   {
+    "t": 1.805,
+    "w": "type"
+   },
+   {
+    "t": 2.098,
+    "w": "style"
+   },
+   {
+    "t": 2.537,
+    "w": "dot"
+   },
+   {
+    "t": 2.776,
+    "w": "C"
+   },
+   {
+    "t": 3.042,
+    "w": "S"
+   },
+   {
+    "t": 3.255,
+    "w": "S"
+   },
+   {
+    "t": 3.853,
+    "w": "and"
+   },
+   {
+    "t": 4.053,
+    "w": "press"
+   },
+   {
+    "t": 4.385,
+    "w": "Enter"
+   }
+  ]
+ },
+ "n3": {
+  "text": "We keep our styles in their own file. That way, HTML looks after the structure, CSS looks after the style, and everything stays tidy.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.496,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "We"
+   },
+   {
+    "t": 0.303,
+    "w": "keep"
+   },
+   {
+    "t": 0.582,
+    "w": "our"
+   },
+   {
+    "t": 0.742,
+    "w": "styles"
+   },
+   {
+    "t": 1.313,
+    "w": "in"
+   },
+   {
+    "t": 1.42,
+    "w": "their"
+   },
+   {
+    "t": 1.619,
+    "w": "own"
+   },
+   {
+    "t": 1.832,
+    "w": "file"
+   },
+   {
+    "t": 3.311,
+    "w": "That"
+   },
+   {
+    "t": 3.657,
+    "w": "way"
+   },
+   {
+    "t": 4.348,
+    "w": "HTML"
+   },
+   {
+    "t": 5.279,
+    "w": "looks"
+   },
+   {
+    "t": 5.545,
+    "w": "after"
+   },
+   {
+    "t": 5.824,
+    "w": "the"
+   },
+   {
+    "t": 5.931,
+    "w": "structure"
+   },
+   {
+    "t": 6.782,
+    "w": "CSS"
+   },
+   {
+    "t": 7.527,
+    "w": "looks"
+   },
+   {
+    "t": 7.846,
+    "w": "after"
+   },
+   {
+    "t": 8.138,
+    "w": "the"
+   },
+   {
+    "t": 8.245,
+    "w": "style"
+   },
+   {
+    "t": 9.082,
+    "w": "and"
+   },
+   {
+    "t": 9.229,
+    "w": "everything"
+   },
+   {
+    "t": 9.681,
+    "w": "stays"
+   },
+   {
+    "t": 10.08,
+    "w": "tidy"
+   }
+  ]
+ },
+ "n4": {
+  "text": "Now go back to index dot html. Inside the head, just before the closing head tag, type this link.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.928,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.449,
+    "w": "go"
+   },
+   {
+    "t": 0.622,
+    "w": "back"
+   },
+   {
+    "t": 0.914,
+    "w": "to"
+   },
+   {
+    "t": 1.034,
+    "w": "index"
+   },
+   {
+    "t": 1.579,
+    "w": "dot"
+   },
+   {
+    "t": 1.819,
+    "w": "html"
+   },
+   {
+    "t": 3.67,
+    "w": "Inside"
+   },
+   {
+    "t": 4.229,
+    "w": "the"
+   },
+   {
+    "t": 4.309,
+    "w": "head"
+   },
+   {
+    "t": 4.907,
+    "w": "just"
+   },
+   {
+    "t": 5.186,
+    "w": "before"
+   },
+   {
+    "t": 5.532,
+    "w": "the"
+   },
+   {
+    "t": 5.638,
+    "w": "closing"
+   },
+   {
+    "t": 6.104,
+    "w": "head"
+   },
+   {
+    "t": 6.356,
+    "w": "tag"
+   },
+   {
+    "t": 7.048,
+    "w": "type"
+   },
+   {
+    "t": 7.34,
+    "w": "this"
+   },
+   {
+    "t": 7.553,
+    "w": "link"
+   }
+  ]
+ },
+ "n5": {
+  "text": "Rel equals stylesheet tells the browser that this is a style file. And H ref tells it where to find it: style dot C S S.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.84,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Rel"
+   },
+   {
+    "t": 0.449,
+    "w": "equals"
+   },
+   {
+    "t": 0.835,
+    "w": "stylesheet"
+   },
+   {
+    "t": 1.499,
+    "w": "tells"
+   },
+   {
+    "t": 1.832,
+    "w": "the"
+   },
+   {
+    "t": 1.938,
+    "w": "browser"
+   },
+   {
+    "t": 2.43,
+    "w": "that"
+   },
+   {
+    "t": 2.59,
+    "w": "this"
+   },
+   {
+    "t": 2.803,
+    "w": "is"
+   },
+   {
+    "t": 2.936,
+    "w": "a"
+   },
+   {
+    "t": 3.015,
+    "w": "style"
+   },
+   {
+    "t": 3.468,
+    "w": "file"
+   },
+   {
+    "t": 4.92,
+    "w": "And"
+   },
+   {
+    "t": 5.173,
+    "w": "H"
+   },
+   {
+    "t": 5.452,
+    "w": "ref"
+   },
+   {
+    "t": 5.785,
+    "w": "tells"
+   },
+   {
+    "t": 6.09,
+    "w": "it"
+   },
+   {
+    "t": 6.197,
+    "w": "where"
+   },
+   {
+    "t": 6.383,
+    "w": "to"
+   },
+   {
+    "t": 6.476,
+    "w": "find"
+   },
+   {
+    "t": 6.835,
+    "w": "it"
+   },
+   {
+    "t": 7.247,
+    "w": "style"
+   },
+   {
+    "t": 7.726,
+    "w": "dot"
+   },
+   {
+    "t": 7.952,
+    "w": "C"
+   },
+   {
+    "t": 8.205,
+    "w": "S"
+   },
+   {
+    "t": 8.444,
+    "w": "S"
+   }
+  ]
+ },
+ "b1": {
+  "text": "Let's write our first CSS rule.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.312,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.436,
+    "w": "write"
+   },
+   {
+    "t": 0.688,
+    "w": "our"
+   },
+   {
+    "t": 0.835,
+    "w": "first"
+   },
+   {
+    "t": 1.234,
+    "w": "CSS"
+   },
+   {
+    "t": 1.965,
+    "w": "rule"
+   }
+  ]
+ },
+ "b2": {
+  "text": "First comes the selector. It tells the browser which elements we want to style. Here, we choose the body.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.048,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "First"
+   },
+   {
+    "t": 0.542,
+    "w": "comes"
+   },
+   {
+    "t": 0.848,
+    "w": "the"
+   },
+   {
+    "t": 0.968,
+    "w": "selector"
+   },
+   {
+    "t": 2.567,
+    "w": "It"
+   },
+   {
+    "t": 2.766,
+    "w": "tells"
+   },
+   {
+    "t": 3.098,
+    "w": "the"
+   },
+   {
+    "t": 3.205,
+    "w": "browser"
+   },
+   {
+    "t": 3.71,
+    "w": "which"
+   },
+   {
+    "t": 3.949,
+    "w": "elements"
+   },
+   {
+    "t": 4.402,
+    "w": "we"
+   },
+   {
+    "t": 4.508,
+    "w": "want"
+   },
+   {
+    "t": 4.721,
+    "w": "to"
+   },
+   {
+    "t": 4.801,
+    "w": "style"
+   },
+   {
+    "t": 6.33,
+    "w": "Here"
+   },
+   {
+    "t": 6.981,
+    "w": "we"
+   },
+   {
+    "t": 7.128,
+    "w": "choose"
+   },
+   {
+    "t": 7.487,
+    "w": "the"
+   },
+   {
+    "t": 7.606,
+    "w": "body"
+   }
+  ]
+ },
+ "b3": {
+  "text": "Then a pair of curly brackets. Everything inside them is called a declaration block.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.84,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.356,
+    "w": "a"
+   },
+   {
+    "t": 0.436,
+    "w": "pair"
+   },
+   {
+    "t": 0.755,
+    "w": "of"
+   },
+   {
+    "t": 0.888,
+    "w": "curly"
+   },
+   {
+    "t": 1.273,
+    "w": "brackets"
+   },
+   {
+    "t": 2.952,
+    "w": "Everything"
+   },
+   {
+    "t": 3.484,
+    "w": "inside"
+   },
+   {
+    "t": 3.963,
+    "w": "them"
+   },
+   {
+    "t": 4.162,
+    "w": "is"
+   },
+   {
+    "t": 4.309,
+    "w": "called"
+   },
+   {
+    "t": 4.601,
+    "w": "a"
+   },
+   {
+    "t": 4.668,
+    "w": "declaration"
+   },
+   {
+    "t": 5.399,
+    "w": "block"
+   }
+  ]
+ },
+ "b4": {
+  "text": "Inside, we write a property, a colon, and a value. Background color is the property, and this colour code is the value.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.576,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Inside"
+   },
+   {
+    "t": 1.021,
+    "w": "we"
+   },
+   {
+    "t": 1.207,
+    "w": "write"
+   },
+   {
+    "t": 1.446,
+    "w": "a"
+   },
+   {
+    "t": 1.513,
+    "w": "property"
+   },
+   {
+    "t": 2.337,
+    "w": "a"
+   },
+   {
+    "t": 2.417,
+    "w": "colon"
+   },
+   {
+    "t": 3.069,
+    "w": "and"
+   },
+   {
+    "t": 3.228,
+    "w": "a"
+   },
+   {
+    "t": 3.281,
+    "w": "value"
+   },
+   {
+    "t": 4.774,
+    "w": "Background"
+   },
+   {
+    "t": 5.359,
+    "w": "color"
+   },
+   {
+    "t": 5.745,
+    "w": "is"
+   },
+   {
+    "t": 5.891,
+    "w": "the"
+   },
+   {
+    "t": 5.997,
+    "w": "property"
+   },
+   {
+    "t": 6.795,
+    "w": "and"
+   },
+   {
+    "t": 6.955,
+    "w": "this"
+   },
+   {
+    "t": 7.154,
+    "w": "colour"
+   },
+   {
+    "t": 7.513,
+    "w": "code"
+   },
+   {
+    "t": 7.872,
+    "w": "is"
+   },
+   {
+    "t": 8.019,
+    "w": "the"
+   },
+   {
+    "t": 8.112,
+    "w": "value"
+   }
+  ]
+ },
+ "b5": {
+  "text": "And every declaration ends with a semicolon, like a full stop at the end of a sentence.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.12,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.343,
+    "w": "every"
+   },
+   {
+    "t": 0.609,
+    "w": "declaration"
+   },
+   {
+    "t": 1.406,
+    "w": "ends"
+   },
+   {
+    "t": 1.712,
+    "w": "with"
+   },
+   {
+    "t": 1.845,
+    "w": "a"
+   },
+   {
+    "t": 1.925,
+    "w": "semicolon"
+   },
+   {
+    "t": 2.949,
+    "w": "like"
+   },
+   {
+    "t": 3.122,
+    "w": "a"
+   },
+   {
+    "t": 3.215,
+    "w": "full"
+   },
+   {
+    "t": 3.521,
+    "w": "stop"
+   },
+   {
+    "t": 3.906,
+    "w": "at"
+   },
+   {
+    "t": 3.986,
+    "w": "the"
+   },
+   {
+    "t": 4.066,
+    "w": "end"
+   },
+   {
+    "t": 4.345,
+    "w": "of"
+   },
+   {
+    "t": 4.412,
+    "w": "a"
+   },
+   {
+    "t": 4.492,
+    "w": "sentence"
+   }
+  ]
+ },
+ "b6": {
+  "text": "The second declaration sets our font family to Quicksand. But wait! The browser needs to download Quicksand first.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.84,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "second"
+   },
+   {
+    "t": 0.675,
+    "w": "declaration"
+   },
+   {
+    "t": 1.433,
+    "w": "sets"
+   },
+   {
+    "t": 1.752,
+    "w": "our"
+   },
+   {
+    "t": 1.885,
+    "w": "font"
+   },
+   {
+    "t": 2.204,
+    "w": "family"
+   },
+   {
+    "t": 2.643,
+    "w": "to"
+   },
+   {
+    "t": 2.763,
+    "w": "Quicksand"
+   },
+   {
+    "t": 4.455,
+    "w": "But"
+   },
+   {
+    "t": 4.681,
+    "w": "wait"
+   },
+   {
+    "t": 6.117,
+    "w": "The"
+   },
+   {
+    "t": 6.277,
+    "w": "browser"
+   },
+   {
+    "t": 6.755,
+    "w": "needs"
+   },
+   {
+    "t": 7.061,
+    "w": "to"
+   },
+   {
+    "t": 7.168,
+    "w": "download"
+   },
+   {
+    "t": 7.739,
+    "w": "Quicksand"
+   },
+   {
+    "t": 8.338,
+    "w": "first"
+   }
+  ]
+ },
+ "f1": {
+  "text": "Websites can use thousands of different fonts. Many of them are free on Google Fonts.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.008,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Websites"
+   },
+   {
+    "t": 0.795,
+    "w": "can"
+   },
+   {
+    "t": 0.981,
+    "w": "use"
+   },
+   {
+    "t": 1.26,
+    "w": "thousands"
+   },
+   {
+    "t": 1.779,
+    "w": "of"
+   },
+   {
+    "t": 1.885,
+    "w": "different"
+   },
+   {
+    "t": 2.218,
+    "w": "fonts"
+   },
+   {
+    "t": 3.737,
+    "w": "Many"
+   },
+   {
+    "t": 4.122,
+    "w": "of"
+   },
+   {
+    "t": 4.215,
+    "w": "them"
+   },
+   {
+    "t": 4.428,
+    "w": "are"
+   },
+   {
+    "t": 4.561,
+    "w": "free"
+   },
+   {
+    "t": 4.934,
+    "w": "on"
+   },
+   {
+    "t": 5.12,
+    "w": "Google"
+   },
+   {
+    "t": 5.479,
+    "w": "Fonts"
+   }
+  ]
+ },
+ "f2": {
+  "text": "Open your browser and go to fonts dot google dot com.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.32,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Open"
+   },
+   {
+    "t": 0.462,
+    "w": "your"
+   },
+   {
+    "t": 0.609,
+    "w": "browser"
+   },
+   {
+    "t": 1.194,
+    "w": "and"
+   },
+   {
+    "t": 1.3,
+    "w": "go"
+   },
+   {
+    "t": 1.499,
+    "w": "to"
+   },
+   {
+    "t": 1.606,
+    "w": "fonts"
+   },
+   {
+    "t": 2.031,
+    "w": "dot"
+   },
+   {
+    "t": 2.297,
+    "w": "google"
+   },
+   {
+    "t": 2.643,
+    "w": "dot"
+   },
+   {
+    "t": 2.909,
+    "w": "com"
+   }
+  ]
+ },
+ "f3": {
+  "text": "Search for Quicksand, and click on it.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.528,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Search"
+   },
+   {
+    "t": 0.569,
+    "w": "for"
+   },
+   {
+    "t": 0.742,
+    "w": "Quicksand"
+   },
+   {
+    "t": 1.619,
+    "w": "and"
+   },
+   {
+    "t": 1.819,
+    "w": "click"
+   },
+   {
+    "t": 2.151,
+    "w": "on"
+   },
+   {
+    "t": 2.377,
+    "w": "it"
+   }
+  ]
+ },
+ "f4": {
+  "text": "Click Get font, and then Get embed code.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.696,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Click"
+   },
+   {
+    "t": 0.436,
+    "w": "Get"
+   },
+   {
+    "t": 0.648,
+    "w": "font"
+   },
+   {
+    "t": 1.34,
+    "w": "and"
+   },
+   {
+    "t": 1.486,
+    "w": "then"
+   },
+   {
+    "t": 1.726,
+    "w": "Get"
+   },
+   {
+    "t": 1.912,
+    "w": "embed"
+   },
+   {
+    "t": 2.297,
+    "w": "code"
+   }
+  ]
+ },
+ "f5": {
+  "text": "Make sure the weights we need are chosen, from four hundred up to seven hundred. The higher the number, the bolder the text.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.808,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Make"
+   },
+   {
+    "t": 0.409,
+    "w": "sure"
+   },
+   {
+    "t": 0.688,
+    "w": "the"
+   },
+   {
+    "t": 0.808,
+    "w": "weights"
+   },
+   {
+    "t": 1.14,
+    "w": "we"
+   },
+   {
+    "t": 1.26,
+    "w": "need"
+   },
+   {
+    "t": 1.513,
+    "w": "are"
+   },
+   {
+    "t": 1.646,
+    "w": "chosen"
+   },
+   {
+    "t": 2.404,
+    "w": "from"
+   },
+   {
+    "t": 2.616,
+    "w": "four"
+   },
+   {
+    "t": 2.909,
+    "w": "hundred"
+   },
+   {
+    "t": 3.215,
+    "w": "up"
+   },
+   {
+    "t": 3.388,
+    "w": "to"
+   },
+   {
+    "t": 3.494,
+    "w": "seven"
+   },
+   {
+    "t": 3.88,
+    "w": "hundred"
+   },
+   {
+    "t": 5.306,
+    "w": "The"
+   },
+   {
+    "t": 5.465,
+    "w": "higher"
+   },
+   {
+    "t": 5.891,
+    "w": "the"
+   },
+   {
+    "t": 5.997,
+    "w": "number"
+   },
+   {
+    "t": 6.649,
+    "w": "the"
+   },
+   {
+    "t": 6.782,
+    "w": "bolder"
+   },
+   {
+    "t": 7.168,
+    "w": "the"
+   },
+   {
+    "t": 7.287,
+    "w": "text"
+   }
+  ]
+ },
+ "f6": {
+  "text": "Now copy the link code that Google gives us.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.816,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.449,
+    "w": "copy"
+   },
+   {
+    "t": 0.861,
+    "w": "the"
+   },
+   {
+    "t": 1.007,
+    "w": "link"
+   },
+   {
+    "t": 1.26,
+    "w": "code"
+   },
+   {
+    "t": 1.593,
+    "w": "that"
+   },
+   {
+    "t": 1.779,
+    "w": "Google"
+   },
+   {
+    "t": 2.151,
+    "w": "gives"
+   },
+   {
+    "t": 2.457,
+    "w": "us"
+   }
+  ]
+ },
+ "f7": {
+  "text": "Back in Paisley Studio, paste it inside the head, above our style sheet link.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.096,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Back"
+   },
+   {
+    "t": 0.449,
+    "w": "in"
+   },
+   {
+    "t": 0.609,
+    "w": "Paisley"
+   },
+   {
+    "t": 1.101,
+    "w": "Studio"
+   },
+   {
+    "t": 1.925,
+    "w": "paste"
+   },
+   {
+    "t": 2.284,
+    "w": "it"
+   },
+   {
+    "t": 2.364,
+    "w": "inside"
+   },
+   {
+    "t": 2.843,
+    "w": "the"
+   },
+   {
+    "t": 2.909,
+    "w": "head"
+   },
+   {
+    "t": 3.468,
+    "w": "above"
+   },
+   {
+    "t": 3.853,
+    "w": "our"
+   },
+   {
+    "t": 4.026,
+    "w": "style"
+   },
+   {
+    "t": 4.452,
+    "w": "sheet"
+   },
+   {
+    "t": 4.771,
+    "w": "link"
+   }
+  ]
+ },
+ "f8": {
+  "text": "The two preconnect lines help the font load quickly, and the last link downloads Quicksand itself.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.936,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "two"
+   },
+   {
+    "t": 0.542,
+    "w": "preconnect"
+   },
+   {
+    "t": 1.207,
+    "w": "lines"
+   },
+   {
+    "t": 1.606,
+    "w": "help"
+   },
+   {
+    "t": 1.872,
+    "w": "the"
+   },
+   {
+    "t": 1.978,
+    "w": "font"
+   },
+   {
+    "t": 2.324,
+    "w": "load"
+   },
+   {
+    "t": 2.603,
+    "w": "quickly"
+   },
+   {
+    "t": 3.348,
+    "w": "and"
+   },
+   {
+    "t": 3.494,
+    "w": "the"
+   },
+   {
+    "t": 3.601,
+    "w": "last"
+   },
+   {
+    "t": 4.013,
+    "w": "link"
+   },
+   {
+    "t": 4.265,
+    "w": "downloads"
+   },
+   {
+    "t": 4.824,
+    "w": "Quicksand"
+   },
+   {
+    "t": 5.369,
+    "w": "itself"
+   }
+  ]
+ },
+ "f9": {
+  "text": "Remember: the browser needs an internet connection to download a Google Font.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.544,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Remember"
+   },
+   {
+    "t": 0.954,
+    "w": "the"
+   },
+   {
+    "t": 1.101,
+    "w": "browser"
+   },
+   {
+    "t": 1.593,
+    "w": "needs"
+   },
+   {
+    "t": 1.885,
+    "w": "an"
+   },
+   {
+    "t": 2.018,
+    "w": "internet"
+   },
+   {
+    "t": 2.457,
+    "w": "connection"
+   },
+   {
+    "t": 2.989,
+    "w": "to"
+   },
+   {
+    "t": 3.122,
+    "w": "download"
+   },
+   {
+    "t": 3.667,
+    "w": "a"
+   },
+   {
+    "t": 3.747,
+    "w": "Google"
+   },
+   {
+    "t": 4.119,
+    "w": "Font"
+   }
+  ]
+ },
+ "v1": {
+  "text": "Now let's build our design, starting with our colours.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.224,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.409,
+    "w": "let's"
+   },
+   {
+    "t": 0.675,
+    "w": "build"
+   },
+   {
+    "t": 1.007,
+    "w": "our"
+   },
+   {
+    "t": 1.154,
+    "w": "design"
+   },
+   {
+    "t": 1.978,
+    "w": "starting"
+   },
+   {
+    "t": 2.417,
+    "w": "with"
+   },
+   {
+    "t": 2.563,
+    "w": "our"
+   },
+   {
+    "t": 2.71,
+    "w": "colours"
+   }
+  ]
+ },
+ "v2": {
+  "text": "At the very top of style dot C S S, we create CSS variables, inside root.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.08,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "At"
+   },
+   {
+    "t": 0.303,
+    "w": "the"
+   },
+   {
+    "t": 0.396,
+    "w": "very"
+   },
+   {
+    "t": 0.702,
+    "w": "top"
+   },
+   {
+    "t": 1.007,
+    "w": "of"
+   },
+   {
+    "t": 1.127,
+    "w": "style"
+   },
+   {
+    "t": 1.593,
+    "w": "dot"
+   },
+   {
+    "t": 1.819,
+    "w": "C"
+   },
+   {
+    "t": 2.085,
+    "w": "S"
+   },
+   {
+    "t": 2.297,
+    "w": "S"
+   },
+   {
+    "t": 2.962,
+    "w": "we"
+   },
+   {
+    "t": 3.122,
+    "w": "create"
+   },
+   {
+    "t": 3.547,
+    "w": "CSS"
+   },
+   {
+    "t": 4.252,
+    "w": "variables"
+   },
+   {
+    "t": 5.21,
+    "w": "inside"
+   },
+   {
+    "t": 5.755,
+    "w": "root"
+   }
+  ]
+ },
+ "v3": {
+  "text": "A variable is a colour with a name. Dash dash green is our deep forest green. Dash dash red is our bright red.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.864,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "A"
+   },
+   {
+    "t": 0.236,
+    "w": "variable"
+   },
+   {
+    "t": 0.888,
+    "w": "is"
+   },
+   {
+    "t": 1.034,
+    "w": "a"
+   },
+   {
+    "t": 1.127,
+    "w": "colour"
+   },
+   {
+    "t": 1.486,
+    "w": "with"
+   },
+   {
+    "t": 1.632,
+    "w": "a"
+   },
+   {
+    "t": 1.672,
+    "w": "name"
+   },
+   {
+    "t": 3.085,
+    "w": "Dash"
+   },
+   {
+    "t": 3.497,
+    "w": "dash"
+   },
+   {
+    "t": 3.856,
+    "w": "green"
+   },
+   {
+    "t": 4.229,
+    "w": "is"
+   },
+   {
+    "t": 4.402,
+    "w": "our"
+   },
+   {
+    "t": 4.614,
+    "w": "deep"
+   },
+   {
+    "t": 4.907,
+    "w": "forest"
+   },
+   {
+    "t": 5.399,
+    "w": "green"
+   },
+   {
+    "t": 6.795,
+    "w": "Dash"
+   },
+   {
+    "t": 7.194,
+    "w": "dash"
+   },
+   {
+    "t": 7.553,
+    "w": "red"
+   },
+   {
+    "t": 7.859,
+    "w": "is"
+   },
+   {
+    "t": 8.019,
+    "w": "our"
+   },
+   {
+    "t": 8.191,
+    "w": "bright"
+   },
+   {
+    "t": 8.551,
+    "w": "red"
+   }
+  ]
+ },
+ "v4": {
+  "text": "To use a variable, we write var, and then the name in brackets.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.064,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "To"
+   },
+   {
+    "t": 0.236,
+    "w": "use"
+   },
+   {
+    "t": 0.515,
+    "w": "a"
+   },
+   {
+    "t": 0.582,
+    "w": "variable"
+   },
+   {
+    "t": 1.446,
+    "w": "we"
+   },
+   {
+    "t": 1.619,
+    "w": "write"
+   },
+   {
+    "t": 1.898,
+    "w": "var"
+   },
+   {
+    "t": 2.55,
+    "w": "and"
+   },
+   {
+    "t": 2.683,
+    "w": "then"
+   },
+   {
+    "t": 2.896,
+    "w": "the"
+   },
+   {
+    "t": 2.989,
+    "w": "name"
+   },
+   {
+    "t": 3.295,
+    "w": "in"
+   },
+   {
+    "t": 3.428,
+    "w": "brackets"
+   }
+  ]
+ },
+ "v5": {
+  "text": "Here's why that's so clever. If we change dash dash red in one place...",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.456,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Here's"
+   },
+   {
+    "t": 0.449,
+    "w": "why"
+   },
+   {
+    "t": 0.688,
+    "w": "that's"
+   },
+   {
+    "t": 0.968,
+    "w": "so"
+   },
+   {
+    "t": 1.194,
+    "w": "clever"
+   },
+   {
+    "t": 2.66,
+    "w": "If"
+   },
+   {
+    "t": 2.886,
+    "w": "we"
+   },
+   {
+    "t": 3.045,
+    "w": "change"
+   },
+   {
+    "t": 3.497,
+    "w": "dash"
+   },
+   {
+    "t": 3.856,
+    "w": "dash"
+   },
+   {
+    "t": 4.229,
+    "w": "red"
+   },
+   {
+    "t": 4.508,
+    "w": "in"
+   },
+   {
+    "t": 4.654,
+    "w": "one"
+   },
+   {
+    "t": 4.894,
+    "w": "place"
+   }
+  ]
+ },
+ "v6": {
+  "text": "...every part of the design that uses it changes too!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.056,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "every"
+   },
+   {
+    "t": 0.436,
+    "w": "part"
+   },
+   {
+    "t": 0.742,
+    "w": "of"
+   },
+   {
+    "t": 0.835,
+    "w": "the"
+   },
+   {
+    "t": 0.941,
+    "w": "design"
+   },
+   {
+    "t": 1.499,
+    "w": "that"
+   },
+   {
+    "t": 1.672,
+    "w": "uses"
+   },
+   {
+    "t": 2.071,
+    "w": "it"
+   },
+   {
+    "t": 2.191,
+    "w": "changes"
+   },
+   {
+    "t": 2.696,
+    "w": "too"
+   }
+  ]
+ },
+ "l1": {
+  "text": "Next, the page and the header.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.072,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Next"
+   },
+   {
+    "t": 0.835,
+    "w": "the"
+   },
+   {
+    "t": 0.968,
+    "w": "page"
+   },
+   {
+    "t": 1.46,
+    "w": "and"
+   },
+   {
+    "t": 1.593,
+    "w": "the"
+   },
+   {
+    "t": 1.672,
+    "w": "header"
+   }
+  ]
+ },
+ "l2": {
+  "text": "The app shell keeps our game a comfortable width, and margin zero auto places it in the middle.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.528,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.289,
+    "w": "app"
+   },
+   {
+    "t": 0.555,
+    "w": "shell"
+   },
+   {
+    "t": 0.968,
+    "w": "keeps"
+   },
+   {
+    "t": 1.3,
+    "w": "our"
+   },
+   {
+    "t": 1.446,
+    "w": "game"
+   },
+   {
+    "t": 1.726,
+    "w": "a"
+   },
+   {
+    "t": 1.805,
+    "w": "comfortable"
+   },
+   {
+    "t": 2.324,
+    "w": "width"
+   },
+   {
+    "t": 2.976,
+    "w": "and"
+   },
+   {
+    "t": 3.148,
+    "w": "margin"
+   },
+   {
+    "t": 3.614,
+    "w": "zero"
+   },
+   {
+    "t": 4.026,
+    "w": "auto"
+   },
+   {
+    "t": 4.345,
+    "w": "places"
+   },
+   {
+    "t": 4.824,
+    "w": "it"
+   },
+   {
+    "t": 4.957,
+    "w": "in"
+   },
+   {
+    "t": 5.09,
+    "w": "the"
+   },
+   {
+    "t": 5.17,
+    "w": "middle"
+   }
+  ]
+ },
+ "l3": {
+  "text": "The top bar uses display flex, which lines things up in a row. Justify content space between pushes the brand to the left, and the tag to the right.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.16,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "top"
+   },
+   {
+    "t": 0.609,
+    "w": "bar"
+   },
+   {
+    "t": 0.928,
+    "w": "uses"
+   },
+   {
+    "t": 1.3,
+    "w": "display"
+   },
+   {
+    "t": 1.752,
+    "w": "flex"
+   },
+   {
+    "t": 2.483,
+    "w": "which"
+   },
+   {
+    "t": 2.71,
+    "w": "lines"
+   },
+   {
+    "t": 3.175,
+    "w": "things"
+   },
+   {
+    "t": 3.494,
+    "w": "up"
+   },
+   {
+    "t": 3.68,
+    "w": "in"
+   },
+   {
+    "t": 3.76,
+    "w": "a"
+   },
+   {
+    "t": 3.813,
+    "w": "row"
+   },
+   {
+    "t": 5.186,
+    "w": "Justify"
+   },
+   {
+    "t": 5.785,
+    "w": "content"
+   },
+   {
+    "t": 6.343,
+    "w": "space"
+   },
+   {
+    "t": 6.742,
+    "w": "between"
+   },
+   {
+    "t": 7.141,
+    "w": "pushes"
+   },
+   {
+    "t": 7.553,
+    "w": "the"
+   },
+   {
+    "t": 7.673,
+    "w": "brand"
+   },
+   {
+    "t": 8.059,
+    "w": "to"
+   },
+   {
+    "t": 8.138,
+    "w": "the"
+   },
+   {
+    "t": 8.271,
+    "w": "left"
+   },
+   {
+    "t": 8.963,
+    "w": "and"
+   },
+   {
+    "t": 9.056,
+    "w": "the"
+   },
+   {
+    "t": 9.176,
+    "w": "tag"
+   },
+   {
+    "t": 9.574,
+    "w": "to"
+   },
+   {
+    "t": 9.681,
+    "w": "the"
+   },
+   {
+    "t": 9.787,
+    "w": "right"
+   }
+  ]
+ },
+ "l4": {
+  "text": "The heading becomes big, bold and green, and the span inside it turns red.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.904,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.249,
+    "w": "heading"
+   },
+   {
+    "t": 0.582,
+    "w": "becomes"
+   },
+   {
+    "t": 1.021,
+    "w": "big"
+   },
+   {
+    "t": 1.632,
+    "w": "bold"
+   },
+   {
+    "t": 2.138,
+    "w": "and"
+   },
+   {
+    "t": 2.244,
+    "w": "green"
+   },
+   {
+    "t": 2.949,
+    "w": "and"
+   },
+   {
+    "t": 3.069,
+    "w": "the"
+   },
+   {
+    "t": 3.175,
+    "w": "span"
+   },
+   {
+    "t": 3.601,
+    "w": "inside"
+   },
+   {
+    "t": 4.093,
+    "w": "it"
+   },
+   {
+    "t": 4.199,
+    "w": "turns"
+   },
+   {
+    "t": 4.571,
+    "w": "red"
+   }
+  ]
+ },
+ "l5": {
+  "text": "The game panel gets a white background, a border, and rounded corners.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.4,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "game"
+   },
+   {
+    "t": 0.582,
+    "w": "panel"
+   },
+   {
+    "t": 0.981,
+    "w": "gets"
+   },
+   {
+    "t": 1.194,
+    "w": "a"
+   },
+   {
+    "t": 1.273,
+    "w": "white"
+   },
+   {
+    "t": 1.593,
+    "w": "background"
+   },
+   {
+    "t": 2.444,
+    "w": "a"
+   },
+   {
+    "t": 2.55,
+    "w": "border"
+   },
+   {
+    "t": 3.241,
+    "w": "and"
+   },
+   {
+    "t": 3.401,
+    "w": "rounded"
+   },
+   {
+    "t": 3.8,
+    "w": "corners"
+   }
+  ]
+ },
+ "l6": {
+  "text": "The stats use display grid, with three equal columns, one for each box.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.024,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "stats"
+   },
+   {
+    "t": 0.728,
+    "w": "use"
+   },
+   {
+    "t": 0.968,
+    "w": "display"
+   },
+   {
+    "t": 1.42,
+    "w": "grid"
+   },
+   {
+    "t": 2.058,
+    "w": "with"
+   },
+   {
+    "t": 2.271,
+    "w": "three"
+   },
+   {
+    "t": 2.63,
+    "w": "equal"
+   },
+   {
+    "t": 2.949,
+    "w": "columns"
+   },
+   {
+    "t": 3.747,
+    "w": "one"
+   },
+   {
+    "t": 4.066,
+    "w": "for"
+   },
+   {
+    "t": 4.265,
+    "w": "each"
+   },
+   {
+    "t": 4.505,
+    "w": "box"
+   }
+  ]
+ },
+ "l7": {
+  "text": "And the progress fill is red. Its width starts at zero percent. Later, JavaScript will make it grow.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.168,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.263,
+    "w": "the"
+   },
+   {
+    "t": 0.369,
+    "w": "progress"
+   },
+   {
+    "t": 0.954,
+    "w": "fill"
+   },
+   {
+    "t": 1.247,
+    "w": "is"
+   },
+   {
+    "t": 1.42,
+    "w": "red"
+   },
+   {
+    "t": 2.779,
+    "w": "Its"
+   },
+   {
+    "t": 3.019,
+    "w": "width"
+   },
+   {
+    "t": 3.351,
+    "w": "starts"
+   },
+   {
+    "t": 3.763,
+    "w": "at"
+   },
+   {
+    "t": 3.91,
+    "w": "zero"
+   },
+   {
+    "t": 4.295,
+    "w": "percent"
+   },
+   {
+    "t": 5.864,
+    "w": "Later"
+   },
+   {
+    "t": 6.556,
+    "w": "JavaScript"
+   },
+   {
+    "t": 7.301,
+    "w": "will"
+   },
+   {
+    "t": 7.434,
+    "w": "make"
+   },
+   {
+    "t": 7.66,
+    "w": "it"
+   },
+   {
+    "t": 7.766,
+    "w": "grow"
+   }
+  ]
+ },
+ "k1": {
+  "text": "Now for my favourite part: the number card. Our grid is still empty, because JavaScript will create the cards in a later lesson. So let's zoom in and design one card right now.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 13.632,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.462,
+    "w": "for"
+   },
+   {
+    "t": 0.609,
+    "w": "my"
+   },
+   {
+    "t": 0.781,
+    "w": "favourite"
+   },
+   {
+    "t": 1.287,
+    "w": "part"
+   },
+   {
+    "t": 1.952,
+    "w": "the"
+   },
+   {
+    "t": 2.058,
+    "w": "number"
+   },
+   {
+    "t": 2.377,
+    "w": "card"
+   },
+   {
+    "t": 3.777,
+    "w": "Our"
+   },
+   {
+    "t": 4.043,
+    "w": "grid"
+   },
+   {
+    "t": 4.348,
+    "w": "is"
+   },
+   {
+    "t": 4.495,
+    "w": "still"
+   },
+   {
+    "t": 4.867,
+    "w": "empty"
+   },
+   {
+    "t": 5.532,
+    "w": "because"
+   },
+   {
+    "t": 5.904,
+    "w": "JavaScript"
+   },
+   {
+    "t": 6.662,
+    "w": "will"
+   },
+   {
+    "t": 6.809,
+    "w": "create"
+   },
+   {
+    "t": 7.207,
+    "w": "the"
+   },
+   {
+    "t": 7.314,
+    "w": "cards"
+   },
+   {
+    "t": 7.739,
+    "w": "in"
+   },
+   {
+    "t": 7.859,
+    "w": "a"
+   },
+   {
+    "t": 7.926,
+    "w": "later"
+   },
+   {
+    "t": 8.258,
+    "w": "lesson"
+   },
+   {
+    "t": 9.681,
+    "w": "So"
+   },
+   {
+    "t": 9.973,
+    "w": "let's"
+   },
+   {
+    "t": 10.293,
+    "w": "zoom"
+   },
+   {
+    "t": 10.612,
+    "w": "in"
+   },
+   {
+    "t": 10.878,
+    "w": "and"
+   },
+   {
+    "t": 10.984,
+    "w": "design"
+   },
+   {
+    "t": 11.516,
+    "w": "one"
+   },
+   {
+    "t": 11.769,
+    "w": "card"
+   },
+   {
+    "t": 12.088,
+    "w": "right"
+   },
+   {
+    "t": 12.314,
+    "w": "now"
+   }
+  ]
+ },
+ "k2": {
+  "text": "We start with a white rectangle.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.952,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "We"
+   },
+   {
+    "t": 0.303,
+    "w": "start"
+   },
+   {
+    "t": 0.702,
+    "w": "with"
+   },
+   {
+    "t": 0.848,
+    "w": "a"
+   },
+   {
+    "t": 0.928,
+    "w": "white"
+   },
+   {
+    "t": 1.273,
+    "w": "rectangle"
+   }
+  ]
+ },
+ "k3": {
+  "text": "Border radius rounds the corners.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.12,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Border"
+   },
+   {
+    "t": 0.529,
+    "w": "radius"
+   },
+   {
+    "t": 1.021,
+    "w": "rounds"
+   },
+   {
+    "t": 1.393,
+    "w": "the"
+   },
+   {
+    "t": 1.513,
+    "w": "corners"
+   }
+  ]
+ },
+ "k4": {
+  "text": "Then a thick red border, five pixels wide.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.128,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.396,
+    "w": "a"
+   },
+   {
+    "t": 0.476,
+    "w": "thick"
+   },
+   {
+    "t": 0.848,
+    "w": "red"
+   },
+   {
+    "t": 1.14,
+    "w": "border"
+   },
+   {
+    "t": 1.845,
+    "w": "five"
+   },
+   {
+    "t": 2.191,
+    "w": "pixels"
+   },
+   {
+    "t": 2.67,
+    "w": "wide"
+   }
+  ]
+ },
+ "k5": {
+  "text": "Inside, the number circle. Its width and height are equal, and border radius fifty percent turns a square into a perfect circle.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.792,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Inside"
+   },
+   {
+    "t": 0.954,
+    "w": "the"
+   },
+   {
+    "t": 1.074,
+    "w": "number"
+   },
+   {
+    "t": 1.42,
+    "w": "circle"
+   },
+   {
+    "t": 2.926,
+    "w": "Its"
+   },
+   {
+    "t": 3.165,
+    "w": "width"
+   },
+   {
+    "t": 3.537,
+    "w": "and"
+   },
+   {
+    "t": 3.67,
+    "w": "height"
+   },
+   {
+    "t": 4.069,
+    "w": "are"
+   },
+   {
+    "t": 4.255,
+    "w": "equal"
+   },
+   {
+    "t": 4.934,
+    "w": "and"
+   },
+   {
+    "t": 5.08,
+    "w": "border"
+   },
+   {
+    "t": 5.465,
+    "w": "radius"
+   },
+   {
+    "t": 5.931,
+    "w": "fifty"
+   },
+   {
+    "t": 6.29,
+    "w": "percent"
+   },
+   {
+    "t": 6.755,
+    "w": "turns"
+   },
+   {
+    "t": 7.048,
+    "w": "a"
+   },
+   {
+    "t": 7.128,
+    "w": "square"
+   },
+   {
+    "t": 7.553,
+    "w": "into"
+   },
+   {
+    "t": 7.819,
+    "w": "a"
+   },
+   {
+    "t": 7.912,
+    "w": "perfect"
+   },
+   {
+    "t": 8.351,
+    "w": "circle"
+   }
+  ]
+ },
+ "k6": {
+  "text": "Background color makes it red.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.784,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Background"
+   },
+   {
+    "t": 0.702,
+    "w": "color"
+   },
+   {
+    "t": 1.034,
+    "w": "makes"
+   },
+   {
+    "t": 1.313,
+    "w": "it"
+   },
+   {
+    "t": 1.446,
+    "w": "red"
+   }
+  ]
+ },
+ "k7": {
+  "text": "Display grid and place items center put the number exactly in the middle.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.968,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Display"
+   },
+   {
+    "t": 0.635,
+    "w": "grid"
+   },
+   {
+    "t": 1.007,
+    "w": "and"
+   },
+   {
+    "t": 1.14,
+    "w": "place"
+   },
+   {
+    "t": 1.473,
+    "w": "items"
+   },
+   {
+    "t": 1.872,
+    "w": "center"
+   },
+   {
+    "t": 2.231,
+    "w": "put"
+   },
+   {
+    "t": 2.43,
+    "w": "the"
+   },
+   {
+    "t": 2.523,
+    "w": "number"
+   },
+   {
+    "t": 2.856,
+    "w": "exactly"
+   },
+   {
+    "t": 3.441,
+    "w": "in"
+   },
+   {
+    "t": 3.547,
+    "w": "the"
+   },
+   {
+    "t": 3.614,
+    "w": "middle"
+   }
+  ]
+ },
+ "k8": {
+  "text": "Font size makes the number large, and font weight seven hundred makes it bold.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.64,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Font"
+   },
+   {
+    "t": 0.515,
+    "w": "size"
+   },
+   {
+    "t": 0.968,
+    "w": "makes"
+   },
+   {
+    "t": 1.26,
+    "w": "the"
+   },
+   {
+    "t": 1.353,
+    "w": "number"
+   },
+   {
+    "t": 1.672,
+    "w": "large"
+   },
+   {
+    "t": 2.364,
+    "w": "and"
+   },
+   {
+    "t": 2.51,
+    "w": "font"
+   },
+   {
+    "t": 2.829,
+    "w": "weight"
+   },
+   {
+    "t": 3.122,
+    "w": "seven"
+   },
+   {
+    "t": 3.481,
+    "w": "hundred"
+   },
+   {
+    "t": 3.813,
+    "w": "makes"
+   },
+   {
+    "t": 4.079,
+    "w": "it"
+   },
+   {
+    "t": 4.212,
+    "w": "bold"
+   }
+  ]
+ },
+ "k9": {
+  "text": "And finally, the number word underneath.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.528,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.289,
+    "w": "finally"
+   },
+   {
+    "t": 1.127,
+    "w": "the"
+   },
+   {
+    "t": 1.247,
+    "w": "number"
+   },
+   {
+    "t": 1.619,
+    "w": "word"
+   },
+   {
+    "t": 1.925,
+    "w": "underneath"
+   }
+  ]
+ },
+ "k10": {
+  "text": "Here's our card next to the original design. The same bold style, made with code!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.032,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Here's"
+   },
+   {
+    "t": 0.436,
+    "w": "our"
+   },
+   {
+    "t": 0.595,
+    "w": "card"
+   },
+   {
+    "t": 0.968,
+    "w": "next"
+   },
+   {
+    "t": 1.26,
+    "w": "to"
+   },
+   {
+    "t": 1.34,
+    "w": "the"
+   },
+   {
+    "t": 1.42,
+    "w": "original"
+   },
+   {
+    "t": 1.898,
+    "w": "design"
+   },
+   {
+    "t": 3.457,
+    "w": "The"
+   },
+   {
+    "t": 3.63,
+    "w": "same"
+   },
+   {
+    "t": 4.029,
+    "w": "bold"
+   },
+   {
+    "t": 4.362,
+    "w": "style"
+   },
+   {
+    "t": 5.186,
+    "w": "made"
+   },
+   {
+    "t": 5.412,
+    "w": "with"
+   },
+   {
+    "t": 5.585,
+    "w": "code"
+   }
+  ]
+ },
+ "k11": {
+  "text": "The game grid places our cards in four columns, with a gap between them.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.376,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "game"
+   },
+   {
+    "t": 0.609,
+    "w": "grid"
+   },
+   {
+    "t": 0.928,
+    "w": "places"
+   },
+   {
+    "t": 1.38,
+    "w": "our"
+   },
+   {
+    "t": 1.553,
+    "w": "cards"
+   },
+   {
+    "t": 1.925,
+    "w": "in"
+   },
+   {
+    "t": 2.071,
+    "w": "four"
+   },
+   {
+    "t": 2.377,
+    "w": "columns"
+   },
+   {
+    "t": 3.148,
+    "w": "with"
+   },
+   {
+    "t": 3.335,
+    "w": "a"
+   },
+   {
+    "t": 3.428,
+    "w": "gap"
+   },
+   {
+    "t": 3.787,
+    "w": "between"
+   },
+   {
+    "t": 4.159,
+    "w": "them"
+   }
+  ]
+ },
+ "a1": {
+  "text": "But how do the cards flip over?",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.736,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "But"
+   },
+   {
+    "t": 0.263,
+    "w": "how"
+   },
+   {
+    "t": 0.476,
+    "w": "do"
+   },
+   {
+    "t": 0.595,
+    "w": "the"
+   },
+   {
+    "t": 0.715,
+    "w": "cards"
+   },
+   {
+    "t": 1.101,
+    "w": "flip"
+   },
+   {
+    "t": 1.393,
+    "w": "over"
+   }
+  ]
+ },
+ "a2": {
+  "text": "Every card has two faces: a green back, and a white front.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.208,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Every"
+   },
+   {
+    "t": 0.476,
+    "w": "card"
+   },
+   {
+    "t": 0.848,
+    "w": "has"
+   },
+   {
+    "t": 1.114,
+    "w": "two"
+   },
+   {
+    "t": 1.367,
+    "w": "faces"
+   },
+   {
+    "t": 2.231,
+    "w": "a"
+   },
+   {
+    "t": 2.337,
+    "w": "green"
+   },
+   {
+    "t": 2.683,
+    "w": "back"
+   },
+   {
+    "t": 3.308,
+    "w": "and"
+   },
+   {
+    "t": 3.441,
+    "w": "a"
+   },
+   {
+    "t": 3.521,
+    "w": "white"
+   },
+   {
+    "t": 3.8,
+    "w": "front"
+   }
+  ]
+ },
+ "a3": {
+  "text": "Transform rotate Y, one hundred and eighty degrees, spins an element around, like turning a page.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.512,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Transform"
+   },
+   {
+    "t": 0.861,
+    "w": "rotate"
+   },
+   {
+    "t": 1.34,
+    "w": "Y"
+   },
+   {
+    "t": 1.965,
+    "w": "one"
+   },
+   {
+    "t": 2.151,
+    "w": "hundred"
+   },
+   {
+    "t": 2.457,
+    "w": "and"
+   },
+   {
+    "t": 2.603,
+    "w": "eighty"
+   },
+   {
+    "t": 2.856,
+    "w": "degrees"
+   },
+   {
+    "t": 3.68,
+    "w": "spins"
+   },
+   {
+    "t": 4.119,
+    "w": "an"
+   },
+   {
+    "t": 4.279,
+    "w": "element"
+   },
+   {
+    "t": 4.638,
+    "w": "around"
+   },
+   {
+    "t": 5.303,
+    "w": "like"
+   },
+   {
+    "t": 5.555,
+    "w": "turning"
+   },
+   {
+    "t": 5.914,
+    "w": "a"
+   },
+   {
+    "t": 5.981,
+    "w": "page"
+   }
+  ]
+ },
+ "a4": {
+  "text": "The front starts already turned around, and backface visibility hidden makes the side facing away invisible.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.344,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "front"
+   },
+   {
+    "t": 0.555,
+    "w": "starts"
+   },
+   {
+    "t": 0.914,
+    "w": "already"
+   },
+   {
+    "t": 1.327,
+    "w": "turned"
+   },
+   {
+    "t": 1.632,
+    "w": "around"
+   },
+   {
+    "t": 2.377,
+    "w": "and"
+   },
+   {
+    "t": 2.563,
+    "w": "backface"
+   },
+   {
+    "t": 3.175,
+    "w": "visibility"
+   },
+   {
+    "t": 3.84,
+    "w": "hidden"
+   },
+   {
+    "t": 4.132,
+    "w": "makes"
+   },
+   {
+    "t": 4.398,
+    "w": "the"
+   },
+   {
+    "t": 4.518,
+    "w": "side"
+   },
+   {
+    "t": 4.904,
+    "w": "facing"
+   },
+   {
+    "t": 5.329,
+    "w": "away"
+   },
+   {
+    "t": 5.702,
+    "w": "invisible"
+   }
+  ]
+ },
+ "a5": {
+  "text": "When a card gets the class is flipped, the inside turns around, and the number appears.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.384,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "When"
+   },
+   {
+    "t": 0.303,
+    "w": "a"
+   },
+   {
+    "t": 0.382,
+    "w": "card"
+   },
+   {
+    "t": 0.742,
+    "w": "gets"
+   },
+   {
+    "t": 0.994,
+    "w": "the"
+   },
+   {
+    "t": 1.114,
+    "w": "class"
+   },
+   {
+    "t": 1.539,
+    "w": "is"
+   },
+   {
+    "t": 1.712,
+    "w": "flipped"
+   },
+   {
+    "t": 2.404,
+    "w": "the"
+   },
+   {
+    "t": 2.51,
+    "w": "inside"
+   },
+   {
+    "t": 3.095,
+    "w": "turns"
+   },
+   {
+    "t": 3.441,
+    "w": "around"
+   },
+   {
+    "t": 4.199,
+    "w": "and"
+   },
+   {
+    "t": 4.359,
+    "w": "the"
+   },
+   {
+    "t": 4.438,
+    "w": "number"
+   },
+   {
+    "t": 4.771,
+    "w": "appears"
+   }
+  ]
+ },
+ "a6": {
+  "text": "The transition makes the turn smooth instead of sudden. It takes just over half a second.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.032,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.249,
+    "w": "transition"
+   },
+   {
+    "t": 0.981,
+    "w": "makes"
+   },
+   {
+    "t": 1.247,
+    "w": "the"
+   },
+   {
+    "t": 1.367,
+    "w": "turn"
+   },
+   {
+    "t": 1.672,
+    "w": "smooth"
+   },
+   {
+    "t": 2.138,
+    "w": "instead"
+   },
+   {
+    "t": 2.563,
+    "w": "of"
+   },
+   {
+    "t": 2.67,
+    "w": "sudden"
+   },
+   {
+    "t": 4.082,
+    "w": "It"
+   },
+   {
+    "t": 4.269,
+    "w": "takes"
+   },
+   {
+    "t": 4.628,
+    "w": "just"
+   },
+   {
+    "t": 4.92,
+    "w": "over"
+   },
+   {
+    "t": 5.186,
+    "w": "half"
+   },
+   {
+    "t": 5.465,
+    "w": "a"
+   },
+   {
+    "t": 5.545,
+    "w": "second"
+   }
+  ]
+ },
+ "a7": {
+  "text": "And when a pair matches, the class is matched turns the border and the circle green.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.808,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.303,
+    "w": "when"
+   },
+   {
+    "t": 0.462,
+    "w": "a"
+   },
+   {
+    "t": 0.542,
+    "w": "pair"
+   },
+   {
+    "t": 0.861,
+    "w": "matches"
+   },
+   {
+    "t": 1.632,
+    "w": "the"
+   },
+   {
+    "t": 1.779,
+    "w": "class"
+   },
+   {
+    "t": 2.218,
+    "w": "is"
+   },
+   {
+    "t": 2.377,
+    "w": "matched"
+   },
+   {
+    "t": 2.829,
+    "w": "turns"
+   },
+   {
+    "t": 3.162,
+    "w": "the"
+   },
+   {
+    "t": 3.281,
+    "w": "border"
+   },
+   {
+    "t": 3.773,
+    "w": "and"
+   },
+   {
+    "t": 3.88,
+    "w": "the"
+   },
+   {
+    "t": 3.973,
+    "w": "circle"
+   },
+   {
+    "t": 4.398,
+    "w": "green"
+   }
+  ]
+ },
+ "p1": {
+  "text": "Last one. People will play our game on computers, tablets and phones.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.48,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Last"
+   },
+   {
+    "t": 0.529,
+    "w": "one"
+   },
+   {
+    "t": 1.795,
+    "w": "People"
+   },
+   {
+    "t": 2.181,
+    "w": "will"
+   },
+   {
+    "t": 2.314,
+    "w": "play"
+   },
+   {
+    "t": 2.606,
+    "w": "our"
+   },
+   {
+    "t": 2.739,
+    "w": "game"
+   },
+   {
+    "t": 3.032,
+    "w": "on"
+   },
+   {
+    "t": 3.218,
+    "w": "computers"
+   },
+   {
+    "t": 4.082,
+    "w": "tablets"
+   },
+   {
+    "t": 4.761,
+    "w": "and"
+   },
+   {
+    "t": 4.88,
+    "w": "phones"
+   }
+  ]
+ },
+ "p2": {
+  "text": "A media query lets us change styles when the screen is small. Max width six hundred and fifty pixels means: only on screens six hundred and fifty pixels wide or narrower.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 12.408,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "A"
+   },
+   {
+    "t": 0.236,
+    "w": "media"
+   },
+   {
+    "t": 0.675,
+    "w": "query"
+   },
+   {
+    "t": 1.087,
+    "w": "lets"
+   },
+   {
+    "t": 1.353,
+    "w": "us"
+   },
+   {
+    "t": 1.526,
+    "w": "change"
+   },
+   {
+    "t": 1.925,
+    "w": "styles"
+   },
+   {
+    "t": 2.47,
+    "w": "when"
+   },
+   {
+    "t": 2.603,
+    "w": "the"
+   },
+   {
+    "t": 2.696,
+    "w": "screen"
+   },
+   {
+    "t": 3.095,
+    "w": "is"
+   },
+   {
+    "t": 3.241,
+    "w": "small"
+   },
+   {
+    "t": 4.694,
+    "w": "Max"
+   },
+   {
+    "t": 5.16,
+    "w": "width"
+   },
+   {
+    "t": 5.465,
+    "w": "six"
+   },
+   {
+    "t": 5.785,
+    "w": "hundred"
+   },
+   {
+    "t": 6.051,
+    "w": "and"
+   },
+   {
+    "t": 6.157,
+    "w": "fifty"
+   },
+   {
+    "t": 6.529,
+    "w": "pixels"
+   },
+   {
+    "t": 7.035,
+    "w": "means"
+   },
+   {
+    "t": 7.832,
+    "w": "only"
+   },
+   {
+    "t": 8.191,
+    "w": "on"
+   },
+   {
+    "t": 8.364,
+    "w": "screens"
+   },
+   {
+    "t": 8.843,
+    "w": "six"
+   },
+   {
+    "t": 9.136,
+    "w": "hundred"
+   },
+   {
+    "t": 9.388,
+    "w": "and"
+   },
+   {
+    "t": 9.481,
+    "w": "fifty"
+   },
+   {
+    "t": 9.84,
+    "w": "pixels"
+   },
+   {
+    "t": 10.359,
+    "w": "wide"
+   },
+   {
+    "t": 10.785,
+    "w": "or"
+   },
+   {
+    "t": 10.891,
+    "w": "narrower"
+   }
+  ]
+ },
+ "p3": {
+  "text": "On small screens, the cards get thinner borders, smaller gaps, and smaller numbers, so everything still fits.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.424,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "On"
+   },
+   {
+    "t": 0.343,
+    "w": "small"
+   },
+   {
+    "t": 0.742,
+    "w": "screens"
+   },
+   {
+    "t": 1.526,
+    "w": "the"
+   },
+   {
+    "t": 1.672,
+    "w": "cards"
+   },
+   {
+    "t": 2.085,
+    "w": "get"
+   },
+   {
+    "t": 2.297,
+    "w": "thinner"
+   },
+   {
+    "t": 2.643,
+    "w": "borders"
+   },
+   {
+    "t": 3.414,
+    "w": "smaller"
+   },
+   {
+    "t": 3.906,
+    "w": "gaps"
+   },
+   {
+    "t": 4.478,
+    "w": "and"
+   },
+   {
+    "t": 4.678,
+    "w": "smaller"
+   },
+   {
+    "t": 5.156,
+    "w": "numbers"
+   },
+   {
+    "t": 5.874,
+    "w": "so"
+   },
+   {
+    "t": 6.114,
+    "w": "everything"
+   },
+   {
+    "t": 6.619,
+    "w": "still"
+   },
+   {
+    "t": 6.952,
+    "w": "fits"
+   }
+  ]
+ },
+ "p4": {
+  "text": "That's called responsive design.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.904,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "That's"
+   },
+   {
+    "t": 0.409,
+    "w": "called"
+   },
+   {
+    "t": 0.702,
+    "w": "responsive"
+   },
+   {
+    "t": 1.327,
+    "w": "design"
+   }
+  ]
+ },
+ "o1": {
+  "text": "Look at what we have created!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.544,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Look"
+   },
+   {
+    "t": 0.396,
+    "w": "at"
+   },
+   {
+    "t": 0.502,
+    "w": "what"
+   },
+   {
+    "t": 0.688,
+    "w": "we"
+   },
+   {
+    "t": 0.835,
+    "w": "have"
+   },
+   {
+    "t": 1.007,
+    "w": "created"
+   }
+  ]
+ },
+ "o2": {
+  "text": "Our simple page is now becoming a beautiful game.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.96,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Our"
+   },
+   {
+    "t": 0.356,
+    "w": "simple"
+   },
+   {
+    "t": 0.742,
+    "w": "page"
+   },
+   {
+    "t": 1.154,
+    "w": "is"
+   },
+   {
+    "t": 1.287,
+    "w": "now"
+   },
+   {
+    "t": 1.526,
+    "w": "becoming"
+   },
+   {
+    "t": 2.018,
+    "w": "a"
+   },
+   {
+    "t": 2.098,
+    "w": "beautiful"
+   },
+   {
+    "t": 2.603,
+    "w": "game"
+   }
+  ]
+ },
+ "o3": {
+  "text": "But our cards still need something important.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.456,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "But"
+   },
+   {
+    "t": 0.303,
+    "w": "our"
+   },
+   {
+    "t": 0.502,
+    "w": "cards"
+   },
+   {
+    "t": 0.914,
+    "w": "still"
+   },
+   {
+    "t": 1.207,
+    "w": "need"
+   },
+   {
+    "t": 1.433,
+    "w": "something"
+   },
+   {
+    "t": 1.859,
+    "w": "important"
+   }
+  ]
+ },
+ "o4": {
+  "text": "They need a brain.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.16,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "They"
+   },
+   {
+    "t": 0.329,
+    "w": "need"
+   },
+   {
+    "t": 0.595,
+    "w": "a"
+   },
+   {
+    "t": 0.675,
+    "w": "brain"
+   }
+  ]
+ },
+ "o5": {
+  "text": "Next, we are going to introduce JavaScript, and teach our game how to think!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.616,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Next"
+   },
+   {
+    "t": 0.848,
+    "w": "we"
+   },
+   {
+    "t": 1.007,
+    "w": "are"
+   },
+   {
+    "t": 1.127,
+    "w": "going"
+   },
+   {
+    "t": 1.38,
+    "w": "to"
+   },
+   {
+    "t": 1.473,
+    "w": "introduce"
+   },
+   {
+    "t": 1.992,
+    "w": "JavaScript"
+   },
+   {
+    "t": 3.042,
+    "w": "and"
+   },
+   {
+    "t": 3.188,
+    "w": "teach"
+   },
+   {
+    "t": 3.521,
+    "w": "our"
+   },
+   {
+    "t": 3.64,
+    "w": "game"
+   },
+   {
+    "t": 3.933,
+    "w": "how"
+   },
+   {
+    "t": 4.079,
+    "w": "to"
+   },
+   {
+    "t": 4.186,
+    "w": "think"
+   }
+  ]
+ }
+}

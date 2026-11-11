@@ -1,0 +1,265 @@
+WEBVTT
+
+00:00:04.400 --> 00:00:09.967
+Welcome back, creators! Our game looks amazing.
+
+00:00:09.967 --> 00:00:12.900
+But try clicking a card...
+
+00:00:13.500 --> 00:00:19.267
+Nothing happens. In fact, there are no cards yet!
+
+00:00:19.633 --> 00:00:22.300
+Looks alone don't make a game.
+
+00:00:22.300 --> 00:00:27.233
+A game needs to respond, to remember, and to decide.
+
+00:00:27.600 --> 00:00:30.467
+That's the job of JavaScript.
+
+00:00:30.467 --> 00:00:33.700
+JavaScript gives our game its behaviour.
+
+00:00:33.700 --> 00:00:37.100
+You can think of it as the game's brain.
+
+00:00:37.900 --> 00:00:40.433
+Click the new file button,
+
+00:00:40.433 --> 00:00:43.967
+type script.js, and press Enter.
+
+00:00:44.367 --> 00:00:48.200
+Our project now has three files.
+
+00:00:48.567 --> 00:00:51.500
+Back in index.html, under the
+
+00:00:51.500 --> 00:00:55.400
+stylesheet link, we add a <script> tag.
+
+00:00:55.400 --> 00:00:59.133
+Its src attribute says script.js.
+
+00:00:59.533 --> 00:01:02.367
+The word defer means: first finish reading the
+
+00:01:02.367 --> 00:01:05.867
+whole page, and then run the JavaScript.
+
+00:01:05.867 --> 00:01:08.067
+That way, every element is ready
+
+00:01:08.067 --> 00:01:10.833
+when our code looks for it.
+
+00:01:11.633 --> 00:01:16.033
+Let's meet our first big idea: variables.
+
+00:01:16.233 --> 00:01:18.600
+A variable is like a labelled box,
+
+00:01:18.600 --> 00:01:21.800
+where the computer keeps information.
+
+00:01:22.167 --> 00:01:25.533
+let moves = 0; creates a box called
+
+00:01:25.533 --> 00:01:28.600
+moves, and puts zero inside.
+
+00:01:28.967 --> 00:01:32.367
+Later, we can change what's inside.
+
+00:01:32.367 --> 00:01:34.133
+When the player makes a move,
+
+00:01:34.133 --> 00:01:38.567
+moves becomes one, then two, then three.
+
+00:01:39.167 --> 00:01:43.967
+Our game uses variables to remember everything important.
+
+00:01:44.367 --> 00:01:47.533
+firstCard and secondCard remember the two
+
+00:01:47.533 --> 00:01:50.100
+cards the player has turned over.
+
+00:01:50.100 --> 00:01:53.433
+They start as null, which means empty.
+
+00:01:53.800 --> 00:01:58.067
+lockBoard remembers whether the player has to wait.
+
+00:01:58.433 --> 00:02:01.233
+moves and matchedPairs keep count.
+
+00:02:01.233 --> 00:02:04.333
+totalPairs remembers how many pairs we
+
+00:02:04.333 --> 00:02:07.533
+need, and seconds counts the time.
+
+00:02:08.333 --> 00:02:11.967
+Next big idea: arrays.
+
+00:02:12.133 --> 00:02:14.833
+An array stores several values together,
+
+00:02:14.833 --> 00:02:18.600
+in order, inside square brackets.
+
+00:02:19.000 --> 00:02:21.667
+Here, the numbers array holds one,
+
+00:02:21.667 --> 00:02:26.300
+two, three, four, five and six.
+
+00:02:26.700 --> 00:02:29.167
+But a memory game needs pairs!
+
+00:02:29.167 --> 00:02:32.700
+So our createDeck function uses the numbers
+
+00:02:32.700 --> 00:02:36.067
+twice, joined into one bigger array.
+
+00:02:36.433 --> 00:02:42.867
+Now every number has a partner. Twelve cards, six pairs.
+
+00:02:43.667 --> 00:02:47.600
+Big idea number three: functions.
+
+00:02:47.800 --> 00:02:51.467
+A function is a set of instructions with a name.
+
+00:02:51.467 --> 00:02:55.667
+We write it once, and use it again and again.
+
+00:02:56.033 --> 00:02:59.300
+This function is called sayHello.
+
+00:02:59.300 --> 00:03:03.667
+When we call it, it writes "Hello, creator!"
+
+00:03:03.667 --> 00:03:05.567
+in the console.
+
+00:03:06.167 --> 00:03:10.000
+Our game has lots of helpful functions.
+
+00:03:10.100 --> 00:03:13.933
+createDeck makes the pairs of numbers.
+
+00:03:14.033 --> 00:03:17.033
+shuffle mixes them into a random order,
+
+00:03:17.033 --> 00:03:19.833
+just like shuffling real cards.
+
+00:03:19.933 --> 00:03:22.033
+createCard builds one card,
+
+00:03:22.033 --> 00:03:25.633
+with its green back and its number front.
+
+00:03:25.700 --> 00:03:30.000
+buildBoard puts all the cards into the game grid.
+
+00:03:30.100 --> 00:03:34.700
+And flipCard turns a card over when the player clicks it.
+
+00:03:35.500 --> 00:03:40.700
+But how does the game know when we click? With events.
+
+00:03:40.900 --> 00:03:43.800
+An event is something that happens on a webpage,
+
+00:03:43.800 --> 00:03:48.600
+like a click, a key press, or a choice from a list.
+
+00:03:48.967 --> 00:03:52.800
+This line tells each card: listen for a click.
+
+00:03:52.800 --> 00:03:57.633
+And when a click happens, run flipCard for this card.
+
+00:03:58.033 --> 00:04:03.933
+Click... and flipCard runs. The card turns over!
+
+00:04:04.933 --> 00:04:08.367
+Our game also needs to make decisions.
+
+00:04:08.367 --> 00:04:12.200
+For that, we use if, and else.
+
+00:04:12.367 --> 00:04:14.667
+This if statement asks a question:
+
+00:04:14.667 --> 00:04:19.467
+is the number on the first card the same as the number on the second card?
+
+00:04:19.667 --> 00:04:21.467
+If the answer is yes,
+
+00:04:21.467 --> 00:04:25.400
+the cards match, and they stay face up.
+
+00:04:25.567 --> 00:04:27.800
+Else, if the answer is no,
+
+00:04:27.800 --> 00:04:31.633
+they don't match, and they turn back over.
+
+00:04:32.000 --> 00:04:36.933
+Three equals signs mean: are these exactly the same?
+
+00:04:37.933 --> 00:04:41.067
+One more idea: the DOM.
+
+00:04:41.067 --> 00:04:43.800
+That's how JavaScript sees our webpage:
+
+00:04:43.800 --> 00:04:48.167
+as a family of elements it can find, and change.
+
+00:04:48.533 --> 00:04:53.667
+document.getElementById finds an element using its id.
+
+00:04:53.667 --> 00:04:58.367
+Here, it finds the game grid we made in HTML.
+
+00:04:58.567 --> 00:05:04.233
+Remember when we gave our elements ids? This is why!
+
+00:05:04.633 --> 00:05:08.533
+Then, createElement makes a brand new button for each
+
+00:05:08.533 --> 00:05:12.200
+card, and appendChild adds it into the grid.
+
+00:05:12.400 --> 00:05:14.900
+That's how the cards appear.
+
+00:05:14.900 --> 00:05:18.233
+JavaScript builds them for us!
+
+00:05:19.200 --> 00:05:22.433
+Your game now has a brain!
+
+00:05:22.500 --> 00:05:24.500
+We have learned about variables,
+
+00:05:24.500 --> 00:05:30.300
+arrays, functions, events, decisions, and the DOM.
+
+00:05:30.667 --> 00:05:32.867
+But we haven't connected all those ideas
+
+00:05:32.867 --> 00:05:35.967
+into the complete game just yet.
+
+00:05:36.067 --> 00:05:39.400
+Let's do that in our next lesson!

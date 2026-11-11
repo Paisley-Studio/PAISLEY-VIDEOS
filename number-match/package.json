@@ -1,0 +1,33 @@
+{
+  "name": "paisley-number-match-masterclass",
+  "version": "1.0.0",
+  "description": "Paisley Studio: Number Match, a six-part coding masterclass for children (Remotion)",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.540",
+    "@remotion/google-fonts": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "@types/react": "19.3.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "studio": "remotion studio",
+    "typecheck": "tsc",
+    "compositions": "remotion compositions src/index.ts",
+    "subtitles": "node scripts/build-subtitles.ts",
+    "audio": "node scripts/generate-audio.mjs",
+    "voice": "python scripts/generate-voiceover.py"
+  }
+}

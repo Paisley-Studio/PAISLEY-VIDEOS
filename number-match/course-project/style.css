@@ -1,0 +1,593 @@
+/* ============================================
+   NUMBER MATCH — style.css
+   Flat, bold colours. No gradients, no blur.
+   ============================================ */
+
+/* 1. Our colours (CSS variables) */
+:root {
+  --green: #0e4a3f;
+  --green-2: #16705f;
+  --mint: #e4f4ee;
+  --red: #e3242b;
+  --red-dark: #b81b21;
+  --match: #14936b;
+  --ink: #17302b;
+  --muted: #5f7570;
+  --page: #f4faf7;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* 2. The page */
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--page);
+  color: var(--ink);
+  font-family: 'Quicksand', sans-serif;
+}
+
+button, select {
+  font: inherit;
+}
+
+.app-shell {
+  width: min(1080px, calc(100% - 36px));
+  margin: 0 auto;
+}
+
+/* 3. Header */
+.topbar {
+  min-height: 82px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--mint);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--green);
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: .04em;
+  font-size: 15px;
+}
+
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 11px;
+  background-color: var(--red);
+  color: var(--white);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.brand-light {
+  color: var(--red);
+  margin-left: 3px;
+}
+
+.top-tag, .eyebrow, .stat-label,
+.level-control label, .footer {
+  letter-spacing: .13em;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.top-tag {
+  color: var(--muted);
+}
+
+/* 4. Heading and introduction */
+.hero {
+  text-align: center;
+  padding: 42px 12px 28px;
+}
+
+.eyebrow {
+  color: var(--red);
+  margin: 0 0 10px;
+}
+
+.hero h1 {
+  margin: 0;
+  color: var(--green);
+  font-size: clamp(34px, 6vw, 58px);
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -.04em;
+}
+
+.hero h1 span {
+  color: var(--red);
+}
+
+.intro {
+  max-width: 560px;
+  margin: 14px auto 0;
+  color: var(--muted);
+  line-height: 1.65;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* 5. The game panel */
+.game-panel {
+  background-color: var(--white);
+  border: 2px solid var(--mint);
+  border-radius: 24px;
+  padding: 24px;
+}
+
+.game-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.level-control {
+  display: grid;
+  gap: 7px;
+}
+
+.level-control label {
+  color: var(--muted);
+}
+
+.level-control select {
+  min-width: 190px;
+  padding: 11px 38px 11px 13px;
+  border: 2px solid var(--mint);
+  border-radius: 11px;
+  background-color: var(--white);
+  color: var(--green);
+  font-weight: 700;
+}
+
+.level-control select:focus,
+button:focus-visible {
+  outline: 3px solid var(--red);
+  outline-offset: 2px;
+}
+
+.restart-button {
+  border: 0;
+  border-radius: 11px;
+  padding: 11px 16px;
+  background-color: var(--green);
+  color: var(--white);
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform .2s, background-color .2s;
+}
+
+.restart-button:hover {
+  background-color: var(--green-2);
+  transform: translateY(-2px);
+}
+
+.restart-button span {
+  font-size: 19px;
+  vertical-align: -1px;
+  margin-right: 4px;
+}
+
+/* 6. Moves, matched and time */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.stat-box {
+  padding: 12px 15px;
+  background-color: var(--page);
+  border-radius: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.stat-label {
+  color: var(--muted);
+}
+
+.stat-box strong {
+  color: var(--green);
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.stat-box small {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* 7. Progress bar */
+.progress-track {
+  height: 8px;
+  background-color: var(--mint);
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 22px;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background-color: var(--red);
+  border-radius: inherit;
+  transition: width .35s ease;
+}
+
+/* 8. The card grid */
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 15px;
+}
+
+.memory-card {
+  position: relative;
+  min-width: 0;
+  aspect-ratio: 0.78;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  cursor: pointer;
+  perspective: 900px;
+  border-radius: 19px;
+}
+
+/* 9. The flip */
+.card-inner {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transition: transform .55s cubic-bezier(.2, .75, .25, 1);
+}
+
+.memory-card.is-flipped .card-inner,
+.memory-card.is-matched .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 19px;
+}
+
+/* 10. Card back */
+.card-back {
+  background-color: var(--green);
+  border: 5px solid var(--mint);
+  box-shadow: 0 7px 0 #c9e3d9;
+  color: var(--white);
+}
+
+.back-symbol {
+  width: 55px;
+  height: 55px;
+  display: grid;
+  place-items: center;
+  border: 3px solid var(--white);
+  border-radius: 50%;
+  font-size: 29px;
+  font-weight: 700;
+}
+
+.back-caption {
+  margin-top: 12px;
+  font-size: 9px;
+  letter-spacing: .18em;
+  font-weight: 700;
+  color: var(--mint);
+}
+
+/* 11. Card front: the number card */
+.card-front {
+  transform: rotateY(180deg);
+  background-color: var(--white);
+  border: 5px solid var(--red);
+  box-shadow: 0 7px 0 #f5c4c6;
+}
+
+.number-circle {
+  width: min(72%, 112px);
+  aspect-ratio: 1;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background-color: var(--red);
+  color: var(--white);
+  font-size: clamp(48px, 7vw, 82px);
+  line-height: 1;
+  font-weight: 700;
+}
+
+.number-word {
+  margin-top: 10px;
+  color: var(--ink);
+  font-size: clamp(15px, 2.1vw, 23px);
+  font-weight: 700;
+}
+
+/* 12. Matched cards turn green */
+.memory-card.is-matched {
+  cursor: default;
+}
+
+.memory-card.is-matched .card-front {
+  border-color: var(--match);
+  box-shadow: 0 7px 0 #c3e8da;
+}
+
+.memory-card.is-matched .number-circle {
+  background-color: var(--match);
+}
+
+.memory-card:disabled {
+  cursor: default;
+}
+
+/* 13. Message under the cards */
+.game-message {
+  min-height: 42px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.message-dot {
+  width: 10px;
+  height: 10px;
+  background-color: var(--red);
+  border-radius: 50%;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 22px 4px 28px;
+  color: var(--muted);
+  font-size: 9px;
+}
+
+/* 14. The celebration screen */
+.win-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background-color: rgba(14, 74, 63, .9);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .3s, visibility .3s;
+}
+
+.win-overlay.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.win-card {
+  width: min(430px, 100%);
+  padding: 34px;
+  text-align: center;
+  background-color: var(--white);
+  border: 5px solid var(--red);
+  border-radius: 25px;
+  transform: translateY(18px) scale(.97);
+  transition: transform .35s;
+}
+
+.win-overlay.show .win-card {
+  transform: translateY(0) scale(1);
+}
+
+.win-spark {
+  width: 62px;
+  height: 62px;
+  margin: 0 auto 18px;
+  display: grid;
+  place-items: center;
+  border-radius: 20px;
+  background-color: var(--red);
+  color: var(--white);
+  font-size: 35px;
+}
+
+.win-card h2 {
+  margin: 0;
+  color: var(--green);
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.win-card > p:not(.eyebrow) {
+  color: var(--muted);
+  line-height: 1.6;
+  font-weight: 600;
+}
+
+.win-stats {
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  margin: 22px 0;
+}
+
+.win-stats div {
+  display: grid;
+  gap: 5px;
+}
+
+.win-stats span {
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .12em;
+}
+
+.win-stats strong {
+  color: var(--green);
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.play-again-button {
+  width: 100%;
+  padding: 14px 18px;
+  border: 0;
+  border-radius: 12px;
+  background-color: var(--red);
+  color: var(--white);
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color .2s, transform .2s;
+}
+
+.play-again-button:hover {
+  background-color: var(--red-dark);
+  transform: translateY(-2px);
+}
+
+.play-again-button span {
+  margin-left: 8px;
+  font-size: 18px;
+}
+
+/* 15. Smaller screens (phones) */
+@media (max-width: 650px) {
+  .app-shell {
+    width: min(100% - 22px, 520px);
+  }
+
+  .topbar {
+    min-height: 68px;
+  }
+
+  .top-tag {
+    font-size: 8px;
+  }
+
+  .hero {
+    padding: 34px 5px 22px;
+  }
+
+  .intro {
+    font-size: 13px;
+  }
+
+  .game-panel {
+    padding: 15px;
+    border-radius: 19px;
+  }
+
+  .game-grid {
+    gap: 10px;
+  }
+
+  .memory-card {
+    aspect-ratio: .73;
+  }
+
+  .card-front,
+  .card-back {
+    border-width: 3px;
+    border-radius: 13px;
+  }
+
+  .number-circle {
+    width: 76%;
+    font-size: clamp(34px, 10vw, 58px);
+  }
+
+  .number-word {
+    margin-top: 7px;
+    font-size: clamp(11px, 3vw, 16px);
+  }
+
+  .back-symbol {
+    width: 42px;
+    height: 42px;
+    font-size: 23px;
+  }
+
+  .back-caption {
+    font-size: 7px;
+  }
+
+  .stat-box {
+    padding: 10px 9px;
+    display: grid;
+    gap: 3px;
+  }
+
+  .stat-label {
+    font-size: 8px;
+  }
+
+  .stat-box strong {
+    font-size: 17px;
+  }
+
+  .footer {
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 390px) {
+  .game-grid {
+    gap: 7px;
+  }
+
+  .game-panel {
+    padding: 11px;
+  }
+
+  .level-control select {
+    min-width: 155px;
+  }
+
+  .restart-button {
+    padding: 10px 11px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: .01ms !important;
+    animation-duration: .01ms !important;
+  }
+}

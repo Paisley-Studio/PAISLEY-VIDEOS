@@ -1,0 +1,133 @@
+{
+  "video": 1,
+  "compositionId": "PaisleyIntro",
+  "title": "The Big Reveal",
+  "subtitle": "Imagine It. Build It. Play It.",
+  "output": "Paisley-Number-Match-01-Introduction",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-4%",
+  "scenes": [
+    {
+      "id": "hook",
+      "name": "The hook",
+      "lead": 3.6,
+      "tail": 1.0,
+      "visual": "Deep forest-green void. A face-down card drifts out of the dark, turns toward camera and flips to reveal 1 / One. A second card glides in from the right and flips: another 1. They slide together, turn green and pulse. Tiny flat sparks burst out. Kinetic type: 'GAME CREATOR'.",
+      "camera": "Slow push-in (scale 1.0 to 1.08). Background cards move on three parallax layers.",
+      "onScreen": "YOU → GAME CREATOR",
+      "sfx": "Low ambient swell, soft whoosh on the entrance, card flip ×2, match chime, sparkle.",
+      "music": "Ambient pad only. The music bed starts under line h3.",
+      "transition": "The matched pair flies up into the game grid (match cut).",
+      "lines": [
+        {
+          "id": "h1",
+          "text": "Have you ever played a game that made you think, remember and smile every time you got a match?"
+        },
+        {
+          "id": "h2",
+          "text": "Well, what if I told you that you could build a game like that yourself?",
+          "gap": 0.6
+        },
+        {
+          "id": "h3",
+          "text": "Yes! You are about to become a game creator.",
+          "gap": 0.5
+        }
+      ]
+    },
+    {
+      "id": "reveal",
+      "name": "What you will build",
+      "lead": 0.4,
+      "tail": 1.2,
+      "minDuration": 17,
+      "visual": "The real finished Number Match page (flat redesign) on a tilted browser that settles flat. A cursor plays: one match, one miss, then a fast-forward to the win. Moves, timer and progress update live. The win overlay appears.",
+      "camera": "3D tilt (rotateX 18° to 0°) with a slow zoom. Push-in on the stats when they change.",
+      "onScreen": "Callouts: MOVES · TIME · PROGRESS",
+      "sfx": "Click + flip on every card, match chime, gentle mismatch, three-note win tune (the game's own notes: 660/830/990 Hz).",
+      "music": "Bed at full, ducked under the voice.",
+      "transition": "Whip pan left to the three language labels.",
+      "lines": [
+        {
+          "id": "r1",
+          "text": "Together, we are going to build Number Match: a fun memory game where you turn over cards, find matching numbers and challenge your memory."
+        },
+        {
+          "id": "r2",
+          "text": "And the most exciting part? You will create it yourself, one step at a time!",
+          "gap": 0.7
+        }
+      ]
+    },
+    {
+      "id": "journey",
+      "name": "HTML, CSS, JavaScript",
+      "lead": 0.5,
+      "tail": 1.0,
+      "visual": "Three large tiles drop in when each word is spoken. HTML (red): wireframe boxes stack up. CSS (green): a grey box becomes the red number card. JAVASCRIPT (gold): the card flips by itself.",
+      "camera": "Locked. Each tile pops forward when it is named.",
+      "onScreen": "HTML: BUILD THE STRUCTURE · CSS: MAKE IT BEAUTIFUL · JAVASCRIPT: BRING IT TO LIFE",
+      "sfx": "A distinct pop for each tile (low, mid, high), whoosh out.",
+      "music": "Bed ducked.",
+      "transition": "The tiles shrink into the three files in the IDE sidebar.",
+      "lines": [
+        {
+          "id": "j1",
+          "text": "We will start with HTML, the language that gives our game its structure."
+        },
+        {
+          "id": "j2",
+          "text": "Then we will use CSS to make our cards colourful, beautiful and exciting.",
+          "gap": 0.45
+        },
+        {
+          "id": "j3",
+          "text": "Finally, we will use JavaScript to make everything work.",
+          "gap": 0.45
+        }
+      ]
+    },
+    {
+      "id": "ide",
+      "name": "Paisley Studio",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "The Paisley IDE, recreated from the screenshots, slides up: top bar with the 'Paisley VS Code' pill, Save and Run; sidebar with new-file, new-folder and upload; editor; preview; console bar. Rings highlight the sidebar, the editor and the preview in turn. A cursor clicks into the editor and the first lines of index.html type in. Run is clicked and the preview shows the game.",
+      "camera": "Slow push toward the editor while the code types.",
+      "onScreen": "Labels: FILES · CODE · PREVIEW",
+      "sfx": "Click, soft typing, Run confirmation.",
+      "music": "Bed ducked, then lifts on i3.",
+      "transition": "The preview zooms to fill the frame, then dissolves to the title card.",
+      "lines": [
+        {
+          "id": "i1",
+          "text": "And guess where we will build everything? Right here, inside the Paisley Studio coding environment."
+        },
+        {
+          "id": "i2",
+          "text": "Get ready, because you are not just going to play a game.",
+          "gap": 0.6
+        },
+        {
+          "id": "i3",
+          "text": "You are going to create one!",
+          "gap": 0.35
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "name": "Title and branding",
+      "lead": 0.2,
+      "tail": 0.0,
+      "minDuration": 6.5,
+      "visual": "Deep green. The Number Match logotype builds (red N tile, NUMBER in white, MATCH in red), cards fan out behind it, then the Paisley Studio badge and the line 'Imagine it. Build it. Play it.' Next lesson tag: 'Next: HTML: Building the Foundation'.",
+      "camera": "Locked, with a gentle settle.",
+      "onScreen": "NUMBER MATCH · Imagine it. Build it. Play it. · Next: HTML: Building the Foundation",
+      "sfx": "Logo sting.",
+      "music": "Bed resolves and fades out.",
+      "transition": "Fade to the final frame.",
+      "lines": []
+    }
+  ]
+}

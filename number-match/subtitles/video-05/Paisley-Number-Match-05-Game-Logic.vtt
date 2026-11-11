@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00:04.400 --> 00:00:07.433
+Welcome back, creators!
+
+00:00:07.433 --> 00:00:11.300
+This is the lesson where everything comes together.
+
+00:00:11.467 --> 00:00:18.033
+Here are our three files. index.html gives the structure.
+
+00:00:18.033 --> 00:00:21.367
+style.css makes it beautiful.
+
+00:00:21.367 --> 00:00:25.433
+And script.js brings it to life.
+
+00:00:25.633 --> 00:00:27.633
+They each have their own job,
+
+00:00:27.633 --> 00:00:30.867
+but they work together as one team.
+
+00:00:31.667 --> 00:00:35.300
+Every game starts with a fresh deck.
+
+00:00:35.467 --> 00:00:39.967
+createDeck receives a pairCount, like 6.
+
+00:00:40.167 --> 00:00:44.233
+Array.from makes the numbers 1 to 6.
+
+00:00:44.600 --> 00:00:48.100
+Then, the three dots, called the spread operator,
+
+00:00:48.100 --> 00:00:51.367
+copy those numbers twice into one array.
+
+00:00:51.367 --> 00:00:54.933
+Six pairs, twelve cards.
+
+00:00:55.333 --> 00:00:58.833
+Next, shuffle mixes them up.
+
+00:00:59.000 --> 00:01:00.867
+It starts at the last card,
+
+00:01:00.867 --> 00:01:04.867
+picks a random position, and swaps the two cards.
+
+00:01:04.867 --> 00:01:07.200
+Then it moves one step to the left,
+
+00:01:07.200 --> 00:01:10.900
+and does it again, all the way to the start.
+
+00:01:11.100 --> 00:01:13.967
+Math.random picks a random number,
+
+00:01:13.967 --> 00:01:16.667
+so every game is different!
+
+00:01:17.667 --> 00:01:23.467
+Now, let's turn over some cards. Here's flipCard.
+
+00:01:23.633 --> 00:01:28.167
+When a card is clicked, flipCard receives that exact card.
+
+00:01:28.167 --> 00:01:32.233
+That's how the game knows which one was chosen.
+
+00:01:32.633 --> 00:01:35.467
+First, a safety check.
+
+00:01:35.467 --> 00:01:38.600
+If the board is locked, or the card is already face up
+
+00:01:38.600 --> 00:01:42.767
+or matched, we stop right there, with return.
+
+00:01:43.133 --> 00:01:46.900
+Otherwise, we add the class is-flipped.
+
+00:01:46.900 --> 00:01:50.567
+And our CSS spins the card around!
+
+00:01:50.967 --> 00:01:53.100
+If there is no first card yet,
+
+00:01:53.100 --> 00:01:58.067
+this card becomes the first card, and we wait for another click.
+
+00:01:58.467 --> 00:02:00.667
+If there already is a first card,
+
+00:02:00.667 --> 00:02:03.433
+this one becomes the second card.
+
+00:02:03.433 --> 00:02:07.800
+We add one to moves, and check for a match.
+
+00:02:08.167 --> 00:02:11.133
+And while two cards that don't match are
+
+00:02:11.133 --> 00:02:13.467
+being shown, lockBoard is true.
+
+00:02:13.467 --> 00:02:18.167
+So a third card can't be turned over until they flip back.
+
+00:02:19.133 --> 00:02:23.267
+Here is the heart of our game: checkForMatch.
+
+00:02:23.467 --> 00:02:27.567
+It compares the numbers stored on the two cards.
+
+00:02:28.133 --> 00:02:30.833
+If they match, both cards get the
+
+00:02:30.833 --> 00:02:33.533
+class is-matched, and turn green.
+
+00:02:33.533 --> 00:02:38.133
+They stay face up, and matchedPairs goes up by one.
+
+00:02:38.700 --> 00:02:40.533
+If they don't match,
+
+00:02:40.533 --> 00:02:44.633
+we lock the board, and wait 850 milliseconds.
+
+00:02:44.633 --> 00:02:47.167
+That's less than one second.
+
+00:02:47.167 --> 00:02:50.667
+Then we turn both cards back over.
+
+00:02:51.033 --> 00:02:55.033
+Finally, resetTurn clears the first and second card,
+
+00:02:55.033 --> 00:02:59.033
+and unlocks the board, ready for the next turn.
+
+00:02:59.433 --> 00:03:01.967
+Watch the moves counter.
+
+00:03:01.967 --> 00:03:06.967
+Every time we turn over two cards, it goes up by one.
+
+00:03:07.933 --> 00:03:10.733
+Now, the timer.
+
+00:03:10.933 --> 00:03:15.000
+The timer starts the very first time a card is flipped.
+
+00:03:15.000 --> 00:03:18.333
+setInterval runs a little piece of code every
+
+00:03:18.333 --> 00:03:21.633
+1000 milliseconds, which is one second.
+
+00:03:22.000 --> 00:03:24.800
+Each time, seconds goes up by one,
+
+00:03:24.800 --> 00:03:29.067
+and formatTime shows it as minutes and seconds.
+
+00:03:29.667 --> 00:03:32.733
+And here's the progress bar.
+
+00:03:32.733 --> 00:03:35.900
+updateStats sets its width to
+
+00:03:35.900 --> 00:03:39.900
+matchedPairs ÷ totalPairs × 100%.
+
+00:03:40.067 --> 00:03:45.467
+Three pairs out of six? The bar is half full!
+
+00:03:46.467 --> 00:03:48.267
+Great games give feedback,
+
+00:03:48.267 --> 00:03:51.333
+so players know what's happening.
+
+00:03:51.533 --> 00:03:55.067
+Our sounds don't come from audio files.
+
+00:03:55.067 --> 00:04:00.433
+The browser makes them itself, using the Web Audio API.
+
+00:04:00.800 --> 00:04:04.233
+playTone creates a tiny musical note.
+
+00:04:04.233 --> 00:04:07.800
+A short, bright note for a flip...
+
+00:04:08.300 --> 00:04:12.100
+...a higher, happy note for a match...
+
+00:04:12.600 --> 00:04:17.100
+...and a low, gentle note when the cards don't match.
+
+00:04:17.667 --> 00:04:22.633
+The message under the grid gives feedback with words, too.
+
+00:04:23.600 --> 00:04:26.867
+Players can choose their challenge.
+
+00:04:27.067 --> 00:04:32.067
+Easy has four pairs. Medium has six.
+
+00:04:32.067 --> 00:04:34.833
+And Challenge has eight.
+
+00:04:35.200 --> 00:04:37.767
+When the player picks a new level,
+
+00:04:37.767 --> 00:04:40.800
+the change event runs startNewGame.
+
+00:04:41.200 --> 00:04:43.867
+startNewGame resets everything:
+
+00:04:43.867 --> 00:04:47.700
+the moves, the timer, and the matched pairs.
+
+00:04:47.700 --> 00:04:50.600
+Then it builds a fresh board.
+
+00:04:51.000 --> 00:04:53.067
+The Restart button and the Play again
+
+00:04:53.067 --> 00:04:55.900
+button run the very same function.
+
+00:04:55.900 --> 00:04:57.867
+That's the beauty of functions:
+
+00:04:57.867 --> 00:05:01.200
+write once, use everywhere.
+
+00:05:02.167 --> 00:05:05.300
+Now, the final pair.
+
+00:05:06.267 --> 00:05:11.533
+When matchedPairs equals totalPairs, finishGame runs.
+
+00:05:11.733 --> 00:05:14.500
+It stops the timer, shows the final moves
+
+00:05:14.500 --> 00:05:17.400
+and time, plays a little three note tune,
+
+00:05:17.400 --> 00:05:20.733
+and shows the celebration screen!
+
+00:05:22.100 --> 00:05:24.600
+And there it is!
+
+00:05:24.700 --> 00:05:28.767
+Your cards can flip, your game can recognise matching numbers,
+
+00:05:28.767 --> 00:05:33.167
+your timer can count, and your progress can change.
+
+00:05:33.367 --> 00:05:37.133
+We have turned our code into a real game!
+
+00:05:37.500 --> 00:05:39.433
+But before we call ourselves game
+
+00:05:39.433 --> 00:05:43.167
+creators, we have one final mission.
+
+00:05:43.267 --> 00:05:48.433
+Let's test, improve, and personalise our creation!

@@ -1,0 +1,400 @@
+{
+  "video": 4,
+  "compositionId": "PaisleyJavaScript",
+  "title": "JavaScript: Giving Our Game a Brain",
+  "subtitle": "Let's Teach Our Game How to Think",
+  "output": "Paisley-Number-Match-04-JavaScript",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "opener",
+      "name": "Lesson opener",
+      "lead": 0.3,
+      "tail": 0.4,
+      "minDuration": 4,
+      "visual": "Lesson card: 'LESSON 4 · JAVASCRIPT' gold tile, 'Giving Our Game a Brain'.",
+      "camera": "Locked.",
+      "onScreen": "LESSON 4 · JavaScript: Giving Our Game a Brain",
+      "sfx": "Short sting.",
+      "music": "Bed in.",
+      "transition": "Cut to the IDE.",
+      "lines": []
+    },
+    {
+      "id": "intro",
+      "name": "Looks are not enough",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "The IDE preview shows the styled page from Lesson 3 with its empty grid. The cursor clicks the empty grid: nothing happens (a small 'click' ripple, nothing else). Three flat icon chips appear: RESPOND (hand), REMEMBER (box), DECIDE (signpost). Then a gold 'brain' outline settles over the grid.",
+      "camera": "Zoom on the empty grid.",
+      "onScreen": "RESPOND · REMEMBER · DECIDE",
+      "sfx": "Click with no response (a dull tick), pops for the chips.",
+      "music": "Bed low.",
+      "transition": "Sidebar zoom.",
+      "lines": [
+        {
+          "id": "i1",
+          "text": "Welcome back, creators! Our game looks amazing. But try clicking a card..."
+        },
+        {
+          "id": "i2",
+          "text": "Nothing happens. In fact, there are no cards yet!",
+          "gap": 1.0
+        },
+        {
+          "id": "i3",
+          "text": "Looks alone don't make a game. A game needs to respond, to remember, and to decide.",
+          "gap": 0.8
+        },
+        {
+          "id": "i4",
+          "text": "That's the job of JavaScript. JavaScript gives our game its behaviour. You can think of it as the game's brain.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "newjs",
+      "name": "Create script.js and link it",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "New file → 'script.js' typed → JS icon appears; the sidebar now lists index.html, style.css, script.js (brief glow on all three). In index.html, under the stylesheet link, <script src=\"script.js\" defer></script> types in. 'defer' animation: a page outline is read top to bottom with a progress line, and only when it reaches the end does a gold JS tile run.",
+      "camera": "Sidebar, then editor.",
+      "onScreen": "script.js · <script src=\"script.js\" defer></script> · defer = read the page first, then run",
+      "sfx": "Click, typing, pop.",
+      "music": "Bed low.",
+      "transition": "Cut to the concept stage.",
+      "lines": [
+        {
+          "id": "n1",
+          "text": "Click the new file button, type script dot J S, and press Enter.",
+          "caption": "Click the new file button, type script.js, and press Enter."
+        },
+        {
+          "id": "n2",
+          "text": "Our project now has three files.",
+          "gap": 0.8
+        },
+        {
+          "id": "n3",
+          "text": "Back in index dot html, under the stylesheet link, we add a script tag. Its source attribute says script dot J S.",
+          "caption": "Back in index.html, under the stylesheet link, we add a <script> tag. Its src attribute says script.js.",
+          "gap": 0.8
+        },
+        {
+          "id": "n4",
+          "text": "The word defer means: first finish reading the whole page, and then run the JavaScript. That way, every element is ready when our code looks for it.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "variables",
+      "name": "Variables",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "Concept stage (deep green). A labelled box 'moves' opens and a 0 drops in. The 0 is swapped for 1, 2, 3 with little pops. Code at 40px: let moves = 0; let score = 0; (labelled 'teaching example'). Then the real game variables from script.js appear as a shelf of labelled boxes: firstCard (empty/null), secondCard (null), lockBoard (false), moves (0), matchedPairs (0), totalPairs (6), seconds (0). Each lights up when named.",
+      "camera": "Push in on each box.",
+      "onScreen": "let moves = 0; · TEACHING EXAMPLE · null = empty",
+      "sfx": "Pop per value change.",
+      "music": "Bed very low.",
+      "transition": "Boxes line up into an array.",
+      "lines": [
+        {
+          "id": "v1",
+          "text": "Let's meet our first big idea: variables."
+        },
+        {
+          "id": "v2",
+          "text": "A variable is like a labelled box, where the computer keeps information.",
+          "gap": 0.6
+        },
+        {
+          "id": "v3",
+          "text": "Let moves equal zero creates a box called moves, and puts zero inside.",
+          "caption": "let moves = 0; creates a box called moves, and puts zero inside.",
+          "gap": 0.8
+        },
+        {
+          "id": "v4",
+          "text": "Later, we can change what's inside. When the player makes a move, moves becomes one, then two, then three.",
+          "gap": 0.8
+        },
+        {
+          "id": "v5",
+          "text": "Our game uses variables to remember everything important.",
+          "gap": 1.0
+        },
+        {
+          "id": "v6",
+          "text": "First card and second card remember the two cards the player has turned over. They start as null, which means empty.",
+          "caption": "firstCard and secondCard remember the two cards the player has turned over. They start as null, which means empty.",
+          "gap": 0.8
+        },
+        {
+          "id": "v7",
+          "text": "Lock board remembers whether the player has to wait.",
+          "caption": "lockBoard remembers whether the player has to wait.",
+          "gap": 0.8
+        },
+        {
+          "id": "v8",
+          "text": "Moves and matched pairs keep count. Total pairs remembers how many pairs we need, and seconds counts the time.",
+          "caption": "moves and matchedPairs keep count. totalPairs remembers how many pairs we need, and seconds counts the time.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "arrays",
+      "name": "Arrays",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "const numbers = [1, 2, 3, 4, 5, 6]; at 40px (teaching example). Six mini number cards slot into a tray with numbered compartments. Then the real createDeck code: the tray duplicates (copy slides down), the two trays merge into one of 12, and pairs are joined by thin lines.",
+      "camera": "Locked, with a pan along the tray.",
+      "onScreen": "[ ] = a collection · 6 numbers → 12 cards = 6 pairs",
+      "sfx": "Tick per slot, whoosh on the duplicate.",
+      "music": "Bed very low.",
+      "transition": "Cards stack into a 'recipe card' (function).",
+      "lines": [
+        {
+          "id": "a1",
+          "text": "Next big idea: arrays."
+        },
+        {
+          "id": "a2",
+          "text": "An array stores several values together, in order, inside square brackets.",
+          "gap": 0.6
+        },
+        {
+          "id": "a3",
+          "text": "Here, the numbers array holds one, two, three, four, five and six.",
+          "gap": 0.8
+        },
+        {
+          "id": "a4",
+          "text": "But a memory game needs pairs! So our create deck function uses the numbers twice, joined into one bigger array.",
+          "caption": "But a memory game needs pairs! So our createDeck function uses the numbers twice, joined into one bigger array.",
+          "gap": 0.8
+        },
+        {
+          "id": "a5",
+          "text": "Now every number has a partner. Twelve cards, six pairs.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "functions",
+      "name": "Functions",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "A flat recipe card labelled sayHello() with its steps. The teaching-example code appears; 'sayHello();' is called and the IDE console bar opens showing 'Hello, creator!'. Then five function cards from script.js are dealt in a row; each flips over to show its one-line job and a tiny animation (createDeck: 1–6 doubles; shuffle: cards swap; createCard: a card assembles; buildBoard: cards fill the grid; flipCard: a card turns).",
+      "camera": "Pan across the row of function cards.",
+      "onScreen": "createDeck() · shuffle() · createCard() · buildBoard() · flipCard()",
+      "sfx": "Card deal sounds, a flip per reveal.",
+      "music": "Bed very low.",
+      "transition": "Zoom into flipCard's card.",
+      "lines": [
+        {
+          "id": "f1",
+          "text": "Big idea number three: functions."
+        },
+        {
+          "id": "f2",
+          "text": "A function is a set of instructions with a name. We write it once, and use it again and again.",
+          "gap": 0.6
+        },
+        {
+          "id": "f3",
+          "text": "This function is called say hello. When we call it, it writes, Hello, creator! in the console.",
+          "caption": "This function is called sayHello. When we call it, it writes \"Hello, creator!\" in the console.",
+          "gap": 0.8
+        },
+        {
+          "id": "f4",
+          "text": "Our game has lots of helpful functions.",
+          "gap": 1.0
+        },
+        {
+          "id": "f5",
+          "text": "Create deck makes the pairs of numbers.",
+          "caption": "createDeck makes the pairs of numbers.",
+          "gap": 0.5
+        },
+        {
+          "id": "f6",
+          "text": "Shuffle mixes them into a random order, just like shuffling real cards.",
+          "caption": "shuffle mixes them into a random order, just like shuffling real cards.",
+          "gap": 0.5
+        },
+        {
+          "id": "f7",
+          "text": "Create card builds one card, with its green back and its number front.",
+          "caption": "createCard builds one card, with its green back and its number front.",
+          "gap": 0.5
+        },
+        {
+          "id": "f8",
+          "text": "Build board puts all the cards into the game grid.",
+          "caption": "buildBoard puts all the cards into the game grid.",
+          "gap": 0.5
+        },
+        {
+          "id": "f9",
+          "text": "And flip card turns a card over when the player clicks it.",
+          "caption": "And flipCard turns a card over when the player clicks it.",
+          "gap": 0.5
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Three event icons (click, key, list choice). Then the real line card.addEventListener(\"click\", () => flipCard(card)); at 34px, with labels under each part: 'listen for' · 'a click' · 'then run'. Right side: a card. The cursor clicks it; a gold signal travels along a connector from the card into the code, and the card flips.",
+      "camera": "Locked, split code and card.",
+      "onScreen": "addEventListener · \"click\" · flipCard(card)",
+      "sfx": "Click, signal 'zip', flip.",
+      "music": "Bed very low.",
+      "transition": "Two cards appear for the decision.",
+      "lines": [
+        {
+          "id": "e1",
+          "text": "But how does the game know when we click? With events."
+        },
+        {
+          "id": "e2",
+          "text": "An event is something that happens on a webpage, like a click, a key press, or a choice from a list.",
+          "gap": 0.6
+        },
+        {
+          "id": "e3",
+          "text": "This line tells each card: listen for a click. And when a click happens, run flip card for this card.",
+          "caption": "This line tells each card: listen for a click. And when a click happens, run flipCard for this card.",
+          "gap": 0.8
+        },
+        {
+          "id": "e4",
+          "text": "Click... and flip card runs. The card turns over!",
+          "caption": "Click... and flipCard runs. The card turns over!",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "name": "if and else",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Code at 34px: the if/else teaching snippet. Two lanes side by side: LEFT, a 3 and a 3 → YES → green, cards stay up; RIGHT, a 3 and a 5 → NO → red shake, cards turn back. A flat signpost splits the path. '===' is enlarged with the label 'exactly the same?'.",
+      "camera": "Locked.",
+      "onScreen": "if ( ... === ... ) · YES → match · else → no match",
+      "sfx": "Match chime on the left, gentle buzz on the right.",
+      "music": "Bed very low.",
+      "transition": "Zoom into the page outline (DOM).",
+      "lines": [
+        {
+          "id": "d1",
+          "text": "Our game also needs to make decisions. For that, we use if, and else."
+        },
+        {
+          "id": "d2",
+          "text": "This if statement asks a question: is the number on the first card the same as the number on the second card?",
+          "gap": 0.6
+        },
+        {
+          "id": "d3",
+          "text": "If the answer is yes, the cards match, and they stay face up.",
+          "gap": 0.6
+        },
+        {
+          "id": "d4",
+          "text": "Else, if the answer is no, they don't match, and they turn back over.",
+          "gap": 0.6
+        },
+        {
+          "id": "d5",
+          "text": "Three equals signs mean: are these exactly the same?",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "dom",
+      "name": "The DOM",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "The HTML from Lesson 2 becomes a tree of boxes (DOM tree). A magnifying-glass cursor runs document.getElementById(\"gameGrid\") and finds and lights up the #gameGrid box, with the id in the HTML highlighted too. Then createElement(\"button\") produces a card and appendChild drops it into the grid; it repeats quickly until 12 cards fill the preview.",
+      "camera": "Pan from the tree to the preview.",
+      "onScreen": "document.getElementById(\"gameGrid\") · createElement · appendChild",
+      "sfx": "Search 'ping', a thunk per card.",
+      "music": "Bed lifts.",
+      "transition": "The filled grid shrinks to the end card.",
+      "lines": [
+        {
+          "id": "m1",
+          "text": "One more idea: the DOM. That's how JavaScript sees our webpage: as a family of elements it can find, and change."
+        },
+        {
+          "id": "m2",
+          "text": "Document dot get element by I D finds an element using its I D. Here, it finds the game grid we made in HTML.",
+          "caption": "document.getElementById finds an element using its id. Here, it finds the game grid we made in HTML.",
+          "gap": 0.8
+        },
+        {
+          "id": "m3",
+          "text": "Remember when we gave our elements I Ds? This is why!",
+          "caption": "Remember when we gave our elements ids? This is why!",
+          "gap": 0.6
+        },
+        {
+          "id": "m4",
+          "text": "Then, create element makes a brand new button for each card, and append child adds it into the grid.",
+          "caption": "Then, createElement makes a brand new button for each card, and appendChild adds it into the grid.",
+          "gap": 0.8
+        },
+        {
+          "id": "m5",
+          "text": "That's how the cards appear. JavaScript builds them for us!",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Closing",
+      "lead": 0.4,
+      "tail": 2.2,
+      "visual": "Recap chips appear one by one: VARIABLES · ARRAYS · FUNCTIONS · EVENTS · IF/ELSE · DOM. The chips snap into puzzle pieces that do not quite connect yet. End card: 'Next: Making the Game Work'.",
+      "camera": "Locked.",
+      "onScreen": "Next: The Magic Behind Number Match",
+      "sfx": "Pop per chip, sting.",
+      "music": "Bed up and out.",
+      "transition": "End card.",
+      "lines": [
+        {
+          "id": "o1",
+          "text": "Your game now has a brain!"
+        },
+        {
+          "id": "o2",
+          "text": "We have learned about variables, arrays, functions, events, decisions, and the DOM.",
+          "gap": 0.5
+        },
+        {
+          "id": "o3",
+          "text": "But we haven't connected all those ideas into the complete game just yet.",
+          "gap": 0.8
+        },
+        {
+          "id": "o4",
+          "text": "Let's do that in our next lesson!",
+          "gap": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+# Renders the Paisley Studio "Number Match" masterclass on GitHub Actions.
+# Run it from the repo's Actions tab → "Render Number Match videos" → "Run workflow",
+# then choose one video or all six. Finished MP4s (with SRT + VTT subtitles) are
+# uploaded as downloadable artifacts, one per video. Nothing is committed back.
+#
+# Based on Remotion's official GitHub Actions guidance:
+# https://www.remotion.dev/docs/ssr#render-using-github-actions
+
+name: Render Number Match videos
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_selection:
+        description: Which video to render
+        type: choice
+        default: all
+        options:
+          - all
+          - intro
+          - html
+          - css
+          - javascript
+          - game-logic
+          - finale
+
+defaults:
+  run:
+    working-directory: number-match
+
+jobs:
+  plan:
+    name: Plan renders
+    runs-on: ubuntu-24.04
+    outputs:
+      matrix: ${{ steps.plan.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: number-match/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - name: Type-check the project
+        run: npx tsc
+      - name: List the compositions that are built
+        run: npx remotion compositions src/index.ts | tee compositions.txt
+      - name: Choose videos
+        id: plan
+        env:
+          SELECTION: ${{ inputs.video_selection }}
+        run: |
+          node -e '
+            const fs = require("fs");
+            const manifest = JSON.parse(fs.readFileSync("videos.json", "utf8"));
+            const built = fs.readFileSync("compositions.txt", "utf8");
+            const sel = process.env.SELECTION;
+            const keys = sel === "all" ? Object.keys(manifest) : [sel];
+            const ready = [], missing = [];
+            for (const k of keys) {
+              const v = manifest[k];
+              if (!v) { console.error(`Unknown selection: ${k}`); process.exit(1); }
+              (new RegExp(`^${v.compositionId}\\s`, "m").test(built) ? ready : missing).push({ key: k, ...v });
+            }
+            for (const m of missing) console.log(`::warning title=Not built yet::${m.compositionId} (video ${m.video}) is not registered in src/Root.tsx yet, so it is skipped.`);
+            if (!ready.length) { console.error("::error::None of the selected videos are built yet."); process.exit(1); }
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `matrix=${JSON.stringify({ include: ready })}\n`);
+            console.log("Rendering:", ready.map((r) => r.compositionId).join(", "));
+          '
+
+  render:
+    name: Render ${{ matrix.output }}
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false # one failed video doesn't cancel the others
+      matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: number-match/package-lock.json
+
+      - name: Install system libraries for Chrome Headless Shell
+        working-directory: .
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libasound2t64 libxrandr2 \
+            libxkbcommon-dev libxfixes3 libxcomposite1 libxdamage1 libatk-bridge2.0-0 \
+            libpango-1.0-0 libcairo2 libcups2 fonts-noto-color-emoji
+
+      - name: Install dependencies (lockfile)
+        run: npm ci --no-audit --no-fund
+
+      - name: Download and verify the Remotion browser
+        run: npx remotion browser ensure
+
+      - name: Check narration, sound and branding assets
+        run: node scripts/verify-assets.ts ${{ matrix.video }}
+
+      - name: Build subtitles (SRT + VTT)
+        run: node scripts/build-subtitles.ts ${{ matrix.video }}
+
+      - name: Render ${{ matrix.compositionId }}
+        run: |
+          mkdir -p out/${{ matrix.output }}
+          npx remotion render src/index.ts ${{ matrix.compositionId }} "out/${{ matrix.output }}/${{ matrix.output }}.mp4" \
+            --codec=h264 --crf=18 --pixel-format=yuv420p --audio-bitrate=192k --log=info
+          cp subtitles/video-${{ matrix.video }}/${{ matrix.output }}.srt out/${{ matrix.output }}/
+          cp subtitles/video-${{ matrix.video }}/${{ matrix.output }}.vtt out/${{ matrix.output }}/
+
+      - name: Verify the MP4 (1920x1080, 30 fps, H.264 + audio)
+        run: |
+          FILE="out/${{ matrix.output }}/${{ matrix.output }}.mp4"
+          npx remotion ffprobe -v error -show_entries stream=codec_type,codec_name,width,height,r_frame_rate -show_entries format=duration -of json "$FILE" > probe.json
+          cat probe.json
+          node -e '
+            const p = JSON.parse(require("fs").readFileSync("probe.json", "utf8"));
+            const v = p.streams.find((s) => s.codec_type === "video");
+            const a = p.streams.find((s) => s.codec_type === "audio");
+            const fail = (m) => { console.error("::error::" + m); process.exit(1); };
+            if (!v || v.codec_name !== "h264") fail("No H.264 video stream");
+            if (v.width !== 1920 || v.height !== 1080) fail(`Wrong size ${v.width}x${v.height}`);
+            if (v.r_frame_rate !== "30/1") fail(`Wrong frame rate ${v.r_frame_rate}`);
+            if (!a) fail("No audio stream");
+            console.log(`OK: ${v.width}x${v.height} @ ${v.r_frame_rate}, ${a.codec_name} audio, ${Number(p.format.duration).toFixed(1)} s`);
+          '
+
+      - name: Upload ${{ matrix.output }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.output }}
+          path: number-match/out/${{ matrix.output }}/
+          if-no-files-found: error
+          retention-days: 30
+          compression-level: 0 # MP4 is already compressed

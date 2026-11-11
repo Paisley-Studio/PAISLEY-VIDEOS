@@ -1,0 +1,3482 @@
+{
+ "w1": {
+  "text": "Welcome back, future creators!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.456,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.595,
+    "w": "back"
+   },
+   {
+    "t": 1.26,
+    "w": "future"
+   },
+   {
+    "t": 1.726,
+    "w": "creators"
+   }
+  ]
+ },
+ "w2": {
+  "text": "Before we start building our game, let's get comfortable with our workspace. This is Paisley Studio.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.776,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Before"
+   },
+   {
+    "t": 0.542,
+    "w": "we"
+   },
+   {
+    "t": 0.675,
+    "w": "start"
+   },
+   {
+    "t": 1.061,
+    "w": "building"
+   },
+   {
+    "t": 1.446,
+    "w": "our"
+   },
+   {
+    "t": 1.593,
+    "w": "game"
+   },
+   {
+    "t": 2.218,
+    "w": "let's"
+   },
+   {
+    "t": 2.444,
+    "w": "get"
+   },
+   {
+    "t": 2.643,
+    "w": "comfortable"
+   },
+   {
+    "t": 3.135,
+    "w": "with"
+   },
+   {
+    "t": 3.295,
+    "w": "our"
+   },
+   {
+    "t": 3.468,
+    "w": "workspace"
+   },
+   {
+    "t": 5.213,
+    "w": "This"
+   },
+   {
+    "t": 5.492,
+    "w": "is"
+   },
+   {
+    "t": 5.652,
+    "w": "Paisley"
+   },
+   {
+    "t": 6.17,
+    "w": "Studio"
+   }
+  ]
+ },
+ "w3": {
+  "text": "On the left, we have our project area. This is where we see and organise our files.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.128,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "On"
+   },
+   {
+    "t": 0.289,
+    "w": "the"
+   },
+   {
+    "t": 0.396,
+    "w": "left"
+   },
+   {
+    "t": 1.074,
+    "w": "we"
+   },
+   {
+    "t": 1.234,
+    "w": "have"
+   },
+   {
+    "t": 1.446,
+    "w": "our"
+   },
+   {
+    "t": 1.579,
+    "w": "project"
+   },
+   {
+    "t": 2.124,
+    "w": "area"
+   },
+   {
+    "t": 3.524,
+    "w": "This"
+   },
+   {
+    "t": 3.803,
+    "w": "is"
+   },
+   {
+    "t": 3.949,
+    "w": "where"
+   },
+   {
+    "t": 4.149,
+    "w": "we"
+   },
+   {
+    "t": 4.282,
+    "w": "see"
+   },
+   {
+    "t": 4.668,
+    "w": "and"
+   },
+   {
+    "t": 4.814,
+    "w": "organise"
+   },
+   {
+    "t": 5.372,
+    "w": "our"
+   },
+   {
+    "t": 5.505,
+    "w": "files"
+   }
+  ]
+ },
+ "w4": {
+  "text": "These three buttons at the top are very useful.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "These"
+   },
+   {
+    "t": 0.462,
+    "w": "three"
+   },
+   {
+    "t": 0.742,
+    "w": "buttons"
+   },
+   {
+    "t": 1.194,
+    "w": "at"
+   },
+   {
+    "t": 1.273,
+    "w": "the"
+   },
+   {
+    "t": 1.38,
+    "w": "top"
+   },
+   {
+    "t": 1.739,
+    "w": "are"
+   },
+   {
+    "t": 1.845,
+    "w": "very"
+   },
+   {
+    "t": 2.164,
+    "w": "useful"
+   }
+  ]
+ },
+ "w5": {
+  "text": "The first button creates a new file.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.192,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "first"
+   },
+   {
+    "t": 0.662,
+    "w": "button"
+   },
+   {
+    "t": 0.981,
+    "w": "creates"
+   },
+   {
+    "t": 1.406,
+    "w": "a"
+   },
+   {
+    "t": 1.473,
+    "w": "new"
+   },
+   {
+    "t": 1.726,
+    "w": "file"
+   }
+  ]
+ },
+ "w6": {
+  "text": "The second button creates a new folder. Folders help us keep our work tidy.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.336,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "second"
+   },
+   {
+    "t": 0.715,
+    "w": "button"
+   },
+   {
+    "t": 1.034,
+    "w": "creates"
+   },
+   {
+    "t": 1.446,
+    "w": "a"
+   },
+   {
+    "t": 1.513,
+    "w": "new"
+   },
+   {
+    "t": 1.765,
+    "w": "folder"
+   },
+   {
+    "t": 3.231,
+    "w": "Folders"
+   },
+   {
+    "t": 3.79,
+    "w": "help"
+   },
+   {
+    "t": 4.003,
+    "w": "us"
+   },
+   {
+    "t": 4.189,
+    "w": "keep"
+   },
+   {
+    "t": 4.468,
+    "w": "our"
+   },
+   {
+    "t": 4.628,
+    "w": "work"
+   },
+   {
+    "t": 4.894,
+    "w": "tidy"
+   }
+  ]
+ },
+ "w7": {
+  "text": "And the third button uploads files, like pictures, from your computer into your project.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.216,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.289,
+    "w": "the"
+   },
+   {
+    "t": 0.409,
+    "w": "third"
+   },
+   {
+    "t": 0.808,
+    "w": "button"
+   },
+   {
+    "t": 1.14,
+    "w": "uploads"
+   },
+   {
+    "t": 1.632,
+    "w": "files"
+   },
+   {
+    "t": 2.337,
+    "w": "like"
+   },
+   {
+    "t": 2.563,
+    "w": "pictures"
+   },
+   {
+    "t": 3.388,
+    "w": "from"
+   },
+   {
+    "t": 3.561,
+    "w": "your"
+   },
+   {
+    "t": 3.68,
+    "w": "computer"
+   },
+   {
+    "t": 4.172,
+    "w": "into"
+   },
+   {
+    "t": 4.438,
+    "w": "your"
+   },
+   {
+    "t": 4.585,
+    "w": "project"
+   }
+  ]
+ },
+ "w8": {
+  "text": "When you choose a file, a pencil and a bin appear next to it. The pencil renames the file, and the bin deletes it.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.688,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "When"
+   },
+   {
+    "t": 0.289,
+    "w": "you"
+   },
+   {
+    "t": 0.422,
+    "w": "choose"
+   },
+   {
+    "t": 0.755,
+    "w": "a"
+   },
+   {
+    "t": 0.848,
+    "w": "file"
+   },
+   {
+    "t": 1.566,
+    "w": "a"
+   },
+   {
+    "t": 1.659,
+    "w": "pencil"
+   },
+   {
+    "t": 2.337,
+    "w": "and"
+   },
+   {
+    "t": 2.457,
+    "w": "a"
+   },
+   {
+    "t": 2.523,
+    "w": "bin"
+   },
+   {
+    "t": 2.696,
+    "w": "appear"
+   },
+   {
+    "t": 3.069,
+    "w": "next"
+   },
+   {
+    "t": 3.388,
+    "w": "to"
+   },
+   {
+    "t": 3.534,
+    "w": "it"
+   },
+   {
+    "t": 4.681,
+    "w": "The"
+   },
+   {
+    "t": 4.84,
+    "w": "pencil"
+   },
+   {
+    "t": 5.306,
+    "w": "renames"
+   },
+   {
+    "t": 5.811,
+    "w": "the"
+   },
+   {
+    "t": 5.931,
+    "w": "file"
+   },
+   {
+    "t": 6.649,
+    "w": "and"
+   },
+   {
+    "t": 6.755,
+    "w": "the"
+   },
+   {
+    "t": 6.875,
+    "w": "bin"
+   },
+   {
+    "t": 7.088,
+    "w": "deletes"
+   },
+   {
+    "t": 7.527,
+    "w": "it"
+   }
+  ]
+ },
+ "w9": {
+  "text": "In the middle is our code editor. This is where we write our instructions for the computer.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.456,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "In"
+   },
+   {
+    "t": 0.276,
+    "w": "the"
+   },
+   {
+    "t": 0.356,
+    "w": "middle"
+   },
+   {
+    "t": 0.702,
+    "w": "is"
+   },
+   {
+    "t": 0.861,
+    "w": "our"
+   },
+   {
+    "t": 1.047,
+    "w": "code"
+   },
+   {
+    "t": 1.38,
+    "w": "editor"
+   },
+   {
+    "t": 2.793,
+    "w": "This"
+   },
+   {
+    "t": 3.085,
+    "w": "is"
+   },
+   {
+    "t": 3.231,
+    "w": "where"
+   },
+   {
+    "t": 3.431,
+    "w": "we"
+   },
+   {
+    "t": 3.59,
+    "w": "write"
+   },
+   {
+    "t": 3.896,
+    "w": "our"
+   },
+   {
+    "t": 4.029,
+    "w": "instructions"
+   },
+   {
+    "t": 4.707,
+    "w": "for"
+   },
+   {
+    "t": 4.84,
+    "w": "the"
+   },
+   {
+    "t": 4.934,
+    "w": "computer"
+   }
+  ]
+ },
+ "w10": {
+  "text": "And over here, on the right, is our preview. This is where we see what our work looks like.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.248,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.343,
+    "w": "over"
+   },
+   {
+    "t": 0.609,
+    "w": "here"
+   },
+   {
+    "t": 1.194,
+    "w": "on"
+   },
+   {
+    "t": 1.313,
+    "w": "the"
+   },
+   {
+    "t": 1.406,
+    "w": "right"
+   },
+   {
+    "t": 2.058,
+    "w": "is"
+   },
+   {
+    "t": 2.231,
+    "w": "our"
+   },
+   {
+    "t": 2.404,
+    "w": "preview"
+   },
+   {
+    "t": 3.936,
+    "w": "This"
+   },
+   {
+    "t": 4.215,
+    "w": "is"
+   },
+   {
+    "t": 4.362,
+    "w": "where"
+   },
+   {
+    "t": 4.561,
+    "w": "we"
+   },
+   {
+    "t": 4.694,
+    "w": "see"
+   },
+   {
+    "t": 4.973,
+    "w": "what"
+   },
+   {
+    "t": 5.16,
+    "w": "our"
+   },
+   {
+    "t": 5.306,
+    "w": "work"
+   },
+   {
+    "t": 5.612,
+    "w": "looks"
+   },
+   {
+    "t": 5.891,
+    "w": "like"
+   }
+  ]
+ },
+ "w11": {
+  "text": "Up at the top are two important buttons. Save keeps our work safe, and Run shows our latest changes in the preview.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.832,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Up"
+   },
+   {
+    "t": 0.329,
+    "w": "at"
+   },
+   {
+    "t": 0.422,
+    "w": "the"
+   },
+   {
+    "t": 0.529,
+    "w": "top"
+   },
+   {
+    "t": 0.874,
+    "w": "are"
+   },
+   {
+    "t": 1.007,
+    "w": "two"
+   },
+   {
+    "t": 1.273,
+    "w": "important"
+   },
+   {
+    "t": 1.845,
+    "w": "buttons"
+   },
+   {
+    "t": 3.364,
+    "w": "Save"
+   },
+   {
+    "t": 3.87,
+    "w": "keeps"
+   },
+   {
+    "t": 4.189,
+    "w": "our"
+   },
+   {
+    "t": 4.362,
+    "w": "work"
+   },
+   {
+    "t": 4.588,
+    "w": "safe"
+   },
+   {
+    "t": 5.306,
+    "w": "and"
+   },
+   {
+    "t": 5.505,
+    "w": "Run"
+   },
+   {
+    "t": 5.785,
+    "w": "shows"
+   },
+   {
+    "t": 6.13,
+    "w": "our"
+   },
+   {
+    "t": 6.263,
+    "w": "latest"
+   },
+   {
+    "t": 6.662,
+    "w": "changes"
+   },
+   {
+    "t": 7.141,
+    "w": "in"
+   },
+   {
+    "t": 7.247,
+    "w": "the"
+   },
+   {
+    "t": 7.327,
+    "w": "preview"
+   }
+  ]
+ },
+ "n1": {
+  "text": "Let's create our very first file. Click the new file button.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.568,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.396,
+    "w": "create"
+   },
+   {
+    "t": 0.795,
+    "w": "our"
+   },
+   {
+    "t": 0.954,
+    "w": "very"
+   },
+   {
+    "t": 1.26,
+    "w": "first"
+   },
+   {
+    "t": 1.659,
+    "w": "file"
+   },
+   {
+    "t": 3.072,
+    "w": "Click"
+   },
+   {
+    "t": 3.404,
+    "w": "the"
+   },
+   {
+    "t": 3.524,
+    "w": "new"
+   },
+   {
+    "t": 3.79,
+    "w": "file"
+   },
+   {
+    "t": 4.189,
+    "w": "button"
+   }
+  ]
+ },
+ "n2": {
+  "text": "Type the name index dot html, and press Enter.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.512,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Type"
+   },
+   {
+    "t": 0.436,
+    "w": "the"
+   },
+   {
+    "t": 0.529,
+    "w": "name"
+   },
+   {
+    "t": 0.808,
+    "w": "index"
+   },
+   {
+    "t": 1.367,
+    "w": "dot"
+   },
+   {
+    "t": 1.606,
+    "w": "html"
+   },
+   {
+    "t": 2.683,
+    "w": "and"
+   },
+   {
+    "t": 2.816,
+    "w": "press"
+   },
+   {
+    "t": 3.148,
+    "w": "Enter"
+   }
+  ]
+ },
+ "n3": {
+  "text": "There it is, in our project area!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.408,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "There"
+   },
+   {
+    "t": 0.382,
+    "w": "it"
+   },
+   {
+    "t": 0.502,
+    "w": "is"
+   },
+   {
+    "t": 1.127,
+    "w": "in"
+   },
+   {
+    "t": 1.287,
+    "w": "our"
+   },
+   {
+    "t": 1.42,
+    "w": "project"
+   },
+   {
+    "t": 1.992,
+    "w": "area"
+   }
+  ]
+ },
+ "n4": {
+  "text": "HTML stands for HyperText Markup Language.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.44,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "HTML"
+   },
+   {
+    "t": 1.127,
+    "w": "stands"
+   },
+   {
+    "t": 1.566,
+    "w": "for"
+   },
+   {
+    "t": 1.712,
+    "w": "HyperText"
+   },
+   {
+    "t": 2.43,
+    "w": "Markup"
+   },
+   {
+    "t": 2.869,
+    "w": "Language"
+   }
+  ]
+ },
+ "n5": {
+  "text": "It is the language that gives a webpage its structure, a bit like the frame that holds up a house.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.264,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "It"
+   },
+   {
+    "t": 0.263,
+    "w": "is"
+   },
+   {
+    "t": 0.409,
+    "w": "the"
+   },
+   {
+    "t": 0.529,
+    "w": "language"
+   },
+   {
+    "t": 1.007,
+    "w": "that"
+   },
+   {
+    "t": 1.18,
+    "w": "gives"
+   },
+   {
+    "t": 1.433,
+    "w": "a"
+   },
+   {
+    "t": 1.513,
+    "w": "webpage"
+   },
+   {
+    "t": 2.071,
+    "w": "its"
+   },
+   {
+    "t": 2.218,
+    "w": "structure"
+   },
+   {
+    "t": 3.042,
+    "w": "a"
+   },
+   {
+    "t": 3.135,
+    "w": "bit"
+   },
+   {
+    "t": 3.361,
+    "w": "like"
+   },
+   {
+    "t": 3.587,
+    "w": "the"
+   },
+   {
+    "t": 3.694,
+    "w": "frame"
+   },
+   {
+    "t": 4.066,
+    "w": "that"
+   },
+   {
+    "t": 4.199,
+    "w": "holds"
+   },
+   {
+    "t": 4.518,
+    "w": "up"
+   },
+   {
+    "t": 4.664,
+    "w": "a"
+   },
+   {
+    "t": 4.731,
+    "w": "house"
+   }
+  ]
+ },
+ "e1": {
+  "text": "Now for a little coding magic. Click inside the code editor.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.616,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.476,
+    "w": "for"
+   },
+   {
+    "t": 0.648,
+    "w": "a"
+   },
+   {
+    "t": 0.715,
+    "w": "little"
+   },
+   {
+    "t": 0.994,
+    "w": "coding"
+   },
+   {
+    "t": 1.406,
+    "w": "magic"
+   },
+   {
+    "t": 2.939,
+    "w": "Click"
+   },
+   {
+    "t": 3.245,
+    "w": "inside"
+   },
+   {
+    "t": 3.777,
+    "w": "the"
+   },
+   {
+    "t": 3.87,
+    "w": "code"
+   },
+   {
+    "t": 4.189,
+    "w": "editor"
+   }
+  ]
+ },
+ "e2": {
+  "text": "Hold down the Shift key and press the number one. That types an exclamation mark.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.648,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Hold"
+   },
+   {
+    "t": 0.422,
+    "w": "down"
+   },
+   {
+    "t": 0.675,
+    "w": "the"
+   },
+   {
+    "t": 0.768,
+    "w": "Shift"
+   },
+   {
+    "t": 1.194,
+    "w": "key"
+   },
+   {
+    "t": 1.553,
+    "w": "and"
+   },
+   {
+    "t": 1.699,
+    "w": "press"
+   },
+   {
+    "t": 2.031,
+    "w": "the"
+   },
+   {
+    "t": 2.138,
+    "w": "number"
+   },
+   {
+    "t": 2.47,
+    "w": "one"
+   },
+   {
+    "t": 3.723,
+    "w": "That"
+   },
+   {
+    "t": 4.043,
+    "w": "types"
+   },
+   {
+    "t": 4.375,
+    "w": "an"
+   },
+   {
+    "t": 4.508,
+    "w": "exclamation"
+   },
+   {
+    "t": 5.253,
+    "w": "mark"
+   }
+  ]
+ },
+ "e3": {
+  "text": "Now press Enter.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.208,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.436,
+    "w": "press"
+   },
+   {
+    "t": 0.821,
+    "w": "Enter"
+   }
+  ]
+ },
+ "e4": {
+  "text": "Wow! The editor has written a whole webpage starter for us. This shortcut is called Emmet, and it saves us lots of typing.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 10.32,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Wow"
+   },
+   {
+    "t": 1.582,
+    "w": "The"
+   },
+   {
+    "t": 1.742,
+    "w": "editor"
+   },
+   {
+    "t": 2.247,
+    "w": "has"
+   },
+   {
+    "t": 2.487,
+    "w": "written"
+   },
+   {
+    "t": 2.779,
+    "w": "a"
+   },
+   {
+    "t": 2.846,
+    "w": "whole"
+   },
+   {
+    "t": 3.178,
+    "w": "webpage"
+   },
+   {
+    "t": 3.723,
+    "w": "starter"
+   },
+   {
+    "t": 4.122,
+    "w": "for"
+   },
+   {
+    "t": 4.348,
+    "w": "us"
+   },
+   {
+    "t": 5.652,
+    "w": "This"
+   },
+   {
+    "t": 5.891,
+    "w": "shortcut"
+   },
+   {
+    "t": 6.516,
+    "w": "is"
+   },
+   {
+    "t": 6.662,
+    "w": "called"
+   },
+   {
+    "t": 7.008,
+    "w": "Emmet"
+   },
+   {
+    "t": 7.593,
+    "w": "and"
+   },
+   {
+    "t": 7.699,
+    "w": "it"
+   },
+   {
+    "t": 7.806,
+    "w": "saves"
+   },
+   {
+    "t": 8.231,
+    "w": "us"
+   },
+   {
+    "t": 8.391,
+    "w": "lots"
+   },
+   {
+    "t": 8.75,
+    "w": "of"
+   },
+   {
+    "t": 8.856,
+    "w": "typing"
+   }
+  ]
+ },
+ "b1": {
+  "text": "Let's look at what each line means.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.096,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.396,
+    "w": "look"
+   },
+   {
+    "t": 0.635,
+    "w": "at"
+   },
+   {
+    "t": 0.755,
+    "w": "what"
+   },
+   {
+    "t": 0.981,
+    "w": "each"
+   },
+   {
+    "t": 1.234,
+    "w": "line"
+   },
+   {
+    "t": 1.579,
+    "w": "means"
+   }
+  ]
+ },
+ "b2": {
+  "text": "The doctype line tells the browser that this is a modern HTML document.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.496,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "doctype"
+   },
+   {
+    "t": 0.821,
+    "w": "line"
+   },
+   {
+    "t": 1.154,
+    "w": "tells"
+   },
+   {
+    "t": 1.46,
+    "w": "the"
+   },
+   {
+    "t": 1.566,
+    "w": "browser"
+   },
+   {
+    "t": 2.071,
+    "w": "that"
+   },
+   {
+    "t": 2.231,
+    "w": "this"
+   },
+   {
+    "t": 2.444,
+    "w": "is"
+   },
+   {
+    "t": 2.563,
+    "w": "a"
+   },
+   {
+    "t": 2.63,
+    "w": "modern"
+   },
+   {
+    "t": 3.055,
+    "w": "HTML"
+   },
+   {
+    "t": 3.88,
+    "w": "document"
+   }
+  ]
+ },
+ "b3": {
+  "text": "The html tag is the big container that holds our whole webpage. Lang equals E N tells the browser that our page is in English.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.984,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.289,
+    "w": "html"
+   },
+   {
+    "t": 1.101,
+    "w": "tag"
+   },
+   {
+    "t": 1.553,
+    "w": "is"
+   },
+   {
+    "t": 1.672,
+    "w": "the"
+   },
+   {
+    "t": 1.805,
+    "w": "big"
+   },
+   {
+    "t": 2.085,
+    "w": "container"
+   },
+   {
+    "t": 2.656,
+    "w": "that"
+   },
+   {
+    "t": 2.803,
+    "w": "holds"
+   },
+   {
+    "t": 3.135,
+    "w": "our"
+   },
+   {
+    "t": 3.295,
+    "w": "whole"
+   },
+   {
+    "t": 3.587,
+    "w": "webpage"
+   },
+   {
+    "t": 5.279,
+    "w": "Lang"
+   },
+   {
+    "t": 5.718,
+    "w": "equals"
+   },
+   {
+    "t": 6.17,
+    "w": "E"
+   },
+   {
+    "t": 6.356,
+    "w": "N"
+   },
+   {
+    "t": 6.622,
+    "w": "tells"
+   },
+   {
+    "t": 6.955,
+    "w": "the"
+   },
+   {
+    "t": 7.061,
+    "w": "browser"
+   },
+   {
+    "t": 7.553,
+    "w": "that"
+   },
+   {
+    "t": 7.699,
+    "w": "our"
+   },
+   {
+    "t": 7.819,
+    "w": "page"
+   },
+   {
+    "t": 8.218,
+    "w": "is"
+   },
+   {
+    "t": 8.351,
+    "w": "in"
+   },
+   {
+    "t": 8.471,
+    "w": "English"
+   }
+  ]
+ },
+ "b4": {
+  "text": "Inside, we have the head. The head holds information about our page, which we don't see on the page itself.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.4,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Inside"
+   },
+   {
+    "t": 1.047,
+    "w": "we"
+   },
+   {
+    "t": 1.207,
+    "w": "have"
+   },
+   {
+    "t": 1.446,
+    "w": "the"
+   },
+   {
+    "t": 1.553,
+    "w": "head"
+   },
+   {
+    "t": 2.912,
+    "w": "The"
+   },
+   {
+    "t": 3.072,
+    "w": "head"
+   },
+   {
+    "t": 3.338,
+    "w": "holds"
+   },
+   {
+    "t": 3.67,
+    "w": "information"
+   },
+   {
+    "t": 4.282,
+    "w": "about"
+   },
+   {
+    "t": 4.561,
+    "w": "our"
+   },
+   {
+    "t": 4.681,
+    "w": "page"
+   },
+   {
+    "t": 5.439,
+    "w": "which"
+   },
+   {
+    "t": 5.625,
+    "w": "we"
+   },
+   {
+    "t": 5.745,
+    "w": "don't"
+   },
+   {
+    "t": 6.011,
+    "w": "see"
+   },
+   {
+    "t": 6.33,
+    "w": "on"
+   },
+   {
+    "t": 6.436,
+    "w": "the"
+   },
+   {
+    "t": 6.516,
+    "w": "page"
+   },
+   {
+    "t": 6.848,
+    "w": "itself"
+   }
+  ]
+ },
+ "b5": {
+  "text": "The meta charset line helps the browser show letters and symbols correctly.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.28,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.249,
+    "w": "meta"
+   },
+   {
+    "t": 0.529,
+    "w": "charset"
+   },
+   {
+    "t": 1.114,
+    "w": "line"
+   },
+   {
+    "t": 1.406,
+    "w": "helps"
+   },
+   {
+    "t": 1.699,
+    "w": "the"
+   },
+   {
+    "t": 1.819,
+    "w": "browser"
+   },
+   {
+    "t": 2.324,
+    "w": "show"
+   },
+   {
+    "t": 2.59,
+    "w": "letters"
+   },
+   {
+    "t": 3.055,
+    "w": "and"
+   },
+   {
+    "t": 3.215,
+    "w": "symbols"
+   },
+   {
+    "t": 3.68,
+    "w": "correctly"
+   }
+  ]
+ },
+ "b6": {
+  "text": "The viewport line helps our page fit nicely on phones, tablets and computers.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.904,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "viewport"
+   },
+   {
+    "t": 0.795,
+    "w": "line"
+   },
+   {
+    "t": 1.087,
+    "w": "helps"
+   },
+   {
+    "t": 1.367,
+    "w": "our"
+   },
+   {
+    "t": 1.486,
+    "w": "page"
+   },
+   {
+    "t": 1.872,
+    "w": "fit"
+   },
+   {
+    "t": 2.164,
+    "w": "nicely"
+   },
+   {
+    "t": 2.643,
+    "w": "on"
+   },
+   {
+    "t": 2.816,
+    "w": "phones"
+   },
+   {
+    "t": 3.521,
+    "w": "tablets"
+   },
+   {
+    "t": 4.039,
+    "w": "and"
+   },
+   {
+    "t": 4.212,
+    "w": "computers"
+   }
+  ]
+ },
+ "b7": {
+  "text": "The title is the name that appears on the browser tab.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.864,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "title"
+   },
+   {
+    "t": 0.728,
+    "w": "is"
+   },
+   {
+    "t": 0.874,
+    "w": "the"
+   },
+   {
+    "t": 0.981,
+    "w": "name"
+   },
+   {
+    "t": 1.3,
+    "w": "that"
+   },
+   {
+    "t": 1.433,
+    "w": "appears"
+   },
+   {
+    "t": 1.859,
+    "w": "on"
+   },
+   {
+    "t": 1.965,
+    "w": "the"
+   },
+   {
+    "t": 2.045,
+    "w": "browser"
+   },
+   {
+    "t": 2.497,
+    "w": "tab"
+   }
+  ]
+ },
+ "b8": {
+  "text": "And the body holds everything we can actually see on the webpage.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.704,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.276,
+    "w": "the"
+   },
+   {
+    "t": 0.382,
+    "w": "body"
+   },
+   {
+    "t": 0.781,
+    "w": "holds"
+   },
+   {
+    "t": 1.207,
+    "w": "everything"
+   },
+   {
+    "t": 1.659,
+    "w": "we"
+   },
+   {
+    "t": 1.792,
+    "w": "can"
+   },
+   {
+    "t": 1.965,
+    "w": "actually"
+   },
+   {
+    "t": 2.417,
+    "w": "see"
+   },
+   {
+    "t": 2.816,
+    "w": "on"
+   },
+   {
+    "t": 2.949,
+    "w": "the"
+   },
+   {
+    "t": 3.029,
+    "w": "webpage"
+   }
+  ]
+ },
+ "b9": {
+  "text": "Notice how most tags come in pairs: an opening tag, and a closing tag with a forward slash. Everything in between belongs to that element.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 10.656,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Notice"
+   },
+   {
+    "t": 0.582,
+    "w": "how"
+   },
+   {
+    "t": 0.795,
+    "w": "most"
+   },
+   {
+    "t": 1.114,
+    "w": "tags"
+   },
+   {
+    "t": 1.526,
+    "w": "come"
+   },
+   {
+    "t": 1.752,
+    "w": "in"
+   },
+   {
+    "t": 1.872,
+    "w": "pairs"
+   },
+   {
+    "t": 2.683,
+    "w": "an"
+   },
+   {
+    "t": 2.869,
+    "w": "opening"
+   },
+   {
+    "t": 3.255,
+    "w": "tag"
+   },
+   {
+    "t": 3.96,
+    "w": "and"
+   },
+   {
+    "t": 4.079,
+    "w": "a"
+   },
+   {
+    "t": 4.159,
+    "w": "closing"
+   },
+   {
+    "t": 4.611,
+    "w": "tag"
+   },
+   {
+    "t": 5.01,
+    "w": "with"
+   },
+   {
+    "t": 5.143,
+    "w": "a"
+   },
+   {
+    "t": 5.223,
+    "w": "forward"
+   },
+   {
+    "t": 5.675,
+    "w": "slash"
+   },
+   {
+    "t": 7.247,
+    "w": "Everything"
+   },
+   {
+    "t": 7.819,
+    "w": "in"
+   },
+   {
+    "t": 7.939,
+    "w": "between"
+   },
+   {
+    "t": 8.351,
+    "w": "belongs"
+   },
+   {
+    "t": 8.83,
+    "w": "to"
+   },
+   {
+    "t": 8.949,
+    "w": "that"
+   },
+   {
+    "t": 9.202,
+    "w": "element"
+   }
+  ]
+ },
+ "t1": {
+  "text": "Let's give our page a proper name.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.952,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.409,
+    "w": "give"
+   },
+   {
+    "t": 0.595,
+    "w": "our"
+   },
+   {
+    "t": 0.755,
+    "w": "page"
+   },
+   {
+    "t": 1.114,
+    "w": "a"
+   },
+   {
+    "t": 1.194,
+    "w": "proper"
+   },
+   {
+    "t": 1.593,
+    "w": "name"
+   }
+  ]
+ },
+ "t2": {
+  "text": "Select the words My page, and type Number Match.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.272,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Select"
+   },
+   {
+    "t": 0.635,
+    "w": "the"
+   },
+   {
+    "t": 0.755,
+    "w": "words"
+   },
+   {
+    "t": 1.087,
+    "w": "My"
+   },
+   {
+    "t": 1.247,
+    "w": "page"
+   },
+   {
+    "t": 2.018,
+    "w": "and"
+   },
+   {
+    "t": 2.191,
+    "w": "type"
+   },
+   {
+    "t": 2.497,
+    "w": "Number"
+   },
+   {
+    "t": 2.776,
+    "w": "Match"
+   }
+  ]
+ },
+ "t3": {
+  "text": "A meaningful title helps people find our game, even when they have lots of tabs open.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.904,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "A"
+   },
+   {
+    "t": 0.236,
+    "w": "meaningful"
+   },
+   {
+    "t": 0.768,
+    "w": "title"
+   },
+   {
+    "t": 1.194,
+    "w": "helps"
+   },
+   {
+    "t": 1.486,
+    "w": "people"
+   },
+   {
+    "t": 1.832,
+    "w": "find"
+   },
+   {
+    "t": 2.164,
+    "w": "our"
+   },
+   {
+    "t": 2.297,
+    "w": "game"
+   },
+   {
+    "t": 2.936,
+    "w": "even"
+   },
+   {
+    "t": 3.175,
+    "w": "when"
+   },
+   {
+    "t": 3.321,
+    "w": "they"
+   },
+   {
+    "t": 3.428,
+    "w": "have"
+   },
+   {
+    "t": 3.627,
+    "w": "lots"
+   },
+   {
+    "t": 3.973,
+    "w": "of"
+   },
+   {
+    "t": 4.093,
+    "w": "tabs"
+   },
+   {
+    "t": 4.545,
+    "w": "open"
+   }
+  ]
+ },
+ "s1": {
+  "text": "Now let's build the structure of our game. We'll go one piece at a time, inside the body.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.08,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.422,
+    "w": "let's"
+   },
+   {
+    "t": 0.675,
+    "w": "build"
+   },
+   {
+    "t": 0.981,
+    "w": "the"
+   },
+   {
+    "t": 1.087,
+    "w": "structure"
+   },
+   {
+    "t": 1.553,
+    "w": "of"
+   },
+   {
+    "t": 1.646,
+    "w": "our"
+   },
+   {
+    "t": 1.805,
+    "w": "game"
+   },
+   {
+    "t": 3.165,
+    "w": "We'll"
+   },
+   {
+    "t": 3.418,
+    "w": "go"
+   },
+   {
+    "t": 3.617,
+    "w": "one"
+   },
+   {
+    "t": 3.856,
+    "w": "piece"
+   },
+   {
+    "t": 4.176,
+    "w": "at"
+   },
+   {
+    "t": 4.269,
+    "w": "a"
+   },
+   {
+    "t": 4.335,
+    "w": "time"
+   },
+   {
+    "t": 5.066,
+    "w": "inside"
+   },
+   {
+    "t": 5.559,
+    "w": "the"
+   },
+   {
+    "t": 5.638,
+    "w": "body"
+   }
+  ]
+ },
+ "s2": {
+  "text": "First, a main element. It holds the main content of our page. We give it a class called app shell, so we can style it later.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 10.56,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "First"
+   },
+   {
+    "t": 0.901,
+    "w": "a"
+   },
+   {
+    "t": 0.968,
+    "w": "main"
+   },
+   {
+    "t": 1.367,
+    "w": "element"
+   },
+   {
+    "t": 2.819,
+    "w": "It"
+   },
+   {
+    "t": 2.979,
+    "w": "holds"
+   },
+   {
+    "t": 3.311,
+    "w": "the"
+   },
+   {
+    "t": 3.418,
+    "w": "main"
+   },
+   {
+    "t": 3.737,
+    "w": "content"
+   },
+   {
+    "t": 4.295,
+    "w": "of"
+   },
+   {
+    "t": 4.402,
+    "w": "our"
+   },
+   {
+    "t": 4.574,
+    "w": "page"
+   },
+   {
+    "t": 6.077,
+    "w": "We"
+   },
+   {
+    "t": 6.29,
+    "w": "give"
+   },
+   {
+    "t": 6.476,
+    "w": "it"
+   },
+   {
+    "t": 6.556,
+    "w": "a"
+   },
+   {
+    "t": 6.636,
+    "w": "class"
+   },
+   {
+    "t": 7.035,
+    "w": "called"
+   },
+   {
+    "t": 7.367,
+    "w": "app"
+   },
+   {
+    "t": 7.593,
+    "w": "shell"
+   },
+   {
+    "t": 8.205,
+    "w": "so"
+   },
+   {
+    "t": 8.378,
+    "w": "we"
+   },
+   {
+    "t": 8.497,
+    "w": "can"
+   },
+   {
+    "t": 8.67,
+    "w": "style"
+   },
+   {
+    "t": 9.082,
+    "w": "it"
+   },
+   {
+    "t": 9.215,
+    "w": "later"
+   }
+  ]
+ },
+ "s3": {
+  "text": "Next, the header. It holds our brand: a red N, and the words Number Match.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.128,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Next"
+   },
+   {
+    "t": 0.821,
+    "w": "the"
+   },
+   {
+    "t": 0.954,
+    "w": "header"
+   },
+   {
+    "t": 2.367,
+    "w": "It"
+   },
+   {
+    "t": 2.54,
+    "w": "holds"
+   },
+   {
+    "t": 2.872,
+    "w": "our"
+   },
+   {
+    "t": 3.019,
+    "w": "brand"
+   },
+   {
+    "t": 3.83,
+    "w": "a"
+   },
+   {
+    "t": 3.87,
+    "w": "red"
+   },
+   {
+    "t": 4.149,
+    "w": "N"
+   },
+   {
+    "t": 4.734,
+    "w": "and"
+   },
+   {
+    "t": 4.854,
+    "w": "the"
+   },
+   {
+    "t": 4.96,
+    "w": "words"
+   },
+   {
+    "t": 5.319,
+    "w": "Number"
+   },
+   {
+    "t": 5.625,
+    "w": "Match"
+   }
+  ]
+ },
+ "s4": {
+  "text": "Then comes the hero section, with a small line of text, a big heading, and a short introduction.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.08,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.436,
+    "w": "comes"
+   },
+   {
+    "t": 0.755,
+    "w": "the"
+   },
+   {
+    "t": 0.861,
+    "w": "hero"
+   },
+   {
+    "t": 1.247,
+    "w": "section"
+   },
+   {
+    "t": 2.005,
+    "w": "with"
+   },
+   {
+    "t": 2.178,
+    "w": "a"
+   },
+   {
+    "t": 2.257,
+    "w": "small"
+   },
+   {
+    "t": 2.696,
+    "w": "line"
+   },
+   {
+    "t": 2.976,
+    "w": "of"
+   },
+   {
+    "t": 3.082,
+    "w": "text"
+   },
+   {
+    "t": 3.827,
+    "w": "a"
+   },
+   {
+    "t": 3.92,
+    "w": "big"
+   },
+   {
+    "t": 4.186,
+    "w": "heading"
+   },
+   {
+    "t": 4.797,
+    "w": "and"
+   },
+   {
+    "t": 4.93,
+    "w": "a"
+   },
+   {
+    "t": 4.984,
+    "w": "short"
+   },
+   {
+    "t": 5.369,
+    "w": "introduction"
+   }
+  ]
+ },
+ "s5": {
+  "text": "The H 1 tag is our main heading. Every page should have one.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.688,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.289,
+    "w": "H"
+   },
+   {
+    "t": 0.582,
+    "w": "1"
+   },
+   {
+    "t": 0.861,
+    "w": "tag"
+   },
+   {
+    "t": 1.273,
+    "w": "is"
+   },
+   {
+    "t": 1.406,
+    "w": "our"
+   },
+   {
+    "t": 1.566,
+    "w": "main"
+   },
+   {
+    "t": 1.872,
+    "w": "heading"
+   },
+   {
+    "t": 3.231,
+    "w": "Every"
+   },
+   {
+    "t": 3.59,
+    "w": "page"
+   },
+   {
+    "t": 4.003,
+    "w": "should"
+   },
+   {
+    "t": 4.202,
+    "w": "have"
+   },
+   {
+    "t": 4.388,
+    "w": "one"
+   }
+  ]
+ },
+ "s6": {
+  "text": "Now the game panel. This is where the game itself lives.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.352,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.476,
+    "w": "the"
+   },
+   {
+    "t": 0.609,
+    "w": "game"
+   },
+   {
+    "t": 0.914,
+    "w": "panel"
+   },
+   {
+    "t": 2.367,
+    "w": "This"
+   },
+   {
+    "t": 2.66,
+    "w": "is"
+   },
+   {
+    "t": 2.806,
+    "w": "where"
+   },
+   {
+    "t": 2.992,
+    "w": "the"
+   },
+   {
+    "t": 3.112,
+    "w": "game"
+   },
+   {
+    "t": 3.404,
+    "w": "itself"
+   },
+   {
+    "t": 3.87,
+    "w": "lives"
+   }
+  ]
+ },
+ "s7": {
+  "text": "At the top is a toolbar. It has a select box, so players can choose Easy, Medium or Challenge, and a Restart button.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "At"
+   },
+   {
+    "t": 0.289,
+    "w": "the"
+   },
+   {
+    "t": 0.396,
+    "w": "top"
+   },
+   {
+    "t": 0.781,
+    "w": "is"
+   },
+   {
+    "t": 0.914,
+    "w": "a"
+   },
+   {
+    "t": 1.007,
+    "w": "toolbar"
+   },
+   {
+    "t": 2.553,
+    "w": "It"
+   },
+   {
+    "t": 2.699,
+    "w": "has"
+   },
+   {
+    "t": 2.939,
+    "w": "a"
+   },
+   {
+    "t": 3.019,
+    "w": "select"
+   },
+   {
+    "t": 3.484,
+    "w": "box"
+   },
+   {
+    "t": 4.122,
+    "w": "so"
+   },
+   {
+    "t": 4.322,
+    "w": "players"
+   },
+   {
+    "t": 4.801,
+    "w": "can"
+   },
+   {
+    "t": 5.0,
+    "w": "choose"
+   },
+   {
+    "t": 5.372,
+    "w": "Easy"
+   },
+   {
+    "t": 6.064,
+    "w": "Medium"
+   },
+   {
+    "t": 6.609,
+    "w": "or"
+   },
+   {
+    "t": 6.755,
+    "w": "Challenge"
+   },
+   {
+    "t": 7.513,
+    "w": "and"
+   },
+   {
+    "t": 7.66,
+    "w": "a"
+   },
+   {
+    "t": 7.713,
+    "w": "Restart"
+   },
+   {
+    "t": 8.311,
+    "w": "button"
+   }
+  ]
+ },
+ "s8": {
+  "text": "Below that, three stat boxes, for the moves, the matched pairs, and the time.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.648,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Below"
+   },
+   {
+    "t": 0.515,
+    "w": "that"
+   },
+   {
+    "t": 1.087,
+    "w": "three"
+   },
+   {
+    "t": 1.406,
+    "w": "stat"
+   },
+   {
+    "t": 1.792,
+    "w": "boxes"
+   },
+   {
+    "t": 2.643,
+    "w": "for"
+   },
+   {
+    "t": 2.816,
+    "w": "the"
+   },
+   {
+    "t": 2.909,
+    "w": "moves"
+   },
+   {
+    "t": 3.667,
+    "w": "the"
+   },
+   {
+    "t": 3.8,
+    "w": "matched"
+   },
+   {
+    "t": 4.226,
+    "w": "pairs"
+   },
+   {
+    "t": 4.944,
+    "w": "and"
+   },
+   {
+    "t": 5.103,
+    "w": "the"
+   },
+   {
+    "t": 5.21,
+    "w": "time"
+   }
+  ]
+ },
+ "s9": {
+  "text": "Each number has an I D, like moves or timer. An I D is a unique name, so JavaScript can find it later.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.264,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Each"
+   },
+   {
+    "t": 0.409,
+    "w": "number"
+   },
+   {
+    "t": 0.768,
+    "w": "has"
+   },
+   {
+    "t": 0.994,
+    "w": "an"
+   },
+   {
+    "t": 1.114,
+    "w": "I"
+   },
+   {
+    "t": 1.273,
+    "w": "D"
+   },
+   {
+    "t": 1.912,
+    "w": "like"
+   },
+   {
+    "t": 2.138,
+    "w": "moves"
+   },
+   {
+    "t": 2.763,
+    "w": "or"
+   },
+   {
+    "t": 2.882,
+    "w": "timer"
+   },
+   {
+    "t": 4.335,
+    "w": "An"
+   },
+   {
+    "t": 4.535,
+    "w": "I"
+   },
+   {
+    "t": 4.734,
+    "w": "D"
+   },
+   {
+    "t": 5.027,
+    "w": "is"
+   },
+   {
+    "t": 5.173,
+    "w": "a"
+   },
+   {
+    "t": 5.226,
+    "w": "unique"
+   },
+   {
+    "t": 5.691,
+    "w": "name"
+   },
+   {
+    "t": 6.33,
+    "w": "so"
+   },
+   {
+    "t": 6.569,
+    "w": "JavaScript"
+   },
+   {
+    "t": 7.327,
+    "w": "can"
+   },
+   {
+    "t": 7.5,
+    "w": "find"
+   },
+   {
+    "t": 7.779,
+    "w": "it"
+   },
+   {
+    "t": 7.899,
+    "w": "later"
+   }
+  ]
+ },
+ "s10": {
+  "text": "Then a progress track, with a progress fill inside it.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.296,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.369,
+    "w": "a"
+   },
+   {
+    "t": 0.449,
+    "w": "progress"
+   },
+   {
+    "t": 0.981,
+    "w": "track"
+   },
+   {
+    "t": 1.593,
+    "w": "with"
+   },
+   {
+    "t": 1.752,
+    "w": "a"
+   },
+   {
+    "t": 1.832,
+    "w": "progress"
+   },
+   {
+    "t": 2.404,
+    "w": "fill"
+   },
+   {
+    "t": 2.63,
+    "w": "inside"
+   },
+   {
+    "t": 3.148,
+    "w": "it"
+   }
+  ]
+ },
+ "s11": {
+  "text": "And here is the most important box of all: the game grid. It's empty for now, because JavaScript will create the cards for us.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.316,
+    "w": "here"
+   },
+   {
+    "t": 0.595,
+    "w": "is"
+   },
+   {
+    "t": 0.742,
+    "w": "the"
+   },
+   {
+    "t": 0.848,
+    "w": "most"
+   },
+   {
+    "t": 1.167,
+    "w": "important"
+   },
+   {
+    "t": 1.659,
+    "w": "box"
+   },
+   {
+    "t": 2.018,
+    "w": "of"
+   },
+   {
+    "t": 2.138,
+    "w": "all"
+   },
+   {
+    "t": 2.723,
+    "w": "the"
+   },
+   {
+    "t": 2.856,
+    "w": "game"
+   },
+   {
+    "t": 3.188,
+    "w": "grid"
+   },
+   {
+    "t": 4.588,
+    "w": "It's"
+   },
+   {
+    "t": 4.827,
+    "w": "empty"
+   },
+   {
+    "t": 5.146,
+    "w": "for"
+   },
+   {
+    "t": 5.306,
+    "w": "now"
+   },
+   {
+    "t": 5.957,
+    "w": "because"
+   },
+   {
+    "t": 6.356,
+    "w": "JavaScript"
+   },
+   {
+    "t": 7.101,
+    "w": "will"
+   },
+   {
+    "t": 7.247,
+    "w": "create"
+   },
+   {
+    "t": 7.646,
+    "w": "the"
+   },
+   {
+    "t": 7.753,
+    "w": "cards"
+   },
+   {
+    "t": 8.138,
+    "w": "for"
+   },
+   {
+    "t": 8.351,
+    "w": "us"
+   }
+  ]
+ },
+ "s12": {
+  "text": "Under the grid, a message area, to tell the player what is happening.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.064,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Under"
+   },
+   {
+    "t": 0.382,
+    "w": "the"
+   },
+   {
+    "t": 0.515,
+    "w": "grid"
+   },
+   {
+    "t": 1.127,
+    "w": "a"
+   },
+   {
+    "t": 1.194,
+    "w": "message"
+   },
+   {
+    "t": 1.646,
+    "w": "area"
+   },
+   {
+    "t": 2.311,
+    "w": "to"
+   },
+   {
+    "t": 2.444,
+    "w": "tell"
+   },
+   {
+    "t": 2.71,
+    "w": "the"
+   },
+   {
+    "t": 2.816,
+    "w": "player"
+   },
+   {
+    "t": 3.241,
+    "w": "what"
+   },
+   {
+    "t": 3.428,
+    "w": "is"
+   },
+   {
+    "t": 3.574,
+    "w": "happening"
+   }
+  ]
+ },
+ "s13": {
+  "text": "Then a footer at the bottom of the page.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.12,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.356,
+    "w": "a"
+   },
+   {
+    "t": 0.436,
+    "w": "footer"
+   },
+   {
+    "t": 0.821,
+    "w": "at"
+   },
+   {
+    "t": 0.901,
+    "w": "the"
+   },
+   {
+    "t": 1.007,
+    "w": "bottom"
+   },
+   {
+    "t": 1.367,
+    "w": "of"
+   },
+   {
+    "t": 1.473,
+    "w": "the"
+   },
+   {
+    "t": 1.579,
+    "w": "page"
+   }
+  ]
+ },
+ "s14": {
+  "text": "Finally, outside the main element, we add the celebration screen. It will appear when every pair is matched.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.424,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Finally"
+   },
+   {
+    "t": 0.914,
+    "w": "outside"
+   },
+   {
+    "t": 1.446,
+    "w": "the"
+   },
+   {
+    "t": 1.513,
+    "w": "main"
+   },
+   {
+    "t": 1.845,
+    "w": "element"
+   },
+   {
+    "t": 2.51,
+    "w": "we"
+   },
+   {
+    "t": 2.736,
+    "w": "add"
+   },
+   {
+    "t": 2.949,
+    "w": "the"
+   },
+   {
+    "t": 3.042,
+    "w": "celebration"
+   },
+   {
+    "t": 3.787,
+    "w": "screen"
+   },
+   {
+    "t": 5.239,
+    "w": "It"
+   },
+   {
+    "t": 5.412,
+    "w": "will"
+   },
+   {
+    "t": 5.545,
+    "w": "appear"
+   },
+   {
+    "t": 5.984,
+    "w": "when"
+   },
+   {
+    "t": 6.184,
+    "w": "every"
+   },
+   {
+    "t": 6.436,
+    "w": "pair"
+   },
+   {
+    "t": 6.769,
+    "w": "is"
+   },
+   {
+    "t": 6.928,
+    "w": "matched"
+   }
+  ]
+ },
+ "s15": {
+  "text": "See how the elements sit inside each other, like boxes inside boxes? That's called nesting.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.632,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "See"
+   },
+   {
+    "t": 0.462,
+    "w": "how"
+   },
+   {
+    "t": 0.688,
+    "w": "the"
+   },
+   {
+    "t": 0.808,
+    "w": "elements"
+   },
+   {
+    "t": 1.3,
+    "w": "sit"
+   },
+   {
+    "t": 1.499,
+    "w": "inside"
+   },
+   {
+    "t": 1.978,
+    "w": "each"
+   },
+   {
+    "t": 2.151,
+    "w": "other"
+   },
+   {
+    "t": 2.67,
+    "w": "like"
+   },
+   {
+    "t": 2.882,
+    "w": "boxes"
+   },
+   {
+    "t": 3.388,
+    "w": "inside"
+   },
+   {
+    "t": 3.906,
+    "w": "boxes"
+   },
+   {
+    "t": 5.505,
+    "w": "That's"
+   },
+   {
+    "t": 5.811,
+    "w": "called"
+   },
+   {
+    "t": 6.13,
+    "w": "nesting"
+   }
+  ]
+ },
+ "r1": {
+  "text": "Time to see our work. Click Save.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.152,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Time"
+   },
+   {
+    "t": 0.436,
+    "w": "to"
+   },
+   {
+    "t": 0.529,
+    "w": "see"
+   },
+   {
+    "t": 0.795,
+    "w": "our"
+   },
+   {
+    "t": 0.968,
+    "w": "work"
+   },
+   {
+    "t": 2.34,
+    "w": "Click"
+   },
+   {
+    "t": 2.66,
+    "w": "Save"
+   }
+  ]
+ },
+ "r2": {
+  "text": "Now click Run.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.112,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.436,
+    "w": "click"
+   },
+   {
+    "t": 0.768,
+    "w": "Run"
+   }
+  ]
+ },
+ "r3": {
+  "text": "Look at the preview! Our heading, our stats, our buttons and our message are all there.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.984,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Look"
+   },
+   {
+    "t": 0.382,
+    "w": "at"
+   },
+   {
+    "t": 0.462,
+    "w": "the"
+   },
+   {
+    "t": 0.569,
+    "w": "preview"
+   },
+   {
+    "t": 2.114,
+    "w": "Our"
+   },
+   {
+    "t": 2.367,
+    "w": "heading"
+   },
+   {
+    "t": 2.926,
+    "w": "our"
+   },
+   {
+    "t": 3.112,
+    "w": "stats"
+   },
+   {
+    "t": 3.949,
+    "w": "our"
+   },
+   {
+    "t": 4.096,
+    "w": "buttons"
+   },
+   {
+    "t": 4.588,
+    "w": "and"
+   },
+   {
+    "t": 4.721,
+    "w": "our"
+   },
+   {
+    "t": 4.84,
+    "w": "message"
+   },
+   {
+    "t": 5.293,
+    "w": "are"
+   },
+   {
+    "t": 5.479,
+    "w": "all"
+   },
+   {
+    "t": 5.665,
+    "w": "there"
+   }
+  ]
+ },
+ "r4": {
+  "text": "It looks very plain right now, and that's completely fine. The structure is ready, and that's what matters.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.04,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "It"
+   },
+   {
+    "t": 0.289,
+    "w": "looks"
+   },
+   {
+    "t": 0.555,
+    "w": "very"
+   },
+   {
+    "t": 0.861,
+    "w": "plain"
+   },
+   {
+    "t": 1.234,
+    "w": "right"
+   },
+   {
+    "t": 1.46,
+    "w": "now"
+   },
+   {
+    "t": 2.058,
+    "w": "and"
+   },
+   {
+    "t": 2.218,
+    "w": "that's"
+   },
+   {
+    "t": 2.483,
+    "w": "completely"
+   },
+   {
+    "t": 3.069,
+    "w": "fine"
+   },
+   {
+    "t": 4.508,
+    "w": "The"
+   },
+   {
+    "t": 4.654,
+    "w": "structure"
+   },
+   {
+    "t": 5.173,
+    "w": "is"
+   },
+   {
+    "t": 5.332,
+    "w": "ready"
+   },
+   {
+    "t": 5.904,
+    "w": "and"
+   },
+   {
+    "t": 6.051,
+    "w": "that's"
+   },
+   {
+    "t": 6.343,
+    "w": "what"
+   },
+   {
+    "t": 6.489,
+    "w": "matters"
+   }
+  ]
+ },
+ "o1": {
+  "text": "Fantastic work!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.28,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Fantastic"
+   },
+   {
+    "t": 0.888,
+    "w": "work"
+   }
+  ]
+ },
+ "o2": {
+  "text": "You have created the foundation of your very own game.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.96,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "You"
+   },
+   {
+    "t": 0.289,
+    "w": "have"
+   },
+   {
+    "t": 0.515,
+    "w": "created"
+   },
+   {
+    "t": 0.981,
+    "w": "the"
+   },
+   {
+    "t": 1.074,
+    "w": "foundation"
+   },
+   {
+    "t": 1.726,
+    "w": "of"
+   },
+   {
+    "t": 1.819,
+    "w": "your"
+   },
+   {
+    "t": 1.978,
+    "w": "very"
+   },
+   {
+    "t": 2.337,
+    "w": "own"
+   },
+   {
+    "t": 2.563,
+    "w": "game"
+   }
+  ]
+ },
+ "o3": {
+  "text": "But something is missing, isn't it?",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.024,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "But"
+   },
+   {
+    "t": 0.289,
+    "w": "something"
+   },
+   {
+    "t": 0.728,
+    "w": "is"
+   },
+   {
+    "t": 0.874,
+    "w": "missing"
+   },
+   {
+    "t": 1.606,
+    "w": "isn't"
+   },
+   {
+    "t": 1.872,
+    "w": "it"
+   }
+  ]
+ },
+ "o4": {
+  "text": "Our game needs colour, personality and beautiful cards.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.92,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Our"
+   },
+   {
+    "t": 0.396,
+    "w": "game"
+   },
+   {
+    "t": 0.715,
+    "w": "needs"
+   },
+   {
+    "t": 1.021,
+    "w": "colour"
+   },
+   {
+    "t": 1.659,
+    "w": "personality"
+   },
+   {
+    "t": 2.683,
+    "w": "and"
+   },
+   {
+    "t": 2.896,
+    "w": "beautiful"
+   },
+   {
+    "t": 3.401,
+    "w": "cards"
+   }
+  ]
+ },
+ "o5": {
+  "text": "That's exactly what we are going to create in our next lesson with CSS!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.04,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "That's"
+   },
+   {
+    "t": 0.409,
+    "w": "exactly"
+   },
+   {
+    "t": 0.941,
+    "w": "what"
+   },
+   {
+    "t": 1.127,
+    "w": "we"
+   },
+   {
+    "t": 1.26,
+    "w": "are"
+   },
+   {
+    "t": 1.367,
+    "w": "going"
+   },
+   {
+    "t": 1.593,
+    "w": "to"
+   },
+   {
+    "t": 1.686,
+    "w": "create"
+   },
+   {
+    "t": 2.098,
+    "w": "in"
+   },
+   {
+    "t": 2.231,
+    "w": "our"
+   },
+   {
+    "t": 2.337,
+    "w": "next"
+   },
+   {
+    "t": 2.683,
+    "w": "lesson"
+   },
+   {
+    "t": 3.069,
+    "w": "with"
+   },
+   {
+    "t": 3.215,
+    "w": "CSS"
+   }
+  ]
+ }
+}

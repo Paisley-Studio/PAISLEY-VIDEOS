@@ -1,0 +1,75 @@
+1
+00:00:03,600 --> 00:00:06,000
+Have you ever played a game that made you think,
+
+2
+00:00:06,000 --> 00:00:09,933
+remember and smile every time you got a match?
+
+3
+00:00:10,133 --> 00:00:12,067
+Well, what if I told you that you could
+
+4
+00:00:12,067 --> 00:00:15,067
+build a game like that yourself?
+
+5
+00:00:15,133 --> 00:00:20,267
+Yes! You are about to become a game creator.
+
+6
+00:00:21,233 --> 00:00:24,033
+Together, we are going to build Number Match:
+
+7
+00:00:24,033 --> 00:00:26,733
+a fun memory game where you turn over cards,
+
+8
+00:00:26,733 --> 00:00:30,400
+find matching numbers and challenge your memory.
+
+9
+00:00:30,667 --> 00:00:33,167
+And the most exciting part?
+
+10
+00:00:33,167 --> 00:00:37,367
+You will create it yourself, one step at a time!
+
+11
+00:00:38,667 --> 00:00:40,733
+We will start with HTML,
+
+12
+00:00:40,733 --> 00:00:44,233
+the language that gives our game its structure.
+
+13
+00:00:44,267 --> 00:00:46,933
+Then we will use CSS to make our cards
+
+14
+00:00:46,933 --> 00:00:50,433
+colourful, beautiful and exciting.
+
+15
+00:00:50,467 --> 00:00:55,267
+Finally, we will use JavaScript to make everything work.
+
+16
+00:00:56,233 --> 00:00:59,133
+And guess where we will build everything?
+
+17
+00:00:59,133 --> 00:01:04,100
+Right here, inside the Paisley Studio coding environment.
+
+18
+00:01:04,300 --> 00:01:08,700
+Get ready, because you are not just going to play a game.
+
+19
+00:01:08,700 --> 00:01:11,667
+You are going to create one!

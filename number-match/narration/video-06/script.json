@@ -1,0 +1,288 @@
+{
+  "video": 6,
+  "compositionId": "PaisleyFinale",
+  "title": "Testing, Creativity and the Grand Finale",
+  "subtitle": "You Are Now a Game Creator!",
+  "output": "Paisley-Number-Match-06-Finale",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "opener",
+      "name": "Lesson opener",
+      "lead": 0.3,
+      "tail": 0.4,
+      "minDuration": 4,
+      "visual": "Lesson card: 'LESSON 6 · FINALE', with a gold star tile.",
+      "camera": "Locked.",
+      "onScreen": "LESSON 6 · You Are Now a Game Creator!",
+      "sfx": "Short sting.",
+      "music": "Bed in.",
+      "transition": "Cut to the IDE.",
+      "lines": []
+    },
+    {
+      "id": "ide",
+      "name": "Save and run",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "IDE with all three files in the sidebar. The cursor clicks Save (check flash) and then Run, and the preview loads the finished game.",
+      "camera": "Top bar zoom, then preview.",
+      "onScreen": "SAVE · RUN",
+      "sfx": "Save confirm, run whoosh.",
+      "music": "Bed low.",
+      "transition": "The preview expands to near full frame.",
+      "lines": [
+        {
+          "id": "i1",
+          "text": "Welcome to our final lesson, creators!"
+        },
+        {
+          "id": "i2",
+          "text": "Here are our three files, all finished. Before we share our game, we have one more important job: testing.",
+          "gap": 0.6
+        },
+        {
+          "id": "i3",
+          "text": "Developers save and test their work often. Save... and Run.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "name": "Tester's checklist",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Game large on the left; a TESTER'S CHECKLIST on the right whose items tick green as each is proven: Cards flip ✓, Matching pair stays ✓, Wrong pair flips back ✓, Moves counter ✓, Timer ✓, Celebration screen ✓, Play again ✓, Difficulty ✓. Gameplay is driven by the same simulator as Lessons 1 and 5, so the numbers on screen are consistent.",
+      "camera": "Push in on the stat being checked.",
+      "onScreen": "TESTER'S CHECKLIST",
+      "sfx": "Game sounds, a tick per checklist item.",
+      "music": "Bed low.",
+      "transition": "Cut to a 'Practice project' label.",
+      "lines": [
+        {
+          "id": "t1",
+          "text": "Let's play our game like a tester, and check every part."
+        },
+        {
+          "id": "t2",
+          "text": "First, we select two cards. Do they flip? Yes!",
+          "gap": 0.8
+        },
+        {
+          "id": "t3",
+          "text": "Now let's find a matching pair. They turn green, and stay face up. Perfect.",
+          "gap": 1.0
+        },
+        {
+          "id": "t4",
+          "text": "Now two cards that don't match. They show for a moment, then turn back over. Correct!",
+          "gap": 1.0
+        },
+        {
+          "id": "t5",
+          "text": "Is the moves counter right? Three turns, three moves. Yes!",
+          "gap": 0.8
+        },
+        {
+          "id": "t6",
+          "text": "Is the timer counting? Yes. It started with our very first click.",
+          "gap": 0.8
+        },
+        {
+          "id": "t7",
+          "text": "Let's finish the game... and there's the celebration screen.",
+          "gap": 1.0
+        },
+        {
+          "id": "t8",
+          "text": "Play again starts a fresh game. And if we change the difficulty to Easy, we get four pairs.",
+          "gap": 1.0
+        },
+        {
+          "id": "t9",
+          "text": "Everything works! Testing helps us find mistakes before other people do.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "debug",
+      "name": "Debugging practice",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "A separate, clearly labelled PRACTICE PROJECT in the IDE (the project name in the sidebar reads 'Debugging practice'). Its index.html has href=\"styles.css\". Run: the preview shows the plain, unstyled page. A detective magnifier checks HTML ✓, CSS ✓, then the link line (red underline). The sidebar's 'style.css' and the code's 'styles.css' are shown together with the extra 's' circled. The cursor deletes the 's', then Save and Run: the styled page returns.",
+      "camera": "Zoom between the link line and the sidebar.",
+      "onScreen": "PRACTICE PROJECT · styles.css ≠ style.css · DEBUGGING = finding and fixing mistakes",
+      "sfx": "Gentle 'uh-oh' on the broken run, magnifier ping, sparkle on the fix.",
+      "music": "Bed low.",
+      "transition": "A challenge card slides in.",
+      "lines": [
+        {
+          "id": "d1",
+          "text": "But what happens when something goes wrong? Let's look at a practice project."
+        },
+        {
+          "id": "d2",
+          "text": "In this practice project, someone typed styles dot C S S, with an extra S.",
+          "caption": "In this practice project, someone typed styles.css, with an extra s.",
+          "gap": 0.8
+        },
+        {
+          "id": "d3",
+          "text": "We click Run... and oh no! All our colours and cards have disappeared.",
+          "gap": 0.8
+        },
+        {
+          "id": "d4",
+          "text": "Let's investigate. The HTML looks fine. The CSS looks fine. So, the problem must be the link between them.",
+          "gap": 0.8
+        },
+        {
+          "id": "d5",
+          "text": "The file is called style dot C S S, but the link says styles dot C S S. The browser can't find a file with that name!",
+          "caption": "The file is called style.css, but the link says styles.css. The browser can't find a file with that name!",
+          "gap": 0.8
+        },
+        {
+          "id": "d6",
+          "text": "Let's remove the extra S, save, and run again.",
+          "caption": "Let's remove the extra s, save, and run again.",
+          "gap": 0.8
+        },
+        {
+          "id": "d7",
+          "text": "Fixed! Finding and fixing mistakes like this is called debugging. Every developer does it, every single day.",
+          "gap": 1.2
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "name": "Creative challenges",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Seven numbered challenge cards (styled as Number Match cards, numerals 1–7) flip up one by one, each with a mini live example: page background changes colour; the heading text changes; Quicksand weights 300→700 shown; the select's pair number changes (max 8, because numberWords stops at Eight); cards grow and shrink; the card back turns another colour; letters A/B/C replace numbers on cards. Each card shows the file and the property to edit.",
+      "camera": "Pan along the row; each card enlarges when it is described.",
+      "onScreen": "1 Background · 2 Heading · 3 Font weight · 4 Pairs · 5 Card size · 6 Card back · 7 Your own version",
+      "sfx": "Flip per challenge card.",
+      "music": "Bed builds.",
+      "transition": "Music swells into the montage.",
+      "lines": [
+        {
+          "id": "c1",
+          "text": "Now it's your turn to make this game your own. Here are some challenges."
+        },
+        {
+          "id": "c2",
+          "text": "Challenge one: change the background colour of the page.",
+          "gap": 0.8
+        },
+        {
+          "id": "c3",
+          "text": "Challenge two: change the heading to something new.",
+          "gap": 0.8
+        },
+        {
+          "id": "c4",
+          "text": "Challenge three: try different Quicksand font weights, from three hundred to seven hundred.",
+          "caption": "Challenge three: try different Quicksand font weights, from 300 to 700.",
+          "gap": 0.8
+        },
+        {
+          "id": "c5",
+          "text": "Challenge four: change the number of pairs in one of the levels. You can go up to eight.",
+          "gap": 0.8
+        },
+        {
+          "id": "c6",
+          "text": "Challenge five: make the cards bigger or smaller.",
+          "gap": 0.8
+        },
+        {
+          "id": "c7",
+          "text": "Challenge six: give the card backs a new colour.",
+          "gap": 0.8
+        },
+        {
+          "id": "c8",
+          "text": "And challenge seven: create your very own version of the game. Maybe with letters, colours, or shapes instead of numbers?",
+          "gap": 0.8
+        },
+        {
+          "id": "c9",
+          "text": "Don't worry about breaking things. You can always fix them. That's how we learn!",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "montage",
+      "name": "The finished project",
+      "lead": 0.0,
+      "tail": 0.0,
+      "minDuration": 12,
+      "visual": "Cinematic montage, no narration: macro on a card flip; a matched pair turning green; the timer ticking; the progress bar filling; the IDE beside the preview with code lines highlighting as the matching game event happens (code ↔ result); the celebration screen. Flat parallax cards float across the deep-green frame between shots.",
+      "camera": "Varied: macro push-ins, slow lateral moves, one 3D tilt.",
+      "onScreen": "None (subtitles off).",
+      "sfx": "Game sounds on beat.",
+      "music": "Bed at full: the musical peak of the series.",
+      "transition": "Fade to deep green.",
+      "lines": []
+    },
+    {
+      "id": "celebrate",
+      "name": "Celebrate the learner",
+      "lead": 0.6,
+      "tail": 3.4,
+      "visual": "A journey line draws across the frame with milestones: an empty HTML file → structure boxes → the styled card → a flipping card → the finished game. On 'very own memory matching game' a big 'I MADE THIS!' stamp lands. The final lines run over the Paisley Studio badge, then the tagline types: 'Imagine it. Build it. Make it yours.' Final branded frame.",
+      "camera": "Lateral track along the journey line, then locked on the logo.",
+      "onScreen": "I MADE THIS! · PAISLEY STUDIO · Imagine it. Build it. Make it yours.",
+      "sfx": "Milestone pops, stamp thump (soft), closing audio signature.",
+      "music": "Bed resolves to the final chord.",
+      "transition": "Hold on the logo, fade to black.",
+      "lines": [
+        {
+          "id": "e1",
+          "text": "Take a moment, and look at what you have achieved."
+        },
+        {
+          "id": "e2",
+          "text": "You started with an empty HTML document.",
+          "gap": 0.6
+        },
+        {
+          "id": "e3",
+          "text": "You learned how to structure a webpage, style it with CSS, and bring it to life using JavaScript.",
+          "gap": 0.6
+        },
+        {
+          "id": "e4",
+          "text": "And now, you have built your very own memory matching game!",
+          "gap": 0.6
+        },
+        {
+          "id": "e5",
+          "text": "Remember, every great developer started by learning one small thing at a time.",
+          "gap": 1.0
+        },
+        {
+          "id": "e6",
+          "text": "Keep experimenting. Keep creating. And never stop being curious.",
+          "gap": 0.6
+        },
+        {
+          "id": "e7",
+          "text": "This is Paisley Studio.",
+          "gap": 1.0
+        },
+        {
+          "id": "e8",
+          "text": "Imagine it. Build it. Make it yours.",
+          "gap": 0.5
+        }
+      ]
+    }
+  ]
+}

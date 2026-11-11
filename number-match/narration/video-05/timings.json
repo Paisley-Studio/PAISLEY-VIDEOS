@@ -1,0 +1,3071 @@
+{
+ "t1": {
+  "text": "Welcome back, creators! This is the lesson where everything comes together.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.48,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.595,
+    "w": "back"
+   },
+   {
+    "t": 1.247,
+    "w": "creators"
+   },
+   {
+    "t": 3.032,
+    "w": "This"
+   },
+   {
+    "t": 3.324,
+    "w": "is"
+   },
+   {
+    "t": 3.471,
+    "w": "the"
+   },
+   {
+    "t": 3.604,
+    "w": "lesson"
+   },
+   {
+    "t": 4.056,
+    "w": "where"
+   },
+   {
+    "t": 4.282,
+    "w": "everything"
+   },
+   {
+    "t": 4.721,
+    "w": "comes"
+   },
+   {
+    "t": 5.013,
+    "w": "together"
+   }
+  ]
+ },
+ "t2": {
+  "text": "Here are our three files. Index dot html gives the structure. Style dot C S S makes it beautiful. And script dot J S brings it to life.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 13.56,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Here"
+   },
+   {
+    "t": 0.382,
+    "w": "are"
+   },
+   {
+    "t": 0.555,
+    "w": "our"
+   },
+   {
+    "t": 0.768,
+    "w": "three"
+   },
+   {
+    "t": 1.087,
+    "w": "files"
+   },
+   {
+    "t": 2.713,
+    "w": "Index"
+   },
+   {
+    "t": 3.311,
+    "w": "dot"
+   },
+   {
+    "t": 3.551,
+    "w": "html"
+   },
+   {
+    "t": 4.335,
+    "w": "gives"
+   },
+   {
+    "t": 4.628,
+    "w": "the"
+   },
+   {
+    "t": 4.747,
+    "w": "structure"
+   },
+   {
+    "t": 6.303,
+    "w": "Style"
+   },
+   {
+    "t": 6.862,
+    "w": "dot"
+   },
+   {
+    "t": 7.088,
+    "w": "C"
+   },
+   {
+    "t": 7.354,
+    "w": "S"
+   },
+   {
+    "t": 7.633,
+    "w": "S"
+   },
+   {
+    "t": 7.939,
+    "w": "makes"
+   },
+   {
+    "t": 8.218,
+    "w": "it"
+   },
+   {
+    "t": 8.338,
+    "w": "beautiful"
+   },
+   {
+    "t": 9.894,
+    "w": "And"
+   },
+   {
+    "t": 10.093,
+    "w": "script"
+   },
+   {
+    "t": 10.612,
+    "w": "dot"
+   },
+   {
+    "t": 10.878,
+    "w": "J"
+   },
+   {
+    "t": 11.197,
+    "w": "S"
+   },
+   {
+    "t": 11.503,
+    "w": "brings"
+   },
+   {
+    "t": 11.848,
+    "w": "it"
+   },
+   {
+    "t": 11.968,
+    "w": "to"
+   },
+   {
+    "t": 12.114,
+    "w": "life"
+   }
+  ]
+ },
+ "t3": {
+  "text": "They each have their own job, but they work together as one team.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.824,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "They"
+   },
+   {
+    "t": 0.356,
+    "w": "each"
+   },
+   {
+    "t": 0.635,
+    "w": "have"
+   },
+   {
+    "t": 0.888,
+    "w": "their"
+   },
+   {
+    "t": 1.114,
+    "w": "own"
+   },
+   {
+    "t": 1.327,
+    "w": "job"
+   },
+   {
+    "t": 1.992,
+    "w": "but"
+   },
+   {
+    "t": 2.138,
+    "w": "they"
+   },
+   {
+    "t": 2.284,
+    "w": "work"
+   },
+   {
+    "t": 2.55,
+    "w": "together"
+   },
+   {
+    "t": 3.069,
+    "w": "as"
+   },
+   {
+    "t": 3.202,
+    "w": "one"
+   },
+   {
+    "t": 3.454,
+    "w": "team"
+   }
+  ]
+ },
+ "d1": {
+  "text": "Every game starts with a fresh deck.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.216,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Every"
+   },
+   {
+    "t": 0.489,
+    "w": "game"
+   },
+   {
+    "t": 0.808,
+    "w": "starts"
+   },
+   {
+    "t": 1.22,
+    "w": "with"
+   },
+   {
+    "t": 1.353,
+    "w": "a"
+   },
+   {
+    "t": 1.433,
+    "w": "fresh"
+   },
+   {
+    "t": 1.832,
+    "w": "deck"
+   }
+  ]
+ },
+ "d2": {
+  "text": "Create deck receives a pair count, like six.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.08,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Create"
+   },
+   {
+    "t": 0.555,
+    "w": "deck"
+   },
+   {
+    "t": 0.861,
+    "w": "receives"
+   },
+   {
+    "t": 1.313,
+    "w": "a"
+   },
+   {
+    "t": 1.406,
+    "w": "pair"
+   },
+   {
+    "t": 1.712,
+    "w": "count"
+   },
+   {
+    "t": 2.311,
+    "w": "like"
+   },
+   {
+    "t": 2.55,
+    "w": "six"
+   }
+  ]
+ },
+ "d3": {
+  "text": "Array dot from makes the numbers one to six.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.648,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Array"
+   },
+   {
+    "t": 0.555,
+    "w": "dot"
+   },
+   {
+    "t": 0.768,
+    "w": "from"
+   },
+   {
+    "t": 0.941,
+    "w": "makes"
+   },
+   {
+    "t": 1.207,
+    "w": "the"
+   },
+   {
+    "t": 1.3,
+    "w": "numbers"
+   },
+   {
+    "t": 1.739,
+    "w": "one"
+   },
+   {
+    "t": 1.992,
+    "w": "to"
+   },
+   {
+    "t": 2.098,
+    "w": "six"
+   }
+  ]
+ },
+ "d4": {
+  "text": "Then, the three dots, called the spread operator, copy those numbers twice into one array. Six pairs, twelve cards.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.912,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Then"
+   },
+   {
+    "t": 0.702,
+    "w": "the"
+   },
+   {
+    "t": 0.835,
+    "w": "three"
+   },
+   {
+    "t": 1.127,
+    "w": "dots"
+   },
+   {
+    "t": 1.819,
+    "w": "called"
+   },
+   {
+    "t": 2.111,
+    "w": "the"
+   },
+   {
+    "t": 2.218,
+    "w": "spread"
+   },
+   {
+    "t": 2.603,
+    "w": "operator"
+   },
+   {
+    "t": 3.494,
+    "w": "copy"
+   },
+   {
+    "t": 3.853,
+    "w": "those"
+   },
+   {
+    "t": 4.106,
+    "w": "numbers"
+   },
+   {
+    "t": 4.518,
+    "w": "twice"
+   },
+   {
+    "t": 4.89,
+    "w": "into"
+   },
+   {
+    "t": 5.156,
+    "w": "one"
+   },
+   {
+    "t": 5.356,
+    "w": "array"
+   },
+   {
+    "t": 6.769,
+    "w": "Six"
+   },
+   {
+    "t": 7.221,
+    "w": "pairs"
+   },
+   {
+    "t": 7.952,
+    "w": "twelve"
+   },
+   {
+    "t": 8.338,
+    "w": "cards"
+   }
+  ]
+ },
+ "d5": {
+  "text": "Next, shuffle mixes them up.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.072,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Next"
+   },
+   {
+    "t": 0.808,
+    "w": "shuffle"
+   },
+   {
+    "t": 1.247,
+    "w": "mixes"
+   },
+   {
+    "t": 1.659,
+    "w": "them"
+   },
+   {
+    "t": 1.845,
+    "w": "up"
+   }
+  ]
+ },
+ "d6": {
+  "text": "It starts at the last card, picks a random position, and swaps the two cards. Then it moves one step to the left, and does it again, all the way to the start.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.496,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "It"
+   },
+   {
+    "t": 0.289,
+    "w": "starts"
+   },
+   {
+    "t": 0.688,
+    "w": "at"
+   },
+   {
+    "t": 0.781,
+    "w": "the"
+   },
+   {
+    "t": 0.901,
+    "w": "last"
+   },
+   {
+    "t": 1.273,
+    "w": "card"
+   },
+   {
+    "t": 1.885,
+    "w": "picks"
+   },
+   {
+    "t": 2.151,
+    "w": "a"
+   },
+   {
+    "t": 2.231,
+    "w": "random"
+   },
+   {
+    "t": 2.616,
+    "w": "position"
+   },
+   {
+    "t": 3.361,
+    "w": "and"
+   },
+   {
+    "t": 3.507,
+    "w": "swaps"
+   },
+   {
+    "t": 3.986,
+    "w": "the"
+   },
+   {
+    "t": 4.106,
+    "w": "two"
+   },
+   {
+    "t": 4.345,
+    "w": "cards"
+   },
+   {
+    "t": 5.864,
+    "w": "Then"
+   },
+   {
+    "t": 6.13,
+    "w": "it"
+   },
+   {
+    "t": 6.25,
+    "w": "moves"
+   },
+   {
+    "t": 6.649,
+    "w": "one"
+   },
+   {
+    "t": 6.955,
+    "w": "step"
+   },
+   {
+    "t": 7.314,
+    "w": "to"
+   },
+   {
+    "t": 7.407,
+    "w": "the"
+   },
+   {
+    "t": 7.553,
+    "w": "left"
+   },
+   {
+    "t": 8.218,
+    "w": "and"
+   },
+   {
+    "t": 8.338,
+    "w": "does"
+   },
+   {
+    "t": 8.577,
+    "w": "it"
+   },
+   {
+    "t": 8.657,
+    "w": "again"
+   },
+   {
+    "t": 9.309,
+    "w": "all"
+   },
+   {
+    "t": 9.508,
+    "w": "the"
+   },
+   {
+    "t": 9.628,
+    "w": "way"
+   },
+   {
+    "t": 9.814,
+    "w": "to"
+   },
+   {
+    "t": 9.934,
+    "w": "the"
+   },
+   {
+    "t": 10.053,
+    "w": "start"
+   }
+  ]
+ },
+ "d7": {
+  "text": "Math dot random picks a random number, so every game is different!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.16,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Math"
+   },
+   {
+    "t": 0.569,
+    "w": "dot"
+   },
+   {
+    "t": 0.848,
+    "w": "random"
+   },
+   {
+    "t": 1.247,
+    "w": "picks"
+   },
+   {
+    "t": 1.513,
+    "w": "a"
+   },
+   {
+    "t": 1.593,
+    "w": "random"
+   },
+   {
+    "t": 2.018,
+    "w": "number"
+   },
+   {
+    "t": 2.656,
+    "w": "so"
+   },
+   {
+    "t": 2.896,
+    "w": "every"
+   },
+   {
+    "t": 3.228,
+    "w": "game"
+   },
+   {
+    "t": 3.521,
+    "w": "is"
+   },
+   {
+    "t": 3.68,
+    "w": "different"
+   }
+  ]
+ },
+ "f1": {
+  "text": "Now, let's turn over some cards. Here's flip card.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.376,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.755,
+    "w": "let's"
+   },
+   {
+    "t": 1.021,
+    "w": "turn"
+   },
+   {
+    "t": 1.287,
+    "w": "over"
+   },
+   {
+    "t": 1.513,
+    "w": "some"
+   },
+   {
+    "t": 1.752,
+    "w": "cards"
+   },
+   {
+    "t": 3.271,
+    "w": "Here's"
+   },
+   {
+    "t": 3.63,
+    "w": "flip"
+   },
+   {
+    "t": 3.949,
+    "w": "card"
+   }
+  ]
+ },
+ "f2": {
+  "text": "When a card is clicked, flip card receives that exact card. That's how the game knows which one was chosen.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.184,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "When"
+   },
+   {
+    "t": 0.303,
+    "w": "a"
+   },
+   {
+    "t": 0.382,
+    "w": "card"
+   },
+   {
+    "t": 0.742,
+    "w": "is"
+   },
+   {
+    "t": 0.888,
+    "w": "clicked"
+   },
+   {
+    "t": 1.539,
+    "w": "flip"
+   },
+   {
+    "t": 1.885,
+    "w": "card"
+   },
+   {
+    "t": 2.191,
+    "w": "receives"
+   },
+   {
+    "t": 2.67,
+    "w": "that"
+   },
+   {
+    "t": 2.816,
+    "w": "exact"
+   },
+   {
+    "t": 3.295,
+    "w": "card"
+   },
+   {
+    "t": 4.681,
+    "w": "That's"
+   },
+   {
+    "t": 5.0,
+    "w": "how"
+   },
+   {
+    "t": 5.16,
+    "w": "the"
+   },
+   {
+    "t": 5.293,
+    "w": "game"
+   },
+   {
+    "t": 5.612,
+    "w": "knows"
+   },
+   {
+    "t": 5.997,
+    "w": "which"
+   },
+   {
+    "t": 6.223,
+    "w": "one"
+   },
+   {
+    "t": 6.463,
+    "w": "was"
+   },
+   {
+    "t": 6.649,
+    "w": "chosen"
+   }
+  ]
+ },
+ "f3": {
+  "text": "First, a safety check. If the board is locked, or the card is already face up or matched, we stop right there, with return.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.72,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "First"
+   },
+   {
+    "t": 0.874,
+    "w": "a"
+   },
+   {
+    "t": 0.968,
+    "w": "safety"
+   },
+   {
+    "t": 1.406,
+    "w": "check"
+   },
+   {
+    "t": 2.832,
+    "w": "If"
+   },
+   {
+    "t": 3.058,
+    "w": "the"
+   },
+   {
+    "t": 3.192,
+    "w": "board"
+   },
+   {
+    "t": 3.524,
+    "w": "is"
+   },
+   {
+    "t": 3.697,
+    "w": "locked"
+   },
+   {
+    "t": 4.255,
+    "w": "or"
+   },
+   {
+    "t": 4.375,
+    "w": "the"
+   },
+   {
+    "t": 4.495,
+    "w": "card"
+   },
+   {
+    "t": 4.84,
+    "w": "is"
+   },
+   {
+    "t": 4.987,
+    "w": "already"
+   },
+   {
+    "t": 5.399,
+    "w": "face"
+   },
+   {
+    "t": 5.771,
+    "w": "up"
+   },
+   {
+    "t": 5.971,
+    "w": "or"
+   },
+   {
+    "t": 6.077,
+    "w": "matched"
+   },
+   {
+    "t": 6.755,
+    "w": "we"
+   },
+   {
+    "t": 6.928,
+    "w": "stop"
+   },
+   {
+    "t": 7.314,
+    "w": "right"
+   },
+   {
+    "t": 7.58,
+    "w": "there"
+   },
+   {
+    "t": 8.045,
+    "w": "with"
+   },
+   {
+    "t": 8.231,
+    "w": "return"
+   }
+  ]
+ },
+ "f4": {
+  "text": "Otherwise, we add the class is flipped. And our CSS spins the card around!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.032,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Otherwise"
+   },
+   {
+    "t": 0.968,
+    "w": "we"
+   },
+   {
+    "t": 1.207,
+    "w": "add"
+   },
+   {
+    "t": 1.433,
+    "w": "the"
+   },
+   {
+    "t": 1.513,
+    "w": "class"
+   },
+   {
+    "t": 1.938,
+    "w": "is"
+   },
+   {
+    "t": 2.111,
+    "w": "flipped"
+   },
+   {
+    "t": 3.564,
+    "w": "And"
+   },
+   {
+    "t": 3.763,
+    "w": "our"
+   },
+   {
+    "t": 3.91,
+    "w": "CSS"
+   },
+   {
+    "t": 4.668,
+    "w": "spins"
+   },
+   {
+    "t": 5.093,
+    "w": "the"
+   },
+   {
+    "t": 5.213,
+    "w": "card"
+   },
+   {
+    "t": 5.532,
+    "w": "around"
+   }
+  ]
+ },
+ "f5": {
+  "text": "If there is no first card yet, this card becomes the first card, and we wait for another click.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "If"
+   },
+   {
+    "t": 0.303,
+    "w": "there"
+   },
+   {
+    "t": 0.515,
+    "w": "is"
+   },
+   {
+    "t": 0.648,
+    "w": "no"
+   },
+   {
+    "t": 0.901,
+    "w": "first"
+   },
+   {
+    "t": 1.273,
+    "w": "card"
+   },
+   {
+    "t": 1.579,
+    "w": "yet"
+   },
+   {
+    "t": 2.111,
+    "w": "this"
+   },
+   {
+    "t": 2.337,
+    "w": "card"
+   },
+   {
+    "t": 2.643,
+    "w": "becomes"
+   },
+   {
+    "t": 3.069,
+    "w": "the"
+   },
+   {
+    "t": 3.188,
+    "w": "first"
+   },
+   {
+    "t": 3.534,
+    "w": "card"
+   },
+   {
+    "t": 4.132,
+    "w": "and"
+   },
+   {
+    "t": 4.292,
+    "w": "we"
+   },
+   {
+    "t": 4.425,
+    "w": "wait"
+   },
+   {
+    "t": 4.731,
+    "w": "for"
+   },
+   {
+    "t": 4.917,
+    "w": "another"
+   },
+   {
+    "t": 5.276,
+    "w": "click"
+   }
+  ]
+ },
+ "f6": {
+  "text": "If there already is a first card, this one becomes the second card. We add one to moves, and check for a match.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.904,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "If"
+   },
+   {
+    "t": 0.303,
+    "w": "there"
+   },
+   {
+    "t": 0.542,
+    "w": "already"
+   },
+   {
+    "t": 1.007,
+    "w": "is"
+   },
+   {
+    "t": 1.154,
+    "w": "a"
+   },
+   {
+    "t": 1.247,
+    "w": "first"
+   },
+   {
+    "t": 1.606,
+    "w": "card"
+   },
+   {
+    "t": 2.231,
+    "w": "this"
+   },
+   {
+    "t": 2.457,
+    "w": "one"
+   },
+   {
+    "t": 2.67,
+    "w": "becomes"
+   },
+   {
+    "t": 3.095,
+    "w": "the"
+   },
+   {
+    "t": 3.215,
+    "w": "second"
+   },
+   {
+    "t": 3.601,
+    "w": "card"
+   },
+   {
+    "t": 4.987,
+    "w": "We"
+   },
+   {
+    "t": 5.266,
+    "w": "add"
+   },
+   {
+    "t": 5.532,
+    "w": "one"
+   },
+   {
+    "t": 5.771,
+    "w": "to"
+   },
+   {
+    "t": 5.878,
+    "w": "moves"
+   },
+   {
+    "t": 6.582,
+    "w": "and"
+   },
+   {
+    "t": 6.782,
+    "w": "check"
+   },
+   {
+    "t": 7.141,
+    "w": "for"
+   },
+   {
+    "t": 7.34,
+    "w": "a"
+   },
+   {
+    "t": 7.394,
+    "w": "match"
+   }
+  ]
+ },
+ "f7": {
+  "text": "And while two cards that don't match are being shown, lock board is true. So a third card can't be turned over until they flip back.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.576,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.303,
+    "w": "while"
+   },
+   {
+    "t": 0.595,
+    "w": "two"
+   },
+   {
+    "t": 0.835,
+    "w": "cards"
+   },
+   {
+    "t": 1.247,
+    "w": "that"
+   },
+   {
+    "t": 1.433,
+    "w": "don't"
+   },
+   {
+    "t": 1.672,
+    "w": "match"
+   },
+   {
+    "t": 2.005,
+    "w": "are"
+   },
+   {
+    "t": 2.111,
+    "w": "being"
+   },
+   {
+    "t": 2.364,
+    "w": "shown"
+   },
+   {
+    "t": 3.042,
+    "w": "lock"
+   },
+   {
+    "t": 3.348,
+    "w": "board"
+   },
+   {
+    "t": 3.667,
+    "w": "is"
+   },
+   {
+    "t": 3.827,
+    "w": "true"
+   },
+   {
+    "t": 5.213,
+    "w": "So"
+   },
+   {
+    "t": 5.505,
+    "w": "a"
+   },
+   {
+    "t": 5.585,
+    "w": "third"
+   },
+   {
+    "t": 5.997,
+    "w": "card"
+   },
+   {
+    "t": 6.356,
+    "w": "can't"
+   },
+   {
+    "t": 6.636,
+    "w": "be"
+   },
+   {
+    "t": 6.755,
+    "w": "turned"
+   },
+   {
+    "t": 7.088,
+    "w": "over"
+   },
+   {
+    "t": 7.38,
+    "w": "until"
+   },
+   {
+    "t": 7.686,
+    "w": "they"
+   },
+   {
+    "t": 7.832,
+    "w": "flip"
+   },
+   {
+    "t": 8.178,
+    "w": "back"
+   }
+  ]
+ },
+ "m1": {
+  "text": "Here is the heart of our game: check for match.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.72,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Here"
+   },
+   {
+    "t": 0.356,
+    "w": "is"
+   },
+   {
+    "t": 0.502,
+    "w": "the"
+   },
+   {
+    "t": 0.595,
+    "w": "heart"
+   },
+   {
+    "t": 0.861,
+    "w": "of"
+   },
+   {
+    "t": 0.954,
+    "w": "our"
+   },
+   {
+    "t": 1.127,
+    "w": "game"
+   },
+   {
+    "t": 1.765,
+    "w": "check"
+   },
+   {
+    "t": 2.098,
+    "w": "for"
+   },
+   {
+    "t": 2.244,
+    "w": "match"
+   }
+  ]
+ },
+ "m2": {
+  "text": "It compares the numbers stored on the two cards.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "It"
+   },
+   {
+    "t": 0.276,
+    "w": "compares"
+   },
+   {
+    "t": 0.781,
+    "w": "the"
+   },
+   {
+    "t": 0.874,
+    "w": "numbers"
+   },
+   {
+    "t": 1.313,
+    "w": "stored"
+   },
+   {
+    "t": 1.686,
+    "w": "on"
+   },
+   {
+    "t": 1.805,
+    "w": "the"
+   },
+   {
+    "t": 1.898,
+    "w": "two"
+   },
+   {
+    "t": 2.138,
+    "w": "cards"
+   }
+  ]
+ },
+ "m3": {
+  "text": "If they match, both cards get the class is matched, and turn green. They stay face up, and matched pairs goes up by one.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.576,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "If"
+   },
+   {
+    "t": 0.329,
+    "w": "they"
+   },
+   {
+    "t": 0.489,
+    "w": "match"
+   },
+   {
+    "t": 1.167,
+    "w": "both"
+   },
+   {
+    "t": 1.473,
+    "w": "cards"
+   },
+   {
+    "t": 1.859,
+    "w": "get"
+   },
+   {
+    "t": 2.005,
+    "w": "the"
+   },
+   {
+    "t": 2.098,
+    "w": "class"
+   },
+   {
+    "t": 2.523,
+    "w": "is"
+   },
+   {
+    "t": 2.683,
+    "w": "matched"
+   },
+   {
+    "t": 3.348,
+    "w": "and"
+   },
+   {
+    "t": 3.494,
+    "w": "turn"
+   },
+   {
+    "t": 3.787,
+    "w": "green"
+   },
+   {
+    "t": 5.226,
+    "w": "They"
+   },
+   {
+    "t": 5.426,
+    "w": "stay"
+   },
+   {
+    "t": 5.731,
+    "w": "face"
+   },
+   {
+    "t": 6.09,
+    "w": "up"
+   },
+   {
+    "t": 6.622,
+    "w": "and"
+   },
+   {
+    "t": 6.782,
+    "w": "matched"
+   },
+   {
+    "t": 7.207,
+    "w": "pairs"
+   },
+   {
+    "t": 7.593,
+    "w": "goes"
+   },
+   {
+    "t": 7.872,
+    "w": "up"
+   },
+   {
+    "t": 8.045,
+    "w": "by"
+   },
+   {
+    "t": 8.218,
+    "w": "one"
+   }
+  ]
+ },
+ "m4": {
+  "text": "If they don't match, we lock the board, and wait eight hundred and fifty milliseconds. That's less than one second. Then we turn both cards back over.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.544,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "If"
+   },
+   {
+    "t": 0.303,
+    "w": "they"
+   },
+   {
+    "t": 0.462,
+    "w": "don't"
+   },
+   {
+    "t": 0.728,
+    "w": "match"
+   },
+   {
+    "t": 1.353,
+    "w": "we"
+   },
+   {
+    "t": 1.513,
+    "w": "lock"
+   },
+   {
+    "t": 1.832,
+    "w": "the"
+   },
+   {
+    "t": 1.952,
+    "w": "board"
+   },
+   {
+    "t": 2.59,
+    "w": "and"
+   },
+   {
+    "t": 2.803,
+    "w": "wait"
+   },
+   {
+    "t": 3.095,
+    "w": "eight"
+   },
+   {
+    "t": 3.255,
+    "w": "hundred"
+   },
+   {
+    "t": 3.574,
+    "w": "and"
+   },
+   {
+    "t": 3.68,
+    "w": "fifty"
+   },
+   {
+    "t": 4.066,
+    "w": "milliseconds"
+   },
+   {
+    "t": 5.878,
+    "w": "That's"
+   },
+   {
+    "t": 6.197,
+    "w": "less"
+   },
+   {
+    "t": 6.476,
+    "w": "than"
+   },
+   {
+    "t": 6.676,
+    "w": "one"
+   },
+   {
+    "t": 6.928,
+    "w": "second"
+   },
+   {
+    "t": 8.431,
+    "w": "Then"
+   },
+   {
+    "t": 8.723,
+    "w": "we"
+   },
+   {
+    "t": 8.87,
+    "w": "turn"
+   },
+   {
+    "t": 9.189,
+    "w": "both"
+   },
+   {
+    "t": 9.468,
+    "w": "cards"
+   },
+   {
+    "t": 9.854,
+    "w": "back"
+   },
+   {
+    "t": 10.173,
+    "w": "over"
+   }
+  ]
+ },
+ "m5": {
+  "text": "Finally, reset turn clears the first and second card, and unlocks the board, ready for the next turn.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.584,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Finally"
+   },
+   {
+    "t": 0.994,
+    "w": "reset"
+   },
+   {
+    "t": 1.46,
+    "w": "turn"
+   },
+   {
+    "t": 1.805,
+    "w": "clears"
+   },
+   {
+    "t": 2.204,
+    "w": "the"
+   },
+   {
+    "t": 2.324,
+    "w": "first"
+   },
+   {
+    "t": 2.749,
+    "w": "and"
+   },
+   {
+    "t": 2.869,
+    "w": "second"
+   },
+   {
+    "t": 3.255,
+    "w": "card"
+   },
+   {
+    "t": 3.866,
+    "w": "and"
+   },
+   {
+    "t": 4.106,
+    "w": "unlocks"
+   },
+   {
+    "t": 4.624,
+    "w": "the"
+   },
+   {
+    "t": 4.731,
+    "w": "board"
+   },
+   {
+    "t": 5.436,
+    "w": "ready"
+   },
+   {
+    "t": 5.715,
+    "w": "for"
+   },
+   {
+    "t": 5.874,
+    "w": "the"
+   },
+   {
+    "t": 5.954,
+    "w": "next"
+   },
+   {
+    "t": 6.247,
+    "w": "turn"
+   }
+  ]
+ },
+ "m6": {
+  "text": "Watch the moves counter. Every time we turn over two cards, it goes up by one.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.104,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Watch"
+   },
+   {
+    "t": 0.502,
+    "w": "the"
+   },
+   {
+    "t": 0.622,
+    "w": "moves"
+   },
+   {
+    "t": 1.034,
+    "w": "counter"
+   },
+   {
+    "t": 2.527,
+    "w": "Every"
+   },
+   {
+    "t": 2.859,
+    "w": "time"
+   },
+   {
+    "t": 3.178,
+    "w": "we"
+   },
+   {
+    "t": 3.311,
+    "w": "turn"
+   },
+   {
+    "t": 3.617,
+    "w": "over"
+   },
+   {
+    "t": 3.883,
+    "w": "two"
+   },
+   {
+    "t": 4.136,
+    "w": "cards"
+   },
+   {
+    "t": 4.987,
+    "w": "it"
+   },
+   {
+    "t": 5.12,
+    "w": "goes"
+   },
+   {
+    "t": 5.399,
+    "w": "up"
+   },
+   {
+    "t": 5.572,
+    "w": "by"
+   },
+   {
+    "t": 5.745,
+    "w": "one"
+   }
+  ]
+ },
+ "n1": {
+  "text": "Now, the timer.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.4,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.768,
+    "w": "the"
+   },
+   {
+    "t": 0.914,
+    "w": "timer"
+   }
+  ]
+ },
+ "n2": {
+  "text": "The timer starts the very first time a card is flipped. Set interval runs a little piece of code every thousand milliseconds, which is one second.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 10.272,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "timer"
+   },
+   {
+    "t": 0.675,
+    "w": "starts"
+   },
+   {
+    "t": 1.074,
+    "w": "the"
+   },
+   {
+    "t": 1.194,
+    "w": "very"
+   },
+   {
+    "t": 1.486,
+    "w": "first"
+   },
+   {
+    "t": 1.832,
+    "w": "time"
+   },
+   {
+    "t": 2.085,
+    "w": "a"
+   },
+   {
+    "t": 2.164,
+    "w": "card"
+   },
+   {
+    "t": 2.523,
+    "w": "is"
+   },
+   {
+    "t": 2.67,
+    "w": "flipped"
+   },
+   {
+    "t": 4.096,
+    "w": "Set"
+   },
+   {
+    "t": 4.455,
+    "w": "interval"
+   },
+   {
+    "t": 4.934,
+    "w": "runs"
+   },
+   {
+    "t": 5.213,
+    "w": "a"
+   },
+   {
+    "t": 5.293,
+    "w": "little"
+   },
+   {
+    "t": 5.545,
+    "w": "piece"
+   },
+   {
+    "t": 5.864,
+    "w": "of"
+   },
+   {
+    "t": 5.997,
+    "w": "code"
+   },
+   {
+    "t": 6.396,
+    "w": "every"
+   },
+   {
+    "t": 6.689,
+    "w": "thousand"
+   },
+   {
+    "t": 7.194,
+    "w": "milliseconds"
+   },
+   {
+    "t": 8.178,
+    "w": "which"
+   },
+   {
+    "t": 8.391,
+    "w": "is"
+   },
+   {
+    "t": 8.524,
+    "w": "one"
+   },
+   {
+    "t": 8.803,
+    "w": "second"
+   }
+  ]
+ },
+ "n3": {
+  "text": "Each time, seconds goes up by one, and format time shows it as minutes and seconds.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.648,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Each"
+   },
+   {
+    "t": 0.436,
+    "w": "time"
+   },
+   {
+    "t": 1.154,
+    "w": "seconds"
+   },
+   {
+    "t": 1.646,
+    "w": "goes"
+   },
+   {
+    "t": 1.898,
+    "w": "up"
+   },
+   {
+    "t": 2.045,
+    "w": "by"
+   },
+   {
+    "t": 2.218,
+    "w": "one"
+   },
+   {
+    "t": 2.856,
+    "w": "and"
+   },
+   {
+    "t": 3.002,
+    "w": "format"
+   },
+   {
+    "t": 3.534,
+    "w": "time"
+   },
+   {
+    "t": 3.906,
+    "w": "shows"
+   },
+   {
+    "t": 4.239,
+    "w": "it"
+   },
+   {
+    "t": 4.345,
+    "w": "as"
+   },
+   {
+    "t": 4.505,
+    "w": "minutes"
+   },
+   {
+    "t": 4.89,
+    "w": "and"
+   },
+   {
+    "t": 5.05,
+    "w": "seconds"
+   }
+  ]
+ },
+ "n4": {
+  "text": "And here's the progress bar. Update stats sets its width to matched pairs, divided by total pairs, times one hundred percent.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.816,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.289,
+    "w": "here's"
+   },
+   {
+    "t": 0.609,
+    "w": "the"
+   },
+   {
+    "t": 0.715,
+    "w": "progress"
+   },
+   {
+    "t": 1.273,
+    "w": "bar"
+   },
+   {
+    "t": 2.66,
+    "w": "Update"
+   },
+   {
+    "t": 3.152,
+    "w": "stats"
+   },
+   {
+    "t": 3.604,
+    "w": "sets"
+   },
+   {
+    "t": 3.87,
+    "w": "its"
+   },
+   {
+    "t": 4.029,
+    "w": "width"
+   },
+   {
+    "t": 4.375,
+    "w": "to"
+   },
+   {
+    "t": 4.495,
+    "w": "matched"
+   },
+   {
+    "t": 4.894,
+    "w": "pairs"
+   },
+   {
+    "t": 5.585,
+    "w": "divided"
+   },
+   {
+    "t": 6.064,
+    "w": "by"
+   },
+   {
+    "t": 6.21,
+    "w": "total"
+   },
+   {
+    "t": 6.636,
+    "w": "pairs"
+   },
+   {
+    "t": 7.38,
+    "w": "times"
+   },
+   {
+    "t": 7.779,
+    "w": "one"
+   },
+   {
+    "t": 8.005,
+    "w": "hundred"
+   },
+   {
+    "t": 8.298,
+    "w": "percent"
+   }
+  ]
+ },
+ "n5": {
+  "text": "Three pairs out of six? The bar is half full!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.992,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Three"
+   },
+   {
+    "t": 0.436,
+    "w": "pairs"
+   },
+   {
+    "t": 0.821,
+    "w": "out"
+   },
+   {
+    "t": 0.981,
+    "w": "of"
+   },
+   {
+    "t": 1.074,
+    "w": "six"
+   },
+   {
+    "t": 2.593,
+    "w": "The"
+   },
+   {
+    "t": 2.779,
+    "w": "bar"
+   },
+   {
+    "t": 3.138,
+    "w": "is"
+   },
+   {
+    "t": 3.285,
+    "w": "half"
+   },
+   {
+    "t": 3.59,
+    "w": "full"
+   }
+  ]
+ },
+ "s1": {
+  "text": "Great games give feedback, so players know what's happening.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.464,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Great"
+   },
+   {
+    "t": 0.462,
+    "w": "games"
+   },
+   {
+    "t": 0.861,
+    "w": "give"
+   },
+   {
+    "t": 1.074,
+    "w": "feedback"
+   },
+   {
+    "t": 1.805,
+    "w": "so"
+   },
+   {
+    "t": 2.031,
+    "w": "players"
+   },
+   {
+    "t": 2.55,
+    "w": "know"
+   },
+   {
+    "t": 2.763,
+    "w": "what's"
+   },
+   {
+    "t": 2.976,
+    "w": "happening"
+   }
+  ]
+ },
+ "s2": {
+  "text": "Our sounds don't come from audio files. The browser makes them itself, using the Web Audio A P I.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.472,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Our"
+   },
+   {
+    "t": 0.369,
+    "w": "sounds"
+   },
+   {
+    "t": 0.795,
+    "w": "don't"
+   },
+   {
+    "t": 1.034,
+    "w": "come"
+   },
+   {
+    "t": 1.273,
+    "w": "from"
+   },
+   {
+    "t": 1.446,
+    "w": "audio"
+   },
+   {
+    "t": 1.859,
+    "w": "files"
+   },
+   {
+    "t": 3.457,
+    "w": "The"
+   },
+   {
+    "t": 3.63,
+    "w": "browser"
+   },
+   {
+    "t": 4.136,
+    "w": "makes"
+   },
+   {
+    "t": 4.415,
+    "w": "them"
+   },
+   {
+    "t": 4.574,
+    "w": "itself"
+   },
+   {
+    "t": 5.386,
+    "w": "using"
+   },
+   {
+    "t": 5.745,
+    "w": "the"
+   },
+   {
+    "t": 5.851,
+    "w": "Web"
+   },
+   {
+    "t": 6.13,
+    "w": "Audio"
+   },
+   {
+    "t": 6.636,
+    "w": "A"
+   },
+   {
+    "t": 6.848,
+    "w": "P"
+   },
+   {
+    "t": 7.154,
+    "w": "I"
+   }
+  ]
+ },
+ "s3": {
+  "text": "Play tone creates a tiny musical note. A short, bright note for a flip...",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.6,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Play"
+   },
+   {
+    "t": 0.396,
+    "w": "tone"
+   },
+   {
+    "t": 0.781,
+    "w": "creates"
+   },
+   {
+    "t": 1.194,
+    "w": "a"
+   },
+   {
+    "t": 1.287,
+    "w": "tiny"
+   },
+   {
+    "t": 1.659,
+    "w": "musical"
+   },
+   {
+    "t": 2.138,
+    "w": "note"
+   },
+   {
+    "t": 3.444,
+    "w": "A"
+   },
+   {
+    "t": 3.577,
+    "w": "short"
+   },
+   {
+    "t": 4.322,
+    "w": "bright"
+   },
+   {
+    "t": 4.641,
+    "w": "note"
+   },
+   {
+    "t": 4.92,
+    "w": "for"
+   },
+   {
+    "t": 5.133,
+    "w": "a"
+   },
+   {
+    "t": 5.199,
+    "w": "flip"
+   }
+  ]
+ },
+ "s4": {
+  "text": "...a higher, happy note for a match...",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.384,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "a"
+   },
+   {
+    "t": 0.223,
+    "w": "higher"
+   },
+   {
+    "t": 1.007,
+    "w": "happy"
+   },
+   {
+    "t": 1.273,
+    "w": "note"
+   },
+   {
+    "t": 1.566,
+    "w": "for"
+   },
+   {
+    "t": 1.779,
+    "w": "a"
+   },
+   {
+    "t": 1.845,
+    "w": "match"
+   }
+  ]
+ },
+ "s5": {
+  "text": "...and a low, gentle note when the cards don't match.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.08,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "and"
+   },
+   {
+    "t": 0.303,
+    "w": "a"
+   },
+   {
+    "t": 0.369,
+    "w": "low"
+   },
+   {
+    "t": 1.007,
+    "w": "gentle"
+   },
+   {
+    "t": 1.406,
+    "w": "note"
+   },
+   {
+    "t": 1.699,
+    "w": "when"
+   },
+   {
+    "t": 1.832,
+    "w": "the"
+   },
+   {
+    "t": 1.925,
+    "w": "cards"
+   },
+   {
+    "t": 2.351,
+    "w": "don't"
+   },
+   {
+    "t": 2.59,
+    "w": "match"
+   }
+  ]
+ },
+ "s6": {
+  "text": "The message under the grid gives feedback with words, too.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.536,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "message"
+   },
+   {
+    "t": 0.702,
+    "w": "under"
+   },
+   {
+    "t": 0.941,
+    "w": "the"
+   },
+   {
+    "t": 1.074,
+    "w": "grid"
+   },
+   {
+    "t": 1.42,
+    "w": "gives"
+   },
+   {
+    "t": 1.765,
+    "w": "feedback"
+   },
+   {
+    "t": 2.324,
+    "w": "with"
+   },
+   {
+    "t": 2.483,
+    "w": "words"
+   },
+   {
+    "t": 3.162,
+    "w": "too"
+   }
+  ]
+ },
+ "l1": {
+  "text": "Players can choose their challenge.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.856,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Players"
+   },
+   {
+    "t": 0.569,
+    "w": "can"
+   },
+   {
+    "t": 0.742,
+    "w": "choose"
+   },
+   {
+    "t": 1.061,
+    "w": "their"
+   },
+   {
+    "t": 1.22,
+    "w": "challenge"
+   }
+  ]
+ },
+ "l2": {
+  "text": "Easy has four pairs. Medium has six. And Challenge has eight.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.344,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Easy"
+   },
+   {
+    "t": 0.569,
+    "w": "has"
+   },
+   {
+    "t": 0.848,
+    "w": "four"
+   },
+   {
+    "t": 1.14,
+    "w": "pairs"
+   },
+   {
+    "t": 2.686,
+    "w": "Medium"
+   },
+   {
+    "t": 3.218,
+    "w": "has"
+   },
+   {
+    "t": 3.497,
+    "w": "six"
+   },
+   {
+    "t": 5.027,
+    "w": "And"
+   },
+   {
+    "t": 5.239,
+    "w": "Challenge"
+   },
+   {
+    "t": 5.758,
+    "w": "has"
+   },
+   {
+    "t": 6.051,
+    "w": "eight"
+   }
+  ]
+ },
+ "l3": {
+  "text": "When the player picks a new level, the change event runs start new game.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.184,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "When"
+   },
+   {
+    "t": 0.303,
+    "w": "the"
+   },
+   {
+    "t": 0.409,
+    "w": "player"
+   },
+   {
+    "t": 0.808,
+    "w": "picks"
+   },
+   {
+    "t": 1.114,
+    "w": "a"
+   },
+   {
+    "t": 1.18,
+    "w": "new"
+   },
+   {
+    "t": 1.433,
+    "w": "level"
+   },
+   {
+    "t": 2.085,
+    "w": "the"
+   },
+   {
+    "t": 2.204,
+    "w": "change"
+   },
+   {
+    "t": 2.59,
+    "w": "event"
+   },
+   {
+    "t": 2.949,
+    "w": "runs"
+   },
+   {
+    "t": 3.255,
+    "w": "start"
+   },
+   {
+    "t": 3.601,
+    "w": "new"
+   },
+   {
+    "t": 3.8,
+    "w": "game"
+   }
+  ]
+ },
+ "l4": {
+  "text": "Start new game resets everything: the moves, the timer, and the matched pairs. Then it builds a fresh board.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.0,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Start"
+   },
+   {
+    "t": 0.582,
+    "w": "new"
+   },
+   {
+    "t": 0.795,
+    "w": "game"
+   },
+   {
+    "t": 1.127,
+    "w": "resets"
+   },
+   {
+    "t": 1.659,
+    "w": "everything"
+   },
+   {
+    "t": 2.55,
+    "w": "the"
+   },
+   {
+    "t": 2.656,
+    "w": "moves"
+   },
+   {
+    "t": 3.388,
+    "w": "the"
+   },
+   {
+    "t": 3.534,
+    "w": "timer"
+   },
+   {
+    "t": 4.239,
+    "w": "and"
+   },
+   {
+    "t": 4.332,
+    "w": "the"
+   },
+   {
+    "t": 4.412,
+    "w": "matched"
+   },
+   {
+    "t": 4.837,
+    "w": "pairs"
+   },
+   {
+    "t": 6.356,
+    "w": "Then"
+   },
+   {
+    "t": 6.609,
+    "w": "it"
+   },
+   {
+    "t": 6.755,
+    "w": "builds"
+   },
+   {
+    "t": 7.114,
+    "w": "a"
+   },
+   {
+    "t": 7.207,
+    "w": "fresh"
+   },
+   {
+    "t": 7.58,
+    "w": "board"
+   }
+  ]
+ },
+ "l5": {
+  "text": "The Restart button and the Play again button run the very same function. That's the beauty of functions: write once, use everywhere.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.768,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.263,
+    "w": "Restart"
+   },
+   {
+    "t": 0.835,
+    "w": "button"
+   },
+   {
+    "t": 1.22,
+    "w": "and"
+   },
+   {
+    "t": 1.313,
+    "w": "the"
+   },
+   {
+    "t": 1.42,
+    "w": "Play"
+   },
+   {
+    "t": 1.726,
+    "w": "again"
+   },
+   {
+    "t": 2.098,
+    "w": "button"
+   },
+   {
+    "t": 2.47,
+    "w": "run"
+   },
+   {
+    "t": 2.683,
+    "w": "the"
+   },
+   {
+    "t": 2.763,
+    "w": "very"
+   },
+   {
+    "t": 3.095,
+    "w": "same"
+   },
+   {
+    "t": 3.414,
+    "w": "function"
+   },
+   {
+    "t": 4.92,
+    "w": "That's"
+   },
+   {
+    "t": 5.266,
+    "w": "the"
+   },
+   {
+    "t": 5.399,
+    "w": "beauty"
+   },
+   {
+    "t": 5.798,
+    "w": "of"
+   },
+   {
+    "t": 5.878,
+    "w": "functions"
+   },
+   {
+    "t": 6.888,
+    "w": "write"
+   },
+   {
+    "t": 7.154,
+    "w": "once"
+   },
+   {
+    "t": 7.793,
+    "w": "use"
+   },
+   {
+    "t": 8.165,
+    "w": "everywhere"
+   }
+  ]
+ },
+ "w1": {
+  "text": "Now, the final pair.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.712,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.755,
+    "w": "the"
+   },
+   {
+    "t": 0.888,
+    "w": "final"
+   },
+   {
+    "t": 1.287,
+    "w": "pair"
+   }
+  ]
+ },
+ "w2": {
+  "text": "When matched pairs equals total pairs, finish game runs.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.848,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "When"
+   },
+   {
+    "t": 0.356,
+    "w": "matched"
+   },
+   {
+    "t": 0.781,
+    "w": "pairs"
+   },
+   {
+    "t": 1.18,
+    "w": "equals"
+   },
+   {
+    "t": 1.593,
+    "w": "total"
+   },
+   {
+    "t": 1.952,
+    "w": "pairs"
+   },
+   {
+    "t": 2.67,
+    "w": "finish"
+   },
+   {
+    "t": 3.055,
+    "w": "game"
+   },
+   {
+    "t": 3.361,
+    "w": "runs"
+   }
+  ]
+ },
+ "w3": {
+  "text": "It stops the timer, shows the final moves and time, plays a little three note tune, and shows the celebration screen!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.568,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "It"
+   },
+   {
+    "t": 0.289,
+    "w": "stops"
+   },
+   {
+    "t": 0.742,
+    "w": "the"
+   },
+   {
+    "t": 0.861,
+    "w": "timer"
+   },
+   {
+    "t": 1.539,
+    "w": "shows"
+   },
+   {
+    "t": 1.898,
+    "w": "the"
+   },
+   {
+    "t": 2.018,
+    "w": "final"
+   },
+   {
+    "t": 2.404,
+    "w": "moves"
+   },
+   {
+    "t": 2.789,
+    "w": "and"
+   },
+   {
+    "t": 2.922,
+    "w": "time"
+   },
+   {
+    "t": 3.68,
+    "w": "plays"
+   },
+   {
+    "t": 3.986,
+    "w": "a"
+   },
+   {
+    "t": 4.066,
+    "w": "little"
+   },
+   {
+    "t": 4.332,
+    "w": "three"
+   },
+   {
+    "t": 4.664,
+    "w": "note"
+   },
+   {
+    "t": 4.997,
+    "w": "tune"
+   },
+   {
+    "t": 5.688,
+    "w": "and"
+   },
+   {
+    "t": 5.835,
+    "w": "shows"
+   },
+   {
+    "t": 6.234,
+    "w": "the"
+   },
+   {
+    "t": 6.34,
+    "w": "celebration"
+   },
+   {
+    "t": 7.085,
+    "w": "screen"
+   }
+  ]
+ },
+ "o1": {
+  "text": "And there it is!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.088,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.289,
+    "w": "there"
+   },
+   {
+    "t": 0.515,
+    "w": "it"
+   },
+   {
+    "t": 0.635,
+    "w": "is"
+   }
+  ]
+ },
+ "o2": {
+  "text": "Your cards can flip, your game can recognise matching numbers, your timer can count, and your progress can change.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.064,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Your"
+   },
+   {
+    "t": 0.356,
+    "w": "cards"
+   },
+   {
+    "t": 0.755,
+    "w": "can"
+   },
+   {
+    "t": 0.928,
+    "w": "flip"
+   },
+   {
+    "t": 1.553,
+    "w": "your"
+   },
+   {
+    "t": 1.765,
+    "w": "game"
+   },
+   {
+    "t": 2.111,
+    "w": "can"
+   },
+   {
+    "t": 2.324,
+    "w": "recognise"
+   },
+   {
+    "t": 2.949,
+    "w": "matching"
+   },
+   {
+    "t": 3.374,
+    "w": "numbers"
+   },
+   {
+    "t": 4.093,
+    "w": "your"
+   },
+   {
+    "t": 4.265,
+    "w": "timer"
+   },
+   {
+    "t": 4.678,
+    "w": "can"
+   },
+   {
+    "t": 4.864,
+    "w": "count"
+   },
+   {
+    "t": 5.542,
+    "w": "and"
+   },
+   {
+    "t": 5.662,
+    "w": "your"
+   },
+   {
+    "t": 5.808,
+    "w": "progress"
+   },
+   {
+    "t": 6.34,
+    "w": "can"
+   },
+   {
+    "t": 6.539,
+    "w": "change"
+   }
+  ]
+ },
+ "o3": {
+  "text": "We have turned our code into a real game!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.36,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "We"
+   },
+   {
+    "t": 0.289,
+    "w": "have"
+   },
+   {
+    "t": 0.449,
+    "w": "turned"
+   },
+   {
+    "t": 0.755,
+    "w": "our"
+   },
+   {
+    "t": 0.901,
+    "w": "code"
+   },
+   {
+    "t": 1.3,
+    "w": "into"
+   },
+   {
+    "t": 1.579,
+    "w": "a"
+   },
+   {
+    "t": 1.646,
+    "w": "real"
+   },
+   {
+    "t": 1.992,
+    "w": "game"
+   }
+  ]
+ },
+ "o4": {
+  "text": "But before we call ourselves game creators, we have one final mission.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.256,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "But"
+   },
+   {
+    "t": 0.289,
+    "w": "before"
+   },
+   {
+    "t": 0.688,
+    "w": "we"
+   },
+   {
+    "t": 0.821,
+    "w": "call"
+   },
+   {
+    "t": 1.114,
+    "w": "ourselves"
+   },
+   {
+    "t": 1.632,
+    "w": "game"
+   },
+   {
+    "t": 1.925,
+    "w": "creators"
+   },
+   {
+    "t": 2.856,
+    "w": "we"
+   },
+   {
+    "t": 3.015,
+    "w": "have"
+   },
+   {
+    "t": 3.228,
+    "w": "one"
+   },
+   {
+    "t": 3.468,
+    "w": "final"
+   },
+   {
+    "t": 3.853,
+    "w": "mission"
+   }
+  ]
+ },
+ "o5": {
+  "text": "Let's test, improve, and personalise our creation!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.752,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.449,
+    "w": "test"
+   },
+   {
+    "t": 1.154,
+    "w": "improve"
+   },
+   {
+    "t": 2.058,
+    "w": "and"
+   },
+   {
+    "t": 2.204,
+    "w": "personalise"
+   },
+   {
+    "t": 2.976,
+    "w": "our"
+   },
+   {
+    "t": 3.108,
+    "w": "creation"
+   }
+  ]
+ }
+}

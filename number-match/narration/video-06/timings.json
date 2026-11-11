@@ -1,0 +1,2054 @@
+{
+ "i1": {
+  "text": "Welcome to our final lesson, creators!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.696,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Welcome"
+   },
+   {
+    "t": 0.595,
+    "w": "to"
+   },
+   {
+    "t": 0.742,
+    "w": "our"
+   },
+   {
+    "t": 0.888,
+    "w": "final"
+   },
+   {
+    "t": 1.327,
+    "w": "lesson"
+   },
+   {
+    "t": 1.952,
+    "w": "creators"
+   }
+  ]
+ },
+ "i2": {
+  "text": "Here are our three files, all finished. Before we share our game, we have one more important job: testing.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.048,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Here"
+   },
+   {
+    "t": 0.382,
+    "w": "are"
+   },
+   {
+    "t": 0.555,
+    "w": "our"
+   },
+   {
+    "t": 0.768,
+    "w": "three"
+   },
+   {
+    "t": 1.087,
+    "w": "files"
+   },
+   {
+    "t": 1.912,
+    "w": "all"
+   },
+   {
+    "t": 2.178,
+    "w": "finished"
+   },
+   {
+    "t": 3.723,
+    "w": "Before"
+   },
+   {
+    "t": 4.176,
+    "w": "we"
+   },
+   {
+    "t": 4.309,
+    "w": "share"
+   },
+   {
+    "t": 4.668,
+    "w": "our"
+   },
+   {
+    "t": 4.827,
+    "w": "game"
+   },
+   {
+    "t": 5.479,
+    "w": "we"
+   },
+   {
+    "t": 5.612,
+    "w": "have"
+   },
+   {
+    "t": 5.824,
+    "w": "one"
+   },
+   {
+    "t": 6.077,
+    "w": "more"
+   },
+   {
+    "t": 6.303,
+    "w": "important"
+   },
+   {
+    "t": 6.822,
+    "w": "job"
+   },
+   {
+    "t": 7.513,
+    "w": "testing"
+   }
+  ]
+ },
+ "i3": {
+  "text": "Developers save and test their work often. Save... and Run.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.048,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Developers"
+   },
+   {
+    "t": 0.808,
+    "w": "save"
+   },
+   {
+    "t": 1.207,
+    "w": "and"
+   },
+   {
+    "t": 1.34,
+    "w": "test"
+   },
+   {
+    "t": 1.699,
+    "w": "their"
+   },
+   {
+    "t": 1.872,
+    "w": "work"
+   },
+   {
+    "t": 2.138,
+    "w": "often"
+   },
+   {
+    "t": 3.564,
+    "w": "Save"
+   },
+   {
+    "t": 4.455,
+    "w": "and"
+   },
+   {
+    "t": 4.681,
+    "w": "Run"
+   }
+  ]
+ },
+ "t1": {
+  "text": "Let's play our game like a tester, and check every part.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.248,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.396,
+    "w": "play"
+   },
+   {
+    "t": 0.675,
+    "w": "our"
+   },
+   {
+    "t": 0.808,
+    "w": "game"
+   },
+   {
+    "t": 1.127,
+    "w": "like"
+   },
+   {
+    "t": 1.313,
+    "w": "a"
+   },
+   {
+    "t": 1.406,
+    "w": "tester"
+   },
+   {
+    "t": 2.178,
+    "w": "and"
+   },
+   {
+    "t": 2.311,
+    "w": "check"
+   },
+   {
+    "t": 2.63,
+    "w": "every"
+   },
+   {
+    "t": 2.869,
+    "w": "part"
+   }
+  ]
+ },
+ "t2": {
+  "text": "First, we select two cards. Do they flip? Yes!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.648,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "First"
+   },
+   {
+    "t": 0.888,
+    "w": "we"
+   },
+   {
+    "t": 1.047,
+    "w": "select"
+   },
+   {
+    "t": 1.593,
+    "w": "two"
+   },
+   {
+    "t": 1.805,
+    "w": "cards"
+   },
+   {
+    "t": 3.364,
+    "w": "Do"
+   },
+   {
+    "t": 3.511,
+    "w": "they"
+   },
+   {
+    "t": 3.683,
+    "w": "flip"
+   },
+   {
+    "t": 5.08,
+    "w": "Yes"
+   }
+  ]
+ },
+ "t3": {
+  "text": "Now let's find a matching pair. They turn green, and stay face up. Perfect.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.872,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.409,
+    "w": "let's"
+   },
+   {
+    "t": 0.688,
+    "w": "find"
+   },
+   {
+    "t": 0.981,
+    "w": "a"
+   },
+   {
+    "t": 1.034,
+    "w": "matching"
+   },
+   {
+    "t": 1.513,
+    "w": "pair"
+   },
+   {
+    "t": 2.899,
+    "w": "They"
+   },
+   {
+    "t": 3.112,
+    "w": "turn"
+   },
+   {
+    "t": 3.457,
+    "w": "green"
+   },
+   {
+    "t": 4.176,
+    "w": "and"
+   },
+   {
+    "t": 4.335,
+    "w": "stay"
+   },
+   {
+    "t": 4.641,
+    "w": "face"
+   },
+   {
+    "t": 5.013,
+    "w": "up"
+   },
+   {
+    "t": 6.237,
+    "w": "Perfect"
+   }
+  ]
+ },
+ "t4": {
+  "text": "Now two cards that don't match. They show for a moment, then turn back over. Correct!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 8.304,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.436,
+    "w": "two"
+   },
+   {
+    "t": 0.688,
+    "w": "cards"
+   },
+   {
+    "t": 1.087,
+    "w": "that"
+   },
+   {
+    "t": 1.26,
+    "w": "don't"
+   },
+   {
+    "t": 1.486,
+    "w": "match"
+   },
+   {
+    "t": 2.965,
+    "w": "They"
+   },
+   {
+    "t": 3.192,
+    "w": "show"
+   },
+   {
+    "t": 3.564,
+    "w": "for"
+   },
+   {
+    "t": 3.763,
+    "w": "a"
+   },
+   {
+    "t": 3.817,
+    "w": "moment"
+   },
+   {
+    "t": 4.495,
+    "w": "then"
+   },
+   {
+    "t": 4.747,
+    "w": "turn"
+   },
+   {
+    "t": 5.066,
+    "w": "back"
+   },
+   {
+    "t": 5.372,
+    "w": "over"
+   },
+   {
+    "t": 6.742,
+    "w": "Correct"
+   }
+  ]
+ },
+ "t5": {
+  "text": "Is the moves counter right? Three turns, three moves. Yes!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.272,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Is"
+   },
+   {
+    "t": 0.303,
+    "w": "the"
+   },
+   {
+    "t": 0.409,
+    "w": "moves"
+   },
+   {
+    "t": 0.781,
+    "w": "counter"
+   },
+   {
+    "t": 1.194,
+    "w": "right"
+   },
+   {
+    "t": 2.513,
+    "w": "Three"
+   },
+   {
+    "t": 2.926,
+    "w": "turns"
+   },
+   {
+    "t": 3.763,
+    "w": "three"
+   },
+   {
+    "t": 4.109,
+    "w": "moves"
+   },
+   {
+    "t": 5.705,
+    "w": "Yes"
+   }
+  ]
+ },
+ "t6": {
+  "text": "Is the timer counting? Yes. It started with our very first click.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.84,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Is"
+   },
+   {
+    "t": 0.303,
+    "w": "the"
+   },
+   {
+    "t": 0.422,
+    "w": "timer"
+   },
+   {
+    "t": 0.821,
+    "w": "counting"
+   },
+   {
+    "t": 2.301,
+    "w": "Yes"
+   },
+   {
+    "t": 3.83,
+    "w": "It"
+   },
+   {
+    "t": 4.016,
+    "w": "started"
+   },
+   {
+    "t": 4.468,
+    "w": "with"
+   },
+   {
+    "t": 4.614,
+    "w": "our"
+   },
+   {
+    "t": 4.761,
+    "w": "very"
+   },
+   {
+    "t": 5.066,
+    "w": "first"
+   },
+   {
+    "t": 5.465,
+    "w": "click"
+   }
+  ]
+ },
+ "t7": {
+  "text": "Let's finish the game... and there's the celebration screen.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.224,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.436,
+    "w": "finish"
+   },
+   {
+    "t": 0.808,
+    "w": "the"
+   },
+   {
+    "t": 0.928,
+    "w": "game"
+   },
+   {
+    "t": 1.566,
+    "w": "and"
+   },
+   {
+    "t": 1.672,
+    "w": "there's"
+   },
+   {
+    "t": 1.912,
+    "w": "the"
+   },
+   {
+    "t": 2.031,
+    "w": "celebration"
+   },
+   {
+    "t": 2.776,
+    "w": "screen"
+   }
+  ]
+ },
+ "t8": {
+  "text": "Play again starts a fresh game. And if we change the difficulty to Easy, we get four pairs.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.632,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Play"
+   },
+   {
+    "t": 0.409,
+    "w": "again"
+   },
+   {
+    "t": 0.781,
+    "w": "starts"
+   },
+   {
+    "t": 1.154,
+    "w": "a"
+   },
+   {
+    "t": 1.234,
+    "w": "fresh"
+   },
+   {
+    "t": 1.606,
+    "w": "game"
+   },
+   {
+    "t": 2.965,
+    "w": "And"
+   },
+   {
+    "t": 3.165,
+    "w": "if"
+   },
+   {
+    "t": 3.298,
+    "w": "we"
+   },
+   {
+    "t": 3.431,
+    "w": "change"
+   },
+   {
+    "t": 3.856,
+    "w": "the"
+   },
+   {
+    "t": 3.989,
+    "w": "difficulty"
+   },
+   {
+    "t": 4.614,
+    "w": "to"
+   },
+   {
+    "t": 4.787,
+    "w": "Easy"
+   },
+   {
+    "t": 5.439,
+    "w": "we"
+   },
+   {
+    "t": 5.585,
+    "w": "get"
+   },
+   {
+    "t": 5.771,
+    "w": "four"
+   },
+   {
+    "t": 6.09,
+    "w": "pairs"
+   }
+  ]
+ },
+ "t9": {
+  "text": "Everything works! Testing helps us find mistakes before other people do.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.288,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Everything"
+   },
+   {
+    "t": 0.648,
+    "w": "works"
+   },
+   {
+    "t": 2.181,
+    "w": "Testing"
+   },
+   {
+    "t": 2.673,
+    "w": "helps"
+   },
+   {
+    "t": 2.979,
+    "w": "us"
+   },
+   {
+    "t": 3.138,
+    "w": "find"
+   },
+   {
+    "t": 3.457,
+    "w": "mistakes"
+   },
+   {
+    "t": 3.989,
+    "w": "before"
+   },
+   {
+    "t": 4.428,
+    "w": "other"
+   },
+   {
+    "t": 4.641,
+    "w": "people"
+   },
+   {
+    "t": 4.973,
+    "w": "do"
+   }
+  ]
+ },
+ "d1": {
+  "text": "But what happens when something goes wrong? Let's look at a practice project.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.0,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "But"
+   },
+   {
+    "t": 0.303,
+    "w": "what"
+   },
+   {
+    "t": 0.489,
+    "w": "happens"
+   },
+   {
+    "t": 0.954,
+    "w": "when"
+   },
+   {
+    "t": 1.127,
+    "w": "something"
+   },
+   {
+    "t": 1.499,
+    "w": "goes"
+   },
+   {
+    "t": 1.779,
+    "w": "wrong"
+   },
+   {
+    "t": 3.165,
+    "w": "Let's"
+   },
+   {
+    "t": 3.457,
+    "w": "look"
+   },
+   {
+    "t": 3.697,
+    "w": "at"
+   },
+   {
+    "t": 3.777,
+    "w": "a"
+   },
+   {
+    "t": 3.856,
+    "w": "practice"
+   },
+   {
+    "t": 4.348,
+    "w": "project"
+   }
+  ]
+ },
+ "d2": {
+  "text": "In this practice project, someone typed styles dot C S S, with an extra S.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.504,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "In"
+   },
+   {
+    "t": 0.303,
+    "w": "this"
+   },
+   {
+    "t": 0.502,
+    "w": "practice"
+   },
+   {
+    "t": 0.981,
+    "w": "project"
+   },
+   {
+    "t": 1.819,
+    "w": "someone"
+   },
+   {
+    "t": 2.218,
+    "w": "typed"
+   },
+   {
+    "t": 2.55,
+    "w": "styles"
+   },
+   {
+    "t": 3.082,
+    "w": "dot"
+   },
+   {
+    "t": 3.308,
+    "w": "C"
+   },
+   {
+    "t": 3.574,
+    "w": "S"
+   },
+   {
+    "t": 3.787,
+    "w": "S"
+   },
+   {
+    "t": 4.412,
+    "w": "with"
+   },
+   {
+    "t": 4.571,
+    "w": "an"
+   },
+   {
+    "t": 4.704,
+    "w": "extra"
+   },
+   {
+    "t": 5.103,
+    "w": "S"
+   }
+  ]
+ },
+ "d3": {
+  "text": "We click Run... and oh no! All our colours and cards have disappeared.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.384,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "We"
+   },
+   {
+    "t": 0.316,
+    "w": "click"
+   },
+   {
+    "t": 0.635,
+    "w": "Run"
+   },
+   {
+    "t": 1.234,
+    "w": "and"
+   },
+   {
+    "t": 1.433,
+    "w": "oh"
+   },
+   {
+    "t": 1.539,
+    "w": "no"
+   },
+   {
+    "t": 2.965,
+    "w": "All"
+   },
+   {
+    "t": 3.311,
+    "w": "our"
+   },
+   {
+    "t": 3.457,
+    "w": "colours"
+   },
+   {
+    "t": 3.949,
+    "w": "and"
+   },
+   {
+    "t": 4.082,
+    "w": "cards"
+   },
+   {
+    "t": 4.508,
+    "w": "have"
+   },
+   {
+    "t": 4.668,
+    "w": "disappeared"
+   }
+  ]
+ },
+ "d4": {
+  "text": "Let's investigate. The HTML looks fine. The CSS looks fine. So, the problem must be the link between them.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 11.544,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.409,
+    "w": "investigate"
+   },
+   {
+    "t": 2.207,
+    "w": "The"
+   },
+   {
+    "t": 2.42,
+    "w": "HTML"
+   },
+   {
+    "t": 3.418,
+    "w": "looks"
+   },
+   {
+    "t": 3.71,
+    "w": "fine"
+   },
+   {
+    "t": 5.12,
+    "w": "The"
+   },
+   {
+    "t": 5.293,
+    "w": "CSS"
+   },
+   {
+    "t": 6.077,
+    "w": "looks"
+   },
+   {
+    "t": 6.396,
+    "w": "fine"
+   },
+   {
+    "t": 7.793,
+    "w": "So"
+   },
+   {
+    "t": 8.497,
+    "w": "the"
+   },
+   {
+    "t": 8.63,
+    "w": "problem"
+   },
+   {
+    "t": 9.082,
+    "w": "must"
+   },
+   {
+    "t": 9.322,
+    "w": "be"
+   },
+   {
+    "t": 9.455,
+    "w": "the"
+   },
+   {
+    "t": 9.588,
+    "w": "link"
+   },
+   {
+    "t": 9.894,
+    "w": "between"
+   },
+   {
+    "t": 10.306,
+    "w": "them"
+   }
+  ]
+ },
+ "d5": {
+  "text": "The file is called style dot C S S, but the link says styles dot C S S. The browser can't find a file with that name!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.912,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "The"
+   },
+   {
+    "t": 0.276,
+    "w": "file"
+   },
+   {
+    "t": 0.675,
+    "w": "is"
+   },
+   {
+    "t": 0.821,
+    "w": "called"
+   },
+   {
+    "t": 1.154,
+    "w": "style"
+   },
+   {
+    "t": 1.619,
+    "w": "dot"
+   },
+   {
+    "t": 1.845,
+    "w": "C"
+   },
+   {
+    "t": 2.098,
+    "w": "S"
+   },
+   {
+    "t": 2.311,
+    "w": "S"
+   },
+   {
+    "t": 2.989,
+    "w": "but"
+   },
+   {
+    "t": 3.135,
+    "w": "the"
+   },
+   {
+    "t": 3.268,
+    "w": "link"
+   },
+   {
+    "t": 3.534,
+    "w": "says"
+   },
+   {
+    "t": 3.813,
+    "w": "styles"
+   },
+   {
+    "t": 4.332,
+    "w": "dot"
+   },
+   {
+    "t": 4.558,
+    "w": "C"
+   },
+   {
+    "t": 4.811,
+    "w": "S"
+   },
+   {
+    "t": 5.037,
+    "w": "S"
+   },
+   {
+    "t": 6.423,
+    "w": "The"
+   },
+   {
+    "t": 6.596,
+    "w": "browser"
+   },
+   {
+    "t": 7.101,
+    "w": "can't"
+   },
+   {
+    "t": 7.38,
+    "w": "find"
+   },
+   {
+    "t": 7.686,
+    "w": "a"
+   },
+   {
+    "t": 7.753,
+    "w": "file"
+   },
+   {
+    "t": 8.178,
+    "w": "with"
+   },
+   {
+    "t": 8.311,
+    "w": "that"
+   },
+   {
+    "t": 8.524,
+    "w": "name"
+   }
+  ]
+ },
+ "d6": {
+  "text": "Let's remove the extra S, save, and run again.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.656,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Let's"
+   },
+   {
+    "t": 0.409,
+    "w": "remove"
+   },
+   {
+    "t": 0.808,
+    "w": "the"
+   },
+   {
+    "t": 0.914,
+    "w": "extra"
+   },
+   {
+    "t": 1.433,
+    "w": "S"
+   },
+   {
+    "t": 2.071,
+    "w": "save"
+   },
+   {
+    "t": 2.856,
+    "w": "and"
+   },
+   {
+    "t": 3.042,
+    "w": "run"
+   },
+   {
+    "t": 3.241,
+    "w": "again"
+   }
+  ]
+ },
+ "d7": {
+  "text": "Fixed! Finding and fixing mistakes like this is called debugging. Every developer does it, every single day.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.528,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Fixed"
+   },
+   {
+    "t": 1.689,
+    "w": "Finding"
+   },
+   {
+    "t": 2.247,
+    "w": "and"
+   },
+   {
+    "t": 2.367,
+    "w": "fixing"
+   },
+   {
+    "t": 2.846,
+    "w": "mistakes"
+   },
+   {
+    "t": 3.364,
+    "w": "like"
+   },
+   {
+    "t": 3.551,
+    "w": "this"
+   },
+   {
+    "t": 3.79,
+    "w": "is"
+   },
+   {
+    "t": 3.923,
+    "w": "called"
+   },
+   {
+    "t": 4.269,
+    "w": "debugging"
+   },
+   {
+    "t": 5.811,
+    "w": "Every"
+   },
+   {
+    "t": 6.17,
+    "w": "developer"
+   },
+   {
+    "t": 6.795,
+    "w": "does"
+   },
+   {
+    "t": 7.061,
+    "w": "it"
+   },
+   {
+    "t": 7.46,
+    "w": "every"
+   },
+   {
+    "t": 7.793,
+    "w": "single"
+   },
+   {
+    "t": 8.191,
+    "w": "day"
+   }
+  ]
+ },
+ "c1": {
+  "text": "Now it's your turn to make this game your own. Here are some challenges.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.736,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Now"
+   },
+   {
+    "t": 0.476,
+    "w": "it's"
+   },
+   {
+    "t": 0.609,
+    "w": "your"
+   },
+   {
+    "t": 0.755,
+    "w": "turn"
+   },
+   {
+    "t": 1.047,
+    "w": "to"
+   },
+   {
+    "t": 1.154,
+    "w": "make"
+   },
+   {
+    "t": 1.393,
+    "w": "this"
+   },
+   {
+    "t": 1.606,
+    "w": "game"
+   },
+   {
+    "t": 1.885,
+    "w": "your"
+   },
+   {
+    "t": 2.098,
+    "w": "own"
+   },
+   {
+    "t": 3.391,
+    "w": "Here"
+   },
+   {
+    "t": 3.63,
+    "w": "are"
+   },
+   {
+    "t": 3.75,
+    "w": "some"
+   },
+   {
+    "t": 3.989,
+    "w": "challenges"
+   }
+  ]
+ },
+ "c2": {
+  "text": "Challenge one: change the background colour of the page.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.416,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.622,
+    "w": "one"
+   },
+   {
+    "t": 1.234,
+    "w": "change"
+   },
+   {
+    "t": 1.606,
+    "w": "the"
+   },
+   {
+    "t": 1.726,
+    "w": "background"
+   },
+   {
+    "t": 2.311,
+    "w": "colour"
+   },
+   {
+    "t": 2.683,
+    "w": "of"
+   },
+   {
+    "t": 2.776,
+    "w": "the"
+   },
+   {
+    "t": 2.869,
+    "w": "page"
+   }
+  ]
+ },
+ "c3": {
+  "text": "Challenge two: change the heading to something new.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.008,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.688,
+    "w": "two"
+   },
+   {
+    "t": 1.34,
+    "w": "change"
+   },
+   {
+    "t": 1.739,
+    "w": "the"
+   },
+   {
+    "t": 1.845,
+    "w": "heading"
+   },
+   {
+    "t": 2.178,
+    "w": "to"
+   },
+   {
+    "t": 2.271,
+    "w": "something"
+   },
+   {
+    "t": 2.723,
+    "w": "new"
+   }
+  ]
+ },
+ "c4": {
+  "text": "Challenge three: try different Quicksand font weights, from three hundred to seven hundred.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 6.336,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.662,
+    "w": "three"
+   },
+   {
+    "t": 1.327,
+    "w": "try"
+   },
+   {
+    "t": 1.606,
+    "w": "different"
+   },
+   {
+    "t": 1.992,
+    "w": "Quicksand"
+   },
+   {
+    "t": 2.55,
+    "w": "font"
+   },
+   {
+    "t": 2.882,
+    "w": "weights"
+   },
+   {
+    "t": 3.587,
+    "w": "from"
+   },
+   {
+    "t": 3.813,
+    "w": "three"
+   },
+   {
+    "t": 4.106,
+    "w": "hundred"
+   },
+   {
+    "t": 4.412,
+    "w": "to"
+   },
+   {
+    "t": 4.505,
+    "w": "seven"
+   },
+   {
+    "t": 4.89,
+    "w": "hundred"
+   }
+  ]
+ },
+ "c5": {
+  "text": "Challenge four: change the number of pairs in one of the levels. You can go up to eight.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.008,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.622,
+    "w": "four"
+   },
+   {
+    "t": 1.287,
+    "w": "change"
+   },
+   {
+    "t": 1.672,
+    "w": "the"
+   },
+   {
+    "t": 1.765,
+    "w": "number"
+   },
+   {
+    "t": 2.098,
+    "w": "of"
+   },
+   {
+    "t": 2.218,
+    "w": "pairs"
+   },
+   {
+    "t": 2.696,
+    "w": "in"
+   },
+   {
+    "t": 2.869,
+    "w": "one"
+   },
+   {
+    "t": 3.042,
+    "w": "of"
+   },
+   {
+    "t": 3.135,
+    "w": "the"
+   },
+   {
+    "t": 3.241,
+    "w": "levels"
+   },
+   {
+    "t": 4.747,
+    "w": "You"
+   },
+   {
+    "t": 4.947,
+    "w": "can"
+   },
+   {
+    "t": 5.106,
+    "w": "go"
+   },
+   {
+    "t": 5.359,
+    "w": "up"
+   },
+   {
+    "t": 5.519,
+    "w": "to"
+   },
+   {
+    "t": 5.678,
+    "w": "eight"
+   }
+  ]
+ },
+ "c6": {
+  "text": "Challenge five: make the cards bigger or smaller.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.32,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.648,
+    "w": "five"
+   },
+   {
+    "t": 1.367,
+    "w": "make"
+   },
+   {
+    "t": 1.619,
+    "w": "the"
+   },
+   {
+    "t": 1.726,
+    "w": "cards"
+   },
+   {
+    "t": 2.111,
+    "w": "bigger"
+   },
+   {
+    "t": 2.59,
+    "w": "or"
+   },
+   {
+    "t": 2.749,
+    "w": "smaller"
+   }
+  ]
+ },
+ "c7": {
+  "text": "Challenge six: give the card backs a new colour.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.032,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Challenge"
+   },
+   {
+    "t": 0.648,
+    "w": "six"
+   },
+   {
+    "t": 1.38,
+    "w": "give"
+   },
+   {
+    "t": 1.593,
+    "w": "the"
+   },
+   {
+    "t": 1.699,
+    "w": "card"
+   },
+   {
+    "t": 2.045,
+    "w": "backs"
+   },
+   {
+    "t": 2.351,
+    "w": "a"
+   },
+   {
+    "t": 2.417,
+    "w": "new"
+   },
+   {
+    "t": 2.643,
+    "w": "colour"
+   }
+  ]
+ },
+ "c8": {
+  "text": "And challenge seven: create your very own version of the game. Maybe with letters, colours, or shapes instead of numbers?",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 9.384,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.329,
+    "w": "challenge"
+   },
+   {
+    "t": 0.821,
+    "w": "seven"
+   },
+   {
+    "t": 1.566,
+    "w": "create"
+   },
+   {
+    "t": 1.952,
+    "w": "your"
+   },
+   {
+    "t": 2.111,
+    "w": "very"
+   },
+   {
+    "t": 2.51,
+    "w": "own"
+   },
+   {
+    "t": 2.736,
+    "w": "version"
+   },
+   {
+    "t": 3.122,
+    "w": "of"
+   },
+   {
+    "t": 3.228,
+    "w": "the"
+   },
+   {
+    "t": 3.321,
+    "w": "game"
+   },
+   {
+    "t": 4.694,
+    "w": "Maybe"
+   },
+   {
+    "t": 5.093,
+    "w": "with"
+   },
+   {
+    "t": 5.266,
+    "w": "letters"
+   },
+   {
+    "t": 5.997,
+    "w": "colours"
+   },
+   {
+    "t": 6.755,
+    "w": "or"
+   },
+   {
+    "t": 6.941,
+    "w": "shapes"
+   },
+   {
+    "t": 7.367,
+    "w": "instead"
+   },
+   {
+    "t": 7.753,
+    "w": "of"
+   },
+   {
+    "t": 7.859,
+    "w": "numbers"
+   }
+  ]
+ },
+ "c9": {
+  "text": "Don't worry about breaking things. You can always fix them. That's how we learn!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.32,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Don't"
+   },
+   {
+    "t": 0.369,
+    "w": "worry"
+   },
+   {
+    "t": 0.662,
+    "w": "about"
+   },
+   {
+    "t": 0.968,
+    "w": "breaking"
+   },
+   {
+    "t": 1.393,
+    "w": "things"
+   },
+   {
+    "t": 2.872,
+    "w": "You"
+   },
+   {
+    "t": 3.072,
+    "w": "can"
+   },
+   {
+    "t": 3.258,
+    "w": "always"
+   },
+   {
+    "t": 3.683,
+    "w": "fix"
+   },
+   {
+    "t": 4.003,
+    "w": "them"
+   },
+   {
+    "t": 5.239,
+    "w": "That's"
+   },
+   {
+    "t": 5.559,
+    "w": "how"
+   },
+   {
+    "t": 5.718,
+    "w": "we"
+   },
+   {
+    "t": 5.878,
+    "w": "learn"
+   }
+  ]
+ },
+ "e1": {
+  "text": "Take a moment, and look at what you have achieved.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.672,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Take"
+   },
+   {
+    "t": 0.356,
+    "w": "a"
+   },
+   {
+    "t": 0.422,
+    "w": "moment"
+   },
+   {
+    "t": 1.114,
+    "w": "and"
+   },
+   {
+    "t": 1.273,
+    "w": "look"
+   },
+   {
+    "t": 1.473,
+    "w": "at"
+   },
+   {
+    "t": 1.566,
+    "w": "what"
+   },
+   {
+    "t": 1.752,
+    "w": "you"
+   },
+   {
+    "t": 1.872,
+    "w": "have"
+   },
+   {
+    "t": 2.045,
+    "w": "achieved"
+   }
+  ]
+ },
+ "e2": {
+  "text": "You started with an empty HTML document.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 3.864,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "You"
+   },
+   {
+    "t": 0.303,
+    "w": "started"
+   },
+   {
+    "t": 0.728,
+    "w": "with"
+   },
+   {
+    "t": 0.874,
+    "w": "an"
+   },
+   {
+    "t": 1.034,
+    "w": "empty"
+   },
+   {
+    "t": 1.38,
+    "w": "HTML"
+   },
+   {
+    "t": 2.244,
+    "w": "document"
+   }
+  ]
+ },
+ "e3": {
+  "text": "You learned how to structure a webpage, style it with CSS, and bring it to life using JavaScript.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.488,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "You"
+   },
+   {
+    "t": 0.356,
+    "w": "learned"
+   },
+   {
+    "t": 0.648,
+    "w": "how"
+   },
+   {
+    "t": 0.808,
+    "w": "to"
+   },
+   {
+    "t": 0.941,
+    "w": "structure"
+   },
+   {
+    "t": 1.446,
+    "w": "a"
+   },
+   {
+    "t": 1.526,
+    "w": "webpage"
+   },
+   {
+    "t": 2.483,
+    "w": "style"
+   },
+   {
+    "t": 2.949,
+    "w": "it"
+   },
+   {
+    "t": 3.055,
+    "w": "with"
+   },
+   {
+    "t": 3.215,
+    "w": "CSS"
+   },
+   {
+    "t": 4.279,
+    "w": "and"
+   },
+   {
+    "t": 4.465,
+    "w": "bring"
+   },
+   {
+    "t": 4.718,
+    "w": "it"
+   },
+   {
+    "t": 4.824,
+    "w": "to"
+   },
+   {
+    "t": 4.957,
+    "w": "life"
+   },
+   {
+    "t": 5.303,
+    "w": "using"
+   },
+   {
+    "t": 5.702,
+    "w": "JavaScript"
+   }
+  ]
+ },
+ "e4": {
+  "text": "And now, you have built your very own memory matching game!",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 4.584,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "And"
+   },
+   {
+    "t": 0.343,
+    "w": "now"
+   },
+   {
+    "t": 0.968,
+    "w": "you"
+   },
+   {
+    "t": 1.074,
+    "w": "have"
+   },
+   {
+    "t": 1.3,
+    "w": "built"
+   },
+   {
+    "t": 1.579,
+    "w": "your"
+   },
+   {
+    "t": 1.726,
+    "w": "very"
+   },
+   {
+    "t": 2.124,
+    "w": "own"
+   },
+   {
+    "t": 2.351,
+    "w": "memory"
+   },
+   {
+    "t": 2.71,
+    "w": "matching"
+   },
+   {
+    "t": 3.202,
+    "w": "game"
+   }
+  ]
+ },
+ "e5": {
+  "text": "Remember, every great developer started by learning one small thing at a time.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.64,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Remember"
+   },
+   {
+    "t": 0.888,
+    "w": "every"
+   },
+   {
+    "t": 1.22,
+    "w": "great"
+   },
+   {
+    "t": 1.539,
+    "w": "developer"
+   },
+   {
+    "t": 2.111,
+    "w": "started"
+   },
+   {
+    "t": 2.537,
+    "w": "by"
+   },
+   {
+    "t": 2.696,
+    "w": "learning"
+   },
+   {
+    "t": 3.122,
+    "w": "one"
+   },
+   {
+    "t": 3.401,
+    "w": "small"
+   },
+   {
+    "t": 3.787,
+    "w": "thing"
+   },
+   {
+    "t": 4.106,
+    "w": "at"
+   },
+   {
+    "t": 4.172,
+    "w": "a"
+   },
+   {
+    "t": 4.239,
+    "w": "time"
+   }
+  ]
+ },
+ "e6": {
+  "text": "Keep experimenting. Keep creating. And never stop being curious.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 7.032,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Keep"
+   },
+   {
+    "t": 0.382,
+    "w": "experimenting"
+   },
+   {
+    "t": 2.261,
+    "w": "Keep"
+   },
+   {
+    "t": 2.553,
+    "w": "creating"
+   },
+   {
+    "t": 4.109,
+    "w": "And"
+   },
+   {
+    "t": 4.335,
+    "w": "never"
+   },
+   {
+    "t": 4.654,
+    "w": "stop"
+   },
+   {
+    "t": 5.04,
+    "w": "being"
+   },
+   {
+    "t": 5.332,
+    "w": "curious"
+   }
+  ]
+ },
+ "e7": {
+  "text": "This is Paisley Studio.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 2.688,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "This"
+   },
+   {
+    "t": 0.382,
+    "w": "is"
+   },
+   {
+    "t": 0.542,
+    "w": "Paisley"
+   },
+   {
+    "t": 1.061,
+    "w": "Studio"
+   }
+  ]
+ },
+ "e8": {
+  "text": "Imagine it. Build it. Make it yours.",
+  "voice": "en-US-ChristopherNeural",
+  "duration": 5.352,
+  "words": [
+   {
+    "t": 0.103,
+    "w": "Imagine"
+   },
+   {
+    "t": 0.688,
+    "w": "it"
+   },
+   {
+    "t": 1.862,
+    "w": "Build"
+   },
+   {
+    "t": 2.181,
+    "w": "it"
+   },
+   {
+    "t": 3.351,
+    "w": "Make"
+   },
+   {
+    "t": 3.657,
+    "w": "it"
+   },
+   {
+    "t": 3.79,
+    "w": "yours"
+   }
+  ]
+ }
+}

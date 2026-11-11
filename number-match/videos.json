@@ -1,0 +1,8 @@
+{
+  "intro": { "video": "01", "compositionId": "PaisleyIntro", "output": "Paisley-Number-Match-01-Introduction" },
+  "html": { "video": "02", "compositionId": "PaisleyHTML", "output": "Paisley-Number-Match-02-HTML" },
+  "css": { "video": "03", "compositionId": "PaisleyCSS", "output": "Paisley-Number-Match-03-CSS" },
+  "javascript": { "video": "04", "compositionId": "PaisleyJavaScript", "output": "Paisley-Number-Match-04-JavaScript" },
+  "game-logic": { "video": "05", "compositionId": "PaisleyGameLogic", "output": "Paisley-Number-Match-05-Game-Logic" },
+  "finale": { "video": "06", "compositionId": "PaisleyFinale", "output": "Paisley-Number-Match-06-Finale" }
+}

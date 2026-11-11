@@ -1,0 +1,397 @@
+{
+  "video": 5,
+  "compositionId": "PaisleyGameLogic",
+  "title": "Making the Game Work",
+  "subtitle": "The Magic Behind Number Match",
+  "output": "Paisley-Number-Match-05-Game-Logic",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "opener",
+      "name": "Lesson opener",
+      "lead": 0.3,
+      "tail": 0.4,
+      "minDuration": 4,
+      "visual": "Lesson card: 'LESSON 5 · GAME LOGIC', with red/green/gold tiles interlocking.",
+      "camera": "Locked.",
+      "onScreen": "LESSON 5 · The Magic Behind Number Match",
+      "sfx": "Short sting.",
+      "music": "Bed in.",
+      "transition": "Cut to the IDE.",
+      "lines": []
+    },
+    {
+      "id": "together",
+      "name": "Three files, one team",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "IDE sidebar with the three files. Each one is clicked in turn and the editor shows its top section, with a coloured role tag: index.html (red, STRUCTURE), style.css (green, STYLE), script.js (gold, BEHAVIOUR). Three tiles join into one 'TEAM' shape.",
+      "camera": "Sidebar zoom.",
+      "onScreen": "STRUCTURE · STYLE · BEHAVIOUR",
+      "sfx": "Click per file.",
+      "music": "Bed low.",
+      "transition": "Open script.js at createDeck.",
+      "lines": [
+        {
+          "id": "t1",
+          "text": "Welcome back, creators! This is the lesson where everything comes together."
+        },
+        {
+          "id": "t2",
+          "text": "Here are our three files. Index dot html gives the structure. Style dot C S S makes it beautiful. And script dot J S brings it to life.",
+          "caption": "Here are our three files. index.html gives the structure. style.css makes it beautiful. And script.js brings it to life.",
+          "gap": 0.6
+        },
+        {
+          "id": "t3",
+          "text": "They each have their own job, but they work together as one team.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "deck",
+      "name": "createDeck and shuffle",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Code left (about 26px): createDeck, then shuffle. Right: a row of number cards. Array.from produces 1–6; the spread [...values, ...values] duplicates them into 12. In shuffle, an arrow marks 'index' at the last card and a gold marker jumps to a random card; the two swap with an arc. It repeats, stepping left, slowly for two steps and then fast. The final shuffled row matches the deck used in the next scene.",
+      "camera": "Locked on the split.",
+      "onScreen": "Array.from · ...values · Math.random() · swap",
+      "sfx": "Whoosh per swap.",
+      "music": "Bed very low.",
+      "transition": "Cards deal into the grid.",
+      "lines": [
+        {
+          "id": "d1",
+          "text": "Every game starts with a fresh deck."
+        },
+        {
+          "id": "d2",
+          "text": "Create deck receives a pair count, like six.",
+          "caption": "createDeck receives a pairCount, like 6.",
+          "gap": 0.6
+        },
+        {
+          "id": "d3",
+          "text": "Array dot from makes the numbers one to six.",
+          "caption": "Array.from makes the numbers 1 to 6.",
+          "gap": 0.6
+        },
+        {
+          "id": "d4",
+          "text": "Then, the three dots, called the spread operator, copy those numbers twice into one array. Six pairs, twelve cards.",
+          "gap": 0.8
+        },
+        {
+          "id": "d5",
+          "text": "Next, shuffle mixes them up.",
+          "gap": 0.8
+        },
+        {
+          "id": "d6",
+          "text": "It starts at the last card, picks a random position, and swaps the two cards. Then it moves one step to the left, and does it again, all the way to the start.",
+          "gap": 0.6
+        },
+        {
+          "id": "d7",
+          "text": "Math dot random picks a random number, so every game is different!",
+          "caption": "Math.random picks a random number, so every game is different!",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "flip",
+      "name": "flipCard",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Code left: flipCard, with the part being explained highlighted. Right: the live game grid. Two labelled slots, 'firstCard' and 'secondCard', sit above the grid and fill with mini copies of the clicked cards. The guard clause gets a STOP sign. With lockBoard true, a padlock appears over the grid and a third click bounces off.",
+      "camera": "Locked on the split, with a zoom on the slots.",
+      "onScreen": "return = stop here · firstCard · secondCard · lockBoard 🔒",
+      "sfx": "Click + flip, a bump on the rejected click.",
+      "music": "Bed very low.",
+      "transition": "Hold on two face-up cards.",
+      "lines": [
+        {
+          "id": "f1",
+          "text": "Now, let's turn over some cards. Here's flip card.",
+          "caption": "Now, let's turn over some cards. Here's flipCard."
+        },
+        {
+          "id": "f2",
+          "text": "When a card is clicked, flip card receives that exact card. That's how the game knows which one was chosen.",
+          "caption": "When a card is clicked, flipCard receives that exact card. That's how the game knows which one was chosen.",
+          "gap": 0.6
+        },
+        {
+          "id": "f3",
+          "text": "First, a safety check. If the board is locked, or the card is already face up or matched, we stop right there, with return.",
+          "gap": 0.8
+        },
+        {
+          "id": "f4",
+          "text": "Otherwise, we add the class is flipped. And our CSS spins the card around!",
+          "caption": "Otherwise, we add the class is-flipped. And our CSS spins the card around!",
+          "gap": 0.8
+        },
+        {
+          "id": "f5",
+          "text": "If there is no first card yet, this card becomes the first card, and we wait for another click.",
+          "gap": 0.8
+        },
+        {
+          "id": "f6",
+          "text": "If there already is a first card, this one becomes the second card. We add one to moves, and check for a match.",
+          "gap": 0.8
+        },
+        {
+          "id": "f7",
+          "text": "And while two cards that don't match are being shown, lock board is true. So a third card can't be turned over until they flip back.",
+          "caption": "And while two cards that don't match are being shown, lockBoard is true. So a third card can't be turned over until they flip back.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "match",
+      "name": "checkForMatch",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "MAIN TEACHING MOMENT. Code left: checkForMatch. Right: the game. Case 1: a 4 and a 4 → both turn green, matched count and progress go up, the YES branch is highlighted. Case 2: a 2 and a 6 → red outline flash, an 850ms timer ring counts down, the cards turn back, the ELSE branch is highlighted. Then resetTurn empties the two slots. The moves counter pulses on every pair of flips.",
+      "camera": "Push in on the branch being run.",
+      "onScreen": "isMatch · YES: is-matched · NO: wait 850ms, flip back · resetTurn()",
+      "sfx": "Game match tone (740 Hz) and miss tone (220 Hz).",
+      "music": "Bed very low.",
+      "transition": "Zoom on the TIME box.",
+      "lines": [
+        {
+          "id": "m1",
+          "text": "Here is the heart of our game: check for match.",
+          "caption": "Here is the heart of our game: checkForMatch."
+        },
+        {
+          "id": "m2",
+          "text": "It compares the numbers stored on the two cards.",
+          "gap": 0.6
+        },
+        {
+          "id": "m3",
+          "text": "If they match, both cards get the class is matched, and turn green. They stay face up, and matched pairs goes up by one.",
+          "caption": "If they match, both cards get the class is-matched, and turn green. They stay face up, and matchedPairs goes up by one.",
+          "gap": 1.0
+        },
+        {
+          "id": "m4",
+          "text": "If they don't match, we lock the board, and wait eight hundred and fifty milliseconds. That's less than one second. Then we turn both cards back over.",
+          "caption": "If they don't match, we lock the board, and wait 850 milliseconds. That's less than one second. Then we turn both cards back over.",
+          "gap": 1.0
+        },
+        {
+          "id": "m5",
+          "text": "Finally, reset turn clears the first and second card, and unlocks the board, ready for the next turn.",
+          "caption": "Finally, resetTurn clears the first and second card, and unlocks the board, ready for the next turn.",
+          "gap": 0.8
+        },
+        {
+          "id": "m6",
+          "text": "Watch the moves counter. Every time we turn over two cards, it goes up by one.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "timer",
+      "name": "Timer and progress",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Code: startTimer and formatTime, then updateStats. A big flat stopwatch ticks once per second next to the TIME stat box; '65 seconds → 01:05' is shown worked through. Then the progress bar: 3 / 6 × 100% = 50% is calculated on screen while the bar fills to half.",
+      "camera": "Zoom on the stats row.",
+      "onScreen": "setInterval(..., 1000) · 1000 ms = 1 second · 01:05 · 3 ÷ 6 × 100% = 50%",
+      "sfx": "Clock tick (soft), progress whoosh.",
+      "music": "Bed very low.",
+      "transition": "Cut to a speaker icon.",
+      "lines": [
+        {
+          "id": "n1",
+          "text": "Now, the timer."
+        },
+        {
+          "id": "n2",
+          "text": "The timer starts the very first time a card is flipped. Set interval runs a little piece of code every thousand milliseconds, which is one second.",
+          "caption": "The timer starts the very first time a card is flipped. setInterval runs a little piece of code every 1000 milliseconds, which is one second.",
+          "gap": 0.6
+        },
+        {
+          "id": "n3",
+          "text": "Each time, seconds goes up by one, and format time shows it as minutes and seconds.",
+          "caption": "Each time, seconds goes up by one, and formatTime shows it as minutes and seconds.",
+          "gap": 0.8
+        },
+        {
+          "id": "n4",
+          "text": "And here's the progress bar. Update stats sets its width to matched pairs, divided by total pairs, times one hundred percent.",
+          "caption": "And here's the progress bar. updateStats sets its width to matchedPairs ÷ totalPairs × 100%.",
+          "gap": 1.0
+        },
+        {
+          "id": "n5",
+          "text": "Three pairs out of six? The bar is half full!",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "sound",
+      "name": "Sounds and feedback",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Code: playTone (signature only, with the three calls highlighted in turn). A flat waveform line draws for each note at its real pitch: 520 Hz triangle (flip), 740 Hz (match), 220 Hz (miss). Then the message line under the grid changes through its three messages.",
+      "camera": "Locked.",
+      "onScreen": "Web Audio API · no audio files needed · 520 Hz · 740 Hz · 220 Hz",
+      "sfx": "Each tone played exactly, as the game makes it.",
+      "music": "Bed ducked fully during the tones.",
+      "transition": "Zoom to the difficulty select.",
+      "lines": [
+        {
+          "id": "s1",
+          "text": "Great games give feedback, so players know what's happening."
+        },
+        {
+          "id": "s2",
+          "text": "Our sounds don't come from audio files. The browser makes them itself, using the Web Audio A P I.",
+          "caption": "Our sounds don't come from audio files. The browser makes them itself, using the Web Audio API.",
+          "gap": 0.6
+        },
+        {
+          "id": "s3",
+          "text": "Play tone creates a tiny musical note. A short, bright note for a flip...",
+          "caption": "playTone creates a tiny musical note. A short, bright note for a flip...",
+          "gap": 0.8
+        },
+        {
+          "id": "s4",
+          "text": "...a higher, happy note for a match...",
+          "gap": 0.9
+        },
+        {
+          "id": "s5",
+          "text": "...and a low, gentle note when the cards don't match.",
+          "gap": 0.9
+        },
+        {
+          "id": "s6",
+          "text": "The message under the grid gives feedback with words, too.",
+          "gap": 1.0
+        }
+      ]
+    },
+    {
+      "id": "difficulty",
+      "name": "Difficulty and restart",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "The select opens: Easy · 4 pairs, Medium · 6 pairs, Challenge · 8 pairs. Each level is picked in turn and the grid rebuilds with 8, 12, then 16 cards. Code: difficulty.addEventListener(\"change\", startNewGame) highlighted, then startNewGame's reset lines. Finally three arrows from Restart, Play again and the select all point to one startNewGame() tile.",
+      "camera": "Preview zoom, then code.",
+      "onScreen": "Easy 4 · Medium 6 · Challenge 8 · change → startNewGame() · write once, use everywhere",
+      "sfx": "Click, deal sounds per rebuild.",
+      "music": "Bed low.",
+      "transition": "Back to Medium, one pair left.",
+      "lines": [
+        {
+          "id": "l1",
+          "text": "Players can choose their challenge."
+        },
+        {
+          "id": "l2",
+          "text": "Easy has four pairs. Medium has six. And Challenge has eight.",
+          "gap": 0.6
+        },
+        {
+          "id": "l3",
+          "text": "When the player picks a new level, the change event runs start new game.",
+          "caption": "When the player picks a new level, the change event runs startNewGame.",
+          "gap": 0.8
+        },
+        {
+          "id": "l4",
+          "text": "Start new game resets everything: the moves, the timer, and the matched pairs. Then it builds a fresh board.",
+          "caption": "startNewGame resets everything: the moves, the timer, and the matched pairs. Then it builds a fresh board.",
+          "gap": 0.8
+        },
+        {
+          "id": "l5",
+          "text": "The Restart button and the Play again button run the very same function. That's the beauty of functions: write once, use everywhere.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "finish",
+      "name": "Completion",
+      "lead": 0.4,
+      "tail": 1.4,
+      "visual": "Game with one pair left. The cursor flips the last pair; the progress bar reaches 100%. Code: 'if (matchedPairs === totalPairs) finishGame();' highlighted, then finishGame's steps tick off a checklist (stop timer, final moves/time, message, celebration). The win overlay rises with the three-note tune.",
+      "camera": "Push in on the overlay.",
+      "onScreen": "matchedPairs === totalPairs → finishGame()",
+      "sfx": "Flip, match, three-note win tune (660/830/990 Hz).",
+      "music": "Bed rises.",
+      "transition": "Hold on the celebration.",
+      "lines": [
+        {
+          "id": "w1",
+          "text": "Now, the final pair."
+        },
+        {
+          "id": "w2",
+          "text": "When matched pairs equals total pairs, finish game runs.",
+          "caption": "When matchedPairs equals totalPairs, finishGame runs.",
+          "gap": 1.4
+        },
+        {
+          "id": "w3",
+          "text": "It stops the timer, shows the final moves and time, plays a little three note tune, and shows the celebration screen!",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Closing",
+      "lead": 0.4,
+      "tail": 2.2,
+      "visual": "A quick replay montage of flip, match, timer and progress. End card: 'Next: Testing, Creativity and the Grand Finale'.",
+      "camera": "Locked.",
+      "onScreen": "Next: You Are Now a Game Creator!",
+      "sfx": "Sting.",
+      "music": "Bed up and out.",
+      "transition": "End card.",
+      "lines": [
+        {
+          "id": "o1",
+          "text": "And there it is!"
+        },
+        {
+          "id": "o2",
+          "text": "Your cards can flip, your game can recognise matching numbers, your timer can count, and your progress can change.",
+          "gap": 0.5
+        },
+        {
+          "id": "o3",
+          "text": "We have turned our code into a real game!",
+          "gap": 0.6
+        },
+        {
+          "id": "o4",
+          "text": "But before we call ourselves game creators, we have one final mission.",
+          "gap": 0.8
+        },
+        {
+          "id": "o5",
+          "text": "Let's test, improve, and personalise our creation!",
+          "gap": 0.5
+        }
+      ]
+    }
+  ]
+}

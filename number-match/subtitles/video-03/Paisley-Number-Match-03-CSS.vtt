@@ -1,0 +1,364 @@
+WEBVTT
+
+00:00:04.400 --> 00:00:07.433
+Welcome back, creators!
+
+00:00:07.433 --> 00:00:09.433
+Last time, we built the structure
+
+00:00:09.433 --> 00:00:12.767
+of Number Match with HTML.
+
+00:00:12.933 --> 00:00:18.133
+Today, we start turning this plain page... into this!
+
+00:00:18.533 --> 00:00:22.033
+This is the power of CSS.
+
+00:00:22.800 --> 00:00:26.867
+CSS stands for Cascading Style Sheets.
+
+00:00:26.867 --> 00:00:29.333
+It controls how our webpage looks:
+
+00:00:29.333 --> 00:00:34.600
+the colours, the sizes, the spacing, and even the movement.
+
+00:00:34.767 --> 00:00:37.367
+Click the new file button,
+
+00:00:37.367 --> 00:00:40.933
+type style.css, and press Enter.
+
+00:00:41.500 --> 00:00:44.833
+We keep our styles in their own file.
+
+00:00:44.833 --> 00:00:48.300
+That way, HTML looks after the structure,
+
+00:00:48.300 --> 00:00:53.400
+CSS looks after the style, and everything stays tidy.
+
+00:00:53.600 --> 00:00:56.033
+Now go back to index.html.
+
+00:00:56.033 --> 00:00:59.200
+Inside the <head>, just before the
+
+00:00:59.200 --> 00:01:02.933
+closing </head> tag, type this link.
+
+00:01:03.733 --> 00:01:06.900
+rel="stylesheet" tells the browser
+
+00:01:06.900 --> 00:01:09.333
+that this is a style file.
+
+00:01:09.333 --> 00:01:14.000
+And href tells it where to find it: style.css.
+
+00:01:14.767 --> 00:01:18.500
+Let's write our first CSS rule.
+
+00:01:18.667 --> 00:01:21.233
+First comes the selector.
+
+00:01:21.233 --> 00:01:25.000
+It tells the browser which elements we want to style.
+
+00:01:25.000 --> 00:01:28.133
+Here, we choose the body.
+
+00:01:28.333 --> 00:01:31.267
+Then a pair of curly brackets.
+
+00:01:31.267 --> 00:01:35.600
+Everything inside them is called a declaration block.
+
+00:01:35.767 --> 00:01:39.867
+Inside, we write a property, a colon, and a value.
+
+00:01:39.867 --> 00:01:42.567
+background-color is the property,
+
+00:01:42.567 --> 00:01:45.767
+and this colour code is the value.
+
+00:01:45.933 --> 00:01:48.900
+And every declaration ends with a semicolon,
+
+00:01:48.900 --> 00:01:52.467
+like a full stop at the end of a sentence.
+
+00:01:52.867 --> 00:01:57.833
+The second declaration sets our font-family to Quicksand.
+
+00:01:57.833 --> 00:02:03.133
+But wait! The browser needs to download Quicksand first.
+
+00:02:03.900 --> 00:02:07.633
+Websites can use thousands of different fonts.
+
+00:02:07.633 --> 00:02:11.333
+Many of them are free on Google Fonts.
+
+00:02:11.500 --> 00:02:16.233
+Open your browser and go to fonts.google.com.
+
+00:02:16.633 --> 00:02:20.567
+Search for Quicksand, and click on it.
+
+00:02:20.967 --> 00:02:25.067
+Click Get font, and then Get embed code.
+
+00:02:25.467 --> 00:02:28.300
+Make sure the weights we need are
+
+00:02:28.300 --> 00:02:30.600
+chosen, from 400 up to 700.
+
+00:02:30.600 --> 00:02:34.700
+The higher the number, the bolder the text.
+
+00:02:35.067 --> 00:02:39.300
+Now copy the link code that Google gives us.
+
+00:02:39.667 --> 00:02:43.067
+Back in Paisley Studio, paste it inside the
+
+00:02:43.067 --> 00:02:46.167
+<head>, above our stylesheet link.
+
+00:02:46.367 --> 00:02:49.733
+The two preconnect lines help the font load quickly,
+
+00:02:49.733 --> 00:02:53.733
+and the last link downloads Quicksand itself.
+
+00:02:53.900 --> 00:02:56.367
+Remember: the browser needs an internet
+
+00:02:56.367 --> 00:02:59.867
+connection to download a Google Font.
+
+00:03:00.667 --> 00:03:05.300
+Now let's build our design, starting with our colours.
+
+00:03:05.500 --> 00:03:08.567
+At the very top of style.css,
+
+00:03:08.567 --> 00:03:13.000
+we create CSS variables, inside :root.
+
+00:03:13.367 --> 00:03:17.067
+A variable is a colour with a name.
+
+00:03:17.067 --> 00:03:23.633
+--green is our deep forest green. --red is our bright red.
+
+00:03:24.033 --> 00:03:26.567
+To use a variable, we write var(),
+
+00:03:26.567 --> 00:03:29.500
+with the name inside the brackets.
+
+00:03:29.900 --> 00:03:32.833
+Here's why that's so clever.
+
+00:03:32.833 --> 00:03:36.767
+If we change --red in one place...
+
+00:03:36.767 --> 00:03:41.233
+...every part of the design that uses it changes too!
+
+00:03:42.000 --> 00:03:45.500
+Next, the page and the header.
+
+00:03:45.867 --> 00:03:49.367
+The .app-shell keeps our game a comfortable width,
+
+00:03:49.367 --> 00:03:52.800
+and margin: 0 auto places it in the middle.
+
+00:03:53.200 --> 00:03:55.100
+The .topbar uses display:
+
+00:03:55.100 --> 00:03:57.900
+flex, which lines things up in a row.
+
+00:03:57.900 --> 00:04:01.467
+justify-content: space-between pushes the brand
+
+00:04:01.467 --> 00:04:04.767
+to the left, and the tag to the right.
+
+00:04:05.167 --> 00:04:06.800
+The heading becomes big,
+
+00:04:06.800 --> 00:04:11.500
+bold and green, and the span inside it turns red.
+
+00:04:11.867 --> 00:04:14.300
+The game panel gets a white background,
+
+00:04:14.300 --> 00:04:17.667
+a border, and rounded corners.
+
+00:04:18.067 --> 00:04:19.933
+The stats use display:
+
+00:04:19.933 --> 00:04:24.500
+grid, with three equal columns, one for each box.
+
+00:04:24.900 --> 00:04:27.667
+And the progress fill is red.
+
+00:04:27.667 --> 00:04:30.767
+Its width starts at zero percent.
+
+00:04:30.767 --> 00:04:34.500
+Later, JavaScript will make it grow.
+
+00:04:35.267 --> 00:04:39.033
+Now for my favourite part: the number card.
+
+00:04:39.033 --> 00:04:41.933
+Our grid is still empty, because JavaScript
+
+00:04:41.933 --> 00:04:44.933
+will create the cards in a later lesson.
+
+00:04:44.933 --> 00:04:49.300
+So let's zoom in and design one card right now.
+
+00:04:49.500 --> 00:04:52.867
+We start with a white rectangle.
+
+00:04:53.067 --> 00:04:56.600
+border-radius rounds the corners.
+
+00:04:56.767 --> 00:05:01.300
+Then a thick red border, five pixels wide.
+
+00:05:01.500 --> 00:05:03.667
+Inside, the number circle.
+
+00:05:03.667 --> 00:05:06.267
+Its width and height are equal,
+
+00:05:06.267 --> 00:05:11.700
+and border-radius: 50% turns a square into a perfect circle.
+
+00:05:11.900 --> 00:05:15.100
+background-color makes it red.
+
+00:05:15.267 --> 00:05:17.300
+display: grid and place-items:
+
+00:05:17.300 --> 00:05:20.667
+center put the number exactly in the middle.
+
+00:05:20.833 --> 00:05:23.600
+font-size makes the number large,
+
+00:05:23.600 --> 00:05:26.900
+and font-weight: 700 makes it bold.
+
+00:05:27.067 --> 00:05:31.000
+And finally, the number word underneath.
+
+00:05:31.600 --> 00:05:35.067
+Here's our card next to the original design.
+
+00:05:35.067 --> 00:05:39.033
+The same bold style, made with code!
+
+00:05:39.433 --> 00:05:41.833
+The game grid places our cards in four
+
+00:05:41.833 --> 00:05:45.233
+columns, with a gap between them.
+
+00:05:46.233 --> 00:05:49.400
+But how do the cards flip over?
+
+00:05:49.567 --> 00:05:55.200
+Every card has two faces: a green back, and a white front.
+
+00:05:55.567 --> 00:05:59.267
+transform: rotateY(180deg) spins an
+
+00:05:59.267 --> 00:06:03.500
+element around, like turning a page.
+
+00:06:03.900 --> 00:06:06.567
+The front starts already turned around,
+
+00:06:06.567 --> 00:06:11.667
+and backface-visibility: hidden makes the side facing away invisible.
+
+00:06:12.033 --> 00:06:14.867
+When a card gets the class is-flipped,
+
+00:06:14.867 --> 00:06:18.833
+the inside turns around, and the number appears.
+
+00:06:19.233 --> 00:06:23.300
+The transition makes the turn smooth instead of sudden.
+
+00:06:23.300 --> 00:06:26.667
+It takes just over half a second.
+
+00:06:27.033 --> 00:06:30.200
+And when a pair matches, the class is-matched
+
+00:06:30.200 --> 00:06:33.267
+turns the border and the circle green.
+
+00:06:34.267 --> 00:06:36.067
+Last one.
+
+00:06:36.067 --> 00:06:37.500
+People will play our game on
+
+00:06:37.500 --> 00:06:41.167
+computers, tablets and phones.
+
+00:06:41.333 --> 00:06:44.067
+A media query lets us change
+
+00:06:44.067 --> 00:06:47.200
+styles when the screen is small.
+
+00:06:47.200 --> 00:06:49.467
+max-width: 650px means:
+
+00:06:49.467 --> 00:06:54.167
+only on screens 650 pixels wide or narrower.
+
+00:06:54.567 --> 00:06:57.967
+On small screens, the cards get thinner borders,
+
+00:06:57.967 --> 00:07:03.400
+smaller gaps, and smaller numbers, so everything still fits.
+
+00:07:03.567 --> 00:07:06.900
+That's called responsive design.
+
+00:07:07.867 --> 00:07:10.800
+Look at what we have created!
+
+00:07:10.800 --> 00:07:15.167
+Our simple page is now becoming a beautiful game.
+
+00:07:15.567 --> 00:07:19.433
+But our cards still need something important.
+
+00:07:19.633 --> 00:07:22.200
+They need a brain.
+
+00:07:22.400 --> 00:07:24.367
+Next, we are going to introduce
+
+00:07:24.367 --> 00:07:28.433
+JavaScript, and teach our game how to think!

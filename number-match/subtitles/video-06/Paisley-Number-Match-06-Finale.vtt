@@ -1,0 +1,199 @@
+WEBVTT
+
+00:00:04.400 --> 00:00:08.500
+Welcome to our final lesson, creators!
+
+00:00:08.700 --> 00:00:12.433
+Here are our three files, all finished.
+
+00:00:12.433 --> 00:00:14.167
+Before we share our game,
+
+00:00:14.167 --> 00:00:18.167
+we have one more important job: testing.
+
+00:00:18.333 --> 00:00:22.800
+Developers save and test their work often. Save...
+
+00:00:22.800 --> 00:00:24.800
+and Run.
+
+00:00:25.600 --> 00:00:30.267
+Let's play our game like a tester, and check every part.
+
+00:00:30.633 --> 00:00:37.700
+First, we select two cards. Do they flip? Yes!
+
+00:00:38.300 --> 00:00:41.200
+Now let's find a matching pair.
+
+00:00:41.200 --> 00:00:46.600
+They turn green, and stay face up. Perfect.
+
+00:00:47.167 --> 00:00:50.133
+Now two cards that don't match.
+
+00:00:50.133 --> 00:00:55.900
+They show for a moment, then turn back over. Correct!
+
+00:00:56.267 --> 00:01:03.967
+Is the moves counter right? Three turns, three moves. Yes!
+
+00:01:04.333 --> 00:01:08.167
+Is the timer counting? Yes.
+
+00:01:08.167 --> 00:01:11.600
+It started with our very first click.
+
+00:01:12.200 --> 00:01:13.767
+Let's finish the game...
+
+00:01:13.767 --> 00:01:16.833
+and there's the celebration screen.
+
+00:01:17.400 --> 00:01:20.367
+Play again starts a fresh game.
+
+00:01:20.367 --> 00:01:22.033
+And if we change the difficulty
+
+00:01:22.033 --> 00:01:25.433
+to Easy, we get four pairs.
+
+00:01:25.833 --> 00:01:28.033
+Everything works!
+
+00:01:28.033 --> 00:01:32.533
+Testing helps us find mistakes before other people do.
+
+00:01:33.533 --> 00:01:36.700
+But what happens when something goes wrong?
+
+00:01:36.700 --> 00:01:39.933
+Let's look at a practice project.
+
+00:01:40.333 --> 00:01:42.767
+In this practice project,
+
+00:01:42.767 --> 00:01:47.267
+someone typed styles.css, with an extra s.
+
+00:01:47.633 --> 00:01:50.600
+We click Run... and oh no!
+
+00:01:50.600 --> 00:01:54.433
+All our colours and cards have disappeared.
+
+00:01:54.833 --> 00:01:59.933
+Let's investigate. The HTML looks fine.
+
+00:01:59.933 --> 00:02:02.600
+The CSS looks fine.
+
+00:02:02.600 --> 00:02:06.800
+So, the problem must be the link between them.
+
+00:02:07.167 --> 00:02:09.967
+The file is called style.css,
+
+00:02:09.967 --> 00:02:12.767
+but the link says styles.css.
+
+00:02:12.767 --> 00:02:17.500
+The browser can't find a file with that name!
+
+00:02:17.867 --> 00:02:22.933
+Let's remove the extra s, save, and run again.
+
+00:02:23.733 --> 00:02:25.433
+Fixed!
+
+00:02:25.433 --> 00:02:29.533
+Finding and fixing mistakes like this is called debugging.
+
+00:02:29.533 --> 00:02:33.667
+Every developer does it, every single day.
+
+00:02:34.667 --> 00:02:38.067
+Now it's your turn to make this game your own.
+
+00:02:38.067 --> 00:02:40.833
+Here are some challenges.
+
+00:02:41.200 --> 00:02:46.033
+Challenge one: change the background colour of the page.
+
+00:02:46.433 --> 00:02:50.867
+Challenge two: change the heading to something new.
+
+00:02:51.233 --> 00:02:53.967
+Challenge three: try different
+
+00:02:53.967 --> 00:02:58.000
+Quicksand font weights, from 300 to 700.
+
+00:02:58.367 --> 00:03:00.467
+Challenge four: change the number
+
+00:03:00.467 --> 00:03:03.100
+of pairs in one of the levels.
+
+00:03:03.100 --> 00:03:05.800
+You can go up to eight.
+
+00:03:06.167 --> 00:03:10.900
+Challenge five: make the cards bigger or smaller.
+
+00:03:11.300 --> 00:03:15.733
+Challenge six: give the card backs a new colour.
+
+00:03:16.133 --> 00:03:17.700
+And challenge seven:
+
+00:03:17.700 --> 00:03:20.833
+create your very own version of the game.
+
+00:03:20.833 --> 00:03:25.933
+Maybe with letters, colours, or shapes instead of numbers?
+
+00:03:26.300 --> 00:03:29.167
+Don't worry about breaking things.
+
+00:03:29.167 --> 00:03:34.033
+You can always fix them. That's how we learn!
+
+00:03:47.233 --> 00:03:51.333
+Take a moment, and look at what you have achieved.
+
+00:03:51.500 --> 00:03:55.767
+You started with an empty HTML document.
+
+00:03:55.967 --> 00:03:58.467
+You learned how to structure a webpage,
+
+00:03:58.467 --> 00:04:03.867
+style it with CSS, and bring it to life using JavaScript.
+
+00:04:04.067 --> 00:04:06.167
+And now, you have built your very
+
+00:04:06.167 --> 00:04:09.067
+own memory matching game!
+
+00:04:09.633 --> 00:04:12.333
+Remember, every great developer started by
+
+00:04:12.333 --> 00:04:15.700
+learning one small thing at a time.
+
+00:04:15.867 --> 00:04:20.000
+Keep experimenting. Keep creating.
+
+00:04:20.000 --> 00:04:23.300
+And never stop being curious.
+
+00:04:23.900 --> 00:04:27.000
+This is Paisley Studio.
+
+00:04:27.100 --> 00:04:32.867
+Imagine it. Build it. Make it yours.

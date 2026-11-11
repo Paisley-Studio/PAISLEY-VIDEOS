@@ -1,0 +1,420 @@
+{
+  "video": 2,
+  "compositionId": "PaisleyHTML",
+  "title": "HTML: Building the Foundation",
+  "subtitle": "Let's Give Our Game Its Structure",
+  "output": "Paisley-Number-Match-02-HTML",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "opener",
+      "name": "Lesson opener",
+      "lead": 0.3,
+      "tail": 0.4,
+      "minDuration": 4,
+      "visual": "Branded lesson card: 'LESSON 2 · HTML' red tile, title 'Building the Foundation'. Flat cards slide away.",
+      "camera": "Locked.",
+      "onScreen": "LESSON 2 · HTML: Building the Foundation",
+      "sfx": "Logo sting (short).",
+      "music": "Bed in.",
+      "transition": "Push into the IDE.",
+      "lines": []
+    },
+    {
+      "id": "tour",
+      "name": "Welcome to Paisley Studio",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "The full Paisley IDE with an empty project. One ring at a time: sidebar, then each of the three sidebar buttons (with a tooltip label), then a file row showing the pencil and bin, the editor, the preview, then Save and Run. The rest of the UI stays visible but is never all highlighted at once.",
+      "camera": "Gentle zoom toward each highlighted area, back out between groups.",
+      "onScreen": "Labels: PROJECT FILES · NEW FILE · NEW FOLDER · UPLOAD · RENAME · DELETE · CODE EDITOR · PREVIEW · SAVE · RUN",
+      "sfx": "Soft tick on each highlight.",
+      "music": "Bed low.",
+      "transition": "Zoom to the new-file button.",
+      "lines": [
+        {
+          "id": "w1",
+          "text": "Welcome back, future creators!"
+        },
+        {
+          "id": "w2",
+          "text": "Before we start building our game, let's get comfortable with our workspace. This is Paisley Studio.",
+          "gap": 0.5
+        },
+        {
+          "id": "w3",
+          "text": "On the left, we have our project area. This is where we see and organise our files.",
+          "gap": 0.6
+        },
+        {
+          "id": "w4",
+          "text": "These three buttons at the top are very useful.",
+          "gap": 0.5
+        },
+        {
+          "id": "w5",
+          "text": "The first button creates a new file.",
+          "gap": 0.4
+        },
+        {
+          "id": "w6",
+          "text": "The second button creates a new folder. Folders help us keep our work tidy.",
+          "gap": 0.5
+        },
+        {
+          "id": "w7",
+          "text": "And the third button uploads files, like pictures, from your computer into your project.",
+          "gap": 0.5
+        },
+        {
+          "id": "w8",
+          "text": "When you choose a file, a pencil and a bin appear next to it. The pencil renames the file, and the bin deletes it.",
+          "gap": 0.6
+        },
+        {
+          "id": "w9",
+          "text": "In the middle is our code editor. This is where we write our instructions for the computer.",
+          "gap": 0.7
+        },
+        {
+          "id": "w10",
+          "text": "And over here, on the right, is our preview. This is where we see what our work looks like.",
+          "gap": 0.6
+        },
+        {
+          "id": "w11",
+          "text": "Up at the top are two important buttons. Save keeps our work safe, and Run shows our latest changes in the preview.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "newfile",
+      "name": "Create index.html",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "The cursor clicks the new-file button. A name box appears in the sidebar and 'index.html' types in. Enter: the file appears with its HTML icon and opens in the editor (empty). Then a full-frame explainer: 'HTML = HyperText Markup Language' with the letters building up; a skeleton/frame metaphor drawn as flat boxes.",
+      "camera": "Zoom on the sidebar, then cut to the explainer.",
+      "onScreen": "index.html · HTML = HyperText Markup Language · STRUCTURE",
+      "sfx": "Click, typing, pop when the file appears.",
+      "music": "Bed low.",
+      "transition": "Back to the editor.",
+      "lines": [
+        {
+          "id": "n1",
+          "text": "Let's create our very first file. Click the new file button."
+        },
+        {
+          "id": "n2",
+          "text": "Type the name index dot html, and press Enter.",
+          "caption": "Type the name index.html, and press Enter.",
+          "gap": 0.5
+        },
+        {
+          "id": "n3",
+          "text": "There it is, in our project area!",
+          "gap": 1.2
+        },
+        {
+          "id": "n4",
+          "text": "HTML stands for HyperText Markup Language.",
+          "gap": 0.6
+        },
+        {
+          "id": "n5",
+          "text": "It is the language that gives a webpage its structure, a bit like the frame that holds up a house.",
+          "gap": 0.4
+        }
+      ]
+    },
+    {
+      "id": "emmet",
+      "name": "The Emmet shortcut",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "The cursor clicks in the editor. A keyboard overlay (flat keycaps) shows SHIFT held and 1 pressed; '!' appears on line 1 with Emmet's suggestion. The ENTER key presses and the boilerplate expands line by line.",
+      "camera": "Push in on the editor. The keyboard overlay sits below the code, above the subtitles.",
+      "onScreen": "SHIFT + 1 = ! · ENTER · Emmet",
+      "sfx": "Key clicks, a sparkle on the expansion.",
+      "music": "Bed low.",
+      "transition": "Hold on the expanded code.",
+      "lines": [
+        {
+          "id": "e1",
+          "text": "Now for a little coding magic. Click inside the code editor."
+        },
+        {
+          "id": "e2",
+          "text": "Hold down the Shift key and press the number one. That types an exclamation mark.",
+          "gap": 0.6
+        },
+        {
+          "id": "e3",
+          "text": "Now press Enter.",
+          "gap": 1.0
+        },
+        {
+          "id": "e4",
+          "text": "Wow! The editor has written a whole webpage starter for us. This shortcut is called Emmet, and it saves us lots of typing.",
+          "gap": 1.2
+        }
+      ]
+    },
+    {
+      "id": "boilerplate",
+      "name": "What each line means",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "Large, readable editor (about 34px code). Each line is highlighted as it is named, with a short plain-English label beside it. For <body>, a connector line runs to the preview. For tag pairs, the opening and closing tags light up together with a bracket joining them.",
+      "camera": "Code fills the upper area. The subtitle zone stays clear.",
+      "onScreen": "Labels: modern HTML · the whole page · language: English · info about the page · letters & symbols · fits any screen · tab name · what we see · opening tag / closing tag",
+      "sfx": "Soft tick per highlight.",
+      "music": "Bed very low.",
+      "transition": "Zoom into the title line.",
+      "lines": [
+        {
+          "id": "b1",
+          "text": "Let's look at what each line means."
+        },
+        {
+          "id": "b2",
+          "text": "The doctype line tells the browser that this is a modern HTML document.",
+          "caption": "The <!DOCTYPE html> line tells the browser that this is a modern HTML document.",
+          "gap": 0.6
+        },
+        {
+          "id": "b3",
+          "text": "The html tag is the big container that holds our whole webpage. Lang equals E N tells the browser that our page is in English.",
+          "caption": "The <html> tag is the big container that holds our whole webpage. lang=\"en\" tells the browser that our page is in English.",
+          "gap": 0.7
+        },
+        {
+          "id": "b4",
+          "text": "Inside, we have the head. The head holds information about our page, which we don't see on the page itself.",
+          "caption": "Inside, we have the <head>. The head holds information about our page, which we don't see on the page itself.",
+          "gap": 0.7
+        },
+        {
+          "id": "b5",
+          "text": "The meta charset line helps the browser show letters and symbols correctly.",
+          "caption": "The meta charset line helps the browser show letters and symbols correctly.",
+          "gap": 0.6
+        },
+        {
+          "id": "b6",
+          "text": "The viewport line helps our page fit nicely on phones, tablets and computers.",
+          "gap": 0.6
+        },
+        {
+          "id": "b7",
+          "text": "The title is the name that appears on the browser tab.",
+          "gap": 0.6
+        },
+        {
+          "id": "b8",
+          "text": "And the body holds everything we can actually see on the webpage.",
+          "caption": "And the <body> holds everything we can actually see on the webpage.",
+          "gap": 0.7
+        },
+        {
+          "id": "b9",
+          "text": "Notice how most tags come in pairs: an opening tag, and a closing tag with a forward slash. Everything in between belongs to that element.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "title",
+      "name": "Name the page",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "The words 'My page' are selected (highlight) and 'Number Match' types in. Inset: a browser tab whose label changes from 'My page' to 'Number Match', among several other tabs.",
+      "camera": "Tight on line 6, then pull back to show the tab inset.",
+      "onScreen": "<title>Number Match</title>",
+      "sfx": "Typing, pop on the tab change.",
+      "music": "Bed low.",
+      "transition": "Scroll down to <body>.",
+      "lines": [
+        {
+          "id": "t1",
+          "text": "Let's give our page a proper name."
+        },
+        {
+          "id": "t2",
+          "text": "Select the words My page, and type Number Match.",
+          "gap": 0.5
+        },
+        {
+          "id": "t3",
+          "text": "A meaningful title helps people find our game, even when they have lots of tabs open.",
+          "gap": 1.4
+        }
+      ]
+    },
+    {
+      "id": "structure",
+      "name": "The structure of the game",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Split view: code on the left (only the group being taught is shown, typed at a readable pace, about 26px), a box diagram on the right that builds one nested box per element (main > header, hero, game panel > toolbar, stats, progress, grid, message; footer; win overlay outside main). Each new box flashes when it is named. The closing view shows the whole nesting diagram.",
+      "camera": "Code panel scrolls only between groups, never during narration of a line.",
+      "onScreen": "Box labels: main.app-shell · header.topbar · section.hero · h1 · section.game-panel · select#difficulty · button#restartButton · .stats (#moves #matched #timer) · .progress-track · #gameGrid · #gameMessage · footer · #winOverlay",
+      "sfx": "Typing bursts, a soft thunk as each box lands.",
+      "music": "Bed very low.",
+      "transition": "Cursor travels to Save.",
+      "lines": [
+        {
+          "id": "s1",
+          "text": "Now let's build the structure of our game. We'll go one piece at a time, inside the body."
+        },
+        {
+          "id": "s2",
+          "text": "First, a main element. It holds the main content of our page. We give it a class called app shell, so we can style it later.",
+          "caption": "First, a <main> element. It holds the main content of our page. We give it a class called app-shell, so we can style it later.",
+          "gap": 0.8
+        },
+        {
+          "id": "s3",
+          "text": "Next, the header. It holds our brand: a red N, and the words Number Match.",
+          "caption": "Next, the <header>. It holds our brand: a red N, and the words Number Match.",
+          "gap": 1.0
+        },
+        {
+          "id": "s4",
+          "text": "Then comes the hero section, with a small line of text, a big heading, and a short introduction.",
+          "gap": 1.0
+        },
+        {
+          "id": "s5",
+          "text": "The H 1 tag is our main heading. Every page should have one.",
+          "caption": "The <h1> tag is our main heading. Every page should have one.",
+          "gap": 0.6
+        },
+        {
+          "id": "s6",
+          "text": "Now the game panel. This is where the game itself lives.",
+          "gap": 1.0
+        },
+        {
+          "id": "s7",
+          "text": "At the top is a toolbar. It has a select box, so players can choose Easy, Medium or Challenge, and a Restart button.",
+          "gap": 0.8
+        },
+        {
+          "id": "s8",
+          "text": "Below that, three stat boxes, for the moves, the matched pairs, and the time.",
+          "gap": 1.0
+        },
+        {
+          "id": "s9",
+          "text": "Each number has an I D, like moves or timer. An I D is a unique name, so JavaScript can find it later.",
+          "caption": "Each number has an id, like moves or timer. An id is a unique name, so JavaScript can find it later.",
+          "gap": 0.6
+        },
+        {
+          "id": "s10",
+          "text": "Then a progress track, with a progress fill inside it.",
+          "gap": 1.0
+        },
+        {
+          "id": "s11",
+          "text": "And here is the most important box of all: the game grid. It's empty for now, because JavaScript will create the cards for us.",
+          "gap": 1.0
+        },
+        {
+          "id": "s12",
+          "text": "Under the grid, a message area, to tell the player what is happening.",
+          "gap": 1.0
+        },
+        {
+          "id": "s13",
+          "text": "Then a footer at the bottom of the page.",
+          "caption": "Then a <footer> at the bottom of the page.",
+          "gap": 1.0
+        },
+        {
+          "id": "s14",
+          "text": "Finally, outside the main element, we add the celebration screen. It will appear when every pair is matched.",
+          "gap": 1.0
+        },
+        {
+          "id": "s15",
+          "text": "See how the elements sit inside each other, like boxes inside boxes? That's called nesting.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "run",
+      "name": "Save and preview",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Full IDE. The cursor clicks Save (button press plus a check flash), then Run. The preview shows the real unstyled page: default serif text, the heading, a select, a Restart button, MOVES 0 / MATCHED 0 / 6 / TIME 00:00, the message, the footer and the win text. Callout arrows point to the heading, stats and button.",
+      "camera": "Zoom from the top bar into the preview.",
+      "onScreen": "Callouts: heading · stats · buttons · message",
+      "sfx": "Click + save confirm, click + run whoosh.",
+      "music": "Bed lifts slightly.",
+      "transition": "Hold on the plain preview.",
+      "lines": [
+        {
+          "id": "r1",
+          "text": "Time to see our work. Click Save."
+        },
+        {
+          "id": "r2",
+          "text": "Now click Run.",
+          "gap": 0.8
+        },
+        {
+          "id": "r3",
+          "text": "Look at the preview! Our heading, our stats, our buttons and our message are all there.",
+          "gap": 1.0
+        },
+        {
+          "id": "r4",
+          "text": "It looks very plain right now, and that's completely fine. The structure is ready, and that's what matters.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Closing",
+      "lead": 0.4,
+      "tail": 2.2,
+      "visual": "The plain page sits centre frame. On o4 a wipe sweeps across it and the plain page turns into the colourful Number Match design (a preview of Lesson 3). End card: 'Next: CSS: Making the Game Beautiful'.",
+      "camera": "Slow push-in during the transformation.",
+      "onScreen": "Next: CSS: Making the Game Beautiful",
+      "sfx": "Whoosh + sparkle on the transformation, logo sting.",
+      "music": "Bed up to full, then out.",
+      "transition": "End card.",
+      "lines": [
+        {
+          "id": "o1",
+          "text": "Fantastic work!"
+        },
+        {
+          "id": "o2",
+          "text": "You have created the foundation of your very own game.",
+          "gap": 0.4
+        },
+        {
+          "id": "o3",
+          "text": "But something is missing, isn't it?",
+          "gap": 0.8
+        },
+        {
+          "id": "o4",
+          "text": "Our game needs colour, personality and beautiful cards.",
+          "gap": 0.6
+        },
+        {
+          "id": "o5",
+          "text": "That's exactly what we are going to create in our next lesson with CSS!",
+          "gap": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Number Match</title>
+
+  <!-- QUICKSAND FONT (Google Fonts) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Number Match home">
+        <span class="brand-mark">N</span>
+        <span>NUMBER<span class="brand-light">MATCH</span></span>
+      </a>
+      <span class="top-tag">A MEMORY CHALLENGE</span>
+    </header>
+
+    <section class="hero">
+      <p class="eyebrow">THINK • FLIP • MATCH</p>
+      <h1>Ready to <span>match?</span></h1>
+      <p class="intro">Turn over two cards. Find the numbers that belong together. How good is your memory?</p>
+    </section>
+
+    <section class="game-panel" aria-label="Memory game">
+      <div class="game-toolbar">
+        <div class="level-control">
+          <label for="difficulty">CHOOSE YOUR CHALLENGE</label>
+          <select id="difficulty">
+            <option value="4">Easy · 4 pairs</option>
+            <option value="6" selected>Medium · 6 pairs</option>
+            <option value="8">Challenge · 8 pairs</option>
+          </select>
+        </div>
+        <button class="restart-button" id="restartButton" type="button">
+          <span aria-hidden="true">↻</span> Restart
+        </button>
+      </div>
+
+      <div class="stats" aria-live="polite">
+        <div class="stat-box">
+          <span class="stat-label">MOVES</span>
+          <strong id="moves">0</strong>
+        </div>
+        <div class="stat-box">
+          <span class="stat-label">MATCHED</span>
+          <strong id="matched">0 <small>/ 6</small></strong>
+        </div>
+        <div class="stat-box">
+          <span class="stat-label">TIME</span>
+          <strong id="timer">00:00</strong>
+        </div>
+      </div>
+
+      <div class="progress-track" aria-label="Matching progress">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+
+      <div class="game-grid" id="gameGrid" aria-label="Number cards"></div>
+
+      <div class="game-message" role="status">
+        <span class="message-dot"></span>
+        <span id="gameMessage">Choose any card to begin!</span>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span>PAISLEY STUDIO · LEARN BY CREATING</span>
+      <span>Every flip brings you closer.</span>
+    </footer>
+  </main>
+
+  <div class="win-overlay" id="winOverlay" aria-hidden="true">
+    <div class="win-card" role="dialog" aria-modal="true" aria-labelledby="winTitle">
+      <div class="win-spark">✦</div>
+      <p class="eyebrow">CHALLENGE COMPLETE</p>
+      <h2 id="winTitle">Brilliant matching!</h2>
+      <p>You found every pair. Your memory is getting stronger!</p>
+      <div class="win-stats">
+        <div>
+          <span>MOVES</span>
+          <strong id="finalMoves">0</strong>
+        </div>
+        <div>
+          <span>TIME</span>
+          <strong id="finalTime">00:00</strong>
+        </div>
+      </div>
+      <button class="play-again-button" id="playAgainButton" type="button">
+        Play again <span>→</span>
+      </button>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,495 @@
+{
+  "video": 3,
+  "compositionId": "PaisleyCSS",
+  "title": "CSS: Making the Game Beautiful",
+  "subtitle": "Let's Bring Our Design to Life",
+  "output": "Paisley-Number-Match-03-CSS",
+  "voice": "en-US-ChristopherNeural",
+  "rate": "-6%",
+  "scenes": [
+    {
+      "id": "opener",
+      "name": "Lesson opener",
+      "lead": 0.3,
+      "tail": 0.4,
+      "minDuration": 4,
+      "visual": "Lesson card: 'LESSON 3 · CSS' green tile, 'Making the Game Beautiful'.",
+      "camera": "Locked.",
+      "onScreen": "LESSON 3 · CSS: Making the Game Beautiful",
+      "sfx": "Short sting.",
+      "music": "Bed in.",
+      "transition": "Cut to the plain page.",
+      "lines": []
+    },
+    {
+      "id": "recap",
+      "name": "Recap and promise",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "Lesson 2's plain preview. On 'into this' a vertical wipe reveals the finished, styled game with cards. The two sit side by side, labelled BEFORE and AFTER.",
+      "camera": "Push-in during the wipe.",
+      "onScreen": "BEFORE · AFTER",
+      "sfx": "Whoosh + sparkle on the wipe.",
+      "music": "Bed up, then ducked.",
+      "transition": "Back to the IDE.",
+      "lines": [
+        {
+          "id": "c1",
+          "text": "Welcome back, creators! Last time, we built the structure of Number Match with HTML."
+        },
+        {
+          "id": "c2",
+          "text": "Today, we start turning this plain page... into this!",
+          "gap": 0.6
+        },
+        {
+          "id": "c3",
+          "text": "This is the power of CSS.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "newcss",
+      "name": "Create style.css and link it",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "IDE. The cursor clicks new file and types style.css; the file appears under index.html with the CSS icon. Then index.html is opened, the cursor goes to the line before </head>, and <link rel=\"stylesheet\" href=\"style.css\"> types in. Labels sit on rel and href, and a connector arrow runs from href to style.css in the sidebar.",
+      "camera": "Sidebar zoom, then editor zoom.",
+      "onScreen": "style.css · <link rel=\"stylesheet\" href=\"style.css\">",
+      "sfx": "Click, typing, pop.",
+      "music": "Bed low.",
+      "transition": "Cut to the explainer.",
+      "lines": [
+        {
+          "id": "n1",
+          "text": "CSS stands for Cascading Style Sheets. It controls how our webpage looks: the colours, the sizes, the spacing, and even the movement."
+        },
+        {
+          "id": "n2",
+          "text": "Click the new file button, type style dot C S S, and press Enter.",
+          "caption": "Click the new file button, type style.css, and press Enter.",
+          "gap": 0.6
+        },
+        {
+          "id": "n3",
+          "text": "We keep our styles in their own file. That way, HTML looks after the structure, CSS looks after the style, and everything stays tidy.",
+          "gap": 1.0
+        },
+        {
+          "id": "n4",
+          "text": "Now go back to index dot html. Inside the head, just before the closing head tag, type this link.",
+          "caption": "Now go back to index.html. Inside the <head>, just before the closing </head> tag, type this link.",
+          "gap": 0.6
+        },
+        {
+          "id": "n5",
+          "text": "Rel equals stylesheet tells the browser that this is a style file. And H ref tells it where to find it: style dot C S S.",
+          "caption": "rel=\"stylesheet\" tells the browser that this is a style file. And href tells it where to find it: style.css.",
+          "gap": 1.2
+        }
+      ]
+    },
+    {
+      "id": "basics",
+      "name": "Selectors, properties and values",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "A large teaching panel with the body rule at 44px. Parts light up in sync: selector (red bracket 'WHICH element'), curly brackets ('declaration block'), property ('WHAT to change'), colon, value ('HOW'), semicolon ('end of sentence'). A preview strip beside it turns pale green.",
+      "camera": "Locked on the large code.",
+      "onScreen": "selector · { declaration block } · property: value;",
+      "sfx": "Tick per highlight.",
+      "music": "Bed very low.",
+      "transition": "Zoom into 'Quicksand' and cut to the browser.",
+      "lines": [
+        {
+          "id": "b1",
+          "text": "Let's write our first CSS rule."
+        },
+        {
+          "id": "b2",
+          "text": "First comes the selector. It tells the browser which elements we want to style. Here, we choose the body.",
+          "gap": 0.6
+        },
+        {
+          "id": "b3",
+          "text": "Then a pair of curly brackets. Everything inside them is called a declaration block.",
+          "gap": 0.6
+        },
+        {
+          "id": "b4",
+          "text": "Inside, we write a property, a colon, and a value. Background color is the property, and this colour code is the value.",
+          "caption": "Inside, we write a property, a colon, and a value. background-color is the property, and this colour code is the value.",
+          "gap": 0.6
+        },
+        {
+          "id": "b5",
+          "text": "And every declaration ends with a semicolon, like a full stop at the end of a sentence.",
+          "gap": 0.6
+        },
+        {
+          "id": "b6",
+          "text": "The second declaration sets our font family to Quicksand. But wait! The browser needs to download Quicksand first.",
+          "caption": "The second declaration sets our font-family to Quicksand. But wait! The browser needs to download Quicksand first.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "fonts",
+      "name": "Google Fonts and Quicksand",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "A generic browser frame with the address fonts.google.com, showing a simplified, non-branded mock of the steps: search 'Quicksand', the font page, 'Get font', 'Get embed code', weight chips 400–700, the <link> code box and its copy button. Then back in the IDE, the three lines paste into <head> above the style.css link. RECOMMENDED: replace the mock with a real screen recording of Google Fonts (see risks).",
+      "camera": "Follow the cursor, zooming on each button pressed.",
+      "onScreen": "fonts.google.com · Quicksand · 400 500 600 700 · Copy",
+      "sfx": "Click, typing, paste pop.",
+      "music": "Bed low.",
+      "transition": "Code scrolls to the top of style.css.",
+      "lines": [
+        {
+          "id": "f1",
+          "text": "Websites can use thousands of different fonts. Many of them are free on Google Fonts."
+        },
+        {
+          "id": "f2",
+          "text": "Open your browser and go to fonts dot google dot com.",
+          "caption": "Open your browser and go to fonts.google.com.",
+          "gap": 0.6
+        },
+        {
+          "id": "f3",
+          "text": "Search for Quicksand, and click on it.",
+          "gap": 0.8
+        },
+        {
+          "id": "f4",
+          "text": "Click Get font, and then Get embed code.",
+          "gap": 0.8
+        },
+        {
+          "id": "f5",
+          "text": "Make sure the weights we need are chosen, from four hundred up to seven hundred. The higher the number, the bolder the text.",
+          "caption": "Make sure the weights we need are chosen, from 400 up to 700. The higher the number, the bolder the text.",
+          "gap": 0.8
+        },
+        {
+          "id": "f6",
+          "text": "Now copy the link code that Google gives us.",
+          "gap": 0.8
+        },
+        {
+          "id": "f7",
+          "text": "Back in Paisley Studio, paste it inside the head, above our style sheet link.",
+          "caption": "Back in Paisley Studio, paste it inside the <head>, above our stylesheet link.",
+          "gap": 0.8
+        },
+        {
+          "id": "f8",
+          "text": "The two preconnect lines help the font load quickly, and the last link downloads Quicksand itself.",
+          "gap": 0.6
+        },
+        {
+          "id": "f9",
+          "text": "Remember: the browser needs an internet connection to download a Google Font.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "variables",
+      "name": "CSS variables",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "style.css: the :root block types in. Each variable gets a colour swatch chip. Demo: --red changes from red to purple and the brand mark, heading span, progress fill and card borders all change at once in the preview; then it changes back.",
+      "camera": "Code left, live preview right.",
+      "onScreen": "--green · --red · var(--red)",
+      "sfx": "Typing, a 'whoop' on the colour swap.",
+      "music": "Bed low.",
+      "transition": "Scroll to body.",
+      "lines": [
+        {
+          "id": "v1",
+          "text": "Now let's build our design, starting with our colours."
+        },
+        {
+          "id": "v2",
+          "text": "At the very top of style dot C S S, we create CSS variables, inside root.",
+          "caption": "At the very top of style.css, we create CSS variables, inside :root.",
+          "gap": 0.6
+        },
+        {
+          "id": "v3",
+          "text": "A variable is a colour with a name. Dash dash green is our deep forest green. Dash dash red is our bright red.",
+          "caption": "A variable is a colour with a name. --green is our deep forest green. --red is our bright red.",
+          "gap": 0.8
+        },
+        {
+          "id": "v4",
+          "text": "To use a variable, we write var, and then the name in brackets.",
+          "caption": "To use a variable, we write var(), with the name inside the brackets.",
+          "gap": 0.8
+        },
+        {
+          "id": "v5",
+          "text": "Here's why that's so clever. If we change dash dash red in one place...",
+          "caption": "Here's why that's so clever. If we change --red in one place...",
+          "gap": 0.8
+        },
+        {
+          "id": "v6",
+          "text": "...every part of the design that uses it changes too!",
+          "gap": 0.4
+        }
+      ]
+    },
+    {
+      "id": "layout",
+      "name": "Page, header, panel, stats, progress",
+      "lead": 0.4,
+      "tail": 0.8,
+      "visual": "One CSS rule at a time types in, about 26px, with the matching part of the live preview outlined as it changes: app-shell centres, the topbar becomes a row, the heading turns big and green, the panel becomes a white rounded box, the stats become three columns, and the progress track appears. Flex and grid diagrams show as simple flat arrows.",
+      "camera": "Code left, preview right. The preview zooms to each region.",
+      "onScreen": "display: flex · justify-content: space-between · display: grid · repeat(3, 1fr)",
+      "sfx": "Typing, tick per change.",
+      "music": "Bed low.",
+      "transition": "Zoom into an empty card slot.",
+      "lines": [
+        {
+          "id": "l1",
+          "text": "Next, the page and the header."
+        },
+        {
+          "id": "l2",
+          "text": "The app shell keeps our game a comfortable width, and margin zero auto places it in the middle.",
+          "caption": "The .app-shell keeps our game a comfortable width, and margin: 0 auto places it in the middle.",
+          "gap": 0.8
+        },
+        {
+          "id": "l3",
+          "text": "The top bar uses display flex, which lines things up in a row. Justify content space between pushes the brand to the left, and the tag to the right.",
+          "caption": "The .topbar uses display: flex, which lines things up in a row. justify-content: space-between pushes the brand to the left, and the tag to the right.",
+          "gap": 0.8
+        },
+        {
+          "id": "l4",
+          "text": "The heading becomes big, bold and green, and the span inside it turns red.",
+          "gap": 0.8
+        },
+        {
+          "id": "l5",
+          "text": "The game panel gets a white background, a border, and rounded corners.",
+          "gap": 0.8
+        },
+        {
+          "id": "l6",
+          "text": "The stats use display grid, with three equal columns, one for each box.",
+          "caption": "The stats use display: grid, with three equal columns, one for each box.",
+          "gap": 0.8
+        },
+        {
+          "id": "l7",
+          "text": "And the progress fill is red. Its width starts at zero percent. Later, JavaScript will make it grow.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "card",
+      "name": "Designing the number card",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "SIGNATURE SCENE. Deep-green stage, one big card at centre (about 520px tall), with the CSS for each step shown beside it. Steps: white rectangle → corners round → 5px red border draws on → red circle grows from a square (border-radius animates 0 → 50%) → white numeral 1 drops in at centre → 'One' types underneath. Then the original reference card slides in beside it (fruit-free comparison; the reference image's apple is covered by a 'not used' tag). Finally a 4-column grid of cards fills in.",
+      "camera": "Slow orbit (rotateY ±8°) around the card while it builds.",
+      "onScreen": "border-radius · border: 5px solid var(--red) · border-radius: 50% · display: grid; place-items: center · font-size · font-weight: 700",
+      "sfx": "Soft whoosh per step, chime on completion.",
+      "music": "Bed rises a little.",
+      "transition": "The card spins (flip) into the next scene.",
+      "lines": [
+        {
+          "id": "k1",
+          "text": "Now for my favourite part: the number card. Our grid is still empty, because JavaScript will create the cards in a later lesson. So let's zoom in and design one card right now."
+        },
+        {
+          "id": "k2",
+          "text": "We start with a white rectangle.",
+          "gap": 0.6
+        },
+        {
+          "id": "k3",
+          "text": "Border radius rounds the corners.",
+          "caption": "border-radius rounds the corners.",
+          "gap": 0.6
+        },
+        {
+          "id": "k4",
+          "text": "Then a thick red border, five pixels wide.",
+          "gap": 0.6
+        },
+        {
+          "id": "k5",
+          "text": "Inside, the number circle. Its width and height are equal, and border radius fifty percent turns a square into a perfect circle.",
+          "caption": "Inside, the number circle. Its width and height are equal, and border-radius: 50% turns a square into a perfect circle.",
+          "gap": 0.6
+        },
+        {
+          "id": "k6",
+          "text": "Background color makes it red.",
+          "caption": "background-color makes it red.",
+          "gap": 0.6
+        },
+        {
+          "id": "k7",
+          "text": "Display grid and place items center put the number exactly in the middle.",
+          "caption": "display: grid and place-items: center put the number exactly in the middle.",
+          "gap": 0.6
+        },
+        {
+          "id": "k8",
+          "text": "Font size makes the number large, and font weight seven hundred makes it bold.",
+          "caption": "font-size makes the number large, and font-weight: 700 makes it bold.",
+          "gap": 0.6
+        },
+        {
+          "id": "k9",
+          "text": "And finally, the number word underneath.",
+          "gap": 0.6
+        },
+        {
+          "id": "k10",
+          "text": "Here's our card next to the original design. The same bold style, made with code!",
+          "gap": 1.0
+        },
+        {
+          "id": "k11",
+          "text": "The game grid places our cards in four columns, with a gap between them.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "flip",
+      "name": "Transforms and transitions",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "A card at centre with its two faces pulled apart in 3D (exploded view): the green back with '?' and 'FLIP ME', and the white front. rotateY(180deg) is shown with a curved arrow and a protractor. The faces snap back together. A slider labelled .is-flipped switches on and the card flips with the real .55s cubic-bezier. A side-by-side comparison shows a flip with and without a transition. Then .is-matched turns the card green.",
+      "camera": "3/4 angle while exploded, then front-on.",
+      "onScreen": "transform: rotateY(180deg) · backface-visibility: hidden · transition: transform .55s · .is-flipped · .is-matched",
+      "sfx": "Flip sound in sync, match chime.",
+      "music": "Bed low.",
+      "transition": "The card shrinks into a phone outline.",
+      "lines": [
+        {
+          "id": "a1",
+          "text": "But how do the cards flip over?"
+        },
+        {
+          "id": "a2",
+          "text": "Every card has two faces: a green back, and a white front.",
+          "gap": 0.6
+        },
+        {
+          "id": "a3",
+          "text": "Transform rotate Y, one hundred and eighty degrees, spins an element around, like turning a page.",
+          "caption": "transform: rotateY(180deg) spins an element around, like turning a page.",
+          "gap": 0.8
+        },
+        {
+          "id": "a4",
+          "text": "The front starts already turned around, and backface visibility hidden makes the side facing away invisible.",
+          "caption": "The front starts already turned around, and backface-visibility: hidden makes the side facing away invisible.",
+          "gap": 0.8
+        },
+        {
+          "id": "a5",
+          "text": "When a card gets the class is flipped, the inside turns around, and the number appears.",
+          "caption": "When a card gets the class is-flipped, the inside turns around, and the number appears.",
+          "gap": 0.8
+        },
+        {
+          "id": "a6",
+          "text": "The transition makes the turn smooth instead of sudden. It takes just over half a second.",
+          "gap": 0.8
+        },
+        {
+          "id": "a7",
+          "text": "And when a pair matches, the class is matched turns the border and the circle green.",
+          "caption": "And when a pair matches, the class is-matched turns the border and the circle green.",
+          "gap": 0.8
+        }
+      ]
+    },
+    {
+      "id": "responsive",
+      "name": "Responsive design",
+      "lead": 0.4,
+      "tail": 1.0,
+      "visual": "Desktop browser and phone outline side by side showing the same styled page. The @media (max-width: 650px) block types in, and its rules highlight one at a time while the phone version updates: thinner borders, smaller gap, smaller numerals.",
+      "camera": "Pans between the desktop and phone.",
+      "onScreen": "@media (max-width: 650px)",
+      "sfx": "Tick per rule.",
+      "music": "Bed low.",
+      "transition": "Pull back to the whole design.",
+      "lines": [
+        {
+          "id": "p1",
+          "text": "Last one. People will play our game on computers, tablets and phones."
+        },
+        {
+          "id": "p2",
+          "text": "A media query lets us change styles when the screen is small. Max width six hundred and fifty pixels means: only on screens six hundred and fifty pixels wide or narrower.",
+          "caption": "A media query lets us change styles when the screen is small. max-width: 650px means: only on screens 650 pixels wide or narrower.",
+          "gap": 0.6
+        },
+        {
+          "id": "p3",
+          "text": "On small screens, the cards get thinner borders, smaller gaps, and smaller numbers, so everything still fits.",
+          "gap": 0.8
+        },
+        {
+          "id": "p4",
+          "text": "That's called responsive design.",
+          "gap": 0.6
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "name": "Closing",
+      "lead": 0.4,
+      "tail": 2.2,
+      "visual": "Run is clicked: the styled page (empty grid) in the preview. Then the single designed card sits centre frame, still. On 'They need a brain' a gold outline of a brain/lightbulb icon pulses above it. End card: 'Next: JavaScript: Giving Our Game a Brain'.",
+      "camera": "Slow push on the card.",
+      "onScreen": "Next: JavaScript: Giving Our Game a Brain",
+      "sfx": "Run confirm, sparkle, sting.",
+      "music": "Bed up and out.",
+      "transition": "End card.",
+      "lines": [
+        {
+          "id": "o1",
+          "text": "Look at what we have created!"
+        },
+        {
+          "id": "o2",
+          "text": "Our simple page is now becoming a beautiful game.",
+          "gap": 0.4
+        },
+        {
+          "id": "o3",
+          "text": "But our cards still need something important.",
+          "gap": 0.8
+        },
+        {
+          "id": "o4",
+          "text": "They need a brain.",
+          "gap": 0.6
+        },
+        {
+          "id": "o5",
+          "text": "Next, we are going to introduce JavaScript, and teach our game how to think!",
+          "gap": 0.6
+        }
+      ]
+    }
+  ]
+}
